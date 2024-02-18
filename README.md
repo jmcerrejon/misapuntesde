@@ -1,4 +1,6 @@
-# Misapuntesde.com Blog
+# misapuntesde.com Blog
+
+![new_site_screenshot](src/.vuepress/public/images/new_site_screenshot.png)
 
 This is a personal blog about programming, Linux, and more.
 
