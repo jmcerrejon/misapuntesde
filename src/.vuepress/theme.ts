@@ -15,12 +15,12 @@ export default hopeTheme({
   license: "<br>Designed with ♥️ using VuePress 2 | <a href=https://creativecommons.org/licenses/by-nc-sa/4.0/ target=_blank>CC BY-NC-SA 4.0</a>",
   iconAssets: "https://kit.fontawesome.com/88116225ce.js",
   logo: "/images/logos/avatar_memoji.png",
-  // repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "https://github.com/jmcerrejon/misapuntesde",
   docsDir: "src",
   blog: {
     medias: {
       Discord: "https://discord.com/invite/Y7WFeC5",
-      Email: "mailto:info@example.com",
+      Email: "mailto:ulysess@gmail.com",
       GitHub: "https://github.com/jmcerrejon",
       Linkedin: "https://www.linkedin.com/in/jmcerrejon",
       Rss: "https://misapuntesde.com/rss.xml",
