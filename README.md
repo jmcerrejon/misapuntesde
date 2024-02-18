@@ -1,8 +1,8 @@
 # Misapuntesde.com Blog
 
-Site created using VuePress 2 by Jose Cerrejon. enjoy! ❤️
-
 This is a personal blog about programming, Linux, and more.
+
+Enjoy! ❤️
 
 ## Project setup
 
