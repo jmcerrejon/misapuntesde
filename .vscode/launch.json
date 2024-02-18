@@ -1,0 +1,20 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "chrome",
+      "request": "launch",
+      "name": "Chrome",
+      "url": "http://localhost:8080",
+      "enableContentValidation": false
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "VuePress: docs:dev",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["run", "docs:dev"],
+      "console": "integratedTerminal"
+    }
+  ]
+}
