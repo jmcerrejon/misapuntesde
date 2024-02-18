@@ -1,7 +1,7 @@
 import { navbar } from "vuepress-theme-hope";
 
 export const esNavbar = navbar([
-  "/es",
+  "/es/",
   {
     text: "PiKISS",
     icon: "kiss",
