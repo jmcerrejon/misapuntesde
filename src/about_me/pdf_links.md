@@ -1,3 +1,8 @@
+---
+title: PDF Files
+article: false
+---
+
 # PDF Files
 
 This page contains links to my CV and Portfolio in PDF format.

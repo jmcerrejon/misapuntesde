@@ -1,3 +1,8 @@
+---
+title: Sobre mí
+article: false
+---
+
 # Sobre mi
 
 Mientras escribo estas l&iacute;neas, escucho _This is Gallifrey_ de _Doctor Who_ (te recomiendo que lo escuches ahora mismo mientras lees lo que viene)...

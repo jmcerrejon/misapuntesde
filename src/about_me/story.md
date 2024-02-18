@@ -1,3 +1,8 @@
+---
+title: About me
+article: false
+---
+
 # About me
 
 While I wrote these lines, I'm listening _This is Gallifrey_ from _Doctor Who_ (I recommend you listen it right now as you read what's coming)...
