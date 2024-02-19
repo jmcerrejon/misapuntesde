@@ -12,6 +12,8 @@ export default hopeTheme({
     email: "ulysess@gmail.com",
   },
   editLink: false,
+  lastUpdated: false,
+  contributors: false,
   hotReload: false,
   license: "<br>Designed with ♥️ using VuePress 2 | <a href=https://creativecommons.org/licenses/by-nc-sa/4.0/ target=_blank>CC BY-NC-SA 4.0</a>",
   iconAssets: "https://kit.fontawesome.com/88116225ce.js",
