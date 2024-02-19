@@ -26,6 +26,10 @@ I want to share with you a series of articles about how has been the experience 
 
 ![Screenshot of my blog two days ago](https://misapuntesde.com/images/misapuntesde_v1.5.png "Screenshot of my blog two days ago.")
 
+::: info
+If you prefer, you can read this post at _Medium_: [How I migrated from PHP to Vuepress 2 (Part I)](https://josecerrejon.medium.com/how-i-migrated-from-php-to-vuepress-2-part-i-1f3e3e3e3e3e)
+:::
+
 This isn't the first time I've changed my design. I don't remember when was the last time I did it, but it was a radical change (I have to look for a picture of the first version of the blog). The change at the time I did it mainly to be responsive (gosh, even the pages didn't need it that much!), to be able to use *markdown* and put some _Javascript plug-ins_ to zoom the images and syntax highlighting in the source code it showed.
 
 The technology in this aspect, has not changed too much. We still rely on _Javascript_ on the client side and use it more than many _Javascript_ haters would like (_JQuery_ has gone into Beta with version 4!).
