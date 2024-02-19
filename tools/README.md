@@ -4,7 +4,7 @@
 
 This folder contains 3 files:
 
--copy2ftp.sh: Bash script to copy files to a ftp server. Remember to change values inside the script according to your needs
+- copy2ftp.sh: Bash script to copy files to a ftp server. Remember to change values inside the script according to your needs
 
 - mysql_json_to_markdown.py: Code convert an exported MySQL Json file to markdown files.
 
