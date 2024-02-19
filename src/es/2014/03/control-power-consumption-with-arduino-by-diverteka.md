@@ -4,7 +4,7 @@ title: Control de consumo eléctrico con Arduino en Diverteka
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-03-13 11:12:39
-prev: /es
+prev: /es/
 next: false
 category:
   - General

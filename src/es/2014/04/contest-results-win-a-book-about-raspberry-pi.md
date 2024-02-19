@@ -4,7 +4,7 @@ title: Resultado del concurso Gana un libro sobre la Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-04-23 09:15:58
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

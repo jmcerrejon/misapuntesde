@@ -4,7 +4,7 @@ title: Nueva versión de Android OS para ODROID C1/C1+
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-10-20 09:45:00
-prev: /es
+prev: /es/
 next: false
 category:
   - ODROID

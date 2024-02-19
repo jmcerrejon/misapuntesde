@@ -4,7 +4,7 @@ title: Servidor descentralizado para las vacaciones con Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-07-24 09:20:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

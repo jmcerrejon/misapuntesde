@@ -4,7 +4,7 @@ title: Orange PI 2G-IOT por $10
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-04-12 09:00:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Orange Pi

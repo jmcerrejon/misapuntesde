@@ -4,7 +4,7 @@ title: Se avecinan mejoras para XBMC en la Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-10-01 07:15:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

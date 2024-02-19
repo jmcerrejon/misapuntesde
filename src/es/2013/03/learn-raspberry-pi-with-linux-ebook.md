@@ -4,7 +4,7 @@ title: Learn Raspberry Pi with Linux (Ebook)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-03-24 08:00:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

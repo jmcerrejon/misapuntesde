@@ -4,7 +4,7 @@ title: Noticias frescas esta mañana
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-09-18 09:00:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

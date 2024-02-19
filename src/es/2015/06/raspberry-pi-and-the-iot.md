@@ -4,7 +4,7 @@ title: Raspberry Pi y el IoT
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-06-22 09:40:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

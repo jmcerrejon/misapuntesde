@@ -4,7 +4,7 @@ title: Construye tu propio sistema Ambilight (Youtube)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-12-01 11:00:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

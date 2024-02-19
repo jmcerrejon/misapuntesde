@@ -4,7 +4,7 @@ title: Nuevo Frontend para Libretro LudOS
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2019-02-24 19:00:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

@@ -4,7 +4,7 @@ title: 60 core Raspberry Pi 2 Cluster-in-a-box
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-01-13 13:00:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

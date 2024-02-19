@@ -4,7 +4,7 @@ title: Grupo Raspberry Pi en español en mewe.com
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2019-02-19 20:00:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

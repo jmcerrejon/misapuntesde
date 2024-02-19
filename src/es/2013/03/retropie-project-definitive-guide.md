@@ -4,7 +4,7 @@ title: RetroPie Project. ¡Guía Definitiva!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-03-22 07:20:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

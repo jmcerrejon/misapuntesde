@@ -4,7 +4,7 @@ title: Proyecto con dongle Bluetooth. ¿Quién está en casa?
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-06-24 14:00:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

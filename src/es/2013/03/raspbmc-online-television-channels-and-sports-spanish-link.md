@@ -4,7 +4,7 @@ title: RaspBMC. Canales de Televisión Online y deportes
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-03-04 13:46:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

@@ -4,7 +4,7 @@ title: ADRIAN Home asistant ahora open source
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-12-19 09:25:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

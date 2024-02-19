@@ -4,7 +4,7 @@ title: Vacaciones
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-07-21 21:00:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Linux

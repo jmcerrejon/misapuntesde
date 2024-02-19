@@ -4,7 +4,7 @@ title: Ocultar la firma del servidor web Apache
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-07-13 11:50:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Developer

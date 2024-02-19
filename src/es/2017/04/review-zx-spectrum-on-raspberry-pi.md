@@ -4,7 +4,7 @@ title: Especial. ZX Spectrum en la Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-04-27 09:40:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

@@ -4,7 +4,7 @@ title: Televigilancia con un coche RC, arduino y la raspberry pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-04-22 13:45:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

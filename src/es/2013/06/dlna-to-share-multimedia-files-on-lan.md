@@ -4,7 +4,7 @@ title: DLNA para compartir ficheros multimedia en la red
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-06-17 07:40:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

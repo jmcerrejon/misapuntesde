@@ -4,7 +4,7 @@ title: Fruit'Y para Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2018-01-15 13:05:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

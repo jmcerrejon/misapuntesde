@@ -4,7 +4,7 @@ title: Opinión personal sobre el hackeo al Touch iD
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-09-26 12:00:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Apple

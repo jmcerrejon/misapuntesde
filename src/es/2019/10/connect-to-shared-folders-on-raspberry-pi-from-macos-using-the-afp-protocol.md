@@ -4,7 +4,7 @@ title: Conectar a carpetas compartidas en Raspberry Pi desde macOS usando el pro
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2019-10-09 17:40:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

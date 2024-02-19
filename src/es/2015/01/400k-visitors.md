@@ -4,7 +4,7 @@ title: ¡400.000 visitas!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-01-14 09:20:00
-prev: /es
+prev: /es/
 next: false
 category:
   - General

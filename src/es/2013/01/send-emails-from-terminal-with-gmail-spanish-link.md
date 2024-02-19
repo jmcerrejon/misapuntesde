@@ -4,7 +4,7 @@ title: Envío de emails desde consola y con GMail
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-17 08:30:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

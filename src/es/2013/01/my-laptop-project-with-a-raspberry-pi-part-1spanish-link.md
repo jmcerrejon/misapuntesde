@@ -4,7 +4,7 @@ title: Mi proyecto de portátil con una Raspberry Pi (Parte 1)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-24 07:55:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

@@ -4,7 +4,7 @@ title: Consejos de ahorro de energía
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-01-26 09:47:35
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

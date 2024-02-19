@@ -4,7 +4,7 @@ title: Raspberry Pi benchmark
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-15 11:59:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

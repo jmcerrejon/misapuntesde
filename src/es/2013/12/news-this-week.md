@@ -4,7 +4,7 @@ title: Han sido noticia esta semana
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-12-27 08:48:44
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

@@ -4,7 +4,7 @@ title: Box86 en Raspberry Pi y ODROID
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2020-02-14 17:23:29
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

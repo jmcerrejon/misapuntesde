@@ -4,7 +4,7 @@ title: Quake 2 en Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-09-06 07:20:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

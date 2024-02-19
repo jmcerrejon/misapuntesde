@@ -4,7 +4,7 @@ title: Cómo ejecutar GeoGebra 4.0 en la Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-17 08:20:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

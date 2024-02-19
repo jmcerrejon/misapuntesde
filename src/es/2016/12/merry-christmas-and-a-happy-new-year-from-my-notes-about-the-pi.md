@@ -4,7 +4,7 @@ title: ¡Feliz navidad y prospero año nuevo desde Mis Apuntes de!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-12-24 10:30:00
-prev: /es
+prev: /es/
 next: false
 category:
   - General

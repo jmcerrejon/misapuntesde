@@ -4,7 +4,7 @@ title: ¡Han sido noticia en el Mundo Pi!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2020-04-24 16:53:28
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

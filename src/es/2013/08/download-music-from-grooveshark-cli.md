@@ -4,7 +4,7 @@ title: Descarga música de GrooveShark (CLI)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-08-22 10:25:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

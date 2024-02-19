@@ -4,7 +4,7 @@ title: MiniDLNA 1.1.4 para Raspberry Pi (binario)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-10-09 10:00:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

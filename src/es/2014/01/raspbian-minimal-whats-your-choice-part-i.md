@@ -4,7 +4,7 @@ title: Raspbian minimal. ¿Cuál es tu elección? (I Parte)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-01-14 09:19:52
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

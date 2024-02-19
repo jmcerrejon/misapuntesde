@@ -4,7 +4,7 @@ title: ¡Feliz Año Nuevo!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-12-31 10:37:18
-prev: /es
+prev: /es/
 next: false
 category:
   - General

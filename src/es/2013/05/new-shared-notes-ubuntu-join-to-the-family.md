@@ -4,7 +4,7 @@ title: Nuevos apuntes compartidos. Ubuntu se une a la familia
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-05-10 14:00:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Linux

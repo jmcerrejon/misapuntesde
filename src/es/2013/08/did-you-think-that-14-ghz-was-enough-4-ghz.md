@@ -4,7 +4,7 @@ title: ¿Pensábais que 1.4 Ghz eran suficientes? ¡¡4 Ghz!!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-08-06 09:00:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

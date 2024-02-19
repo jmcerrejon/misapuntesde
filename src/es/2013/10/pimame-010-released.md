@@ -4,7 +4,7 @@ title: ¡Llega PiMAME 0.10!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-10-31 11:00:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

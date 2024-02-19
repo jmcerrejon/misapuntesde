@@ -4,7 +4,7 @@ title: Servidor Git con la Raspberry Pi en 5 segundos
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-11-03 09:00:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

@@ -4,7 +4,7 @@ title: espresso-arm. PID Espresso Controller + Siri
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-06-27 10:15:00
-prev: /es
+prev: /es/
 next: false
 category:
   - ODROID

@@ -4,7 +4,7 @@ title: Guía básica del reproductor de música cmus
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-09-17 09:30:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

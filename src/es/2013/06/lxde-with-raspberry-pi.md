@@ -4,7 +4,7 @@ title: LXDE con Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-06-14 12:50:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

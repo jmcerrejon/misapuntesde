@@ -4,7 +4,7 @@ title: Ubuntu 13.10 Saucy Salamander disponible
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-10-17 14:30:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Linux

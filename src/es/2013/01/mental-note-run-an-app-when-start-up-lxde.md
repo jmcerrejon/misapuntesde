@@ -4,7 +4,7 @@ title: Nota mental. Ejecutar una aplicación al arrancar LXDE
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-15 17:10:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

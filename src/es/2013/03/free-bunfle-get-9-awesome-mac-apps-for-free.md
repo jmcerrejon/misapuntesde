@@ -4,7 +4,7 @@ title: Free Bundle. ¡9 increíbles aplicaciones gratis para Mac!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-03-26 09:25:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Apple

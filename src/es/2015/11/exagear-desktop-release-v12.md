@@ -4,7 +4,7 @@ title: Nueva versión de Exagear Desktop v1.2
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-11-09 09:30:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

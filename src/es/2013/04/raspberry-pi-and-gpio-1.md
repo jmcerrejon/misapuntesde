@@ -4,7 +4,7 @@ title: Raspberry Pi y GPIO (1)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-04-16 10:05:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

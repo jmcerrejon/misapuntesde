@@ -4,7 +4,7 @@ title: Briefing Campaña SEO Mailrelay
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2018-02-07 11:00:00
-prev: /es
+prev: /es/
 next: false
 category:
   - General

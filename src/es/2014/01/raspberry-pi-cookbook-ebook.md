@@ -4,7 +4,7 @@ title: Raspberry Pi Cookbook (Ebook)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-01-16 15:09:51
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

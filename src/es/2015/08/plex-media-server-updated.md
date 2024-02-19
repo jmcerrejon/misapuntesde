@@ -4,7 +4,7 @@ title: Nueva versión de Plex Media Server
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-08-31 12:00:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

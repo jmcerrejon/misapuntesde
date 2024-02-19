@@ -4,7 +4,7 @@ title: Nueva versión de PiBang!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-05-28 09:00:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

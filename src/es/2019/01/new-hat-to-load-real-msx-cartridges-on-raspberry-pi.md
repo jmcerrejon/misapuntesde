@@ -4,7 +4,7 @@ title: Nuevo HAT para cargar cartuchos MSX reales en Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2019-01-11 19:35:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

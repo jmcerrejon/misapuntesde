@@ -4,7 +4,7 @@ title: Tutorial emuladores retro para Raspberry.nes, snes, megadrive, gbc, gba, 
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-14 13:42:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

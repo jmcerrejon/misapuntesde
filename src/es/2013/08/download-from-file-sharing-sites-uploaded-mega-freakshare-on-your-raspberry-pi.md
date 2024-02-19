@@ -4,7 +4,7 @@ title: Descarga desde webs de intercambio de ficheros (uploaded, MEGA, freakshar
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-08-20 08:40:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

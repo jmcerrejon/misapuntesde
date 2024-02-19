@@ -4,7 +4,7 @@ title: Raspbian Net Install+PiKISS = Combinación perfecta de SO
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-06-25 10:48:03
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

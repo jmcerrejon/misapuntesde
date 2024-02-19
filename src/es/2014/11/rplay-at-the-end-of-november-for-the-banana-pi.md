@@ -4,7 +4,7 @@ title: rPlay a finales de Noviembre en la Banana Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-11-10 09:35:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

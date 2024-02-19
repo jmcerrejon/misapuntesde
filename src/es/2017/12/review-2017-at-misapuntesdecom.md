@@ -4,7 +4,7 @@ title: Repaso 2017 en misapuntesde.com
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-12-29 08:00:00
-prev: /es
+prev: /es/
 next: false
 category:
   - General

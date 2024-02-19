@@ -4,7 +4,7 @@ title: Repaso de estos días en el mundo Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-05-06 13:00:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

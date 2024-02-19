@@ -4,7 +4,7 @@ title: Pensando en Windows 10
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-04-30 17:00:00
-prev: /es
+prev: /es/
 next: false
 category:
   - General

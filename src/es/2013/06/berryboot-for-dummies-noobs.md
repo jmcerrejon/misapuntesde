@@ -4,7 +4,7 @@ title: Berryboot para torpes (NOOBS)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-06-04 07:00:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

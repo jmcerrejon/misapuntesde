@@ -4,7 +4,7 @@ title: Extraer subtítulos de ficheros mp4 usando MP4Box
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-09-12 15:35:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Apple

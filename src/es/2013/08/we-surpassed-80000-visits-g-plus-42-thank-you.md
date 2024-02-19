@@ -4,7 +4,7 @@ title: ¡Sobrepasamos 80.000+ visitas, G. Plus +42,... Gracias!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-08-29 08:00:00
-prev: /es
+prev: /es/
 next: false
 category:
   - General

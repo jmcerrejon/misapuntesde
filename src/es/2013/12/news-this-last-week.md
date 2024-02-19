@@ -4,7 +4,7 @@ title: Han sido noticia esta semana en el mundo Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-12-09 14:00:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

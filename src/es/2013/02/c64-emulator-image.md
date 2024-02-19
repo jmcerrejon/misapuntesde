@@ -4,7 +4,7 @@ title: Emulador de C64 (imagen)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-02-23 12:15:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

@@ -4,7 +4,7 @@ title: RISC OS Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-03-31 14:30:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

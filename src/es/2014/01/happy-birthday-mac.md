@@ -4,7 +4,7 @@ title: ¡Feliz cumpleaños, Mac!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-01-24 11:15:42
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

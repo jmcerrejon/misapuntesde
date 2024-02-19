@@ -4,7 +4,7 @@ title: Fueron noticia la semana pasada en el mundo Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-03-28 11:25:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

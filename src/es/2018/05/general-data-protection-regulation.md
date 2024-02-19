@@ -4,7 +4,7 @@ title: A vueltas con el Reglamento General sobre la Protección de Datos
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2018-05-23 17:35:00
-prev: /es
+prev: /es/
 next: false
 category:
   - General

@@ -4,7 +4,7 @@ title: Gideros será portado a la Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-01-19 12:00:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

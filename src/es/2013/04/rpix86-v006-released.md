@@ -4,7 +4,7 @@ title: Actualizado rpix86 v0.06
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-04-21 17:30:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

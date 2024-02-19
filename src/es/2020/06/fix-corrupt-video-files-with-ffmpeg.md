@@ -4,7 +4,7 @@ title: Arreglar ficheros de video corruptos con ffmpeg
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2020-06-29 11:37:09
-prev: /es
+prev: /es/
 next: false
 category:
   - General

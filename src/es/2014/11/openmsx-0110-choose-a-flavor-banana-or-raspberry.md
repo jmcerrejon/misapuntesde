@@ -4,7 +4,7 @@ title: OpenMSX 0.11.0. Elige un sabor. Banana o frambuesa.
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-11-25 07:30:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

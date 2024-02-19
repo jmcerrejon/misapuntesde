@@ -4,7 +4,7 @@ title: RetroPie actualiza sus binarios y tutorial del adaptador GPIO
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-07-10 08:45:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

@@ -4,7 +4,7 @@ title: MagPi publica guía sobre la terminal
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-11-11 09:40:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

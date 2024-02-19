@@ -4,7 +4,7 @@ title: PiMenu, otra alternativa a la hora de lanzar tus emuladores
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-08-11 17:20:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

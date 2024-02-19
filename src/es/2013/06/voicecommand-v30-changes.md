@@ -4,7 +4,7 @@ title: Voicecommand se actualiza a la versión 3.0
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-06-30 07:55:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

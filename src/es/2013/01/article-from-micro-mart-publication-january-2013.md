@@ -4,7 +4,7 @@ title: Artículo de la revista Micro Mart (Enero 2013)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-25 14:20:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

@@ -4,7 +4,7 @@ title: ¡OpenMSX 0.11.0 para Raspberry Pi!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-03-31 00:00:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

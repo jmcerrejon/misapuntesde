@@ -4,7 +4,7 @@ title: Imagen de 12MB para Raspberry Pi usando el proyecto Yocto
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-07-05 14:45:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

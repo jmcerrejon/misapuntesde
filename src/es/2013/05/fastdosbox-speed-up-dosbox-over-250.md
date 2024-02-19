@@ -4,7 +4,7 @@ title: Fastdosbox acelera dosbox un 250%
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-05-23 08:00:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

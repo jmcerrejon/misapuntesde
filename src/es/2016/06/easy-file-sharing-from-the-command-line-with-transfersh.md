@@ -4,7 +4,7 @@ title: Compartir archivos a través de la línea de comandos con Transfer.sh
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-06-09 12:30:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Linux

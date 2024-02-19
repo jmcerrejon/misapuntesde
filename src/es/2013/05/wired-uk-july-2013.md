@@ -4,7 +4,7 @@ title: Wired UK Julio 2013
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-05-31 09:30:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

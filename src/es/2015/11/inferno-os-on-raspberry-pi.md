@@ -4,7 +4,7 @@ title: Inferno OS para Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-11-23 10:15:33
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

@@ -4,7 +4,7 @@ title: PC Monitor ahora también para Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-05-20 07:28:37
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

@@ -4,7 +4,7 @@ title: Cómo emular un sistema Amiga con Amibian
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-09-23 09:00:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

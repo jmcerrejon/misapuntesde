@@ -4,7 +4,7 @@ title: ODROID Magazine Febrero 2016
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-02-15 11:20:00
-prev: /es
+prev: /es/
 next: false
 category:
   - ODROID

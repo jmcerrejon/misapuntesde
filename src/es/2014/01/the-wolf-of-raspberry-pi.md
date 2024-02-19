@@ -4,7 +4,7 @@ title: El Lobo de Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-01-17 08:48:39
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

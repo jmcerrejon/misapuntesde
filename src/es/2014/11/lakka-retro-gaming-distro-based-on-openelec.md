@@ -4,7 +4,7 @@ title: Lakka. Distro para emuladores retro basado en OpenELEC
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-11-12 09:00:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

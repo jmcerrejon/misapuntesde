@@ -4,7 +4,7 @@ title: Getting Started with ownCloud (Ebook)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-11-24 08:15:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

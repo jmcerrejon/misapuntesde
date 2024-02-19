@@ -4,7 +4,7 @@ title: Dispensador de bebidas automático
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-06-06 10:30:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

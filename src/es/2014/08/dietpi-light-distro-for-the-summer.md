@@ -4,7 +4,7 @@ title: DietPi. Una distro ligera para el verano
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-08-20 09:20:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

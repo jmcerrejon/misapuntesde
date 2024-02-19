@@ -4,7 +4,7 @@ title: Raspbian OS Lite. Adelgazando Raspbian a menos de 500MB
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-04-25 09:40:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

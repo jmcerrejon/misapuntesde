@@ -4,7 +4,7 @@ title: Construyendo la réplica de un Apple III
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-05-30 08:40:00
-prev: /es
+prev: /es/
 next: false
 category:
   - General

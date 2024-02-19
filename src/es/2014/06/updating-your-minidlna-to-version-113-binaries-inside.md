@@ -4,7 +4,7 @@ title: Actualizando a la última versión de MiniDLNA (1.1.3)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-06-26 10:05:45
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

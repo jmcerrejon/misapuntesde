@@ -4,7 +4,7 @@ title: Raspberry Pi en la educación. Entrevista a Clive Beale
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-01-09 13:57:42
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

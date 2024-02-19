@@ -4,7 +4,7 @@ title: Como medir distancias en Raspberry Pi con sensor de ultrasonidos
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-09-23 12:05:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

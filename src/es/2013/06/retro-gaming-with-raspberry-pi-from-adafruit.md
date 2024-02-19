@@ -4,7 +4,7 @@ title: Retro Gaming con Raspberry Pi gracias a Adafruit
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-06-05 09:00:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

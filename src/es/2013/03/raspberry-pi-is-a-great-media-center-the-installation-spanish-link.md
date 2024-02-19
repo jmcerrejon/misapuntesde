@@ -4,7 +4,7 @@ title: Raspberry Pi es un gran media center. La instalación
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-03-25 12:35:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

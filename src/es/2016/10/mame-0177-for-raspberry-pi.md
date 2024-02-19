@@ -4,7 +4,7 @@ title: MAME 0.177 para Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-10-10 09:25:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

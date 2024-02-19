@@ -4,7 +4,7 @@ title: ¡Nuevo firmware para solucionar las altas temperaturas de tu Raspberry P
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2019-07-03 13:40:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

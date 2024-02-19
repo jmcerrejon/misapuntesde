@@ -4,7 +4,7 @@ title: systemd
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-06-04 08:00:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Linux

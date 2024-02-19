@@ -4,7 +4,7 @@ title: Domótica IoT basada en Raspberry Pi usando IBM Bluemix
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-07-27 10:15:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

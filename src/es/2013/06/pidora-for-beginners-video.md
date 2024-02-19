@@ -4,7 +4,7 @@ title: Pidora para principiantes (video)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-06-26 07:40:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

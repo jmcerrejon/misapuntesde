@@ -4,7 +4,7 @@ title: Oracle JDK 8 en Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-03-26 14:29:45
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

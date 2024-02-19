@@ -4,7 +4,7 @@ title: Raspberry Pi A+
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-11-09 12:00:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

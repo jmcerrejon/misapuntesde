@@ -4,7 +4,7 @@ title: 2 herramientas útiles para Mac. PiCLoner y PiWriter
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-03-12 08:30:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

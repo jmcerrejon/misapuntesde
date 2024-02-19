@@ -4,7 +4,7 @@ title: Jugando con el emulador de la SNES Classic Mini en una Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-10-07 05:25:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

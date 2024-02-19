@@ -4,7 +4,7 @@ title: Construir un Twitter Bot con Python
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-06-06 09:30:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

@@ -4,7 +4,7 @@ title: Cómo hackear Minecraft Pi Edition
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-06-12 10:00:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

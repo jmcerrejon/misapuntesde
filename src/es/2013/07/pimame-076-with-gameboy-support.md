@@ -4,7 +4,7 @@ title: PiMAME 0.7.6 con soporte para GameBoy
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-07-13 12:00:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

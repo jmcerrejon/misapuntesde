@@ -4,7 +4,7 @@ title: Atomic Pi. recursos y drivers para Windows 10 x64
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2019-05-22 19:00:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Atomic Pi

@@ -4,7 +4,7 @@ title: NotanOS. Sistema operativo en la nube
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-10-08 09:20:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

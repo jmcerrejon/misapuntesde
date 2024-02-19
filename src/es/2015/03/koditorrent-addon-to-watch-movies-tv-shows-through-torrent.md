@@ -4,7 +4,7 @@ title: KODITorrent. Addon para ver series y películas a través de Torrent
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-03-30 09:00:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

@@ -4,7 +4,7 @@ title: makeuseof.com. Cómo elegir y optimizar su navegador en Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-09-19 10:00:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

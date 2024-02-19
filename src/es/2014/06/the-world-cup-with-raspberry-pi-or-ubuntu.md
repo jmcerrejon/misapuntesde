@@ -4,7 +4,7 @@ title: El Mundial gratis con tu Raspberry Pi o Ubuntu
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-06-13 14:20:13
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

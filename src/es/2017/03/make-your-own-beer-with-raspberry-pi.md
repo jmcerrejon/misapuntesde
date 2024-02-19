@@ -4,7 +4,7 @@ title: Crea tu propia cerveza con la Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-03-22 12:00:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

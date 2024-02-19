@@ -4,7 +4,7 @@ title: Docker-Pi para admins y developers
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-03-11 09:10:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

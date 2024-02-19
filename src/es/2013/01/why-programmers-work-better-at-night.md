@@ -4,7 +4,7 @@ title: ¿Por qué los programadores trabajan mejor de noche?
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-17 14:00:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Developer

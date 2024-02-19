@@ -4,7 +4,7 @@ title: El maravilloso mundo de los Porta tarjetas MicroSD
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-02-22 11:10:00
-prev: /es
+prev: /es/
 next: false
 category:
   - General

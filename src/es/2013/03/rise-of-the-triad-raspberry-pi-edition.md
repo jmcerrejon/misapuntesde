@@ -4,7 +4,7 @@ title: Rise of the Triad – Raspberry Pi Edition
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-03-07 11:45:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

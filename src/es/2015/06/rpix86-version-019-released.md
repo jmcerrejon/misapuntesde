@@ -4,7 +4,7 @@ title: ¡rpix86 versión 0.19 liberado!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-06-29 10:30:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

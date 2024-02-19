@@ -4,7 +4,7 @@ title: Ubuntu Minimal 16.04LTS para ODROID
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-08-08 10:15:00
-prev: /es
+prev: /es/
 next: false
 category:
   - ODROID

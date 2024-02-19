@@ -4,7 +4,7 @@ title: Consejo. guardar y comprimir al mismo tiempo con dd y gzip
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-02-24 19:20:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

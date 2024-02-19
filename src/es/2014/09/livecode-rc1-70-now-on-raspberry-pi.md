@@ -4,7 +4,7 @@ title: LiveCode RC1 7.0 portado a Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-09-04 08:00:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

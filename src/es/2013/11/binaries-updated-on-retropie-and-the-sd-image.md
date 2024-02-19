@@ -4,7 +4,7 @@ title: Retropie actualiza sus binarios y la imagen SD
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-11-06 10:00:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

@@ -4,7 +4,7 @@ title: Migrando de hosting...
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-12-12 14:05:23
-prev: /es
+prev: /es/
 next: false
 category:
   - General

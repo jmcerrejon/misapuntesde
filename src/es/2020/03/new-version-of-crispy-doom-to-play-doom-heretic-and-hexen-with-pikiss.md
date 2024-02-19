@@ -4,7 +4,7 @@ title: Nueva versión de Crispy Doom para jugar a Doom, Heretic y Hexen con PiKI
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2020-03-07 09:51:46
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

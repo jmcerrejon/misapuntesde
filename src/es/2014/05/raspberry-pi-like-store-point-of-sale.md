@@ -4,7 +4,7 @@ title: Raspberry PI como Terminal de Punto de Venta
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-05-26 10:51:29
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

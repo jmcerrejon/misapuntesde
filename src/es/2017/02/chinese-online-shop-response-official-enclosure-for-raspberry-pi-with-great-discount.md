@@ -4,7 +4,7 @@ title: Cajas oficiales para Raspberry Pi chinas con descuento
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-02-15 12:10:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

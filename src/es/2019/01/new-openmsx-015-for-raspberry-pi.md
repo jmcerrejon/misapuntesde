@@ -4,7 +4,7 @@ title: ¡Nuevo OpenMSX 0.15 para Raspberry Pi!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2019-01-16 20:20:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

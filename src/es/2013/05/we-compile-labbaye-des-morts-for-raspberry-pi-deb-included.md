@@ -4,7 +4,7 @@ title: Compilamos L'Abbaye des Morts para Raspberry Pi (incluye .deb)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-05-18 20:00:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

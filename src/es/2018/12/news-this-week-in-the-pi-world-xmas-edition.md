@@ -4,7 +4,7 @@ title: ¡Noticias esta semana en el Mundo Pi...Edición Navidad!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2018-12-24 19:00:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

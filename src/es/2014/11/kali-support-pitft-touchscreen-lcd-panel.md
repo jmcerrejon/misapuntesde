@@ -4,7 +4,7 @@ title: Kali habilita el soporte para pantallas PiTFT
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-11-24 09:20:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

@@ -4,7 +4,7 @@ title: ¡RetroPie 1.6 Beta disponible!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-06-06 10:43:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

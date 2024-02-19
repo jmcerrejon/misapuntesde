@@ -4,7 +4,7 @@ title: Port del MAME4ALL para la RasPi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-03-06 13:52:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

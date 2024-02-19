@@ -4,7 +4,7 @@ title: Ejecutar una API Builder en Raspberry Pi Cluster usando Docker Swarm
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2018-12-20 18:26:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

@@ -4,7 +4,7 @@ title: WIFITE. Herramienta para atacar redes WEP, WPA y WPS
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-08-10 08:45:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

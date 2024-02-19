@@ -4,7 +4,7 @@ title: Tutorial. Cómo configurar un servidor windows para servir al RaspBMC
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-18 10:05:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

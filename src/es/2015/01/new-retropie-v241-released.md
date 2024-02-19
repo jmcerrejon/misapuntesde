@@ -4,7 +4,7 @@ title: Nueva versión de RetroPie V2.4.1 disponible
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-01-12 10:00:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

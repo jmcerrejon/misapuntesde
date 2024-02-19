@@ -4,7 +4,7 @@ title: Vacaciones, proyectos y screen
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-12-04 12:00:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

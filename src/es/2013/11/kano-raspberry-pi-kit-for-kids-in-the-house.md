@@ -4,7 +4,7 @@ title: KANO. Kit con Raspberry Pi para los peques de la casa
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-11-20 10:30:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

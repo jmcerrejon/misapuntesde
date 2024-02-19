@@ -4,7 +4,7 @@ title: Raspberry Pi como lector de datos y diagnóstico de vehículos (OBD-II)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-07-10 08:16:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

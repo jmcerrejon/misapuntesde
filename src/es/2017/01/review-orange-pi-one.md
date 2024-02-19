@@ -4,7 +4,7 @@ title: Revisión Orange Pi One y...¡Sorteo!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-01-31 09:30:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Orange Pi

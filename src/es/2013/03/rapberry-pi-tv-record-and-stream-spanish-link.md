@@ -4,7 +4,7 @@ title: Rapberry Pi. Grabar y emitir TV
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-03-29 08:30:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

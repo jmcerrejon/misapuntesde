@@ -4,7 +4,7 @@ title: ODROID Magazine Marzo
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-03-19 11:25:00
-prev: /es
+prev: /es/
 next: false
 category:
   - ODROID

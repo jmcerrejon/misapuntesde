@@ -4,7 +4,7 @@ title: Tiempo, tiempo, tiempo…
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-02-20 13:15:11
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

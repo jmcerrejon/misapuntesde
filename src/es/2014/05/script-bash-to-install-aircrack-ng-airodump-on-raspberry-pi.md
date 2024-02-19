@@ -4,7 +4,7 @@ title: Script bash para instalar Aircrack-NG + Airodump en la Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-05-22 11:35:18
-prev: /es
+prev: /es/
 next: false
 category:
   - General

@@ -4,7 +4,7 @@ title: ODROID-XU4, nueva placa compatible con XU3 por 74$
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-07-15 08:00:00
-prev: /es
+prev: /es/
 next: false
 category:
   - ODROID

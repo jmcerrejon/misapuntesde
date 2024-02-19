@@ -4,7 +4,7 @@ title: Oleada de emuladores actualizados
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-04-18 08:20:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

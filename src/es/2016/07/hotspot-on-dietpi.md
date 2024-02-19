@@ -4,7 +4,7 @@ title: Hotspot en DietPi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-07-21 10:15:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

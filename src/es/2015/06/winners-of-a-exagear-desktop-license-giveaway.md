@@ -4,7 +4,7 @@ title: Ganadores de una licencia para Exagear Desktop
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-06-16 17:30:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Linux

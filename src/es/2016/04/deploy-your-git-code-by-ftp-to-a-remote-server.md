@@ -4,7 +4,7 @@ title: Deploy de nuestro código Git por FTP a servidor remoto
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-04-19 20:45:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Developer

@@ -4,7 +4,7 @@ title: Sqrxz by Retroguru - Mindblasting frustration deluxe!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-05-07 07:15:29
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

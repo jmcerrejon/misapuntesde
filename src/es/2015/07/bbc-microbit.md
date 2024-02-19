@@ -4,7 +4,7 @@ title: BBC Micro.bit
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-07-08 10:00:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

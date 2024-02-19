@@ -4,7 +4,7 @@ title: ¡Feliz año nuevo!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2019-12-31 19:00:00
-prev: /es
+prev: /es/
 next: false
 category:
   - General

@@ -4,7 +4,7 @@ title: Nuevo OpenMSX 0.14 para Raspbian Stretch (.deb)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-10-22 16:00:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

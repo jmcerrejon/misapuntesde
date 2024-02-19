@@ -4,7 +4,7 @@ title: Conectando el GPS Venus a la Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-05-10 09:15:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

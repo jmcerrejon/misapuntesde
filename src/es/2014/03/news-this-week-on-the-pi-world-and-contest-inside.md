@@ -4,7 +4,7 @@ title: Han sido noticia esta semana en el mundo Pi y... ¡Concurso inside!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-03-28 10:57:47
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

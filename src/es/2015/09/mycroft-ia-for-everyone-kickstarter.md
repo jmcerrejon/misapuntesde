@@ -4,7 +4,7 @@ title: Mycroft. IA para todos (Kickstarter)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-09-02 09:00:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

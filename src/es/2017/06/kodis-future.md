@@ -4,7 +4,7 @@ title: El futuro de Kodi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-06-21 13:40:00
-prev: /es
+prev: /es/
 next: false
 category:
   - General

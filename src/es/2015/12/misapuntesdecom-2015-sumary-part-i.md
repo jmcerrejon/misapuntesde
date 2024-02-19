@@ -4,7 +4,7 @@ title: Resumen del año 2015 en misapuntesde.com (Parte I)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-12-31 12:40:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

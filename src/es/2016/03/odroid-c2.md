@@ -4,7 +4,7 @@ title: ODROID-C2
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-03-02 09:40:00
-prev: /es
+prev: /es/
 next: false
 category:
   - ODROID

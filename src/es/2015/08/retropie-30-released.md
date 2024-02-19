@@ -4,7 +4,7 @@ title: RetroPie 3.0 liberado
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-08-15 08:35:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

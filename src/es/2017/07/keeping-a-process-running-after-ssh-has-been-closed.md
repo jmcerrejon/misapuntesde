@@ -4,7 +4,7 @@ title: Mantener un proceso ejecutándose aunque la terminal SSH se cierre
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-07-24 10:00:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Linux

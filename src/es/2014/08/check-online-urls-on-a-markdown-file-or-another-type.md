@@ -4,7 +4,7 @@ title: Comprobar urls online a partir de un fichero Markdown (u otro)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-08-07 18:00:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Linux

@@ -4,7 +4,7 @@ title: Modo vacaciones ON
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2018-07-28 15:00:00
-prev: /es
+prev: /es/
 next: false
 category:
   - General

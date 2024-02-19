@@ -4,7 +4,7 @@ title: Crea tu propio R2D2
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-18 10:13:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

@@ -4,7 +4,7 @@ title: Lichee Photo Manager en Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-01-28 10:47:10
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

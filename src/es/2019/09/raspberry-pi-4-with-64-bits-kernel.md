@@ -4,7 +4,7 @@ title: Raspberry Pi 4 con kernel de 64 bits
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2019-09-26 17:00:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

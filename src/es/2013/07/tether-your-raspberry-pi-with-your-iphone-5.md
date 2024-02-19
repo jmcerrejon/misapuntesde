@@ -4,7 +4,7 @@ title: Compartir conexión de iPhone con Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-07-28 13:00:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

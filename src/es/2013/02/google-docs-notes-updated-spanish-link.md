@@ -4,7 +4,7 @@ title: ¡Mis Apuntes en G. Docs actualizado!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-02-26 08:50:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

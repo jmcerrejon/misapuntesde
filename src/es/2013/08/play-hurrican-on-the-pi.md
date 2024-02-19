@@ -4,7 +4,7 @@ title: ¡Juega Hurrican en la Pi!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-08-23 11:45:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

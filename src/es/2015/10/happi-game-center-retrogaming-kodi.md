@@ -4,7 +4,7 @@ title: Happi Game Center (Retrogaming +Kodi)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-10-28 09:35:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

@@ -4,7 +4,7 @@ title: Servicios de garantía. Farnell
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-05-25 08:45:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

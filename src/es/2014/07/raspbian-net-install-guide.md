@@ -4,7 +4,7 @@ title: Sácale partido a Raspbian Net Install
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-07-21 09:45:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

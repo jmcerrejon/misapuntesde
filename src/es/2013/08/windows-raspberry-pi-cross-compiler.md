@@ -4,7 +4,7 @@ title: Compilación cruzada Windows-Raspberrry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-08-02 10:00:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

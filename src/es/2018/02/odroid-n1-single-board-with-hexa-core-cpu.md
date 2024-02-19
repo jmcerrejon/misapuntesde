@@ -4,7 +4,7 @@ title: ODROID-N1 single-board con CPU hexa-core
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2018-02-07 11:45:00
-prev: /es
+prev: /es/
 next: false
 category:
   - ODROID

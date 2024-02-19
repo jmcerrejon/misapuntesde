@@ -4,7 +4,7 @@ title: Presentando a SmartBot. robot compatible con Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-11-08 09:00:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

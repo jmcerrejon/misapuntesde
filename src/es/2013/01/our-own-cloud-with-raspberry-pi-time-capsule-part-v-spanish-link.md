@@ -4,7 +4,7 @@ title: Nuestro propio Cloud con Raspberry Pi y Time Capsule (Parte V)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-15 16:55:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

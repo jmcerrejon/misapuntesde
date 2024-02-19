@@ -4,7 +4,7 @@ title: OpenELEC ejecutando Mario Bros 3 (Youtube)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-02-25 11:30:12
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

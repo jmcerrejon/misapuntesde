@@ -4,7 +4,7 @@ title: Software para Mac, de 117$ a 0$
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-18 13:35:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Apple

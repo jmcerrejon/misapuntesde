@@ -4,7 +4,7 @@ title: ¿Tienes más de una Raspberry Pi? Te interesa
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-18 09:47:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

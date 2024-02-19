@@ -4,7 +4,7 @@ title: Imágenes SD para jugar a Game Boy Color, Atari o MSX en tu Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-12-15 09:10:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

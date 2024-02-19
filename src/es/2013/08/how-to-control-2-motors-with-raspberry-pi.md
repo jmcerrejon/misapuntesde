@@ -4,7 +4,7 @@ title: Como controlar 2 motores con la Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-08-25 07:00:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

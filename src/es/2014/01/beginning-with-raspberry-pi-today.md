@@ -4,7 +4,7 @@ title: Empezando con Raspberry Pi, hoy
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-01-08 12:53:01
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

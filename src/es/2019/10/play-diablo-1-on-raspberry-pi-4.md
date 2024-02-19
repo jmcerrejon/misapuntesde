@@ -4,7 +4,7 @@ title: Juega Diablo 1 en la Raspberry Pi 4
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2019-10-03 09:00:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

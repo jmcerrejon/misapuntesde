@@ -4,7 +4,7 @@ title: ¡ATENCIÓN. Nueva Raspberry Pi 2!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-02-02 09:50:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

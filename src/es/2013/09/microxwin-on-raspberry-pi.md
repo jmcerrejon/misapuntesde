@@ -4,7 +4,7 @@ title: MicroXwin en Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-09-03 08:15:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

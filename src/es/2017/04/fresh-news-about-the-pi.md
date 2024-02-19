@@ -4,7 +4,7 @@ title: Noticias frescas en el mundo Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-04-18 20:00:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

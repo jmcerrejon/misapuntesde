@@ -4,7 +4,7 @@ title: Corrige el error de Git xcrun. error. active developer path (...) does no
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2020-04-19 18:45:18
-prev: /es
+prev: /es/
 next: false
 category:
   - Apple

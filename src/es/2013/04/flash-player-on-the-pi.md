@@ -4,7 +4,7 @@ title: Flash Player en la Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-04-27 19:00:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

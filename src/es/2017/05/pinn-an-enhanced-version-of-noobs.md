@@ -4,7 +4,7 @@ title: PINN. Una versión mejorada de NOOBS
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-05-31 09:55:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

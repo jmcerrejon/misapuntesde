@@ -4,7 +4,7 @@ title: Nueva Raspberry Pi Zero W
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-03-01 12:15:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

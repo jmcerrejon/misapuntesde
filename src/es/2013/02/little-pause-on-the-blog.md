@@ -4,7 +4,7 @@ title: Pequeña pausa en el blog
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-02-07 21:40:00
-prev: /es
+prev: /es/
 next: false
 category:
   - General

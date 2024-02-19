@@ -4,7 +4,7 @@ title: ¡PiCAST 2.0 en la calle!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-01-29 14:00:20
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

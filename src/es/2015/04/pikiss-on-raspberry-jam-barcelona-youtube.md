@@ -4,7 +4,7 @@ title: PiKISS en Raspberry JAM BCN (Youtube)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-04-13 13:29:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

@@ -4,7 +4,7 @@ title: Benchmark en Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-07-29 09:30:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

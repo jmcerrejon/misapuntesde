@@ -4,7 +4,7 @@ title: arkOS. Sistema Operativo para hosting
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-08-15 09:30:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

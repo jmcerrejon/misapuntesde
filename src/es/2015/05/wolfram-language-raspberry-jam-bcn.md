@@ -4,7 +4,7 @@ title: Wolfram Language Raspberry Jam (BCN)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-05-06 08:09:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

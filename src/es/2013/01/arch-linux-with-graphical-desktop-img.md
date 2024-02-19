@@ -4,7 +4,7 @@ title: Imagen Arch Linux con entorno gráfico (.img)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-21 10:10:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

@@ -4,7 +4,7 @@ title: Cómo construir un servidor de ficheros con la Raspberry Pi (guía defini
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-29 19:10:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

@@ -4,7 +4,7 @@ title: Getting Started with Raspberry Pi Zero (ebook gratis)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-11-08 07:20:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

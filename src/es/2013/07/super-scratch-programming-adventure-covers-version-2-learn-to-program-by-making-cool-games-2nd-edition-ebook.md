@@ -4,7 +4,7 @@ title: Super Scratch Programming Adventure! (Covers Version 2). Learn to Program
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-07-30 09:00:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

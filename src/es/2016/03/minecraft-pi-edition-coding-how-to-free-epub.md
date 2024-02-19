@@ -4,7 +4,7 @@ title: Minecraft. Pi Edition Coding How-to (FREE Epub)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-03-10 10:00:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI

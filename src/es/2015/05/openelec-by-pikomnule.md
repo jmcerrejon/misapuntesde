@@ -4,7 +4,7 @@ title: OpenELEC by pikomnule
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-05-28 09:38:00
-prev: /es
+prev: /es/
 next: false
 category:
   - Raspberry PI
