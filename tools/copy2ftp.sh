@@ -55,6 +55,7 @@ function compress() {
     cd - || exit 1
     echo "./$DIST_FILENAME created!"
 }
+
 function upload_to_ftp() {
     if [[ ! -e $DIST_FILENAME ]]; then
         compress
@@ -77,8 +78,11 @@ function extract_on_ftp() {
 }
 
 function cleanup() {
-    [[ -e $DIST_FILENAME ]] && rm -rf ./$DIST_FILENAME
-    [[ -d $DIST_DIR ]] && rm -rf "$DIST_DIR"
+    read -p "Do you want to delete $DIST_FILENAME & $DIST_DIR? (y/N) " response
+    if [[ $response =~ [Yy] ]]; then
+        [[ -e $DIST_FILENAME ]] && rm -rf ./$DIST_FILENAME
+        [[ -d $DIST_DIR ]] && rm -rf "$DIST_DIR"
+    fi
 }
 
 # Smell code approaching, It's too late here. I'll refactor it later (Not promise).
@@ -91,10 +95,8 @@ if [[ -e $DIST_FILENAME ]]; then
 else
     compress
 fi
+
 upload_to_ftp
 extract_on_ftp
-read -p "Do you want to delete $DIST_FILENAME & $DIST_DIR? (y/N) " response
-if [[ $response =~ [Yy] ]]; then
-    cleanup
-fi
+cleanup
 echo "Have a nice day!"
