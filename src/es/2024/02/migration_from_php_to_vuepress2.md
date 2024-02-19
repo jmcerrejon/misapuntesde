@@ -6,8 +6,9 @@ date: 2024-02-19
 prev: /
 next: false
 category:
-  - Developer
+  - DevOps
 tags:
+  - Developer
   - PHP
   - Vuepress
 ---
