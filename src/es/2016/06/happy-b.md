@@ -4,7 +4,7 @@ title: Feliz C
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-06-30 08:10:00
-prev: /
+prev: /es
 next: false
 category:
   - General

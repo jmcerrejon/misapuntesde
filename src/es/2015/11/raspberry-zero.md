@@ -4,7 +4,7 @@ title: Raspberry Zero
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-11-26 10:00:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

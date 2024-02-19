@@ -4,7 +4,7 @@ title: Hardkernel lanza la ODROID-HC1 Home Cloud
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-08-14 09:20:00
-prev: /
+prev: /es
 next: false
 category:
   - ODROID

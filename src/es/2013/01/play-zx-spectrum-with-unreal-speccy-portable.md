@@ -4,7 +4,7 @@ title: Juega al Spectrum con Unreal Speccy Portable
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-21 13:40:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

@@ -4,7 +4,7 @@ title: RSS al fin
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-16 18:00:00
-prev: /
+prev: /es
 next: false
 category:
   - General

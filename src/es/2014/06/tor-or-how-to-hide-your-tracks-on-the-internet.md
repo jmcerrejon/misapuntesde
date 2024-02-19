@@ -4,7 +4,7 @@ title: Tor o cómo ocultar tu rastro en internet
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-06-21 12:59:03
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

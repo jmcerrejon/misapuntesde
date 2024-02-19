@@ -4,7 +4,7 @@ title: Streaming de la camara H264 desde HTML sobre RTMP
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-12-29 13:20:16
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

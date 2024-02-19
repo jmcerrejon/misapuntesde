@@ -4,7 +4,7 @@ title: Crear una iso a partir de un directorio en OSX
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-08-27 14:00:00
-prev: /
+prev: /es
 next: false
 category:
   - Apple

@@ -4,7 +4,7 @@ title: ¡Nueva versión de rpix86!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-03-24 11:20:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

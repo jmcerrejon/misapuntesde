@@ -4,7 +4,7 @@ title: OpenELEC 6 estable
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-11-04 10:40:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

@@ -4,7 +4,7 @@ title: Vacaciones...¡Otra vez!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-01-02 09:07:18
-prev: /
+prev: /es
 next: false
 category:
   - General

@@ -4,7 +4,7 @@ title: Moebius distribución minimalista alcanza la versión 1.1.1
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-05-18 10:35:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

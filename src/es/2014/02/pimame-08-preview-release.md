@@ -4,7 +4,7 @@ title: PiMAME 0.8 Preview Release
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-02-03 09:41:05
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

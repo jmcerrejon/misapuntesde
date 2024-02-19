@@ -4,7 +4,7 @@ title: Imagen preparada de OpenELEC con emuladores by Diablodiab
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-08-03 09:00:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

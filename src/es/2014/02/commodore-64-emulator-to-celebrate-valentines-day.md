@@ -4,7 +4,7 @@ title: Emulador de Commodore 64 para celebrar San Valentín
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-02-14 11:47:55
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

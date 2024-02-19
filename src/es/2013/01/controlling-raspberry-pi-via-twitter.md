@@ -4,7 +4,7 @@ title: Controlar la Raspberry Pi mediante Twitter
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-20 10:05:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

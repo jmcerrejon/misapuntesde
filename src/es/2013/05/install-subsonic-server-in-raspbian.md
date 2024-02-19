@@ -4,7 +4,7 @@ title: Instalar un servidor de Subsonic en Raspbian
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-05-15 11:20:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

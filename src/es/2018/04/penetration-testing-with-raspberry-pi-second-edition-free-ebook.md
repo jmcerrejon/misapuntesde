@@ -4,7 +4,7 @@ title: Penetration Testing with Raspberry Pi - Second Edition (eBook gratis)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2018-04-23 09:30:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

@@ -4,7 +4,7 @@ title: Chromium en Raspbian para RPi2/3
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-04-06 10:00:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

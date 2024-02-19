@@ -4,7 +4,7 @@ title: Pi Entertainment System (PES)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-09-29 13:20:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

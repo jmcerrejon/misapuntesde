@@ -4,7 +4,7 @@ title: Mis Apuntes de os desea... ¡Feliz Navidad!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-12-24 17:31:34
-prev: /
+prev: /es
 next: false
 category:
   - General

@@ -4,7 +4,7 @@ title: Retro-Calendario chicas de Spectrum
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-02-27 10:25:00
-prev: /
+prev: /es
 next: false
 category:
   - General

@@ -4,7 +4,7 @@ title: LinkedIn te ayuda a buscar empleo
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-05-18 10:00:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

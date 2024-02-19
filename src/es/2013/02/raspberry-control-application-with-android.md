@@ -4,7 +4,7 @@ title: Aplicación para controlar la Raspberry via Android
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-02-22 16:00:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

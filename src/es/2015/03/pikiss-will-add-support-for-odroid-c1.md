@@ -4,7 +4,7 @@ title: PiKISS será compatible con ODROID-C1
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-03-08 09:10:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

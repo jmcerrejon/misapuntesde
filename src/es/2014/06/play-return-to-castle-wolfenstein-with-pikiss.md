@@ -4,7 +4,7 @@ title: Juega Return to Castle Wolfenstein con PiKISS
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-06-09 11:26:52
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

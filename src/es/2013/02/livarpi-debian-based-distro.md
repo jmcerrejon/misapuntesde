@@ -4,7 +4,7 @@ title: livarPi. Distro basada en Debian
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-02-22 16:15:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

@@ -4,7 +4,7 @@ title: Creando el sistema operativo perfecto para la Raspberry Pi con Alpine Lin
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2020-02-17 10:59:55
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

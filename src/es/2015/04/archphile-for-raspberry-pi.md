@@ -4,7 +4,7 @@ title: ArchPhile para Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-04-08 12:15:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

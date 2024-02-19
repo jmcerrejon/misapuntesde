@@ -4,7 +4,7 @@ title: PiKISS para Raspberry Pi. Un puñado de scripts con menú para hacerte la
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-05-29 10:03:10
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

@@ -4,7 +4,7 @@ title: Hoy comienzo un curso en coursera.com
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-14 14:43:00
-prev: /
+prev: /es
 next: false
 category:
   - Developer

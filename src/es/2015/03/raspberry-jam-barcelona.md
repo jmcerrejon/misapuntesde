@@ -4,7 +4,7 @@ title: Raspberry Jam Barcelona
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-03-12 09:00:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

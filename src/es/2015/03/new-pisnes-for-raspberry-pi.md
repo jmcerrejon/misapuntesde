@@ -4,7 +4,7 @@ title: Nuevo PiSNES para Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-03-18 10:30:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

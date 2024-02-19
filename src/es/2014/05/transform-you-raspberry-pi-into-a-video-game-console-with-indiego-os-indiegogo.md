@@ -4,7 +4,7 @@ title: Transforma tu Raspberry Pi en una consola de videojuegos con INDIEGO-OS (
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-05-15 07:46:25
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

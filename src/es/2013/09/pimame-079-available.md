@@ -4,7 +4,7 @@ title: PiMAME 0.79 disponible
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-09-09 06:22:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

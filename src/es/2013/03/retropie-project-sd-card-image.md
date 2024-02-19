@@ -4,7 +4,7 @@ title: Imagen SD del proyecto RetroPie
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-03-15 10:40:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

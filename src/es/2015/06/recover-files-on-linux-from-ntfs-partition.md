@@ -4,7 +4,7 @@ title: Recuperar ficheros en particiones NTFS desde Linux
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-06-25 09:00:00
-prev: /
+prev: /es
 next: false
 category:
   - Linux

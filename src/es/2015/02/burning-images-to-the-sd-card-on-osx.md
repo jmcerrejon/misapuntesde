@@ -4,7 +4,7 @@ title: Quemar imágenes a la tarjeta SD en OSX
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-02-02 00:00:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

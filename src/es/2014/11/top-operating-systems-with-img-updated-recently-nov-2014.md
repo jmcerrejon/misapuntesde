@@ -4,7 +4,7 @@ title: Top Sistemas Operativos actualizados recientemente (Noviembre 2014)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-11-19 10:00:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

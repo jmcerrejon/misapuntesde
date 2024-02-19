@@ -4,7 +4,7 @@ title: Ganadores del sorteo Exagear Desktop 2.0
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-04-20 12:15:00
-prev: /
+prev: /es
 next: false
 category:
   - General

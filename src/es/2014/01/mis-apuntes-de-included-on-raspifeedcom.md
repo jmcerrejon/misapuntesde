@@ -4,7 +4,7 @@ title: Mis Apuntes de en las listas de raspifeed.com
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-01-07 09:54:57
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

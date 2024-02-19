@@ -4,7 +4,7 @@ title: Actualización de Raspbian
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-05-13 09:35:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

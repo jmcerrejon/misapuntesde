@@ -4,7 +4,7 @@ title: Open Lighting Project con Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-04-03 16:24:23
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

@@ -4,7 +4,7 @@ title: Todo vuelve a la normalidad
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-07-08 12:00:00
-prev: /
+prev: /es
 next: false
 category:
   - General

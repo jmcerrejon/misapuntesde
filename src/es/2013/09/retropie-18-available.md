@@ -4,7 +4,7 @@ title: ¡RetroPie 1.8 disponible!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-09-05 06:10:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

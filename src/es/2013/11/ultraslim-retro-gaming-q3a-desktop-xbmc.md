@@ -4,7 +4,7 @@ title: UltraSlim. Retro Gaming + Q3A + Desktop + XBMC
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-11-02 10:00:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

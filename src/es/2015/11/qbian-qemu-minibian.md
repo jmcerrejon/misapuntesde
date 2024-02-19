@@ -4,7 +4,7 @@ title: (qbian) qemu + minibian
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-11-16 10:20:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

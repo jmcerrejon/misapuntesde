@@ -4,7 +4,7 @@ title: Descargar y ver vídeos de Youtube desde la consola con mps-Youtube
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-10-20 07:10:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

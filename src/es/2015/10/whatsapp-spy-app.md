@@ -4,7 +4,7 @@ title: Aplicación espía de WhatsApp
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-10-05 17:25:00
-prev: /
+prev: /es
 next: false
 category:
   - General

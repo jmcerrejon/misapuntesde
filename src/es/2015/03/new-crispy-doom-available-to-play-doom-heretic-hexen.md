@@ -4,7 +4,7 @@ title: Nueva versión de Crispy Doom para jugar a Doom, Heretic y Hexen
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-03-14 08:00:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

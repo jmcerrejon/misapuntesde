@@ -4,7 +4,7 @@ title: Hoy jugamos a OpenBOR
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-05-25 09:00:00
-prev: /
+prev: /es
 next: false
 category:
   - Linux

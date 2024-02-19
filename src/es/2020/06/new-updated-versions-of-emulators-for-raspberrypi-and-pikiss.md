@@ -4,7 +4,7 @@ title: Nuevas versiones para PiKISS de algunos  emuladores en Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2020-06-19 16:46:25
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

@@ -4,7 +4,7 @@ title: Ver/retransmitir via Torrent con Webtorrent-cli
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-04-11 10:00:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

@@ -4,7 +4,7 @@ title: Summer Camp 2013 en Zaragoza
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-06-21 12:00:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

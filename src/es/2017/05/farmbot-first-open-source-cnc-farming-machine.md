@@ -4,7 +4,7 @@ title: Farmbot. Primera máquina agrícola CNC Open Source
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-05-22 09:10:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

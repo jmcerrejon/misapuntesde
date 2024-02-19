@@ -4,7 +4,7 @@ title: Servicio en la nube Copy.com para Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-07-07 08:06:34
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

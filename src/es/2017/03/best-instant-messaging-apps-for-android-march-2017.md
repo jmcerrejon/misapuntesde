@@ -4,7 +4,7 @@ title: Mejores Apps de mensajería para Tablets Android (Marzo 2017)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-03-08 09:30:00
-prev: /
+prev: /es
 next: false
 category:
   - General

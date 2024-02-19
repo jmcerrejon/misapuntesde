@@ -4,7 +4,7 @@ title: ¡Raspberry Pi a 1400 Mhz!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-07-30 09:30:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

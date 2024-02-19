@@ -4,7 +4,7 @@ title: Overclocking en la Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-12-16 10:12:48
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

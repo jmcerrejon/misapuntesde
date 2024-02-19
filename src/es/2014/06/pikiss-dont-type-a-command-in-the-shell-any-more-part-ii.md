@@ -4,7 +4,7 @@ title: PiKISS. No escribas ni un sólo comando nunca más (Parte II)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-06-02 06:42:41
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

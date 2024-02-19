@@ -4,7 +4,7 @@ title: Slow Motion con los nuevos modos de vídeo de la Cámara-Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-03-25 09:26:42
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

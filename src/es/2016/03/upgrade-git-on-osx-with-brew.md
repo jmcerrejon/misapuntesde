@@ -4,7 +4,7 @@ title: Actualizar Git en OSX con brew
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-03-29 14:25:00
-prev: /
+prev: /es
 next: false
 category:
   - Developer

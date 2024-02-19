@@ -4,7 +4,7 @@ title: GR-Lida, Front end para DOSBox, ScummVM en la Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2020-07-02 10:13:41
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

@@ -4,7 +4,7 @@ title: Qt 5.X en Raspberry Pi 4
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2020-06-25 09:16:23
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

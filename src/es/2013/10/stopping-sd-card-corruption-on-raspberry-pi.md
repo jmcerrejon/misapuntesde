@@ -4,7 +4,7 @@ title: Detener la corrupción de tarjetas SD en Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-10-28 13:25:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

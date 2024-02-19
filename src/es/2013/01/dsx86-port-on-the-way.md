@@ -4,7 +4,7 @@ title: Port del DSx86 en camino
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-31 15:50:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

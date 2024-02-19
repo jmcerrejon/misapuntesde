@@ -4,7 +4,7 @@ title: Grabar SO Linux a USB/SD desde OSX (Terminal)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-24 12:43:00
-prev: /
+prev: /es
 next: false
 category:
   - Linux

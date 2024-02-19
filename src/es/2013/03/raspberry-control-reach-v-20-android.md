@@ -4,7 +4,7 @@ title: Raspberry Control alcanza la versión 2.0 (Android)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-03-27 11:40:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

@@ -4,7 +4,7 @@ title: PiSNES. Emulador de Super Nintendo
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-05-28 08:46:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

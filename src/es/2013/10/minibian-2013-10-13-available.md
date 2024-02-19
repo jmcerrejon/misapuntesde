@@ -4,7 +4,7 @@ title: Disponible Minibian 2013-10-13
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-10-16 18:36:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

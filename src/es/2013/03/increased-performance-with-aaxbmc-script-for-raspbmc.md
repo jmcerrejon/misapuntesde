@@ -4,7 +4,7 @@ title: Aumenta el rendimiento de tu Raspbmc con el script Aaxbmc
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-03-01 17:30:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

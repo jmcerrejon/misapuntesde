@@ -4,7 +4,7 @@ title: Exagear Desktop. Ejecutables x86 en Raspberry Pi y ARMv7 (Parte I+Concurs
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-06-08 08:00:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

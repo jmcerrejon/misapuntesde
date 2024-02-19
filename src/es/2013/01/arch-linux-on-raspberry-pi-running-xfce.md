@@ -4,7 +4,7 @@ title: Arch Linux en Raspberry Pi ejecutando XFCE
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-15 11:35:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

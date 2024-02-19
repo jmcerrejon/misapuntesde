@@ -4,7 +4,7 @@ title: Mongodb en macOS
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-06-15 09:40:00
-prev: /
+prev: /es
 next: false
 category:
   - Developer

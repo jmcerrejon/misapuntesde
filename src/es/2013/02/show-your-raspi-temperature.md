@@ -4,7 +4,7 @@ title: Mostrar la temperatura de tu RasPi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-02-25 14:15:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

@@ -4,7 +4,7 @@ title: Actualizando viejos post
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-12-13 08:05:49
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

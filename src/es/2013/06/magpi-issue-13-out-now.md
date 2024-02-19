@@ -4,7 +4,7 @@ title: MagPi núm. 13 en la calle
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-06-03 07:00:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

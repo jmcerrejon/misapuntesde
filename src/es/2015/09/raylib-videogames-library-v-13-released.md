@@ -4,7 +4,7 @@ title: Raylib librería de videojuegos versión 1.3
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-09-07 11:35:00
-prev: /
+prev: /es
 next: false
 category:
   - Developer

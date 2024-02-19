@@ -4,7 +4,7 @@ title: ¡PopcornTime en una RaspberryPi con PiTV!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-10-30 06:40:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

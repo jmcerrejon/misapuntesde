@@ -4,7 +4,7 @@ title: PiMAME 0.4 Beta 4
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-04-13 15:00:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

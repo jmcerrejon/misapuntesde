@@ -4,7 +4,7 @@ title: Comenzando con un SO Debian
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-10-10 11:15:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

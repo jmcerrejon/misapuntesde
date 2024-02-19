@@ -4,7 +4,7 @@ title: Nueva imagen de Raspbian y una distro minimal llamada MINIBIAN
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-07-28 13:45:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

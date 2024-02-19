@@ -4,7 +4,7 @@ title: Mis apuntes de Android
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-29 17:40:00
-prev: /
+prev: /es
 next: false
 category:
   - Android

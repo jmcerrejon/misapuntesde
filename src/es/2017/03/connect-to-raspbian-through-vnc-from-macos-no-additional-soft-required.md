@@ -4,7 +4,7 @@ title: Conectar a Raspbian por VNC desde macOS sin software adicional
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-03-02 12:00:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

@@ -4,7 +4,7 @@ title: Montar Sistema Ambilight y no Morir en el Intento
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-05-20 13:40:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

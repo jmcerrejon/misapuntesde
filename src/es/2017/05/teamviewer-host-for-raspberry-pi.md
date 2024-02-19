@@ -4,7 +4,7 @@ title: TeamViewer Host para Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-05-11 09:00:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

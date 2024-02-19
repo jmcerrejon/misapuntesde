@@ -4,7 +4,7 @@ title: Proyecto universitario de Domótica con la Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-03-05 08:35:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

@@ -4,7 +4,7 @@ title: PiKISS...mañana
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-05-28 20:18:30
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

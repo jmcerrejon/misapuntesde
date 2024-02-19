@@ -4,7 +4,7 @@ title: Actualizada Imagen SD de RetroPie
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-05-08 11:15:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

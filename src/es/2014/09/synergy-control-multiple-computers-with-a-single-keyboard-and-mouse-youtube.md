@@ -4,7 +4,7 @@ title: Synergy. Controla varios equipos con un solo teclado y ratón (Youtube)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-09-17 08:00:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

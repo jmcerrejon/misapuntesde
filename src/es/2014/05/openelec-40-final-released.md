@@ -4,7 +4,7 @@ title: OpenELEC 4.0 FINAL
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-05-06 09:33:52
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

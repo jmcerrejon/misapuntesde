@@ -4,7 +4,7 @@ title: RPi Cam Web Interface
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-08-24 12:20:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

@@ -4,7 +4,7 @@ title: Xbian (XBMC) en la RasPI
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-14 13:54:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

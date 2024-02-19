@@ -4,7 +4,7 @@ title: La información de tu RasPi en la nube con Xively
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-08-14 07:45:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

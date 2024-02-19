@@ -4,7 +4,7 @@ title: Guía Ambilight con Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-06-11 10:40:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

@@ -4,7 +4,7 @@ title: Raspberry Pi Hacks (Ebook)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-01-13 14:18:31
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

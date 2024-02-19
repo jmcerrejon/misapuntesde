@@ -4,7 +4,7 @@ title: Configurar Prosody para tener tu propia sala de chat
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-20 09:30:00
-prev: /
+prev: /es
 next: false
 category:
   - Linux

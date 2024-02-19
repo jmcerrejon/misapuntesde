@@ -4,7 +4,7 @@ title: Tutoriales en The Pi Hut
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-20 18:40:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

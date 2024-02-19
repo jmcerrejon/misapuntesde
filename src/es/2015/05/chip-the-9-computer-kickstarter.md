@@ -4,7 +4,7 @@ title: CHIP, el ordenador de 9$ (Kickstarter)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-05-07 19:30:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

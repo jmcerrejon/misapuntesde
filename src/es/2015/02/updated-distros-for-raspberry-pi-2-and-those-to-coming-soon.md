@@ -4,7 +4,7 @@ title: Distribuciones actualizadas para la Raspberry Pi 2 y las que vendrán
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-02-04 07:00:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

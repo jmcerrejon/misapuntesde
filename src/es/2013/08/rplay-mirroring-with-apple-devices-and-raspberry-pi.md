@@ -4,7 +4,7 @@ title: rPlay para hacer mirroring de dispositivos Apple con la Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-08-30 08:00:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

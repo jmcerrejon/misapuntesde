@@ -4,7 +4,7 @@ title: MEGAPOST. Lo mejor de Mis Apuntes del 2014
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-12-29 12:00:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

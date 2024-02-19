@@ -4,7 +4,7 @@ title: AEROS Beta 5 disponible
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-10-15 11:10:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

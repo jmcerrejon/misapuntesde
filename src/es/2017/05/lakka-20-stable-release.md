@@ -4,7 +4,7 @@ title: ¡Lakka 2.0 estable liberado!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-05-01 10:15:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

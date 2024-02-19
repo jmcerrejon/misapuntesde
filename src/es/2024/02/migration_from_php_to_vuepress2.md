@@ -3,7 +3,7 @@ title: Como migré de PHP a Vuepress 2 (Parte I)
 author: Jose Cerrejon
 icon: fa-solid fa-code
 date: 2024-02-19
-prev: /
+prev: /es
 next: false
 category:
   - DevOps

@@ -4,7 +4,7 @@ title: Quake 2 en ODROID-C1
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-03-16 11:35:00
-prev: /
+prev: /es
 next: false
 category:
   - ODROID

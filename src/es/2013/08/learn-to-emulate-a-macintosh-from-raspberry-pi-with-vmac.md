@@ -4,7 +4,7 @@ title: Aprende a emular un Macintosh desde Raspberry Pi con vMac
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-08-28 08:45:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

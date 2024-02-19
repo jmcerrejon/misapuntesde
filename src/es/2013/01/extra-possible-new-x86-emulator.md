@@ -4,7 +4,7 @@ title: PRIMICIA!. Posible nuevo emulador x86
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-25 17:20:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

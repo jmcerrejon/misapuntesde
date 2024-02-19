@@ -4,7 +4,7 @@ title: NAS4Free
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-07-06 06:20:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

@@ -4,7 +4,7 @@ title: Atomic Pi. Windows 10 a fondo
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2019-05-19 19:25:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

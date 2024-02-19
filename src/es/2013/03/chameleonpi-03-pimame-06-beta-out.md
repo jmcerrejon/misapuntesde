@@ -4,7 +4,7 @@ title: ¡ChameleonPi 0.3 y PiMAME 0.6 Beta en la calle!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-03-02 06:00:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

@@ -4,7 +4,7 @@ title: Openelec vs Raspbmc vs Xbian
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-02-21 10:45:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

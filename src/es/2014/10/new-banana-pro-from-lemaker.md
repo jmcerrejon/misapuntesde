@@ -4,7 +4,7 @@ title: Nueva Banana Pro de Lemaker
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-10-16 07:40:00
-prev: /
+prev: /es
 next: false
 category:
   - Banana Pi

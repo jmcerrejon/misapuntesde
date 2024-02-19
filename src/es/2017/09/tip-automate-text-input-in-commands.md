@@ -4,7 +4,7 @@ title: Truco. Automatizar introducción de texto en comandos
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-09-18 12:00:00
-prev: /
+prev: /es
 next: false
 category:
   - Apple

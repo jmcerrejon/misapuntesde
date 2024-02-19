@@ -4,7 +4,7 @@ title: Deploy con rsync
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-09-27 08:00:00
-prev: /
+prev: /es
 next: false
 category:
   - Developer

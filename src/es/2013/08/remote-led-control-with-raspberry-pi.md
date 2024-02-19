@@ -4,7 +4,7 @@ title: Control remoto de un led con Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-08-09 08:20:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

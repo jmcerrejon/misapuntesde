@@ -4,7 +4,7 @@ title: Progresos en rpix86
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-03-01 09:15:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

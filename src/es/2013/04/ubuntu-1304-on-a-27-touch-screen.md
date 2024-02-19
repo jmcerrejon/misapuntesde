@@ -4,7 +4,7 @@ title: Ubuntu 13.04 en pantalla táctic de 27
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-04-01 08:45:00
-prev: /
+prev: /es
 next: false
 category:
   - Linux

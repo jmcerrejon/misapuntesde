@@ -4,7 +4,7 @@ title: Artículo de la revista Custom PC UK (Mayo 2013)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-03-19 17:05:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

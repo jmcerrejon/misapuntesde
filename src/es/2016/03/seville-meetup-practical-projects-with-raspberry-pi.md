@@ -5,7 +5,7 @@ title: Meetup Sevilla. Plantear proyectos sencillos y prácticos con Raspberry P
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-03-07 11:15:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

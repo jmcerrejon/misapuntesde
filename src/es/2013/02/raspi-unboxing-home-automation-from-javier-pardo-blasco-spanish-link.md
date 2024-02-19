@@ -4,7 +4,7 @@ title: Abriendo la RasPi y domótica de mano de Javier Pardo Blasco
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-02-28 12:40:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

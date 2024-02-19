@@ -4,7 +4,7 @@ title: Eve 0.1 Pi. 2 (Instalador de programas para Raspbian)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-10-01 12:00:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

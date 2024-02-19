@@ -4,7 +4,7 @@ title: Cambiar la dirección MAC de tu Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-09-09 13:00:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

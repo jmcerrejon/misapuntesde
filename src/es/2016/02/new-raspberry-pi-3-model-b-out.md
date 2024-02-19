@@ -4,7 +4,7 @@ title: Nueva Raspberry Pi 3 Modelo B
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-02-29 09:00:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

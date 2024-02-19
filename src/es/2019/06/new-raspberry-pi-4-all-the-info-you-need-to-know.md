@@ -4,7 +4,7 @@ title: Nueva Raspberry Pi 4. toda la información que necesitas saber
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2019-06-24 10:30:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

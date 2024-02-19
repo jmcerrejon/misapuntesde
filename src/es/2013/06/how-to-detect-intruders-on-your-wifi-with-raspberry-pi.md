@@ -4,7 +4,7 @@ title: Como detectar intrusos en tu WIFI con Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-06-10 09:00:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

@@ -4,7 +4,7 @@ title: Practical Raspberry Pi (Ebook)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-06-22 22:00:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

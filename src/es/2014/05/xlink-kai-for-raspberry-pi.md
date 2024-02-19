@@ -4,7 +4,7 @@ title: XLink Kai para Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-05-24 09:02:33
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

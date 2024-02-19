@@ -4,7 +4,7 @@ title: Crea tu propio sistema operativo para Raspbery Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-08-12 11:20:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

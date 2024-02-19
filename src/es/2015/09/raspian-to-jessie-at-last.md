@@ -4,7 +4,7 @@ title: Raspbian por fin en Jessie
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-09-30 09:15:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

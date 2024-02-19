@@ -4,7 +4,7 @@ title: ¡PiMAME 0.8 Beta 1 SD disponible!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-03-03 11:11:09
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

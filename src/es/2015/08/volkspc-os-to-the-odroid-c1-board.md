@@ -4,7 +4,7 @@ title: VOLKSPC OS para ODROID-C1
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-08-26 08:38:00
-prev: /
+prev: /es
 next: false
 category:
   - ODROID

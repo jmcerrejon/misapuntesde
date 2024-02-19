@@ -4,7 +4,7 @@ title: ¡Feliz día de los Reyes Magos!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-01-06 07:36:42
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

@@ -4,7 +4,7 @@ title: Nuevo firmware soluciona los clacks con la salida de audio analógica
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-03-06 15:00:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

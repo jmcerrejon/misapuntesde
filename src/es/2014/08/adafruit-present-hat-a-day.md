@@ -4,7 +4,7 @@ title: Adafruit presenta HAT-A-DAY
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-08-18 09:05:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

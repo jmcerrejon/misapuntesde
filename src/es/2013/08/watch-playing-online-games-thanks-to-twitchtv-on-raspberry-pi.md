@@ -4,7 +4,7 @@ title: Visualiza partidas online en la Raspberry Pi desde twitch.tv
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-08-12 07:19:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

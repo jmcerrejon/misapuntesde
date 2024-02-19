@@ -4,7 +4,7 @@ title: Top Sistemas Operativos actualizados recientemente (Dic 2013)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-12-18 13:22:40
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

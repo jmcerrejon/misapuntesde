@@ -4,7 +4,7 @@ title: PiCore 5.2 para Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-02-05 14:28:36
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

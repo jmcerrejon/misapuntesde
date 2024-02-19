@@ -4,7 +4,7 @@ title: Activar SSH antes del primer arranque en Raspbian
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-07-10 09:31:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

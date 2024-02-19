@@ -4,7 +4,7 @@ title: Instalar RetroPie en BerryBoot 2.0 (pdf)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-05-16 13:00:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

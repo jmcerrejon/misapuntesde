@@ -4,7 +4,7 @@ title: Synergy. Un teclado y ratón para gobernarlos a todos
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-11-30 07:00:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

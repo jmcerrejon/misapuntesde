@@ -4,7 +4,7 @@ title: Streaming de canales en Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-06-19 10:30:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

@@ -4,7 +4,7 @@ title: ¡Gracias!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-07-31 09:10:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

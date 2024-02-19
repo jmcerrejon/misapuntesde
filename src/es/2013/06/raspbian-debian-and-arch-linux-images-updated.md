@@ -4,7 +4,7 @@ title: ¡Nuevas imágenes disponibles de Raspbian, Debian y Arch Linux!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-06-01 17:34:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

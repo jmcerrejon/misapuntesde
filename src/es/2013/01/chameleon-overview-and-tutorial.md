@@ -4,7 +4,7 @@ title: Chameleon. tutorial y revisión
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-31 12:00:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

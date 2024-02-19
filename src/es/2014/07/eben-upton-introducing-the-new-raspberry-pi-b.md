@@ -4,7 +4,7 @@ title: Eben Upton. Presentando la nueva Raspberry Pi B+
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-07-31 08:20:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

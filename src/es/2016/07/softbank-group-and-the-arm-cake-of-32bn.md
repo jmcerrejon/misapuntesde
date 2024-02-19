@@ -4,7 +4,7 @@ title: Softbank Group y el pastel de ARM por 29K millones de Euros
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-07-19 11:00:00
-prev: /
+prev: /es
 next: false
 category:
   - General

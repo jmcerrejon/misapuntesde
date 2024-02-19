@@ -4,7 +4,7 @@ title: Uso de cache en PHP con APC y FastCache
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-05-17 11:40:00
-prev: /
+prev: /es
 next: false
 category:
   - Developer

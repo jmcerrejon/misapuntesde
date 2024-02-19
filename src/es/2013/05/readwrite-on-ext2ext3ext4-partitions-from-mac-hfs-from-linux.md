@@ -4,7 +4,7 @@ title: Leer y escribir en particiones ext2/ext3/ext4 desde Mac y HFS+ desde Linu
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-05-01 08:50:00
-prev: /
+prev: /es
 next: false
 category:
   - Linux

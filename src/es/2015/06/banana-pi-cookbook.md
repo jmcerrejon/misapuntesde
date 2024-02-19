@@ -4,7 +4,7 @@ title: Banana Pi CookBook
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-06-24 12:00:00
-prev: /
+prev: /es
 next: false
 category:
   - Banana Pi

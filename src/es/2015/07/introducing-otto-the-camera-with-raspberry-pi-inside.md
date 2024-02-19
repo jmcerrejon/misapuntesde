@@ -4,7 +4,7 @@ title: Presentando OTTO, la cámara con corazón de Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-07-29 09:35:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

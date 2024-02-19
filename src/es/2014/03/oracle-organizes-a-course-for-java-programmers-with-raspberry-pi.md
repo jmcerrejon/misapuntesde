@@ -4,7 +4,7 @@ title: Oracle organiza un curso de Java con Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-03-20 07:09:39
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

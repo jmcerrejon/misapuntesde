@@ -4,7 +4,7 @@ title: Raspberry Pi y Bluetooth
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-09-11 09:40:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

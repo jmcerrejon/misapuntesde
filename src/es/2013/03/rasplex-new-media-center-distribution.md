@@ -4,7 +4,7 @@ title: RasPlex. Nueva distribución Media Center
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-03-18 13:40:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

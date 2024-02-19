@@ -4,7 +4,7 @@ title: IP estática con network manager
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-08-23 08:00:00
-prev: /
+prev: /es
 next: false
 category:
   - General

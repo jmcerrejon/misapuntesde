@@ -4,7 +4,7 @@ title: Busco colaborador para portar juegos en Allegro y SDL
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-09-28 08:15:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

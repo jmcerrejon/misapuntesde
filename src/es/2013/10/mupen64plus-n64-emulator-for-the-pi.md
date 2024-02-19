@@ -4,7 +4,7 @@ title: Mupen64Plus - Emulador de N64 para la Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-10-04 09:20:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

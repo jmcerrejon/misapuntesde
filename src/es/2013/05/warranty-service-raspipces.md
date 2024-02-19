@@ -4,7 +4,7 @@ title: Servicio de garantía. Raspipc.es
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-05-30 10:45:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

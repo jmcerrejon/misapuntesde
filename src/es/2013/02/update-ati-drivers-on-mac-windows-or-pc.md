@@ -4,7 +4,7 @@ title: Actualizar drivers ATI en equipos Mac (Windows) o PC
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-02-27 13:30:00
-prev: /
+prev: /es
 next: false
 category:
   - General

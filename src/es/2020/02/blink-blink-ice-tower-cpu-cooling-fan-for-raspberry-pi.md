@@ -4,7 +4,7 @@ title: Blink Blink ICE Tower CPU Cooling Fan para la Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2020-02-11 13:03:36
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

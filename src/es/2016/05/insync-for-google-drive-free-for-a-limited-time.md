@@ -4,7 +4,7 @@ title: Insync, cliente Google Drive, gratis por tiempo limitado
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-05-18 10:00:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

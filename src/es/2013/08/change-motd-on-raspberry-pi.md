@@ -4,7 +4,7 @@ title: Cambiar el MOTD en Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-08-17 10:05:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

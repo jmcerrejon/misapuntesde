@@ -4,7 +4,7 @@ title: Creando videojuegos para Amstrad CPC con la Raspberry Pi/ODROID
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-05-13 07:35:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

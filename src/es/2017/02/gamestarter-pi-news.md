@@ -4,7 +4,7 @@ title: Novedades Gamestarter-Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-02-07 10:30:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

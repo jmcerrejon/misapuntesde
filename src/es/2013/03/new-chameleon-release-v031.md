@@ -4,7 +4,7 @@ title: Nuevo chameleon v.0.3.1
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-03-28 18:25:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

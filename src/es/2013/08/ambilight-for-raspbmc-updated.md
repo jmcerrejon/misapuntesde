@@ -4,7 +4,7 @@ title: Actualización Ambilight para Raspbmc
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-08-08 10:30:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

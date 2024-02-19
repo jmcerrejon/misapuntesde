@@ -4,7 +4,7 @@ title: Raspberry Pi Home Automation with Arduino (Ebook)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-04-07 07:20:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

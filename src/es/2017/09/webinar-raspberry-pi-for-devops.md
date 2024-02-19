@@ -4,7 +4,7 @@ title: Webinar Raspberry Pi para Devops
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-09-12 12:20:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

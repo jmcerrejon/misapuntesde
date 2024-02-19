@@ -4,7 +4,7 @@ title: alpinOS. Liberada nueva versión para Raspberry Pi 4
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2020-04-21 13:59:09
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

@@ -4,7 +4,7 @@ title: Retropie - Guía para Arch Linux
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-06-04 10:00:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

@@ -4,7 +4,7 @@ title: Raspberry Pi 3 Model A+
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2018-11-21 20:00:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

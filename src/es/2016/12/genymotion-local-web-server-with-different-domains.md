@@ -4,7 +4,7 @@ title: Genymotion + Servidor web local con diferentes dominios
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-12-01 16:15:00
-prev: /
+prev: /es
 next: false
 category:
   - Developer

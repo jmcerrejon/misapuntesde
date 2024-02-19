@@ -4,7 +4,7 @@ title: Acceder desde Internet a tu Raspberry Pi. IPs dinámicas, puertos, DNS y 
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-15 11:45:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

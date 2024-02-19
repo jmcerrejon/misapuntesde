@@ -4,7 +4,7 @@ title: KidsRuby, enseña a programar a los más jóvenes, y ahora disponible par
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-16 14:45:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

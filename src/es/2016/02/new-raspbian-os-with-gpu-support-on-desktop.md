@@ -4,7 +4,7 @@ title: Nueva versión de Raspbian con soporte en escritorio de GPU
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-02-10 10:00:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

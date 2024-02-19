@@ -4,7 +4,7 @@ title: Raspbian Server Edition 2.4
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-06-13 10:10:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

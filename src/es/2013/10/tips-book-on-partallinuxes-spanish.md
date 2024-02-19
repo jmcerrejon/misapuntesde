@@ -4,7 +4,7 @@ title: Libro de Trucos en PortalLinux.es
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-10-08 13:00:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

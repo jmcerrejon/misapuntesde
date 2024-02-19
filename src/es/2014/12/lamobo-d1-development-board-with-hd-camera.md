@@ -4,7 +4,7 @@ title: Lamobo D1. placa de desarrollo con cámara HD
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-12-01 11:40:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

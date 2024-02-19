@@ -4,7 +4,7 @@ title: Lessbian. Raspbian Jessie para servidores
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-09-22 07:45:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

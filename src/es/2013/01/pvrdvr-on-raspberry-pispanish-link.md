@@ -4,7 +4,7 @@ title: PVR/DVR en Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-28 12:40:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

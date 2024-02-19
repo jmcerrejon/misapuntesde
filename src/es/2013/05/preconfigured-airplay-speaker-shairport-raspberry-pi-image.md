@@ -4,7 +4,7 @@ title: Imagen Raspbian con AirPlay preconfigurado (Shairport)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-05-02 13:45:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

@@ -4,7 +4,7 @@ title: Lo mejor de este año 2013 en Mis Apuntes de…
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-01-01 09:04:43
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

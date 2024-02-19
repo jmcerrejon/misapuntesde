@@ -4,7 +4,7 @@ title: Beginning Sensor Networks with Arduino and Raspberry Pi (Ebook)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-12-23 10:48:32
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

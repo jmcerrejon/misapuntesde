@@ -4,7 +4,7 @@ title: NodeOS. Sistema operativo ligero usando Node.js
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-12-02 10:10:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

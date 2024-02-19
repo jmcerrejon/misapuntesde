@@ -4,7 +4,7 @@ title: Minimal Debian Wheezy+Plex en ODROID-C1
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-08-05 08:10:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

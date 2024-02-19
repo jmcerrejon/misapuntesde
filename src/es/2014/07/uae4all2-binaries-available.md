@@ -4,7 +4,7 @@ title: uae4all2. ¡Binarios ya disponibles!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-07-02 08:33:32
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

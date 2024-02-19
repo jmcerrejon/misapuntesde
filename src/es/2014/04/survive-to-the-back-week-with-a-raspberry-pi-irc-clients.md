@@ -4,7 +4,7 @@ title: Sobrevivir a la Semana Negra con la Raspberry Pi. Clientes IRC
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-04-30 09:45:21
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

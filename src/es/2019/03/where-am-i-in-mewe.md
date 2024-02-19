@@ -4,7 +4,7 @@ title: ¿Dónde estoy?... ¡En MeWe!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2019-03-30 11:00:00
-prev: /
+prev: /es
 next: false
 category:
   - General

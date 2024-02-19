@@ -4,7 +4,7 @@ title: Especial cámaras en Raspberry Pi (II Parte)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-10-24 13:00:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

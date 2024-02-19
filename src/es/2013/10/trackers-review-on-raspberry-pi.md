@@ -4,7 +4,7 @@ title: Especial Trackers en Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-10-07 07:00:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

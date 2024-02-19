@@ -4,7 +4,7 @@ title: Actualizado script para instalar Return to Castle Wolfenstein
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-03-19 11:15:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

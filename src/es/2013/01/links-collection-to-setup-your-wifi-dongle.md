@@ -4,7 +4,7 @@ title: Recopilación de enlaces para configurar tu WIFI
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-30 11:00:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

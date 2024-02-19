@@ -4,7 +4,7 @@ title: PiMAME 0.4 disponible!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-15 10:20:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

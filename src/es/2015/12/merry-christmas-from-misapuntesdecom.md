@@ -4,7 +4,7 @@ title: Felices fiestas desde misapuntesde.com
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-12-28 11:25:00
-prev: /
+prev: /es
 next: false
 category:
   - General

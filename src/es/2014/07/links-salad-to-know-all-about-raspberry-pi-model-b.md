@@ -4,7 +4,7 @@ title: Ensalada de enlaces para conocer la Raspberry Pi Modelo B+
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-07-17 09:25:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

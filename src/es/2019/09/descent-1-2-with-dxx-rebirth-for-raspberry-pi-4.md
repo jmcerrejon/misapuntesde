@@ -4,7 +4,7 @@ title: Descent 1 & 2 con DXX-Rebirth en tu Raspberry Pi 4
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2019-09-17 10:45:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI

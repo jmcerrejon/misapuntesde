@@ -4,7 +4,7 @@ title: Front end para emuladores attract mode
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-10-07 08:00:00
-prev: /
+prev: /es
 next: false
 category:
   - Raspberry PI
