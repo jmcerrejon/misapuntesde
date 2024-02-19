@@ -5,3 +5,4 @@ src/.vuepress/.temp/
 src/.vuepress/dist/
 tools/venv
 src/.vuepress/public/res
+tools/.env
