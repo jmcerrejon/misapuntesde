@@ -23,9 +23,9 @@ if [[ ! -e $TOOLS_DIR/.env ]]; then
     exit 1
 fi
 
-if [[ ! -d $DIST_DIR ]]; then
-    echo "Can't found directory $DIST_DIR. Building the project..."
-    npm run docs:build || exit 1
+if [[ -d $DIST_DIR ]]; then
+    echo "Removing $DIST_DIR..."
+    rm -rf $DIST_DIR
 fi
 
 # shellcheck source=/dev/null
@@ -85,6 +85,12 @@ function cleanup() {
     fi
 }
 
+function build() {
+    echo "Building dist..."
+    npm run docs:build || exit 1
+}
+
+build
 # Smell code approaching, It's too late here. I'll refactor it later (Not promise).
 if [[ -e $DIST_FILENAME ]]; then
     read -p "Do you want to delete the current $DIST_FILENAME? (Y/n) " response
