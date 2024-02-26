@@ -66,7 +66,7 @@ Use == == to mark. ==highlighted==
 
 - Frontmatter reference: https://vuejs.press/reference/frontmatter.html#description
 
-- Icons: ['fa-brands fa-raspberry-pi', 'fa-brands fa-apple', 'fa-solid fa-code', 'fa-regular fa-newspaper', 'fa-solid fa-mobile-button']
+- Icons: ['fa-brands fa-raspberry-pi', 'fa-brands fa-apple', 'fa-solid fa-code', 'fa-regular fa-newspaper', 'fa-solid fa-mobile-button', 'fa-brands fa-linux']
 
 ## Links
 
