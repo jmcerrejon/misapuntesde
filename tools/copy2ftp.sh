@@ -73,7 +73,7 @@ function extract_on_ftp() {
         exit 1
     fi
     echo "Extracting & deleting file on FTP server..."
-    ssh "$FTP_USER@$FTP_HOST" "tar -xzf $DIST_FILENAME && rm -rf $DIST_FILENAME"
+    ssh "$FTP_USER@$FTP_HOST" "tar xzf $DIST_FILENAME; rm $DIST_FILENAME"
     echo "Done!"
 }
 
