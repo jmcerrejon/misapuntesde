@@ -46,6 +46,11 @@ function compress() {
     echo "Compress in progress..."
     cd $DIST_DIR || exit 1
 
+    # If macOS, run COPYFILE_DISABLE=1 to avoid .DS_Store or ._ files
+    if [[ "$OSTYPE" == "darwin"* ]]; then
+        COPYFILE_DISABLE=1
+    fi
+
     if [[ "$INCREMENTAL_UPLOAD" == "true" ]]; then
         tar -czf ../../../$DIST_FILENAME .
     else
