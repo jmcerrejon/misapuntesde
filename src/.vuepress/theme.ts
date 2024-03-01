@@ -25,7 +25,7 @@ export default hopeTheme({
       Discord: "https://discord.com/invite/Y7WFeC5",
       Email: "mailto:ulysess@gmail.com",
       GitHub: "https://github.com/jmcerrejon",
-      Linkedin: "https://www.linkedin.com/in/jmcerrejon",
+      Linkedin: "https://www.linkedin.com/in/jmcerrejon/?locale=en_US",
       Rss: "https://misapuntesde.com/rss.xml",
       Twitter: "https://x.com/ulysess10",
       Youtube: "https://www.youtube.com/c/josecerrejonpi",

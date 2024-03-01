@@ -7,7 +7,7 @@ article: false
 
 While I wrote these lines, I'm listening _This is Gallifrey_ from _Doctor Who_ (I recommend you listen it right now as you read what's coming)...
 
-My name is **Jose Cerrejon Gonzalez** and I live in **_Huelva (Spain)_**. I'm Freelance and you can visit my **LinkedIn** profile [here](https://es.linkedin.com/in/jmcerrejon/).
+My name is **Jose Cerrejon Gonzalez** and I live in **_Huelva (Spain)_**. I'm Freelance and you can visit my **LinkedIn** profile [here](https://www.linkedin.com/in/jmcerrejon/?locale=en_US).
 
 I was born in 1977. _Cancer_ sign. I'm married, I have a daughter, a brother, the Apple's pack (you know: _iPhone, iPad, Macbook Pro_) and a bunch of boards, including _Raspberry Pis, ODROID, etc_.
 
@@ -51,6 +51,6 @@ Thank you for visiting and I hope you come back soon!.
 
 Twitter: [@ulysess10](https://twitter.com/ulysess10)
 
-LinkedIn: [es.linkedin.com/in/jmcerrejon/](https://es.linkedin.com/in/jmcerrejon/)
+LinkedIn: [es.linkedin.com/in/jmcerrejon/](https://www.linkedin.com/in/jmcerrejon/?locale=en_US)
 
 GitHub: [jmcerrejon](https://github.com/jmcerrejon)
