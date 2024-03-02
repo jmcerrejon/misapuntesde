@@ -26,44 +26,6 @@ npm run docs:build
 
 You have some python code on /tools to convert json exported from MySQL to markdown & check broken URL links.
 
-## Cheat sheet
-
-### Images
-
-```markdown
-![Alt text](/path/to/img.jpg "Optional title")
-```
-
-### Text
-
-```markdown
-::: important Custom important
-...
-:::
-
-::: info Custom info
-...
-:::
-
-::: note Custom note
-...
-:::
-
-::: tip Custom tip
-...
-:::
-
-::: warning Custom warning
-...
-:::
-
-::: caution Custom caution
-...
-:::
-
-Use == == to mark. ==highlighted==
-```
-
 - Frontmatter reference: https://vuejs.press/reference/frontmatter.html#description
 
 - Icons: ['fa-brands fa-raspberry-pi', 'fa-brands fa-apple', 'fa-solid fa-code', 'fa-regular fa-newspaper', 'fa-solid fa-mobile-button', 'fa-brands fa-linux']
