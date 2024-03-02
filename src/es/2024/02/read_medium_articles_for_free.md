@@ -3,6 +3,8 @@ title: Leer artículos de Medium de forma gratuita
 icon: fa-regular fa-newspaper
 author: Jose Cerrejon
 date: 2024-02-26
+prev: /es/
+next: false
 category:
   - General
 tags:
