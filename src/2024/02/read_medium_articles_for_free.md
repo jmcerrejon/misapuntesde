@@ -27,7 +27,7 @@ https://webcache.googleusercontent.com/search?q=cache:
 https://webcache.googleusercontent.com/search?q=cache:https://medium.com/@josecerrejon/how-i-migrated-from-php-to-vuepress-2-part-ii-3b3e3e3e3e3e
 ```
 
-I've tested and It doesn't works on _Safari_, but It does on _Brave_. I have to say that it does not always work, especially in cases where the article is very recent, but in most cases, It does.
+I've tested and It doesn't works on _Safari_, but It does on _Brave_. I have to say that it does not always work, especially in cases where the article is very recent, but in most cases, It works.
 
 Now you will be able to read it without any problem.
 
