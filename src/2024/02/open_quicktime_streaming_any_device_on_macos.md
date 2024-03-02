@@ -16,7 +16,7 @@ tags:
 
 ![Open Quicktime](/images/2024/02/open_usb_device.png "Open Quicktime shortcut")
 
-This is one of those things that you do every day, and the flow is very boring: _Open Quicktime, cancel the box dialog, Go to Menu > File > New Movie Recording_, and then select the device. I mainly use it to view the signal from a _USB video capture_ device, which works much better than doing it via _VNC, Remote Desktop_, or similar. In addition, these types of capture devices are very cheap.
+This is one of those things that I do every day, and the flow is very boring: _Open Quicktime, cancel the box dialog, Go to File > File > New Movie Recording_, and then select the device. I mainly use it to view the signal from a _USB video capture_ device, which works much better than doing it via _VNC, Remote Desktop_, or similar. In addition, these types of capture devices are very cheap.
 
 So today I'm going to show you how to open _Quicktime_ and start streaming a device on _macOS_ using the command line or making an _Automator_ script.
 
