@@ -40,7 +40,7 @@ Realmente _Vuepress 2_ no es la mejor opción para un blog si no eres un experto
 Una de las cosas que me gusta del sitio antiguo es que lo desarrollé desde cero en cinco días. La versión con _Vuepress_ me llevó alrededor de 2 semanas, incluso cuando utilicé un _theme increíble_ con todas las características que necesitaba. La estructura del antiguo sitio es simple como se puede ver en la imagen de arriba. La tecnología utilizada fue:
 
 - **Frontend**: HTML, CSS, JavaScript, jQuery, Bootstrap 4, [raintpl3](https://github.com/feulf/raintpl3) como PHP template engine, y Google Fonts.
-- **Backend**: PHP 5.5 y luego la adapté a 7,2.
+- **Backend**: PHP 5.5 y luego la adapté a 7.2.
 - **Database**: MySQL 5.x.
 
 Echemos un vistazo a los _include_ del archivo _index.php_:

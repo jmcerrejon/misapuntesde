@@ -23,6 +23,10 @@ This is the second part of the series of articles about how has been the experie
 
 ![Vue logo](/images/2024/03/vuepress_logo.png "Vue logo")
 
+::: info
+If you prefer, you can read this post at _Medium_, you can here: [How I migrated from PHP to Vuepress 2 (Part II)](https://medium.com/@ulysess/how-i-migrated-from-php-to-vuepress-2-part-ii-6de245d6f8a1), or go to the first part: [How I migrated from PHP to Vuepress 2 (Part I)](https://medium.com/@ulysess/how-i-migrated-from-php-to-vuepress-2-part-i-aa440ecf9e85)
+:::
+
 _Vue_ is a progressive framework for building user interfaces. Unlike other monolithic frameworks, _Vue_ is designed from the ground up to be incrementally adoptable. The **core library focuses on the view layer only**, and I's easy to integrate with other libraries or existing projects.
 
 _VuePress_ is a minimalistic _Vue-powered_ static site **generator from _Evan You_, the creator of _Vue.js_.** It was built to support the documentation needs of _Vue’s_ projects. By default, the generated theme comes optimized for technical documentation. Now It's maintained by the community (It's not activelly maintained).
@@ -40,7 +44,7 @@ Actually _Vuepress 2_ is not the best option for a blog If you are not an expert
 One of the things I like about the old site is I developed it from scratch in five days. The _Vuepress_ version took me around 2 weeks, even when I've used a fantastic theme with all the features I need and more. The structure of the old site is simple as you can see in the image above this paragraph. The technology used was:
 
 - **Frontend**: HTML, CSS, JavaScript, jQuery, Bootstrap 4, [raintpl3](https://github.com/feulf/raintpl3) as PHP template engine, and Google Fonts.
-- **Backend**: PHP 5.5 and later adapted to 7,2.
+- **Backend**: PHP 5.5 and later adapted to 7.2.
 - **Database**: MySQL 5.x.
 
 So the flow is simple. Let's check out the includes of the file _index.php_:
