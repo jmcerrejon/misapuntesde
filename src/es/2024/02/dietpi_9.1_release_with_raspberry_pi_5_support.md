@@ -6,7 +6,7 @@ date: 2024-02-26
 prev: /es/
 next: false
 category:
-  - Raspberry Pi
+  - Raspberry PI
 tags:
   - diet-pi
   - os

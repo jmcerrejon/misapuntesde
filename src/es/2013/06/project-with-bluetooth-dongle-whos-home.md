@@ -25,4 +25,4 @@ En este caso concreto, nos avisará cuando entramos o salimos de casa, pero las 
 
 Tenéis los detalles en el siguiente enlace.
 
-Enlace: [instructables.com - Raspberry Pi Bluetooth In/Out Board or "Who's Home"](http://www.instructables.com/id/Raspberry-Pi-Bluetooth-InOut-Board-or-Whos-Hom/)
+Enlace: [instructables.com - Raspberry PI Bluetooth In/Out Board or "Who's Home"](http://www.instructables.com/id/Raspberry-Pi-Bluetooth-InOut-Board-or-Whos-Hom/)

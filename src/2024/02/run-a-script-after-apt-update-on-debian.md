@@ -11,7 +11,7 @@ tags:
   - DevOps
   - Tips
   - Tutorial
-  - Raspberry Pi
+  - Raspberry PI
 ---
 # Run a script after running apt-get update on a Debian or Ubuntu Linux
 

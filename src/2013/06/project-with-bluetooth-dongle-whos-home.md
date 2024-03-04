@@ -25,4 +25,4 @@ In this case, It tell you when we enter or leave home, but the possibilities of 
 
 You have the details in the link below.
 
-Link: [instructables.com - Raspberry Pi Bluetooth In/Out Board or "Who's Home"](http://www.instructables.com/id/Raspberry-Pi-Bluetooth-InOut-Board-or-Whos-Hom/)
+Link: [instructables.com - Raspberry PI Bluetooth In/Out Board or "Who's Home"](http://www.instructables.com/id/Raspberry-Pi-Bluetooth-InOut-Board-or-Whos-Hom/)

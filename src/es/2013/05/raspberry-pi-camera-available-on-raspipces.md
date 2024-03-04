@@ -18,4 +18,4 @@ tag:
 
 Lo acabo de leer en *Twitter* y no me lo creo. Los chicos de [raspipc.es](http://raspipc.es) tienen la ansiada cámara para tus proyectos. ¡Corre que vuelan!
 
-Enlace tienda: [raspipc.es - Raspberry Pi camera module](http://raspipc.es/tienda.php?ver=articulo&id=1081)
+Enlace tienda: [raspipc.es - Raspberry PI camera module](http://raspipc.es/tienda.php?ver=articulo&id=1081)

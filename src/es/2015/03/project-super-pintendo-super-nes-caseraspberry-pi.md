@@ -28,7 +28,7 @@ Todo es muy chapucero porque ADVIERTO, es la primera vez que hago un mod o como 
 
 - Super Nes defectuosa (pagué 10€ por ella en eBay).
 
-- Raspberry Pi B+ (desgraciadamente, la Raspberry Pi 2 de 1Gb de RAM aún no había salido, pero menos el emulador de N64 y el de PSX, todos van perfecto).
+- Raspberry PI B+ (desgraciadamente, la Raspberry Pi 2 de 1Gb de RAM aún no había salido, pero menos el emulador de N64 y el de PSX, todos van perfecto).
 
 - Microsd de 32Gb con la distro Retropie. (en Amazon).
 

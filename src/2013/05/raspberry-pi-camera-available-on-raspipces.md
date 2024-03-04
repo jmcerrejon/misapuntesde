@@ -20,4 +20,4 @@ tag:
 
 I just read on *Twitter* and I can't believe it. The guys from [raspipc.es](http://raspipc.es) have the desired camera to your projects. Run to take one!
 
-Link: [raspipc.es - Raspberry Pi camera module](http://raspipc.es/tienda.php?ver=articulo&id=1081)
+Link: [raspipc.es - Raspberry PI camera module](http://raspipc.es/tienda.php?ver=articulo&id=1081)

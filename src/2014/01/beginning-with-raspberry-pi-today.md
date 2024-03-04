@@ -39,7 +39,7 @@ Fran&ccedil;ais:
 
 * [Le RaspberryPi : Personnalisation du syst&egrave;me Gnu/Linux (Raspbian) de base - pdf](http://www.mon-club-elec.fr/mes_downloads/doc_raspberrypi/rasperrypi_personnalisation_du_systeme_de_base.pdf)
 
-* [Guide - Raspberry Pi - pdf](http://tge.cmaisonneuve.qc.ca/barbaud/Références%20techniques/Raspberry%20Pi/Raspi.pdf)
+* [Guide - Raspberry PI - pdf](http://tge.cmaisonneuve.qc.ca/barbaud/Références%20techniques/Raspberry%20Pi/Raspi.pdf)
 
 Deutsch:
 
