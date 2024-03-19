@@ -46,15 +46,11 @@ function compress() {
     echo "Compress in progress..."
     cd $DIST_DIR || exit 1
 
-    # If macOS, run COPYFILE_DISABLE=1 to avoid .DS_Store or ._ files
-    if [[ "$OSTYPE" == "darwin"* ]]; then
-        COPYFILE_DISABLE=1
-    fi
 
     if [[ "$INCREMENTAL_UPLOAD" == "true" ]]; then
-        tar -czf ../../../$DIST_FILENAME .
+        COPYFILE_DISABLE=1 tar -czf ../../../$DIST_FILENAME .
     else
-        tar -czf ../../../$DIST_FILENAME .
+        COPYFILE_DISABLE=1 tar -czf ../../../$DIST_FILENAME .
     fi
 
     cd - || exit 1
@@ -66,10 +62,7 @@ function upload_to_ftp() {
         compress
     fi
     echo "Uploading to FTP server..."
-    ftp ftp://"$FTP_USER:$FTP_PASS@$FTP_HOST" <<END_SCRIPT
-put ./$DIST_FILENAME /$DIST_FILENAME
-quit
-END_SCRIPT
+    rsync -avz -e ssh ./$DIST_FILENAME "$FTP_USER@$FTP_HOST:~"
 }
 
 function extract_on_ftp() {
