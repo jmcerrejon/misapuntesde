@@ -6,8 +6,8 @@ date: 2024-03-20
 category:
   - Developer
 tags:
-  - SOLID
   - PHP
+  - SOLID
   - Developer
   - Design Patterns
 ---
