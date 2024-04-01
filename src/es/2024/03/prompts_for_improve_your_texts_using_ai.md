@@ -11,7 +11,7 @@ tags:
 ---
 # Prompts para mejorar tus textos usando Inteligencia Artificial
 
-![AI](/images/2024/03/ai_writing.png "Soy el chico bueno... por ahora")
+![Soy el chico bueno... por ahora](/images/2024/03/ai_writing.png "Soy el chico bueno... por ahora. Generado con AI.")
 
 Todos los prompts se extraen de la aplicación [Fixkey](https://fixkey.app/). Es una aplicación que utiliza la IA para ayudarte a escribir mejor. Proporciona prompts para mejorar tu escritura, corregir la gramática,... Disponible para _macOS_, la he usado bastante estos días, pero es una versión de prueba y, desafortunadamente, no tengo dinero para suscribirme a la aplicación en este momento. Si tú puedes hacerlo, te lo recomiendo.
 

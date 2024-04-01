@@ -13,17 +13,17 @@ tags:
 ---
 # Principios SOLID PHP Edition. Hoy: Principio de responsabilidad única
 
-![Principio de responsabilidad única](/images/2024/03/solid.jpg "Principio de responsabilidad única. Generated with AI.")
+![Principio de responsabilidad única](/images/2024/03/solid.jpg "Principio de responsabilidad única. Generado con AI.")
 
 En el noble arte de la codificación, debes recordar siempre los **principios SOLID**. He aquí una breve explicación de cada uno de ellos:
 
 - - -
 
-* _Principio de responsabilidad única (Single Responsibility Principle)_: Una clase debe tener una sola razón para cambiar.
-* _Principio Abierto/Cerrado (Open/Closed Principle)_: Una clase debe estar abierta a ampliaciones pero cerrada a modificaciones.
-* _Principio de sustitución de Liskov (Liskov Substitution Principle)_: Deberías poder usar cualquier subclase en lugar de su clase padre.
-* _Principio de segregación de interfaces (Interface Segregation Principle)_: Una clase no debe ser forzada a implementar una interfaz que no utiliza.
-* _Principio de inversión de dependencias (Dependency Inversion Principle)_: Los módulos de alto nivel no deben depender de módulos de bajo nivel. Ambos deben depender de abstracciones.
+* **Principio de responsabilidad única (Single Responsibility)**: Una clase debe tener una sola razón para cambiar.
+* _[Principio Abierto/Cerrado (Open/Closed)](https://misapuntesde.com/es/2024/03/solid_principles_php_edition_single_responsibility_principle.html)_: Una clase debe estar abierta a ampliaciones pero cerrada a modificaciones.
+* _[Principio de sustitución de Liskov (Liskov Substitution)](https://misapuntesde.com/es/2024/04/solid_principles_php_edition_liskov_substitution_principle.html)_: Deberías poder usar cualquier subclase en lugar de su clase padre.
+* _Principio de segregación de interfaces (Interface Segregation)_: Una clase no debe ser forzada a implementar una interfaz que no utiliza.
+* _Principio de inversión de dependencias (Dependency Inversion)_: Los módulos de alto nivel no deben depender de módulos de bajo nivel. Ambos deben depender de abstracciones.
 
 Hoy nos vamos a centrar en el **Principio de Responsabilidad Única**.
 
@@ -81,7 +81,7 @@ $total = $order->calculateTotal();
 echo "Total: $" . $total; // Total: $7.98
 ```
 
-El _principio de responsabilidad única (SRP, por sus siglas en inglés)_ establece que una clase debe tener una única razón para cambiar. Esto significa que una clase debe tener una única responsabilidad y no debe tener más de una razón para ser modificada.
+El _principio de responsabilidad única (SRP, por sus siglas en inglés)_ establece que una clase debe tener una única razón para cambiar. Esto significa que ==una clase debe tener una única responsabilidad y no debe tener más de una razón para ser modificada==.
 
 En el código que muestro arriba, podemos identificar dos clases: _Order y Item_. Estas clases siguen el principio de responsabilidad única, ya que **cada una tiene una única responsabilidad** y no tienen más de una razón para cambiar.
 

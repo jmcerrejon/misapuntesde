@@ -1,5 +1,5 @@
 ---
-title: SOLID principles PHP Edition. Today, Open/Closed Principle
+title: Principios SOLID PHP Edition. Hoy, Principio Abierto/Cerrado
 icon: fa-solid fa-code
 author: Jose Cerrejon
 date: 2024-03-22
@@ -11,21 +11,21 @@ tags:
   - Developer
   - Design Patterns
 ---
-# SOLID principles PHP Edition. Hoy: el principio Open/Closed
+# Principios SOLID PHP Edition. Hoy: el principio Abierto/Cerrado
 
-![Principio Open/Closed](/images/2024/03/open_close.jpg "Principio Open/Closed. Generated with AI.")
+![Principio Abierto/Cerrado](/images/2024/03/open_close.jpg "Principio Abierto/Cerrado. Generado con AI.")
 
-Hoy nos centraremos en el **Principio SOLID Open/Closed**.
+Hoy nos centraremos en el **Principio SOLID Abierto/Cerrado (Open/Closed)**.
 
 - - -
 
 En primer lugar, aquí tienes los cuatro principios de _SOLID_ para que se quede grabado a fuego en tu mente:
 
-* _[Principio de responsabilidad única (Single Responsibility Principle)](/es/2024/03/solid_principles_php_edition_single_responsibility_principle)_: Una clase debe tener una sola razón para cambiar.
-* _Principio Abierto/Cerrado (Open/Closed Principle)_: Una clase debe estar abierta a ampliaciones pero cerrada a modificaciones.
-* _Principio de sustitución de Liskov (Liskov Substitution Principle)_: Deberías poder usar cualquier subclase en lugar de su clase padre.
-* _Principio de segregación de interfaces (Interface Segregation Principle)_: Una clase no debe ser forzada a implementar una interfaz que no utiliza.
-* _Principio de inversión de dependencias (Dependency Inversion Principle)_: Los módulos de alto nivel no deben depender de módulos de bajo nivel. Ambos deben depender de abstracciones.
+* _[Principio de responsabilidad única (Single Responsibility)](https://misapuntesde.com/es/2024/03/solid_principles_php_edition_single_responsibility_principle.html)_: Una clase debe tener una sola razón para cambiar.
+* **Principio Open/Closed (Open/Closed)**: Una clase debe estar abierta a ampliaciones pero cerrada a modificaciones.
+* [Principio de sustitución de Liskov (Liskov Substitution)](https://misapuntesde.com/es/2024/04/solid_principles_php_edition_liskov_substitution_principle.html)_: Deberías poder usar cualquier subclase en lugar de su clase padre.
+* _Principio de segregación de interfaces (Interface Segregation)_: Una clase no debe ser forzada a implementar una interfaz que no utiliza.
+* _Principio de inversión de dependencias (Dependency Inversion)_: Los módulos de alto nivel no deben depender de módulos de bajo nivel. Ambos deben depender de abstracciones.
 
 El principio _Open/Closed_ establece que _"las entidades de software (clases, módulos, funciones, etc.) deben estar abiertas para la extensión, pero cerradas para la modificación"_. Vamos, que una vez una entidad de software está desarrollada y probada, debería ser posible extender su comportamiento sin tener que modificar su código fuente.
 
@@ -66,7 +66,9 @@ class AreaCalculator {
 }
 ```
 
-En este ejemplo, si quisieras añadir una nueva forma, tendrías que modificar la clase `AreaCalculator` y añadir una nueva condición en el método `calculate`. Esto viola el principio Abierto/Cerrado.
+En este ejemplo, si quisieras añadir una nueva forma, tendrías que modificar la clase `AreaCalculator` y añadir una nueva condición en el método `calculate`. En otras palabras, el _principio Open/Closed_ dice que ==deberías poder añadir nuevas funcionalidades a una clase sin modificarla==.
+
+El ejemplo anterior viola el _principio Open/Closed_.
 
 Una mejor manera de hacerlo sería definir un método `area` en cada forma y luego llamar a ese método en `AreaCalculator`:
 

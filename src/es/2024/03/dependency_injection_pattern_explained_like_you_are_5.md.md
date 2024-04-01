@@ -11,7 +11,7 @@ tags:
 ---
 # Inyección de dependencia como si tuvieras 5 años
 
-![dep injection](/images/2024/03/turkey.png "¿Por qué he elegido este ejemplo para explicar la inyección de dependencias?")
+![dep injection](/images/2024/03/turkey.png "¿Por qué he elegido este ejemplo para explicar la inyección de dependencias?. Generado con AI.")
 
 Hoy me lo han preguntado en una entrevista de trabajo, y me ha parecido una forma muy sencilla de explicar la inyección de dependencia. Os dejo la explicación que he dado, un poco más extendida (a mi entrevistadora seguro que le ha explotado la cabeza):
 

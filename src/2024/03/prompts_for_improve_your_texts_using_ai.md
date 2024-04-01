@@ -11,7 +11,7 @@ tags:
 ---
 # Prompts for improve your texts using Artificial Intelligence
 
-![AI](/images/2024/03/ai_writing.png "I'm the good guy... for now")
+![I'm the good guy... for now](/images/2024/03/ai_writing.png "I'm the good guy... for now. Generated with AI.")
 
 All prompts are extracted from the app [Fixkey](https://fixkey.app/). It's an app that uses AI to help you write better. It provides prompts to improve your writing, fix grammar,... Available for _macOS_, I use it a lot, but It's a trial version, and unfortunately, I don't have the money to subscribe to the app right now. If you can afford it, I recommend it.
 

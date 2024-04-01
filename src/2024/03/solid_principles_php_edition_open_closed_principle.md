@@ -22,8 +22,8 @@ Today, let's focus on the **Open/Closed Principle**.
 First of all, here you have the four principles of SOLID:
 
 * _[Single Responsibility Principle](https://misapuntesde.com/2024/03/solid_principles_php_edition_single_responsibility_principle.html)_: A class should have only one reason to change.
-* _Open/Closed Principle_: A class should be open for extension but closed for modification.
-* _Liskov Substitution Principle_: You should be able to use any subclass in place of its parent class.
+* **Open/Closed Principle**: A class should be open for extension but closed for modification.
+* _[Liskov Substitution Principle](https://misapuntesde.com/2024/04/solid_principles_php_edition_liskov_substitution_principle.html)_: You should be able to use any subclass in place of its parent class.
 * _Interface Segregation Principle_: A class should not be forced to implement an interface it doesn't use.
 * _Dependency Inversion Principle_: High-level modules should not depend on low-level modules. Both should depend on abstractions.
 
@@ -66,7 +66,9 @@ class AreaCalculator {
 }
 ```
 
-In this example, if you wanted to add a new form, you would have to modify the `AreaCalculator` class and add a new condition in the `calculate`method. This violates the Open/Closed principle.
+In this example, if you wanted to add a new form, you would have to modify the `AreaCalculator` class and add a new condition in the `calculate`method. In other words, Open/Closed principle said that ==you should be able to add new functionality to a class without modifying it==.
+
+The example above violates the _Open/Closed principle_.
 
 A better way to do this would be to define a `area` method in each form and then call that method in `AreaCalculator`:
 

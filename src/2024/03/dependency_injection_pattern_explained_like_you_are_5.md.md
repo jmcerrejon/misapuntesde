@@ -11,7 +11,7 @@ tags:
 ---
 # Dependency injection pattern explained like you're 5
 
-![dep injection](/images/2024/03/turkey.png "Why I choose that example for explaining dependency injection?")
+![dep injection](/images/2024/03/turkey.png "Why I choose that example for explaining dependency injection?. Generated with AI.")
 
 Today I was asked this question in a job interview, and I found it to be a very simple way to explain dependency injection. Here's the explanation I gave, a bit more detailed (I'm sure it blew my interviewer's mind):
 

@@ -19,9 +19,9 @@ In the noble art of coding, you should remember the **SOLID principles** always.
 
 - - -
 
-* _Single Responsibility Principle_: A class should have only one reason to change.
-* _Open/Closed Principle_: A class should be open for extension but closed for modification.
-* _Liskov Substitution Principle_: You should be able to use any subclass in place of its parent class.
+* **Single Responsibility Principle**: A class should have only one reason to change.
+* _[Open/Closed Principle](https://misapuntesde.com/2024/03/solid_principles_php_edition_open_closed_principle.html)_: A class should be open for extension but closed for modification.
+* _[Liskov Substitution Principle](https://misapuntesde.com/2024/04/solid_principles_php_edition_liskov_substitution_principle.html)_: You should be able to use any subclass in place of its parent class.
 * _Interface Segregation Principle_: A class should not be forced to implement an interface it doesn't use.
 * _Dependency Inversion Principle_: High-level modules should not depend on low-level modules. Both should depend on abstractions.
 
@@ -81,7 +81,7 @@ $total = $order->calculateTotal();
 echo "Total: $" . $total; // Total: $7.98
 ```
 
-The _Single Responsibility Principle (SRP)_ states that a class must have only one reason to change. This means that a class must have only one responsibility and must have no more than one reason to be modified.
+The _Single Responsibility Principle (SRP)_ states that a class must have only one reason to change. This means that ==a class must have only one responsibility and must have no more than one reason to be modified==.
 
 In the code above, we can identify two classes: _Order and Item_. These classes follow the principle of single responsibility, as **each has a single responsibility** and has no more than one reason to change.
 
