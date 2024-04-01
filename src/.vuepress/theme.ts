@@ -61,9 +61,9 @@ export default hopeTheme({
 
   plugins: {
     blog: true,
-    seo: {
-      canonical: (_) => "https://misapuntesde.com",
-    },
+    // seo: {
+    //   canonical: (_) => "https://misapuntesde.com",
+    // },
     feed: {
       rss: true,
     },
