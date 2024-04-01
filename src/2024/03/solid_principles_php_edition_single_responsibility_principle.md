@@ -13,7 +13,7 @@ tags:
 ---
 # SOLID principles PHP Edition. Today: Single Responsibility Principle
 
-![Single Responsibility Principle](/images/2024/03/solid.jpg "Single Responsibility Principle")
+![Single Responsibility Principle](/images/2024/03/solid.jpg "Single Responsibility Principle. Generated with AI.")
 
 In the noble art of coding, you should remember the **SOLID principles** always. Here is a brief explanation of each principle:
 
@@ -32,12 +32,7 @@ Here you have an example on _PHP_ about it:
 ```php title="Order class"
 class Order
 {
-    private $items;
-
-    public function __construct()
-    {
-        $this->items = [];
-    }
+    private $items = [];
 
     public function addItem($item)
     {

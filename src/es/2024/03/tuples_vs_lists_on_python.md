@@ -14,7 +14,7 @@ tags:
 ---
 # Tuplas Vs Listas en Python
 
-![Tuples Vs Lists](/images/2024/03/tuples_vs_lists.jpg "Tuples Vs Lists")
+![Tuples Vs Lists](/images/2024/03/tuples_vs_lists.jpg "Tuples Vs Lists. Generated with AI.")
 
 Las **tuplas** y las **listas** son dos tipos de datos incorporados en _Python_ que se utilizan para almacenar colecciones de elementos. Aunque comparten algunas similitudes, también tienen diferencias clave. Vamos a verlas:
 

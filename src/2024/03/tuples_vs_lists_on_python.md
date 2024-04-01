@@ -14,7 +14,7 @@ tags:
 ---
 # Tuples Vs Lists on Python
 
-![Tuples Vs Lists](/images/2024/03/tuples_vs_lists.jpg "Tuples Vs Lists")
+![Tuples Vs Lists](/images/2024/03/tuples_vs_lists.jpg "Tuples Vs Lists. Generated with AI.")
 
 **tuples** and **lists** are two types of data incorporated in _Python_ that are used to store collections of elements. Although they share some similarities, they also have key differences. Let’s look at them:
 

@@ -13,7 +13,7 @@ tags:
 ---
 # Principios SOLID PHP Edition. Hoy: Principio de responsabilidad única
 
-![Principio de responsabilidad única](/images/2024/03/solid.jpg "Principio de responsabilidad única")
+![Principio de responsabilidad única](/images/2024/03/solid.jpg "Principio de responsabilidad única. Generated with AI.")
 
 En el noble arte de la codificación, debes recordar siempre los **principios SOLID**. He aquí una breve explicación de cada uno de ellos:
 
@@ -32,12 +32,7 @@ Aquí tenéis un ejemplo en _PHP_ al respecto:
 ```php title="Clase Order"
 class Order
 {
-    private $items;
-
-    public function __construct()
-    {
-        $this->items = [];
-    }
+    private $items = [];
 
     public function addItem($item)
     {
