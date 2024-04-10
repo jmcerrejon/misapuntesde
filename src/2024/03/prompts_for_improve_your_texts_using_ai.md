@@ -1,5 +1,5 @@
 ---
-title: Prompts for improve your texts using Artificial Intelligence
+title: Prompts for improving your texts using Artificial Intelligence
 icon: fa-regular fa-newspaper
 author: Jose Cerrejon
 date: 2024-03-12
@@ -9,7 +9,7 @@ tags:
   - ai
   - prompts
 ---
-# Prompts for improve your texts using Artificial Intelligence
+# Prompts for improving your texts using Artificial Intelligence
 
 ![I'm the good guy... for now](/images/2024/03/ai_writing.png "I'm the good guy... for now. Generated with AI.")
 

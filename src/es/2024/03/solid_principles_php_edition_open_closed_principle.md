@@ -24,7 +24,7 @@ En primer lugar, aquí tienes los cuatro principios de _SOLID_ para que se quede
 * _[Principio de responsabilidad única (Single Responsibility)](https://misapuntesde.com/es/2024/03/solid_principles_php_edition_single_responsibility_principle.html)_: Una clase debe tener una sola razón para cambiar.
 * **Principio Open/Closed (Open/Closed)**: Una clase debe estar abierta a ampliaciones pero cerrada a modificaciones.
 * [Principio de sustitución de Liskov (Liskov Substitution)](https://misapuntesde.com/es/2024/04/solid_principles_php_edition_liskov_substitution_principle.html)_: Deberías poder usar cualquier subclase en lugar de su clase padre.
-* _Principio de segregación de interfaces (Interface Segregation)_: Una clase no debe ser forzada a implementar una interfaz que no utiliza.
+* [Principio de segregación de interfaces (Interface Segregation)](https://misapuntesde.com/es/2024/04/solid_principles_php_edition_interface_segregation_principle.html): Una clase no debe ser forzada a implementar una interfaz que no utiliza.
 * _Principio de inversión de dependencias (Dependency Inversion)_: Los módulos de alto nivel no deben depender de módulos de bajo nivel. Ambos deben depender de abstracciones.
 
 El principio _Open/Closed_ establece que _"las entidades de software (clases, módulos, funciones, etc.) deben estar abiertas para la extensión, pero cerradas para la modificación"_. Vamos, que una vez una entidad de software está desarrollada y probada, debería ser posible extender su comportamiento sin tener que modificar su código fuente.
