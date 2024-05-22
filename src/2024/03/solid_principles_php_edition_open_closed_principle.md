@@ -25,7 +25,7 @@ First of all, here you have the four principles of SOLID:
 * **Open/Closed Principle**: A class should be open for extension but closed for modification.
 * _[Liskov Substitution Principle](https://misapuntesde.com/2024/04/solid_principles_php_edition_liskov_substitution_principle.html)_: You should be able to use any subclass in place of its parent class.
 * [Interface Segregation Principle](https://misapuntesde.com/2024/04/solid_principles_php_edition_interface_segregation_principle.html): A class should not be forced to implement an interface it doesn't use.
-* _Dependency Inversion Principle_: High-level modules should not depend on low-level modules. Both should depend on abstractions.
+* [Dependency Inversion Principle](https://misapuntesde.com/2024/04/solid_principles_php_edition_dependency_inversion_principle.html): High-level modules should not depend on low-level modules. Both should depend on abstractions.
 
 The _Open/Closed_ principle states that _"software entities (classes, modules, functions, etc.) must be open for extension, but closed for modification"_. So, once a software entity is developed and tested, it should be possible to extend its behavior without having to modify its source code.
 

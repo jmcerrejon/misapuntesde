@@ -23,7 +23,7 @@ We are almost ending the series of articles about the **SOLID** principles. Here
 * _[Open/Closed Principle](https://misapuntesde.com/2024/03/solid_principles_php_edition_open_closed_principle.html)_: A class should be open for extension but closed for modification.
 * [Liskov Substitution Principle](https://misapuntesde.com/2024/04/solid_principles_php_edition_liskov_substitution_principle.html): You should be able to use any subclass in place of its parent class.
 * **Interface Segregation Principle**: A class should not be forced to implement an interface it doesn't use.
-* _Dependency Inversion Principle_: High-level modules should not depend on low-level modules. Both should depend on abstractions.
+* [Dependency Inversion Principle](https://misapuntesde.com/2024/04/solid_principles_php_edition_dependency_inversion_principle.html): High-level modules should not depend on low-level modules. Both should depend on abstractions.
 
 Today we are going to focus on the **Interface Segregation Principle**. It's very easy to understand, I promise. :heart:
 

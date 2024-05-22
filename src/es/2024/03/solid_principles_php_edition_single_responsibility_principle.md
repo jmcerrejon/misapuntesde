@@ -20,10 +20,10 @@ En el noble arte de la codificación, debes recordar siempre los **principios SO
 - - -
 
 * **Principio de responsabilidad única (Single Responsibility)**: Una clase debe tener una sola razón para cambiar.
-* _[Principio Abierto/Cerrado (Open/Closed)](https://misapuntesde.com/es/2024/03/solid_principles_php_edition_single_responsibility_principle.html)_: Una clase debe estar abierta a ampliaciones pero cerrada a modificaciones.
+* _[Principio Abierto/Cerrado (Open/Closed)](https://misapuntesde.com/es/2024/03/solid_principles_php_edition_open_closed_principle.html)_: Una clase debe estar abierta a ampliaciones pero cerrada a modificaciones.
 * _[Principio de sustitución de Liskov (Liskov Substitution)](https://misapuntesde.com/es/2024/04/solid_principles_php_edition_liskov_substitution_principle.html)_: Deberías poder usar cualquier subclase en lugar de su clase padre.
 * [Principio de segregación de interfaces (Interface Segregation)](https://misapuntesde.com/es/2024/04/solid_principles_php_edition_interface_segregation_principle.html): Una clase no debe ser forzada a implementar una interfaz que no utiliza.
-* _Principio de inversión de dependencias (Dependency Inversion)_: Los módulos de alto nivel no deben depender de módulos de bajo nivel. Ambos deben depender de abstracciones.
+* [Principio de inversión de dependencias (Dependency Inversion)](https://misapuntesde.com/es/2024/04/solid_principles_php_edition_dependency_inversion_principle.html): Los módulos de alto nivel no deben depender de módulos de bajo nivel. Ambos deben depender de abstracciones.
 
 Hoy nos vamos a centrar en el **Principio de Responsabilidad Única**.
 
