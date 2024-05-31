@@ -46,7 +46,7 @@ Godot is a free and open source video game engine. It was created by *Juan Linie
 
 - **Learning curve**: *Godot* has a somewhat steep learning curve, especially if you do not have previous programming experience.
 - **Documentation**: The documentation of *Godot* is not as extensive as that of other game engines, although the community is very active, especially after the bad decisions of *Unity* a year ago.
-- **Community**: As I mentioned, the community is not as big as *Unity or Unreal Engine*, although it is growing more and more.
+- **Community**: As I mentioned, the community is not as big as *Unity or Unreal Engine*, although it is growing more and more ([+info](https://godotengine.org/community/)).
 - **Assets**: Although there is a library of assets as I have already mentioned, it is not as abundant as in the engines of competition.
 
 ## How to start programming in Godot?
@@ -68,7 +68,7 @@ I recommend, if you have no experience, that you start with the tutorials that a
 
 I just wanted to share with you my adoration for *Godot Engine*, and encourage you to try it if you have ever felt like me, and you have a desire to create video games. Do not pretend to get rich either or base your careers on it (for now). You do not need to have previous programming knowledge (although it helps). You can always start with tutorials and gradually go forward. If you want to create a game, tell me, I’d love to see it. 😉
 
-## Links
+## Resources
 
 ### Youtube
 
@@ -93,6 +93,8 @@ I just wanted to share with you my adoration for *Godot Engine*, and encourage y
 * [Gamefromscratch > Playlists](https://www.youtube.com/@gamefromscratch/videos)
 
 * [Coding Quests > Playlists](https://www.youtube.com/@CodingQuests/videos)
+
+* [Heartbeast > Playlists](https://www.youtube.com/@uheartbeast/playlists)
 
 * [Lukky > All 219 Godot Nodes Explained In 42 Minutes](https://www.youtube.com/watch?v=tO2gthp45MA)
 

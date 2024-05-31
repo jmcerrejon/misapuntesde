@@ -39,7 +39,7 @@ Godot es un motor de videojuegos de código abierto y gratuito. Fue creado por *
 - **Código abierto**: Puedes modificar el código fuente y hacer *Pull Requests* para que todos podamos beneficiarnos.
 - **Multiplataforma**: Puedes crear tus juegos en *Windows, Linux y/o macOS*. Luego el proyecto también lo podrás exportar a *Android, iOS, HTML5 y a consolas como Playstation, Xbox y Nintendo Switch*. Por cierto, es compatible con *XR (VR)* y procesadores *ARM*.
 - **Lenguaje de programación**: Puedes programar en *GDScript*, un lenguaje de programación similar a *Python*, o en *C#/C++* entre otros (¿He visto *Rust* por ahí?).
-- **Comunidad**: Comunidad muy activa, *Discord* y foros en el que puedes resolver tus dudas.
+- **Comunidad**: Comunidad muy activa, *Discord* y foros en el que puedes resolver tus dudas ([+info](https://godotengine.org/community/)).
 - **Assets Library**: No hace falta que empieces desde cero. Visita la librería en la que puedes encontrar *assets* visuales, sonidos, música. **¡Pero recuerda!**: Los *assets* están para ayudarte: no abuses de ellos. Lo mejor, también existen herramientas que te permitirán añadirle funcionalidades a *Godot*.
 
 ### Inconvenientes
@@ -68,7 +68,7 @@ Te recomiendo, si no tienes experiencia, que empieces por los tutoriales que hay
 
 Tan solo quería compartir con vosotros mi adoración por *Godot Engine*, y animaros a que si alguna vez os habéis sentido como yo, y tenéis inquietud por crear videojuegos, lo probéis. No pretended haceros ricos tampoco ni basad vuestras carreras en él (por ahora). No hace falta que tengáis conocimientos previos de programación (aunque ayuda). Siempre podéis empezar por los tutoriales y poco a poco ir avanzando. Si os animáis a crear un juego coméntamelo, me encantaría verlo. 😉
 
-## Enlaces
+## Recursos
 
 ### Youtube
 
@@ -95,6 +95,8 @@ Tan solo quería compartir con vosotros mi adoración por *Godot Engine*, y anim
 * [Gamefromscratch > Playlists](https://www.youtube.com/@gamefromscratch/videos)
 
 * [Coding Quests > Playlists](https://www.youtube.com/@CodingQuests/videos)
+
+* [Heartbeast > Playlists](https://www.youtube.com/@uheartbeast/playlists)
 
 * [Lukky > All 219 Godot Nodes Explained In 42 Minutes](https://www.youtube.com/watch?v=tO2gthp45MA)
 
