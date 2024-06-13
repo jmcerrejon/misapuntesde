@@ -37,7 +37,7 @@ Nos encontraremos con dos ejecutables: **CopyCmd** y **CopyConsole**. El primero
 
 ### [ Algunos comandos básicos ]
 
-Vamos a ver algunos ejemplos ficticios para saber mejor cómo manejarnos con los comandos. Empezamos con **CopyCmd**:
+Vamos a ver algunos ejemplos ficticios para saber mejor cómo controlarnos con los comandos. Empezamos con **CopyCmd**:
 
 Crear carpeta fotos en la nube:
 ```bash

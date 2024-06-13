@@ -85,7 +85,7 @@ El _principio de responsabilidad única (SRP, por sus siglas en inglés)_ establ
 
 En el código que muestro arriba, podemos identificar dos clases: _Order y Item_. Estas clases siguen el principio de responsabilidad única, ya que **cada una tiene una única responsabilidad** y no tienen más de una razón para cambiar.
 
-La clase _Order_ se encarga de representar una orden y realizar operaciones relacionadas con ella, como agregar elementos a la orden y calcular el total. Esto es, tiene la responsabilidad de manejar la lógica de la orden.
+La clase _Order_ se encarga de representar una orden y realizar operaciones relacionadas con ella, como agregar elementos a la orden y calcular el total. Esto es, tiene la responsabilidad de controlar la lógica de la orden.
 
 La clase _Item_ representa un artículo y proporciona métodos para obtener su precio. Tiene la responsabilidad de representar un artículo y proporcionar información sobre él.
 

@@ -16,7 +16,7 @@ tag:
 
 ![Debian](/images/raspbian.jpg)
 
-Cuando ya tenemos la experiencia suficiente en manejarnos con el sistema operativo *Raspbian*, llega la hora de independizarse de él. Te damos unos consejos para que te sientas cómodo con otra distribución basada en *Debian*, en este caso lo haremos con [PipaOS](http://pipaos.mitako.eu).
+Cuando ya tenemos la experiencia suficiente en controlarnos con el sistema operativo *Raspbian*, llega la hora de independizarse de él. Te damos unos consejos para que te sientas cómodo con otra distribución basada en *Debian*, en este caso lo haremos con [PipaOS](http://pipaos.mitako.eu).
 
 - - -
 Estos son consejos de ayudas que no son tan sencillas de encontrar. Es decir, no te voy a enseñar a configurar una *IP* estática o tu *WIFI*, para eso ya tienes cientos de tutoriales. Empecemos:

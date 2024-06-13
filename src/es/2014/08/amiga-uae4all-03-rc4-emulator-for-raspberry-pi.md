@@ -37,7 +37,7 @@ Nuevo en esta versión junto con la anterior:
 
 * Mejorado *double buffering*: CPU ya no se bloquea cuando espera a Vsync.
 
-* Menu se puede manejar con un Joystick.
+* Menu se puede controlar con un Joystick.
 
 Como siempre, lo podéis descargar con juego y la rom incluída, del proyecto [PiKISS](https://github.com/jmcerrejon/PiKISS)
 

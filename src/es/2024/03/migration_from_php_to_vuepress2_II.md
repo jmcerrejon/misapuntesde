@@ -63,7 +63,7 @@ Creo que es fácil de entender. Déjame explicarte:
 
 * `rain.tpl.class.php` es la clase principal del motor de plantillas.
 * `config.php` contiene la configuración del sitio para soporte en varios idiomas y elementos de configuración de navegación (_Sobre mí, noticias_).
-* `common.php` contiene una función para manejar el corte de los mensajes para la página principal y algunas asignaciones de variables para el engine _tpl_.
+* `common.php` contiene una función para controlar el corte de los mensajes para la página principal y algunas asignaciones de variables para el engine _tpl_.
 * `mysql.php` contiene la clase _MySql_ para consultar y conectarse a la base de datos. Tiene las credenciales para conectarse a la base de datos (¡Qué vergüenza! 🤦‍♂️).
 * `markdown.php` contiene la función para analizar los archivos _markdown_ creados por _Michel Fortin_ [llamado php-markdown](https://github.com/michelf/php-markdown).
 

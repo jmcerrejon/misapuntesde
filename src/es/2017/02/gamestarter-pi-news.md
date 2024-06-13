@@ -25,7 +25,7 @@ Como novedades destacadas podría comentar...
 - - -
 * Retroarch 1.4.1 (recién salido del horno), con sus cores, assets y configuraciones de gamepads actualizados.
 
-* Instalación y pre-configuracion del nuevo addon Advanced Emulator Launcher (LibreELEC 8) para manejar toda tu colección de ROMS desde kodi.
+* Instalación y pre-configuracion del nuevo addon Advanced Emulator Launcher (LibreELEC 8) para controlar toda tu colección de ROMS desde kodi.
 
 * Instalación opcional de EmulationStation, algunos temas y un scrapper adicional de CLI.
 
