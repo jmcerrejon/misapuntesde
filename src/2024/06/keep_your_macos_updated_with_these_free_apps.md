@@ -14,13 +14,13 @@ tags:
 
 ![collage with apps](/images/2024/06/update_macos_apps.png "My apps to get my OS to the latest")
 
-I have a problem with software, maybe is a disease, I don't know. The reason:
+I have a problem with the software on my OS, maybe It's a disease, I don't know. The reason:
 
 ::: danger ⛔️
 **I NEED TO KEEP ALL MY APPS UPDATED**.
 :::
 
-I try not to have a lot of them, but the apps I have installed, **need** to get the latest updates. How do I get it? With some apps that help me on that mission. Do you want to know which ones? Keep reading!
+I try not to have many of them, but the apps I have installed need the latest updates. How do I get it? With some apps that help me on that mission. Do you want to know which ones? Keep reading!
 
 ## Latest
 
@@ -40,11 +40,11 @@ Link: [github.com > Latest](https://github.com/mangerlahn/Latest)
 
 It's a fast *GUI* for *Homebrew* apps!
 
-In the past, I used to update my apps with the terminal, but with *Cork*, I can do it with a single click (even when I love the *Terminal*)
+In the past, I used to update my apps with the terminal, but with *Cork*, I can do it with a single click (even when I love the *Terminal*).
 
 It's a paid app, but you have the chance to compile and use it for free. It has many other features to handle visually your *Homebrew* apps: search, fix, install, uninstall,...
 
-It's just works & It's a great tool to keep your apps updated. **Dot.**
+It just works & It's a great tool to keep your apps updated. **Dot.**
 
 Link: [github.com > Cork](https://github.com/buresdv/Cork)
 
@@ -67,4 +67,4 @@ upgradeALL() {
 
 ## Conclusion
 
-Now you have no excuse to keep your *macOS* updated. Of course, you can still use *manual methods*, but with these apps, you can have more control over the process in less time. Do you use any other app to achieve that? [Let me know!](mailto:ulysess@gmail.com). :smiley:
+Now you have no excuse to keep your *macOS* updated. Of course, you can still use *manual methods*, but with these apps, you can have more control over the process in less time. Do you use any other app to achieve that? [Let me know!](mailto:ulysess@gmail.com) :smiley:
