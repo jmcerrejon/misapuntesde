@@ -11,7 +11,7 @@ tags:
 ---
 # Adblock para Spotify desktop client en Linux y macOS
 
-![SpotX Bash logo](/images/2024/06/spotx-bash.png "SpotX Bash script to block ads on Sp0tify")
+![SpotX Bash logo](/images/2024/06/spotx-bash.jpg "SpotX Bash script to block ads on Sp0tify")
 
 Tengo una licencia de *Adguard* en *macOS* y estoy contento con ella. Bloquea los anuncios en el cliente de escritorio *$potify*, pero no sé qué está pasando últimamente: ya no funciona. Así que encontré una forma mejor para bloquear los anuncios en *$potify*, y funciona tanto en *Linux* como en *macOS*.
 
