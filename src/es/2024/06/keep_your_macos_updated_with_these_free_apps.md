@@ -9,6 +9,8 @@ tags:
   - macOS
   - software
   - free
+  - DevOps
+  - Automatization
 ---
 # Mantén tus apps actualizadas con estas apps gratuitas en macOS
 
