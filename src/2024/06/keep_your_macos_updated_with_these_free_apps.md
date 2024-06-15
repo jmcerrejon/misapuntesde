@@ -26,7 +26,7 @@ I try not to have many of them, but the apps I have installed need the latest up
 
 ## Latest
 
-![Latest Screenshot](/images/2024/06/latest.jpg "Latest Screenshot")
+![Latest Screenshot](/images/2024/06/latest.jpg "Latest")
 
 *Latest* is a free and open-source app that checks if all your apps are up to date. It's a simple app that shows you a list of all your installed apps and the latest version available.
 
@@ -38,7 +38,7 @@ Link: [github.com > Latest](https://github.com/mangerlahn/Latest)
 
 ## Cork
 
-![Cork Screenshot](/images/2024/06/cork.jpg "Cork Screenshot")
+![Cork Screenshot](/images/2024/06/cork.jpg "Cork")
 
 It's a fast *GUI* for *Homebrew* apps!
 
@@ -49,6 +49,14 @@ It's a paid app, but you have the chance to compile and use it for free. It has 
 It just works & It's a great tool to keep your apps updated. **Dot.**
 
 Link: [github.com > Cork](https://github.com/buresdv/Cork)
+
+## Python cleanup script for macOS
+
+![Python cleanup Screenshot](/images/2024/06/mac-cleanup.png "Python cleanup")
+
+*mac-cleanup-py* is a powerful cleanup script for macOS. It helps you in the next tasks: Empty Trash, delete unnecessary logs & files and clear cache from OS or some apps. You can enable specific apps to clean up, like *Xcode* or *Android Studio*. It has a very useful dry mode to see what it will do before running it.
+
+Link: [github.com > mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py)
 
 ## Custom function
 
@@ -64,6 +72,7 @@ upgradeALL() {
     softwareupdate --all --install --force
     brew outdated && brew update && brew upgrade && brew cleanup
     ## Add yours here!
+    mac-cleanup
 }
 ```
 

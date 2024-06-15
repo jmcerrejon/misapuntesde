@@ -50,6 +50,14 @@ Simplemente funciona y es una gran herramienta para mantener sus aplicaciones ac
 
 Link: [github.com > Cork](https://github.com/buresdv/Cork)
 
+## Python cleanup script para macOS
+
+![Python cleanup Screenshot](/images/2024/06/mac-cleanup.png "Python cleanup")
+
+*mac-cleanup-py* es un potente script de limpieza para *macOS*. Te ayuda en las siguientes tareas: Vaciar la papelera, eliminar registros innecesarios y borrar la caché del sistema operativo o de algunas aplicaciones. Puede habilitar aplicaciones específicas para limpiar, como *Xcode* o *Android Studio*. Tiene un modo seguro o *"dry mode"* muy útil para ver lo que hará antes de ejecutarlo sin borrar nada.
+
+Link: [github.com > mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py)
+
 ## Función de actualización personalizada
 
 Creo que esto es algo que todos los desarrolladores deben tener en su archivo `.*rc`: Una función que compruebe si hay actualizaciones disponibles para las aplicaciones instaladas. Por ejemplo, utilizo esta función en mi archivo *.zshrc*:
@@ -64,6 +72,7 @@ upgradeALL() {
     softwareupdate --all --install --force
     brew outdated && brew update && brew upgrade && brew cleanup
     ## Add yours here!
+    mac-cleanup
 }
 ```
 
