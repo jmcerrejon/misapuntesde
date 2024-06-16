@@ -37,6 +37,10 @@ function clean_dist_directory() {
     rm -rf "$DIST_DIR"/images/*.* "$DIST_DIR/videos" "$DIST_DIR/posts.php" "$DIST_DIR/res" "$DIST_DIR/dload_cv.html"
     # Remove all directories on images/ except the current year and month
     find "$DIST_DIR/images" -mindepth 1 -maxdepth 1 -type d -not -name "$CURRENT_YEAR" -not -name "$CURRENT_MONTH" -exec rm -rf {} \;
+
+    # Remove all DS_Store files and ._ files
+    find "$DIST_DIR" -type f -name '.DS_Store' -delete -o -name '._*' -delete
+
     echo "Done!"
 }
 
