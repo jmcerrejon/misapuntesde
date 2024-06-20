@@ -63,7 +63,7 @@ Puedes obtener más información en la documentación de [raspi-config](https://
 No intentes cambiar la resolución a través de los ajustes de la *Raspberry Pi*. **No funciona**. Tienes que hacerlo manualmente en el archivo `config.txt` como te he comentado.
 :::
 
-Recuerda que ahora necesitas una salida para el audio. Puede usar un conector *3.5mm* para altavoces, tarjeta de sonido USB o *bluetooth*. Compruebe los siguientes parámetros en el mismo archivo para habilitar la salida de audio a través del conector *3.5mm*.
+Recuerda que ahora necesitas una salida para el audio. Puede usar un conector *3.5mm* para altavoces, tarjeta de sonido USB o *Bluetooth*. Compruebe los siguientes parámetros en el mismo archivo para habilitar la salida de audio a través del conector *3.5mm*.
 
 ```sh
 hdmi_force_edid_audio=1
