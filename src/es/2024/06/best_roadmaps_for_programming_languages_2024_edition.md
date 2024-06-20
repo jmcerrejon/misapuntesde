@@ -33,21 +33,21 @@ Link: [phpthewrongway.com](https://phpthewrongway.com) | Venga, te dejo también
 
 No soy muy de front-end, pero como freelance, necesito saber lo básico. Elijo el roadmap de *geeksforgeeks* porque es muy completo y actualizado. Revisa los tutoriales y recursos que proporcionan (muy útiles, pero ssh!... No se lo digas a nadie).
 
-Tienen también una hora de ruta para [MERN](https://www.geeksforgeeks.org/mern-stack-development-roadmap/), aunque no soy muy fan de este stack, tal vez porque aún no lo he usado. ¿Me lo recomiendas?
+También tienen una hoja de ruta para [MERN](https://www.geeksforgeeks.org/mern-stack-development-roadmap/), aunque no soy muy fan de este stack, tal vez porque aún no lo he usado. ¿Me lo recomiendas?. 🥰
 
 Link: [geeksforgeeks.org/frontend-developer-roadmap](https://www.geeksforgeeks.org/frontend-developer-roadmap)
 
-## Guías Open Source
+## Guías Open-Source
 
-Si estás interesado en contribuir a proyectos de código abierto, deberías consultar las siguientes guías. Tienen muchos recursos y guías para comenzar: iniciar un proyecto de código abierto, contribuir, otorgar licencias, mejores prácticas y más.
+Si estás interesado en contribuir a proyectos de código abierto, deberías consultar las siguientes guías. Tienen muchos recursos para comenzar: iniciar un proyecto de código abierto, contribuir, licencias, mejores prácticas y más.
 
-Codificado con amor por *GitHub* y sus amigos.
+Codificado con ❤️ por *GitHub* y sus amigos.
 
 Link: [opensource.guide](https://opensource.guide)
 
 ## Hoja de ruta para desarrolladores
 
-Si eres desarrollador, deberías revisar la hoja de ruta de [Kamran Ahmeds](https://kamranahmed.info/). Es una guía muy completa para gente como tú. Desde roles a habilidades básicas y avanzadas.
+Si eres desarrollador, deberías revisar la hoja de ruta de [Kamran Ahmeds](https://kamranahmed.info/). Es una guía muy completa para gente como tú. Desde roles a habilidades básicas a avanzadas.
 
 Link: [roadmap.sh](https://roadmap.sh)
 
