@@ -56,5 +56,3 @@ Download: [tinycorelinux.net](http://tinycorelinux.net/5.x/armv6/release_candida
 Link: [Foro](http://forum.tinycorelinux.net/index.php/board,57.0.html)
 
 Link: [Apps list to install](http://tinycorelinux.net/5.x/armv6/tcz/)
-
-PDF manual: [corebook.pdf](http://tinycorelinux.net/~curaga/corebook.pdf)
