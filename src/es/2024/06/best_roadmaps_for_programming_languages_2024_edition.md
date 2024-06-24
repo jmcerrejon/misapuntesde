@@ -15,6 +15,10 @@ tags:
 
 ![Man in front of computer](/images/2024/06/roadmaps.jpg "Generated with Dall-E")
 
+::: info Actualizado
+Este post ha sido actualizado el 23 de junio de 2024.
+:::
+
 La mejor parte de que leas mi blog es que no necesito convencerte con toneladas de recursos como un sucio embaucador para seguirme. Los recursos que voy a compartir contigo son las mejores hojas de ruta para los lenguajes de programación que he encontrado, ahora en 2024. Obviamente, esas son mis preferencias personales y aquí no se recogen todos los lenguajes de programación, solo los que me interesan según mi carrera, pero seguro que los encontrarás útiles.
 
 ## Laravel
@@ -54,6 +58,12 @@ Link: [roadmap.sh](https://roadmap.sh)
 Te dejo con otro gran recurso llamado *Exercism*: Una plataforma que proporciona ejercicios de codificación para diferentes lenguajes de programación. Practica tus habilidades y aprende nuevos idiomas.
 
 Link: [exercism.org](https://exercism.org)
+
+## DSA (Estructuras de Datos y Algoritmos)
+
+Muchos desarrolladores recomiendan aprender estructuras de datos y algoritmos con los cursos de la *Princeton University* ([I parte](https://www.coursera.org/learn/algorithms-part1), [II parte](https://www.coursera.org/learn/algorithms-part2)). No soy muy fan de ese curso (y es un poco aburrido).
+
+Si estás interesado en este tema, échale un vistazo a la hoja de ruta de [Techie Delight](https://www.techiedelight.com/es/data-structures-and-algorithms-problems/). Tienen muchos recursos y tutoriales con ejemplos prácticos que pueden servirte y en varios idiomas, incluído español.
 
 ## Palabras finales
 

@@ -14,6 +14,10 @@ tags:
 
 ![Man in front of computer](/images/2024/06/roadmaps.jpg "Generated with Dall-E")
 
+::: info Updated
+This post was updated on June 23, 2024.
+:::
+
 The best part that you are reading my blog is that I don't need to convince you with tons of resources like a dirty trickster to follow me. The resources I share with you are the best roadmaps for programming languages I found, now in 2024. Those are my personal preferences, and here are not all the language programming, only the ones I'm interested in according to my career, but I'm sure you will find them useful.
 
 ## Laravel
@@ -53,6 +57,12 @@ Link: [roadmap.sh](https://roadmap.sh)
 I will leave you with another great resource called *Exercism*: A platform that provides coding exercises for different programming languages. Practice your skills and learn new languages.
 
 Link: [exercism.org](https://exercism.org)
+
+## DSA
+
+Too many devs always recommend learning Data Structures and Algorithms with the *Princeton University* courses ([Part I](https://www.coursera.org/learn/algorithms-part1), [Part II](https://www.coursera.org/learn/algorithms-part2)). I'm not a big fan of that course and they are a bit boring.
+
+If you are interested in this topic, you really should check the roadmap from [Techie Delight](https://www.techiedelight.com/data-structures-and-algorithms-problems/). They have a lot of resources and tutorials with practical examples.
 
 ## Final thoughts
 
