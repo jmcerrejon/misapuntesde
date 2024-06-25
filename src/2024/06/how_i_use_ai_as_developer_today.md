@@ -55,7 +55,7 @@ I recommend looking at the playlists on the [Visual Studio Code](https://www.you
 
 ![comments](/images/2024/06/commit-comments.png "Let that generate the comments for your commits")
 
-* **Let that generate the for your commits**: If you don’t like to write comments for *commits*, tap the stars icon ✨. The good thing is that it is learning from your comments and will give you solutions more according to your style.
+* **Let that generate the for your commits**: If you don’t like to write comments for *commits*, tap the stars icon ✨. The good thing is that it is learning from your comments and will give you descriptions according to your style.
 
 ## Help in the Terminal
 

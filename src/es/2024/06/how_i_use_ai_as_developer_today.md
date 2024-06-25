@@ -55,7 +55,7 @@ Te recomiendo que mires las listas de reproducción del canal de [Visual Studio 
 
 ![comments](/images/2024/06/commit-comments.png "Deja que te cree los comentarios para tus commits")
 
-* **Deja que te cree los comentarios para tus commits**: Si eres de los que no le gusta escribir los comentarios de los *commits*, pulsa el icono de las estrellitas. Lo bueno es que va aprendiendo de tus comentarios y te va a dar soluciones mas acordes a tu estilo.
+* **Deja que te cree los comentarios para tus commits**: Si eres de los que no le gusta escribir los comentarios de los *commits*, pulsa el icono de las estrellitas. Lo bueno es que va aprendiendo de tus comentarios y te va a dar descripciones mas acordes a tu estilo.
 
 ## Ayuda en la Terminal
 
@@ -71,7 +71,7 @@ Cuando tengo que escribir un comando que no sé o no recuerdo, siempre acudo a [
 
 ![Sourcery screenshot](/images/2024/06/sourcery.png "Sourcery in action!")
 
-Si usas una cuenta de *GitHub o GitLab*, puedes incorporar en tu flujo de trabajo [sourcery](https://sourcery.ai). En mi caso, cuando voy a hacer un *pull request*, me da sugerencias de cómo mejorar mi código. Para proyectos *open-source* es gratuíto.
+Si usas una cuenta de *GitHub o GitLab*, puedes incorporar en tu flujo de trabajo [Sourcery](https://sourcery.ai). En mi caso, cuando voy a hacer un *pull request*, me da sugerencias de cómo mejorar mi código. Para proyectos *open-source* es gratuíto.
 
 ## Agentes de AI
 
@@ -89,7 +89,7 @@ Creo que es de las mejores herramientas que puedes tener para aprender a program
 
 En caso de estés empezando con un nuevo lenguaje o framework, mi consejo es que crees un fichero markdown con un encabezado tipo _Como hacer un CRUD en Python o Introducción a la programación en Rust_. Ya verás como te empieza a dar ideas a medidas que le vas dando secciones de forma contínua.
 
-## Dime lo que sepas de mis pdfs
+## Dime lo que sepas de mis PDFs
 
 Trabajé de jefe de proyecto los dos últimos años, y acumulé muchas actas, informes, etc. Si un cliente solicitaba algún dato, tenía que buscarlo entre cientos de documentos de Word o PDFs.
 
