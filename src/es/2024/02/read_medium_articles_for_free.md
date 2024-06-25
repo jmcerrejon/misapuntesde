@@ -30,6 +30,8 @@ https://webcache.googleusercontent.com/search?q=cache:https://medium.com/@josece
 
 He probado y no funciona en _Safari_, pero sí en _Brave_. He de decir que no siempre funciona, sobretodo en casos donde el artículo es muy reciente, pero en la mayoría de los casos, sí.
 
+Otra solución es usar [removepaywall.com](https://www.removepaywall.com), como extensión en tu navegador o servicio web.
+
 Ahora podrás leerlo sin problemas,...¡y sin pagar!.
 
 ¡De nada! :smiley:

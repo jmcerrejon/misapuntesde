@@ -29,6 +29,8 @@ https://webcache.googleusercontent.com/search?q=cache:https://medium.com/@josece
 
 I've tested and It doesn't works on _Safari_, but It does on _Brave_. I have to say that it does not always work, especially in cases where the article is very recent, but in most cases, It works.
 
+Another solution is to use [removepaywall.com](https://www.removepaywall.com), as extension or web service.
+
 Now you will be able to read it without any problem.
 
 You're welcome! :smiley:
