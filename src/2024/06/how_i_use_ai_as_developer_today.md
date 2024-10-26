@@ -15,7 +15,7 @@ tags:
 ![AI](/images/2024/06/me_trying_be_faster_than_copilot.jpg "MEME found at [r/ProgrammerHumor](https://www.reddit.com/r/ProgrammerHumor/comments/1dg2862/igottabefaster/)")
 
 ::: info
-Post updated on September 04, 2024.
+Post updated on October 22, 2024.
 :::
 
 I don’t tell you a lie when I advise you that if you’re not using AI in your day-to-day life, you’re missing a great opportunity.
@@ -108,7 +108,9 @@ It is a tool that I recommend if you have to deal with many documents and your b
 
 If you are not convinced or do not want to pay for _GitHub Copilot_, there are other options.
 
-For example, [Tabnine](https://www.tabnine.com/) in its _Basic_ plan, uses autocomplete code and is a _GitHub Copilot_ first cousin. Another approach is [DeepCode](https://www.deepcode.ai/), which is a code analyzer that helps you find errors and improve your code.
+Two kings actually as an alternative for _GitHub Copilot_ are [Cursor](https://www.cursor.com) and [Bolt](https://bolt.new). The first one has a free plan with 2000 completions per month (not bad) and 50 slow premium requests. The second one is an online IDE, but is a good choice for rapid mockups with predefined templates using Astro, ShaCDN or Vitepress.
+
+[Tabnine](https://www.tabnine.com/) in its _Basic_ plan, uses autocomplete code and is a _GitHub Copilot_ first cousin. Another approach is [DeepCode](https://www.deepcode.ai/), which is a code analyzer that helps you find errors and improve your code.
 
 The above-mentioned _Sourcery_ can also help you in this regard and it is very easy to implement it. You can see the documentation for _VSCode_ [here](https://docs.sourcery.ai/Coding-Assistant/Guides/Getting-Started/VSCode/).
 
