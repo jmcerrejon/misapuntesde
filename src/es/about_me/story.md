@@ -31,15 +31,15 @@ Entre mis gustos y preferencias, han ido evolucionando supongo con el paso del t
 
 ## Mi vida como desarrollador
 
-No me gustaba usar _frameworks_ pesados que me hicieran la vida m&aacute;s f&aacute;cil, pero ahora en mi trabajo como _frelance_ es esencial. Me gusta aprender sobre ciber-seguridad y todos los temas que tengan que ver con &eacute;l en mis desarrollos, pero sobretodo tiene que quedar muy optimizado y r&aacute;pido. Si puedo evitar _Java_ mejor. Actualmente desarrollo aplicaciones con _Titanium SDK en Javascript_ y _Laravel_.
+No me gustaba usar _frameworks_ pesados que me hicieran la vida m&aacute;s f&aacute;cil, pero ahora en mi trabajo como _freelance_ es esencial. Me gusta aprender sobre ciber-seguridad y todos los temas que tengan que ver con &eacute;l en mis desarrollos, pero sobretodo tiene que quedar muy optimizado y r&aacute;pido. Si puedo evitar _Java_ mejor. Actualmente desarrollo aplicaciones con _Titanium SDK en Javascript_ y _Laravel_.
 
-- Editor favorito para programar: _VSCode_.
+-   Editor favorito para programar: _VSCode_.
 
-- Lenguajes favoritos: _PHP, Python, JavaScript_. | Me gustar&iacute;a aprender de verdad: _Swift, IA, Kotlin o Rust_ | Jam&aacute;s aprender&eacute;: _Java_ (nunca digas nunca jam&aacute;s).
+-   Lenguajes favoritos: _PHP, Python, JavaScript_. | Me gustar&iacute;a aprender de verdad: _Swift, IA, Kotlin o Rust_ | Jam&aacute;s aprender&eacute;: _Java_ (nunca digas nunca jam&aacute;s).
 
-- Frameworks/SDKs favoritos: _Electron, Titanium SDK, Leaflet, Bulma, Node.js, Laravel_.
+-   Frameworks/SDKs favoritos: _Electron, Titanium SDK, Leaflet, Bulma, Node.js, Laravel_.
 
-- Mi mayor frustaci&oacute;n: Aprender a crear efectos especiales o infograf&iacute;as 3D o el front-ent en mis proyectos.
+-   Mi mayor frustaci&oacute;n: Aprender a crear efectos especiales o infograf&iacute;as 3D o el front-ent en mis proyectos.
 
 ## La Web: Lo que pretendo
 
