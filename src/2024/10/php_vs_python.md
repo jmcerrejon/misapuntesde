@@ -43,9 +43,11 @@ I would comment on some technical advantages like execution speed, `Namespaces`,
 
 ## The Best of Python
 
-_Python_, created in the early 90s, has gained great popularity in the last decade due to its simplicity, the scientific community, _Machine Learning_, and okay, _Artificial Intelligence_, I said it.
+_Python_, created in the early 90s (December 1989 to be exact), has gained great popularity in the last decade due to its simplicity, the scientific community, _Machine Learning_, and okay, _Artificial Intelligence_, I said it.
 
-Its versatility and an approach that favors code readability have made it popular in the scientific community, mathematicians, and it has infected a large part of developers worldwide.
+It was created as a descendant of ABC that would attract Unix/C hackers. Its direct competitors were _Perl and Ruby_, but I think it has surpassed both in popularity and usage.
+
+Its versatility and an approach that favors code readability have made it popular in the scientific community, mathematicians, and it has infected a large part of developers worldwide. This is why the world has gained a lot of popularity, and programming schools are being set up for children with _Python_ as their language of learning. England is an example of this with the _Raspberry Pi_.
 
 Unlike _PHP_, _Python_ was not designed exclusively for the web, and this for me is one of its strengths, since before as developers, we had to create mostly websites (today it's a somewhat saturated market)... _Bored! Not anymore_.
 
