@@ -6,14 +6,12 @@ date: 2024-02-27
 prev: /es/
 next: false
 category:
-  - Apple
+    - Apple
 tags:
-  - macos
-  - quicktime
-  - streaming
-  - video
-  - tips
+    - macOS
+    - Tips
 ---
+
 # Abrir Quicktime y transmitir cualquier dispositivo en macOS
 
 ![Abrir Quicktime](/images/2024/02/open_usb_device.png "Acceso directo para abrir Quicktime")
@@ -22,7 +20,8 @@ Esto es una de esas cosas que haces todos los días y el proceso es muy aburrido
 
 Hoy te mostraré cómo abrir _Quicktime_ y comenzar a transmitir un dispositivo en _macOS_ utilizando la línea de comandos o creando un script de _Automator_.
 
-- - -
+---
+
 ## Usando la línea de comandos
 
 ![Comando CLI para abrir Quicktime](/images/2024/02/quicktime_osascript_usb_device.png "Comando CLI para abrir Quicktime")

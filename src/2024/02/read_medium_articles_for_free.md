@@ -4,18 +4,18 @@ icon: fa-regular fa-newspaper
 author: Jose Cerrejon
 date: 2024-02-26
 category:
-  - General
+    - General
 tags:
-  - tips
-
+    - Tips
 ---
+
 # Read Medium articles for free
 
 ![Alt](/images/2024/02/medium.png "Medium post read for free")
 
 Just a quick tip If you want to read a _Medium_ article for free, cuz you don't have money to pay for a subscription or you don't want to create an account.
 
-- - -
+---
 
 Just copy the URL of the article and paste before the link, the next:
 

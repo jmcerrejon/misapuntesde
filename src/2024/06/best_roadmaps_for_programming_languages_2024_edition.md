@@ -4,12 +4,13 @@ icon: fa-solid fa-code
 author: Jose Cerrejon
 date: 2024-06-16
 category:
-  - Developer
+    - Developer
 tags:
-  - php
-  - laravel
-  - frontend
+    - PHP
+    - laravel
+    - frontend
 ---
+
 # Best roadmaps for developers: 2024 Edition
 
 ![Man in front of computer](/images/2024/06/roadmaps.jpg "Generated with Dall-E")
@@ -22,19 +23,19 @@ The best part that you are reading my blog is that I don't need to convince you 
 
 ## Laravel
 
-If you like *Laravel*, you probably follow *Povilas Korop*, the creator of *Laravel Daily*. He has a great roadmap for *Laravel* and is very updated.
+If you like _Laravel_, you probably follow _Povilas Korop_, the creator of _Laravel Daily_. He has a great roadmap for _Laravel_ and is very updated.
 
 Link: [laraveldaily.com/roadmap-learning-path](https://laraveldaily.com/roadmap-learning-path)
 
 ## PHP
 
-For *PHP*, I recommend the roadmap from *PHP The ~~Right~~Wrong Way*. It's a very complete guide for beginners and advanced users. You have a lot of resources and tutorials to start with *PHP*, from the basics to the advanced.
+For _PHP_, I recommend the roadmap from _PHP The ~~Right~~Wrong Way_. It's a very complete guide for beginners and advanced users. You have a lot of resources and tutorials to start with _PHP_, from the basics to the advanced.
 
 Link: [phpthewrongway.com](https://phpthewrongway.com) | OK, here you have the link to [phptherightway.com](https://phptherightway.com) too.
 
 ## Front-End
 
-I'm not like front-end, but as a freelance, I need to know the basics. I chose the roadmap from *geeksforgeeks* because It's very complete and updated. Check the tutorials and resources they provide (very useful, but ssh!... Don't tell anyone).
+I'm not like front-end, but as a freelance, I need to know the basics. I chose the roadmap from _geeksforgeeks_ because It's very complete and updated. Check the tutorials and resources they provide (very useful, but ssh!... Don't tell anyone).
 
 They have a [MERN roadmap](https://www.geeksforgeeks.org/mern-stack-development-roadmap/) too, but I'm not a big fan of that stack. Maybe because I haven't used it yet. Do you recommend it?
 
@@ -54,13 +55,13 @@ If you are a developer, you should check the roadmap from [Kamran Ahmeds](https:
 
 Link: [roadmap.sh](https://roadmap.sh)
 
-I will leave you with another great resource called *Exercism*: A platform that provides coding exercises for different programming languages. Practice your skills and learn new languages.
+I will leave you with another great resource called _Exercism_: A platform that provides coding exercises for different programming languages. Practice your skills and learn new languages.
 
 Link: [exercism.org](https://exercism.org)
 
 ## DSA
 
-Too many devs always recommend learning Data Structures and Algorithms with the *Princeton University* courses ([Part I](https://www.coursera.org/learn/algorithms-part1), [Part II](https://www.coursera.org/learn/algorithms-part2)). I'm not a big fan of that course and they are a bit boring.
+Too many devs always recommend learning Data Structures and Algorithms with the _Princeton University_ courses ([Part I](https://www.coursera.org/learn/algorithms-part1), [Part II](https://www.coursera.org/learn/algorithms-part2)). I'm not a big fan of that course and they are a bit boring.
 
 If you are interested in this topic, you really should check the roadmap from [Techie Delight](https://www.techiedelight.com/data-structures-and-algorithms-problems/). They have a lot of resources and tutorials with practical examples.
 

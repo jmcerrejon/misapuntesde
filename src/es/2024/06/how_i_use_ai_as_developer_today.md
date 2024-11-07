@@ -15,7 +15,7 @@ tags:
 ![AI](/images/2024/06/me_trying_be_faster_than_copilot.jpg "MEME found at [r/ProgrammerHumor](https://www.reddit.com/r/ProgrammerHumor/comments/1dg2862/igottabefaster/)")
 
 ::: info
-Post actualizado el 22 de octubre de 2024.
+Post actualizado el 7 de noviembre de 2024.
 :::
 
 No te digo una mentira cuando te aconsejo que si no estás usando la AI en tu día a día, estás perdiendo una gran oportunidad.
@@ -89,6 +89,10 @@ _Imagina que tienes un *bot* que te ayuda a hacer tareas repetitivas, como por e
 En _Medium_ tienes un topic específico para esto y que puedes encontrar [aquí](https://medium.com/tag/ai-agent). Como referencia, el proyecto [AgentGPT](https://github.com/reworkd/AgentGPT) es un buen ejemplo de lo que te hablo.
 
 Si no tienes tiempo para dedicarlo a programar este tipo de agentes, tu solución puede estar en usar _LLM Pipelines_, que es un servicio que te permite crear agentes de AI sin tener que programar. Echa un vistazo a [este artículo](https://towardsdatascience.com/you-dont-need-an-llm-agent-333bf0eb1019) llamado _You Don’t Need an LLM Agent_.
+
+¿Has oído hablar de los _Atomic Agents_? Son un nuevo tipo de agente de _AI_ que se puede usar para automatizar tareas de manera más eficiente. Puedes encontrar más información sobre ellos [aquí en Medium](https://generativeai.pub/forget-langchain-crewai-and-autogen-try-this-framework-and-never-look-back-e34e0b6c8068).
+
+Hoy he descubierto [SWE Development Kit (swekit)](https://docs.composio.dev/swekit/introduction). Es un framework poderoso para construir agentes de Ingeniería de Software utilizando el ecosistema de herramientas de _Composio_. Proporciona herramientas como _Github, Búsqueda en Repositorios, Gestor de Archivos, Gestor de Shell_, etc. Así que creo que es una buena herramienta si quieres construir tus propios agentes.
 
 ## Como herramienta de aprendizaje
 

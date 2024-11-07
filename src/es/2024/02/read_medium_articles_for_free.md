@@ -6,17 +6,18 @@ date: 2024-02-26
 prev: /es/
 next: false
 category:
-  - General
+    - General
 tags:
-  - tips
+    - Tips
 ---
+
 # Leer artículos de Medium de forma gratuita
 
 ![Alt](/images/2024/02/medium.png "Medium post leído de gratis")
 
 Solo un consejo rápido si quieres leer un artículo de _Medium_ de forma gratuita, porque no tienes dinero para pagar una suscripción o no quieres crear una cuenta.
 
-- - -
+---
 
 Simplemente copia la URL del artículo y pega antes del enlace lo siguiente:
 

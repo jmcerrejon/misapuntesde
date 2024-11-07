@@ -6,20 +6,21 @@ date: 2024-02-22
 prev: /es/
 next: false
 category:
-  - Linux
+    - Linux
 tags:
-  - DevOps
-  - Tips
-  - Tutorial
-  - Raspberry PI
+    - DevOps
+    - Tips
+    - Tutorial
+    - Raspberry PI
 ---
+
 # Ejecutar un script después de ejecutar apt-get update en Debian o Ubuntu Linux
 
 ![alt](/images/2024/02/apt_conf_d.png "/etc/apt/apt.conf.d")
 
 Si deseas ejecutar un script, por ejemplo, después de `apt update` en _Debian_, puedes utilizar el sistema de ganchos de `apt`. Esto es útil si deseas realizar alguna otra acción después de la actualización. En mi caso, necesito ejecutar un script y reinstalar el _controlador Vulkan en Raspberry Pi_, porque `apt update` lo rompe y el sistema no puede abrir el _entorno de escritorio_.
 
-- - -
+---
 
 Para hacer esto, crea un script en un directorio accesible. Voy a utilizar `/home/ulysess`.
 

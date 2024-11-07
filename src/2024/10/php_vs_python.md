@@ -6,9 +6,9 @@ date: 2024-10-26
 category:
     - Developer
 tags:
-    - php
-    - python
-    - vs
+    - PHP
+    - Python
+    - Versus
 ---
 
 # You Were Waiting for It: PHP Vs Python

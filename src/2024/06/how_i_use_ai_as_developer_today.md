@@ -15,7 +15,7 @@ tags:
 ![AI](/images/2024/06/me_trying_be_faster_than_copilot.jpg "MEME found at [r/ProgrammerHumor](https://www.reddit.com/r/ProgrammerHumor/comments/1dg2862/igottabefaster/)")
 
 ::: info
-Post updated on October 22, 2024.
+Post updated on November 7, 2024.
 :::
 
 I don’t tell you a lie when I advise you that if you’re not using AI in your day-to-day life, you’re missing a great opportunity.
@@ -89,6 +89,10 @@ _Imagine you have a *bot* that helps you do repetitive tasks, such as letting yo
 You have at _Medium_ a specific topic about it that you can find [here](https://medium.com/tag/ai-agent). For reference, the [AgentGPT](https://github.com/reworkd/AgentGPT) project is a good example of what I’m talking about.
 
 If you don’t have time to spend programming these types of agents, your solution may be to use _LLM Pipelines_, which is a service that allows you to create AI agents without having to program. Check out [this article](https://towardsdatascience.com/you-dont-need-an-llm-agent-333bf0eb1019) called _You Don’t Need an LLM Agent_.
+
+Did you hear about Atomic Agents? They are a new type of AI agent that can be used to automate tasks in a more efficient way. You can find more information about them [here in Medium](https://generativeai.pub/forget-langchain-crewai-and-autogen-try-this-framework-and-never-look-back-e34e0b6c8068) or in the [official site](https://atomicagents.io).
+
+Today I discover [SWE Development Kit (swekit)](https://docs.composio.dev/swekit/introduction). It's a powerful framework for building Software Engineering agents using _Composio’s tooling ecosystem_. It provides tools like _Github, Repo Indexing, Repo Search, File Manager, Shell Manager,_ and more. It's a good choice if you want to build your own AI agents.
 
 ## As a learning tool
 

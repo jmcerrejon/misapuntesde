@@ -4,14 +4,12 @@ icon: fa-regular fa-newspaper
 author: Jose Cerrejon
 date: 2024-02-27
 category:
-  - Apple
+    - Apple
 tags:
-  - macos
-  - quicktime
-  - streaming
-  - video
-  - tips
+    - macOS
+    - Tips
 ---
+
 # Open Quicktime and stream any device on macOS
 
 ![Open Quicktime](/images/2024/02/open_usb_device.png "Open Quicktime shortcut")
@@ -20,7 +18,8 @@ This is one of those things that I do every day, and the flow is very boring: _O
 
 So today I'm going to show you how to open _Quicktime_ and start streaming a device on _macOS_ using the command line or making an _Automator_ script.
 
-- - -
+---
+
 ## Using command line
 
 ![CLI command to open Quicktime](/images/2024/02/quicktime_osascript_usb_device.png "CLI command to open Quicktime")
