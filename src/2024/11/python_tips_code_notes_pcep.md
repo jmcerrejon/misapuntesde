@@ -148,6 +148,15 @@ print(my_list)
 # [2, 4, 6, 8, 10]
 ```
 
+### Protection against iterating through None values
+
+```python
+for element in mylist or []:
+do_stuff (element)
+```
+
+Explanation: If `mylist` is `None`, the loop will iterate through an empty list.
+
 ### Lists store memory locations
 
 ```python

@@ -152,6 +152,15 @@ print(my_list)
 # [2, 4, 6, 8, 10]
 ```
 
+### Protección contra la iteración a través de valores None
+
+```python
+for element in mylist or []:
+do_stuff (element)
+```
+
+Explicación: Si `mylist` es `None`, el bucle iterará a través de una lista vacía.
+
 ### Las listas almacenan ubicaciones de memoria
 
 ```python
