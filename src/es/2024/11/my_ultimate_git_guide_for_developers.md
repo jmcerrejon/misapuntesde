@@ -433,3 +433,4 @@ git reset --hard 23j45b3b45hb345b
 -   [git-scm.com](https://git-scm.com/doc)
 -   [Explica Git con D3](https://onlywei.github.io/explain-git-with-d3/#merge)
 -   [Freecodecamp > #Git](https://www.freecodecamp.org/news/tag/git/)
+-   [The stacking workflow](https://www.stacking.dev)
