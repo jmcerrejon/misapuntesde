@@ -130,11 +130,11 @@ main
 -   Eliminar una rama:
 
 ```sh
-git checkout develop && git branch -D feature/api-token # D = force delete
+git checkout develop && git branch -D feature/api-token # D = fuerza el borrado o -d si quieres que te avise de que los cambios no están fusionados.
 ```
 
 ::: info
-Si estamos dentro de una rama que queremos eliminar, debemos **salirnos** primero de ella.
+Si estamos dentro de una rama que queremos eliminar, debemos **salirnos** primero de ella. Borrar una rama que no ha sido fusionad puede hacerte perder muchas horas de trabajo. Asegúrate de querer borrarla. 😉
 :::
 
 También podemos eliminar ramas remotas:

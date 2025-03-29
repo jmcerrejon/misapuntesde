@@ -130,11 +130,11 @@ main
 -   Delete a branch:
 
 ```sh
-git checkout develop && git branch -D feature/api-token # D = force delete
+git checkout develop && git branch -D feature/api-token # D = force delete or -d = safe delete and warns if there are changes
 ```
 
 ::: info
-If we are inside a branch that we want to delete, we must first **switch out** of it.
+If we are inside a branch that we want to delete, we must first **switch out** of it. Deleting a branch that has not been merged can make you lose many hours of work. Make sure you want to delete it. 😉
 :::
 
 We can also delete remote branches:
