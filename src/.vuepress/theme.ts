@@ -40,7 +40,7 @@ export default hopeTheme({
       footer: 'This blog DO NOT use cookies to improve your experience.',
       displayFooter: true,
       blog: {
-        description: "Project Manager & Full Stack Developer",
+        description: "IT Consultant & GenAI Architect",
         intro: "/about_me/story.html",
       },
       // metaLocales: {},
@@ -52,7 +52,7 @@ export default hopeTheme({
       footer: 'Este blog NO usa cookies para mejorar tu experiencia.',
       displayFooter: true,
       blog: {
-        description: "Desarrollador Full Stack & Project Manager",
+        description: "Consultor IT & Arquitecto GenAI",
         intro: "/es/about_me/story.html",
       },
       // metaLocales: {},
