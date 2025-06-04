@@ -118,7 +118,7 @@ Ahora vamos a configurar _VS Code_ para que se conecte al contenedor _Docker_ y 
     "configurations": [
         {
             "name": "Python: Attach to remote Lambda",
-            "type": "python",
+            "type": "debugpy",
             "request": "attach",
             "connect": {
                 "host": "localhost",
