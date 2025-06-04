@@ -1,15 +1,9 @@
 import { defineUserConfig } from "vuepress";
-import { seoPlugin } from "@vuepress/plugin-seo";
 import theme from "./theme.js";
 
 export default defineUserConfig({
   base: "/",
   pagePatterns: ["**/*.md", "!**/*.php", "!.vuepress", "!node_modules"],
-  plugins: [
-    seoPlugin({
-        hostname: "https://misapuntesde.com",
-    }),
-  ],
   locales: {
     "/": {
       lang: "en-US",
