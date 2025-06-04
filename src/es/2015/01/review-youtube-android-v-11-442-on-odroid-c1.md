@@ -1,6 +1,7 @@
 ---
 id: 511
 title: Pongo a prueba. Android ver. 4.4. en ODROID-C1 (Review + Youtube)
+description: Pongo a prueba. Android ver. 4.4. en ODROID-C1 (Review + Youtube)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-01-26 13:00:00

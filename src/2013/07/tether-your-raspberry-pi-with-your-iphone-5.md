@@ -1,6 +1,7 @@
 ---
 id: 215
 title: Tether Your Raspberry Pi with your iPhone 5
+description: Tether Your Raspberry Pi with your iPhone 5
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-07-28 13:00:00

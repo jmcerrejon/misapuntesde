@@ -1,6 +1,7 @@
 ---
 id: 12
 title: Tutorial emuladores retro para Raspberry.nes, snes, megadrive, gbc, gba, psx, mame, neo geo...
+description: Tutorial emuladores retro para Raspberry.nes, snes, megadrive, gbc, gba, psx, mame, neo geo...
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-14 13:42:00

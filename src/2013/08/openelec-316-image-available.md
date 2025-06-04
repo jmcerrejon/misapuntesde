@@ -1,6 +1,7 @@
 ---
 id: 244
 title: OpenElec 3.1.6 image available
+description: OpenElec 3.1.6 image available
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-08-24 09:00:00

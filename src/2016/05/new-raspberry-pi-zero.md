@@ -1,6 +1,7 @@
 ---
 id: 702
 title: New Raspberry Pi Zero
+description: New Raspberry Pi Zero
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-05-17 11:00:00

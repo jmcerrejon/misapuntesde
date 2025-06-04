@@ -1,6 +1,7 @@
 ---
 id: 347
 title: Streaming de juegos PC->Raspberry Pi con Limelight-pi
+description: Streaming de juegos PC->Raspberry Pi con Limelight-pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-01-11 10:27:30

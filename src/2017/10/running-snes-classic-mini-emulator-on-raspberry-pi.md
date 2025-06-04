@@ -1,6 +1,7 @@
 ---
 id: 840
 title: Running SNES Classic Mini Emulator on Raspberry Pi
+description: Running SNES Classic Mini Emulator on Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-10-07 05:25:00

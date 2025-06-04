@@ -1,6 +1,7 @@
 ---
 id: 88
 title: ChameleonPi 0.3 & PiMAME 0.6 Beta out!
+description: ChameleonPi 0.3 & PiMAME 0.6 Beta out!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-03-02 06:00:00

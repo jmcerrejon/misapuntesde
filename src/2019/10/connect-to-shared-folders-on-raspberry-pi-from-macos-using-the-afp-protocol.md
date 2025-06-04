@@ -1,6 +1,7 @@
 ---
 id: 916
 title: Connect to shared folders on Raspberry Pi from macOS using the AFP protocol
+description: Connect to shared folders on Raspberry Pi from macOS using the AFP protocol
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2019-10-09 17:40:00

@@ -1,6 +1,7 @@
 ---
 id: 594
 title: Tendremos ODROID C1+ la semana que viene
+description: Tendremos ODROID C1+ la semana que viene
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-07-22 10:20:00

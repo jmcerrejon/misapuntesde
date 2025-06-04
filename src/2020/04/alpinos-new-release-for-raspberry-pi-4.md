@@ -1,6 +1,7 @@
 ---
 id: 929
 title: alpinOS. New release for Raspberry Pi 4
+description: alpinOS. New release for Raspberry Pi 4
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2020-04-21 13:59:09

@@ -1,6 +1,7 @@
 ---
 id: 321
 title: Updates for OpenELEC & RetroPie
+description: Updates for OpenELEC & RetroPie
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-11-28 12:00:00

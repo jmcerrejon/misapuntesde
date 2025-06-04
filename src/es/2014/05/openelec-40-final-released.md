@@ -1,6 +1,7 @@
 ---
 id: 397
 title: OpenELEC 4.0 FINAL
+description: OpenELEC 4.0 FINAL
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-05-06 09:33:52

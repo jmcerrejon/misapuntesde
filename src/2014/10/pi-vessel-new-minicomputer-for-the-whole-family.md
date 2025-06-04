@@ -1,6 +1,7 @@
 ---
 id: 468
 title: Pi Vessel. new minicomputer for the whole family
+description: Pi Vessel. new minicomputer for the whole family
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-10-14 08:20:00

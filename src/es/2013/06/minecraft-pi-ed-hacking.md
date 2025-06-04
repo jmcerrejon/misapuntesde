@@ -1,6 +1,7 @@
 ---
 id: 184
 title: Cómo hackear Minecraft Pi Edition
+description: Cómo hackear Minecraft Pi Edition
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-06-12 10:00:00

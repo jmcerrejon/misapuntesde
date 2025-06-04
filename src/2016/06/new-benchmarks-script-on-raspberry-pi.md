@@ -1,6 +1,7 @@
 ---
 id: 714
 title: New Benchmarks script on Raspberry Pi
+description: New Benchmarks script on Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-06-14 09:00:00

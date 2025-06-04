@@ -1,6 +1,7 @@
 ---
 id: 70
 title: Chameleon overview and tutorial
+description: Chameleon overview and tutorial
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-31 12:00:00

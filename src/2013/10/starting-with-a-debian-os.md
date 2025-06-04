@@ -1,6 +1,7 @@
 ---
 id: 289
 title: Starting with a Debian OS
+description: Starting with a Debian OS
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-10-10 11:15:00

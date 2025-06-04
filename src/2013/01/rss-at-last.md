@@ -1,6 +1,7 @@
 ---
 id: 27
 title: RSS at last!
+description: RSS at last!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-16 18:00:00

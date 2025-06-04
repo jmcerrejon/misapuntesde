@@ -1,5 +1,6 @@
 ---
 title: Como usar un adaptador VGA en la Raspberry Pi
+description: Como usar un adaptador VGA en la Raspberry Pi
 icon: fa-brands fa-raspberry-pi
 author: Jose Cerrejon
 date: 2024-06-20

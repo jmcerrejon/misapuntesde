@@ -1,6 +1,7 @@
 ---
 id: 615
 title: Raylib videogames library v. 1.3 released
+description: Raylib videogames library v. 1.3 released
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-09-07 11:35:00

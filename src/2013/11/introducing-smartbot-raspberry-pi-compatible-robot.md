@@ -1,6 +1,7 @@
 ---
 id: 308
 title: Introducing SmartBot. Raspberry Pi compatible robot
+description: Introducing SmartBot. Raspberry Pi compatible robot
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-11-08 09:00:00

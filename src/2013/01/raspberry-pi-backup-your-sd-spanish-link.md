@@ -1,6 +1,7 @@
 ---
 id: 8
 title: Raspberry Pi. Backup your SD (spanish link)
+description: Raspberry Pi. Backup your SD (spanish link)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-14 11:22:00

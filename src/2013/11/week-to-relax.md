@@ -1,6 +1,7 @@
 ---
 id: 310
 title: Week to relax
+description: Week to relax
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-11-13 12:00:00

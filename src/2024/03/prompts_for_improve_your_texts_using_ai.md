@@ -1,5 +1,6 @@
 ---
 title: Prompts for improving your texts using Artificial Intelligence
+description: Prompts for improving your texts using Artificial Intelligence
 icon: fa-regular fa-newspaper
 author: Jose Cerrejon
 date: 2024-03-12

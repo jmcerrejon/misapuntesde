@@ -1,6 +1,7 @@
 ---
 id: 323
 title: Build your own Ambilight clone (Youtube)
+description: Build your own Ambilight clone (Youtube)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-12-01 11:00:00

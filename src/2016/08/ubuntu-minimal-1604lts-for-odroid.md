@@ -1,6 +1,7 @@
 ---
 id: 729
 title: Ubuntu Minimal 16.04LTS for ODROID
+description: Ubuntu Minimal 16.04LTS for ODROID
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-08-08 10:15:00

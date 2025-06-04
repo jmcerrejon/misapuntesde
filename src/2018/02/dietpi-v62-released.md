@@ -1,6 +1,7 @@
 ---
 id: 867
 title: DietPi v6.2 released
+description: DietPi v6.2 released
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2018-02-19 10:15:00

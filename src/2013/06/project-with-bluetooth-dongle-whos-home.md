@@ -1,6 +1,7 @@
 ---
 id: 193
 title: Project with Bluetooth dongle. Who's home?
+description: Project with Bluetooth dongle. Who's home?
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-06-24 14:00:00

@@ -1,6 +1,7 @@
 ---
 id: 105
 title: Search files & directories on Linux
+description: Search files & directories on Linux
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-03-19 12:35:00

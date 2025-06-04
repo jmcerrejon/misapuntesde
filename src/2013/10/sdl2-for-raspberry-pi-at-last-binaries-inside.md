@@ -1,6 +1,7 @@
 ---
 id: 283
 title: SDL2 for Raspberry Pi at last (binaries inside!)
+description: SDL2 for Raspberry Pi at last (binaries inside!)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-10-02 10:00:00

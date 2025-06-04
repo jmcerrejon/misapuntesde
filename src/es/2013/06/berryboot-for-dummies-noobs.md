@@ -1,6 +1,7 @@
 ---
 id: 177
 title: Berryboot para torpes (NOOBS)
+description: Berryboot para torpes (NOOBS)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-06-04 07:00:00

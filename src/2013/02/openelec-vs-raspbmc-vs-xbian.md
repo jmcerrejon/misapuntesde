@@ -1,6 +1,7 @@
 ---
 id: 73
 title: Openelec vs Raspbmc vs Xbian
+description: Openelec vs Raspbmc vs Xbian
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-02-21 10:45:00

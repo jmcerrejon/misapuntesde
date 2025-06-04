@@ -1,6 +1,7 @@
 ---
 id: 933
 title: My opinion about Raspberry Pi 4 - 8 GB. the new Desktop replacement
+description: My opinion about Raspberry Pi 4 - 8 GB. the new Desktop replacement
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2020-06-04 11:01:01

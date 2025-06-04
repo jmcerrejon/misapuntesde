@@ -1,6 +1,7 @@
 ---
 id: 544
 title: Arreglando PiKISS
+description: Arreglando PiKISS
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-04-05 21:00:00

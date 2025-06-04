@@ -1,6 +1,7 @@
 ---
 id: 408
 title: PiKISS...tomorrow
+description: PiKISS...tomorrow
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-05-28 20:18:30

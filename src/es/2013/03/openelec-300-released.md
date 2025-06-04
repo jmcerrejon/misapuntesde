@@ -1,6 +1,7 @@
 ---
 id: 112
 title: ¡Ha salido OpenELEC 3.0.0!
+description: ¡Ha salido OpenELEC 3.0.0!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-03-25 05:00:00

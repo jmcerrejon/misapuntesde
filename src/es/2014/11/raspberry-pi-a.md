@@ -1,6 +1,7 @@
 ---
 id: 479
 title: Raspberry Pi A+
+description: Raspberry Pi A+
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-11-09 12:00:00

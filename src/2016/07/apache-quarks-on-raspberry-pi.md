@@ -1,6 +1,7 @@
 ---
 id: 721
 title: Apache Quarks on Raspberry Pi
+description: Apache Quarks on Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-07-04 12:05:00

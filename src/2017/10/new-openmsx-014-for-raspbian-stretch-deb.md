@@ -1,6 +1,7 @@
 ---
 id: 843
 title: New OpenMSX 0.14 for Raspbian Stretch (.deb)
+description: New OpenMSX 0.14 for Raspbian Stretch (.deb)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-10-22 16:00:00

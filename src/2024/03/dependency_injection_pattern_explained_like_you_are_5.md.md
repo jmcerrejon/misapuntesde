@@ -1,5 +1,6 @@
 ---
 title: Dependency injection pattern explained like you're 5
+description: Dependency injection pattern explained like you're 5
 icon: fa-solid fa-code
 author: Jose Cerrejon
 date: 2024-03-19

@@ -1,6 +1,7 @@
 ---
 id: 200
 title: ¡Nuevo rpix86 versión 0.08!
+description: ¡Nuevo rpix86 versión 0.08!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-07-01 11:00:00

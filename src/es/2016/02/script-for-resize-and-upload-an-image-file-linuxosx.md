@@ -1,6 +1,7 @@
 ---
 id: 665
 title: Script para redimensionar y subir imágenes en Linux/OSX
+description: Script para redimensionar y subir imágenes en Linux/OSX
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-02-14 13:00:00

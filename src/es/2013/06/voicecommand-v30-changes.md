@@ -1,6 +1,7 @@
 ---
 id: 197
 title: Voicecommand se actualiza a la versión 3.0 
+description: Voicecommand se actualiza a la versión 3.0
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-06-30 07:55:00

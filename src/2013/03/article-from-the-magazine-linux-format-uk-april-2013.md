@@ -1,6 +1,7 @@
 ---
 id: 108
 title: Article from the magazine Linux Format UK (April, 2013)
+description: Article from the magazine Linux Format UK (April, 2013)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-03-21 18:00:00

@@ -1,6 +1,7 @@
 ---
 id: 618
 title: VoIP Server on a Raspberry Pi
+description: VoIP Server on a Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-09-14 10:00:00

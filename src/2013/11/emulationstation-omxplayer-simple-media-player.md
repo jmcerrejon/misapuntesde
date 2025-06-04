@@ -1,6 +1,7 @@
 ---
 id: 313
 title: EmulationStation + Omxplayer = simple media player
+description: EmulationStation + Omxplayer = simple media player
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-11-18 11:00:00

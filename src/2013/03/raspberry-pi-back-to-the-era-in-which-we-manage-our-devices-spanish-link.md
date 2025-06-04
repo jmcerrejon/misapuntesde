@@ -1,6 +1,7 @@
 ---
 id: 116
 title: Raspberry Pi. back to the era in which we manage our devices (spanish link)
+description: Raspberry Pi. back to the era in which we manage our devices (spanish link)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-03-27 11:00:00

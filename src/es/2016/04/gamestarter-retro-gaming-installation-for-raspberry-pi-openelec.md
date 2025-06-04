@@ -1,6 +1,7 @@
 ---
 id: 691
 title: GameStarter. Instalación Retro Gaming para Raspberry Pi (OpenELEC)
+description: GameStarter. Instalación Retro Gaming para Raspberry Pi (OpenELEC)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-04-18 10:00:00

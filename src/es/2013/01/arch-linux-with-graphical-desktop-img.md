@@ -1,6 +1,7 @@
 ---
 id: 47
 title: Imagen Arch Linux con entorno gráfico (.img)
+description: Imagen Arch Linux con entorno gráfico (.img)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-21 10:10:00

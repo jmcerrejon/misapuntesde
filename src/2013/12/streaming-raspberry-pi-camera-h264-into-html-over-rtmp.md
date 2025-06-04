@@ -1,6 +1,7 @@
 ---
 id: 338
 title: Streaming Raspberry Pi Camera H264 into HTML over RTMP
+description: Streaming Raspberry Pi Camera H264 into HTML over RTMP
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-12-29 13:20:16

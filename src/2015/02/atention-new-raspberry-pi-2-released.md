@@ -1,6 +1,7 @@
 ---
 id: 514
 title: ATENTION. New Raspberry Pi 2 released!
+description: ATENTION. New Raspberry Pi 2 released!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-02-02 09:50:00

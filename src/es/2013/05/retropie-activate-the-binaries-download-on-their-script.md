@@ -1,6 +1,7 @@
 ---
 id: 173
 title: RetroPie activa la descarga de binarios
+description: RetroPie activa la descarga de binarios
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-05-31 09:20:00

@@ -1,6 +1,7 @@
 ---
 id: 471
 title: Descargar y ver vídeos de Youtube desde la consola con mps-Youtube
+description: Descargar y ver vídeos de Youtube desde la consola con mps-Youtube
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-10-20 07:10:00

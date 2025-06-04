@@ -1,6 +1,7 @@
 ---
 id: 672
 title: New Raspberry Pi 3 Model B out
+description: New Raspberry Pi 3 Model B out
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-02-29 09:00:00

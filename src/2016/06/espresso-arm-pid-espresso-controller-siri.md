@@ -1,6 +1,7 @@
 ---
 id: 717
 title: espresso-arm. PID Espresso Controller + Siri
+description: espresso-arm. PID Espresso Controller + Siri
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-06-27 10:15:00

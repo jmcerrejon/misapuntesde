@@ -1,6 +1,7 @@
 ---
 id: 555
 title: Actualizar Raspian desde Wheezy a Jessie
+description: Actualizar Raspian desde Wheezy a Jessie
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-04-29 10:15:00

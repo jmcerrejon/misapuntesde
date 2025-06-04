@@ -1,6 +1,7 @@
 ---
 id: 917
 title: Initial Turbo on Raspberry Pi to speed up boot times
+description: Initial Turbo on Raspberry Pi to speed up boot times
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2019-10-30 16:20:00

@@ -1,6 +1,7 @@
 ---
 id: 649
 title: Han sido noticia esta semana en el mundo Pi
+description: Han sido noticia esta semana en el mundo Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-12-18 12:25:00

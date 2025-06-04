@@ -1,6 +1,7 @@
 ---
 id: 382
 title: OpenMSX 0.11.0 for Raspberry Pi!
+description: OpenMSX 0.11.0 for Raspberry Pi!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-03-31 00:00:00

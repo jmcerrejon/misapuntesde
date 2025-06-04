@@ -1,6 +1,7 @@
 ---
 id: 388
 title: Howto make Raspberry Pi a reliable server system!
+description: Howto make Raspberry Pi a reliable server system!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-04-19 13:37:27

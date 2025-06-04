@@ -1,6 +1,7 @@
 ---
 id: 744
 title: Deploy con rsync
+description: Deploy con rsync
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-09-27 08:00:00

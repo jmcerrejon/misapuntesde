@@ -1,6 +1,7 @@
 ---
 id: 507
 title: raylib. Librería simple y fácil de usar para crear videojuegos
+description: raylib. Librería simple y fácil de usar para crear videojuegos
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-01-14 09:30:00

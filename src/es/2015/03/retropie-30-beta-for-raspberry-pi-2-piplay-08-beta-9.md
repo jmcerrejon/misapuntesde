@@ -1,6 +1,7 @@
 ---
 id: 540
 title: RetroPie 3.0 Beta para Raspberry Pi 2 y PiPlay 0.8 beta 9
+description: RetroPie 3.0 Beta para Raspberry Pi 2 y PiPlay 0.8 beta 9
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-03-28 11:20:00

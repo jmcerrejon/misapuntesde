@@ -1,6 +1,7 @@
 ---
 id: 630
 title: Q4OS. Windows look style for Rasberry Pi
+description: Q4OS. Windows look style for Rasberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-10-26 09:45:00

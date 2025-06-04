@@ -1,6 +1,7 @@
 ---
 id: 62
 title: Updated GPU firmware
+description: Updated GPU firmware
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-26 07:30:00

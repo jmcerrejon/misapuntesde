@@ -1,6 +1,7 @@
 ---
 id: 133
 title: Arduino Uno vs BeagleBone vs Raspberry Pi
+description: Arduino Uno vs BeagleBone vs Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-04-16 10:00:00

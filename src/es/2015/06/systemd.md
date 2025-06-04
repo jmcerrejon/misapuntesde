@@ -1,6 +1,7 @@
 ---
 id: 571
 title: systemd
+description: systemd
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-06-04 08:00:00

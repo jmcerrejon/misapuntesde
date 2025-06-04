@@ -1,6 +1,7 @@
 ---
 id: 62
 title: Actualización firmware de la GPU
+description: Actualización firmware de la GPU
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-26 07:30:00

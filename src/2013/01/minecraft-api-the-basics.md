@@ -1,6 +1,7 @@
 ---
 id: 9
 title: Minecraft API - the basics 
+description: Minecraft API - the basics
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-14 11:33:00

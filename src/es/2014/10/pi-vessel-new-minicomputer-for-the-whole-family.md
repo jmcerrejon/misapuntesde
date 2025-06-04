@@ -1,6 +1,7 @@
 ---
 id: 468
 title: Pi Vessel. Nuevo miniordenador para toda la familia
+description: Pi Vessel. Nuevo miniordenador para toda la familia
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-10-14 08:20:00

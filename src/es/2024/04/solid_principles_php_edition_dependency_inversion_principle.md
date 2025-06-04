@@ -1,5 +1,6 @@
 ---
 title: SOLID principles PHP Edition. Hoy, el principio de Inversión de Dependencias
+description: SOLID principles PHP Edition. Hoy, el principio de Inversión de Dependencias
 icon: fa-solid fa-code
 author: Jose Cerrejon
 date: 2024-04-23

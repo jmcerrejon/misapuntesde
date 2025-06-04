@@ -1,6 +1,7 @@
 ---
 id: 52
 title: Raspberry Pi like a web server(Spanish link)
+description: Raspberry Pi like a web server(Spanish link)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-23 10:35:00

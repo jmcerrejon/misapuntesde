@@ -1,6 +1,7 @@
 ---
 id: 728
 title: Decentralized server for holidays with Raspberry Pi
+description: Decentralized server for holidays with Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-07-24 09:20:00

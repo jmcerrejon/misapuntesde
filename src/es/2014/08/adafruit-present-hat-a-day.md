@@ -1,6 +1,7 @@
 ---
 id: 444
 title: Adafruit presenta HAT-A-DAY
+description: Adafruit presenta HAT-A-DAY
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-08-18 09:05:00

@@ -1,6 +1,7 @@
 ---
 id: 511
 title: Review + Youtube. Android v. 1.1 (4.4.2) on ODROID-C1
+description: Review + Youtube. Android v. 1.1 (4.4.2) on ODROID-C1
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-01-26 13:00:00

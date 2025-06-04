@@ -1,6 +1,7 @@
 ---
 id: 901
 title: Atomic Pi. Windows 10 deep review
+description: Atomic Pi. Windows 10 deep review
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2019-05-19 19:25:00

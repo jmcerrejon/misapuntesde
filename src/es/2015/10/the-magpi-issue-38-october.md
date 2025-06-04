@@ -1,6 +1,7 @@
 ---
 id: 625
 title: Nuevo número de la revista The MagPi (Octubre)
+description: Nuevo número de la revista The MagPi (Octubre)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-10-12 07:00:00

@@ -1,6 +1,7 @@
 ---
 id: 348
 title: Raspberry Pi Hacks (Ebook)
+description: Raspberry Pi Hacks (Ebook)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-01-13 14:18:31

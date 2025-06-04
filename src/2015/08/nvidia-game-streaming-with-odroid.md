@@ -1,6 +1,7 @@
 ---
 id: 602
 title: NVIDIA Game Streaming with ODROID
+description: NVIDIA Game Streaming with ODROID
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-08-10 10:00:00

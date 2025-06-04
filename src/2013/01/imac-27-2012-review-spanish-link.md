@@ -1,6 +1,7 @@
 ---
 id: 11
 title: iMac 27 (2012) review (Spanish link)
+description: iMac 27 (2012) review (Spanish link)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-14 13:00:00

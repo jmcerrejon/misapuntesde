@@ -1,6 +1,7 @@
 ---
 id: 14
 title: Hoy comienzo un curso en coursera.com
+description: Hoy comienzo un curso en coursera.com
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-14 14:43:00

@@ -1,6 +1,7 @@
 ---
 id: 916
 title: Conectar a carpetas compartidas en Raspberry Pi desde macOS usando el protocolo AFP
+description: Conectar a carpetas compartidas en Raspberry Pi desde macOS usando el protocolo AFP
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2019-10-09 17:40:00

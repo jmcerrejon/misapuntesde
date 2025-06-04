@@ -1,6 +1,7 @@
 ---
 id: 100
 title: Emulador de PCEngine
+description: Emulador de PCEngine
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-03-13 09:35:00

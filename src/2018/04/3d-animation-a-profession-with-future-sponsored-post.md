@@ -1,6 +1,7 @@
 ---
 id: 878
 title: 3D animation, a profession with future (sponsored post)
+description: 3D animation, a profession with future (sponsored post)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2018-04-16 17:20:00

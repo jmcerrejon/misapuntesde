@@ -1,6 +1,7 @@
 ---
 id: 465
 title: NotanOS. Sistema operativo en la nube
+description: NotanOS. Sistema operativo en la nube
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-10-08 09:20:00

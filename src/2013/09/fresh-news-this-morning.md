@@ -1,6 +1,7 @@
 ---
 id: 268
 title: Fresh news this morning
+description: Fresh news this morning
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-09-18 09:00:00

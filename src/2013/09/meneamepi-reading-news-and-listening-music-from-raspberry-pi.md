@@ -1,6 +1,7 @@
 ---
 id: 263
 title: meneamePi, reading news and listening music from Raspberry Pi
+description: meneamePi, reading news and listening music from Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-09-12 10:45:00

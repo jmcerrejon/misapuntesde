@@ -1,6 +1,7 @@
 ---
 id: 294
 title: Efecto puerta del terror con Raspberry Pi
+description: Efecto puerta del terror con Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-10-17 14:13:00

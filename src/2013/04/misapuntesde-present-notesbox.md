@@ -1,6 +1,7 @@
 ---
 id: 125
 title: Misapuntesde present... NOTESbox!
+description: Misapuntesde present... NOTESbox!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-04-05 08:00:00

@@ -1,6 +1,7 @@
 ---
 id: 684
 title: Actualizar Git en OSX con brew
+description: Actualizar Git en OSX con brew
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-03-29 14:25:00

@@ -1,6 +1,7 @@
 ---
 id: 147
 title: Detector de movimiento con Raspberry Pi usando Realtime y Python
+description: Detector de movimiento con Raspberry Pi usando Realtime y Python
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-05-03 10:30:00

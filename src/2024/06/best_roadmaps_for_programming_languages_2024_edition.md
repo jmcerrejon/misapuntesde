@@ -1,5 +1,6 @@
 ---
 title: Best roadmaps for developers 2024 Edition
+description: Best roadmaps for developers 2024 Edition
 icon: fa-solid fa-code
 author: Jose Cerrejon
 date: 2024-06-16

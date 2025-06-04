@@ -1,6 +1,7 @@
 ---
 id: 124
 title: RaspiPC.es, anunciante en MisApuntesde.com
+description: RaspiPC.es, anunciante en MisApuntesde.com
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-04-04 15:00:00

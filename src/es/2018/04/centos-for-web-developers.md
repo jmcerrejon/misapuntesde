@@ -1,6 +1,7 @@
 ---
 id: 879
 title: CentOS para desarrolladores web
+description: CentOS para desarrolladores web
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2018-04-19 11:30:00

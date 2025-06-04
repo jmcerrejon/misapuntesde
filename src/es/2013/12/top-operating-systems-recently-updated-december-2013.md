@@ -1,6 +1,7 @@
 ---
 id: 332
 title: Top Sistemas Operativos actualizados recientemente (Dic 2013)
+description: Top Sistemas Operativos actualizados recientemente (Dic 2013)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-12-18 13:22:40

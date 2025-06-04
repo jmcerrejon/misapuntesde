@@ -1,6 +1,7 @@
 ---
 id: 183
 title: Ambilight with Raspberry Pi. The Guide (Spanish pdf)
+description: Ambilight with Raspberry Pi. The Guide (Spanish pdf)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-06-11 10:40:00

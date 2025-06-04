@@ -1,6 +1,7 @@
 ---
 id: 70
 title: Chameleon. tutorial y revisión
+description: Chameleon. tutorial y revisión
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-31 12:00:00

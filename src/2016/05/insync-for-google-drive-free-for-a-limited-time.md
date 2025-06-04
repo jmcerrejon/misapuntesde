@@ -1,6 +1,7 @@
 ---
 id: 703
 title: Insync for Google Drive, free for a limited time
+description: Insync for Google Drive, free for a limited time
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-05-18 10:00:00

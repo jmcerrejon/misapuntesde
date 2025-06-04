@@ -1,6 +1,7 @@
 ---
 id: 593
 title: ODROID Magazine issue out (July 2015)!
+description: ODROID Magazine issue out (July 2015)!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-07-20 09:40:00

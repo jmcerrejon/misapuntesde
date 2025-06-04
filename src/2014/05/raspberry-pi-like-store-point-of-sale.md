@@ -1,6 +1,7 @@
 ---
 id: 407
 title: Raspberry Pi like store Point Of Sale
+description: Raspberry Pi like store Point Of Sale
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-05-26 10:51:29

@@ -1,6 +1,7 @@
 ---
 id: 928
 title: Today in mysteries to solve. DOSBox and the MacOS key mapping bug
+description: Today in mysteries to solve. DOSBox and the MacOS key mapping bug
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2020-04-20 18:55:51

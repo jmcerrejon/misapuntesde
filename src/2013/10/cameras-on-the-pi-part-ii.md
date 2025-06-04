@@ -1,6 +1,7 @@
 ---
 id: 299
 title: cameras on the Pi (Part II)
+description: cameras on the Pi (Part II)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-10-24 13:00:00

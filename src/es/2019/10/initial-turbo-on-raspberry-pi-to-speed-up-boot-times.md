@@ -1,6 +1,7 @@
 ---
 id: 917
 title: Initial Turbo en Raspberry Pi para acelerar tiempos de arranque
+description: Initial Turbo en Raspberry Pi para acelerar tiempos de arranque
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2019-10-30 16:20:00

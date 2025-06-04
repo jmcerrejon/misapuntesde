@@ -1,6 +1,7 @@
 ---
 id: 302
 title: Stopping SD Card Corruption on Raspberry Pi
+description: Stopping SD Card Corruption on Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-10-28 13:25:00

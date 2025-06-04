@@ -1,6 +1,7 @@
 ---
 id: 353
 title: Raspberry Pi. Initial Setup focused on the security
+description: Raspberry Pi. Initial Setup focused on the security
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-01-21 10:12:22

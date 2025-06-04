@@ -1,6 +1,7 @@
 ---
 id: 763
 title: Revisión Orange Pi One y...¡Sorteo!
+description: Revisión Orange Pi One y...¡Sorteo!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-01-31 09:30:00

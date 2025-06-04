@@ -1,6 +1,7 @@
 ---
 id: 140
 title: ¡Ubuntu 13.04 Raring Ringtail ya está aquí!
+description: ¡Ubuntu 13.04 Raring Ringtail ya está aquí!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-04-25 14:20:00

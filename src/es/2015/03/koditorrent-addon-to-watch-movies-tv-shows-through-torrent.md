@@ -1,6 +1,7 @@
 ---
 id: 541
 title: KODITorrent. Addon para ver series y películas a través de Torrent
+description: KODITorrent. Addon para ver series y películas a través de Torrent
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-03-30 09:00:00

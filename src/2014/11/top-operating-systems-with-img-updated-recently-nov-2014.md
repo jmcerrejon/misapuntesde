@@ -1,6 +1,7 @@
 ---
 id: 484
 title: Top Operating Systems with img updated recently (Nov, 2014)
+description: Top Operating Systems with img updated recently (Nov, 2014)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-11-19 10:00:00

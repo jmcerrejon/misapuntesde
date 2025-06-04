@@ -1,6 +1,7 @@
 ---
 id: 105
 title: Buscar ficheros y directorios en linux
+description: Buscar ficheros y directorios en linux
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-03-19 12:35:00

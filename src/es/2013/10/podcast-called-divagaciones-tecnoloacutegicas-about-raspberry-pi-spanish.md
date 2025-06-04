@@ -1,6 +1,7 @@
 ---
 id: 300
 title: Podcast Divagaciones Tecnológicas sobre Raspberry Pi
+description: Podcast Divagaciones Tecnológicas sobre Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-10-25 10:00:00

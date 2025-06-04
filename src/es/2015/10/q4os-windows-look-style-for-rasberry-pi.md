@@ -1,6 +1,7 @@
 ---
 id: 630
 title: Q4OS. SO con estilo Windows para Raspberry Pi
+description: Q4OS. SO con estilo Windows para Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-10-26 09:45:00

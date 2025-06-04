@@ -1,6 +1,7 @@
 ---
 id: 42
 title: New .deb packages. Emulators Advanced!
+description: New .deb packages. Emulators Advanced!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-20 10:00:00

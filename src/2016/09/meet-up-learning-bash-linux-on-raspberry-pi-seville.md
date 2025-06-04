@@ -1,6 +1,7 @@
 ---
 id: 736
 title: Meet up. Learning Bash Linux on Raspberry Pi (Seville)
+description: Meet up. Learning Bash Linux on Raspberry Pi (Seville)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-09-07 08:20:00

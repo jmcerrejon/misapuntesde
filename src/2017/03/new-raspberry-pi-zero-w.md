@@ -1,6 +1,7 @@
 ---
 id: 771
 title: New Raspberry Pi Zero W
+description: New Raspberry Pi Zero W
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-03-01 12:15:00

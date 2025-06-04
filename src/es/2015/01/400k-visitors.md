@@ -1,6 +1,7 @@
 ---
 id: 506
 title: ¡400.000 visitas!
+description: ¡400.000 visitas!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-01-14 09:20:00

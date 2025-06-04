@@ -1,6 +1,7 @@
 ---
 id: 619
 title: NesPi. Raspberry Pi dentro de una NES de Lego
+description: NesPi. Raspberry Pi dentro de una NES de Lego
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-09-16 09:00:00

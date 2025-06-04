@@ -1,6 +1,7 @@
 ---
 id: 271
 title: Low Cost home automation with Raspberry Pi
+description: Low Cost home automation with Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-09-21 08:10:00

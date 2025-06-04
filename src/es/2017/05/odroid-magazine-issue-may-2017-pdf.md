@@ -1,6 +1,7 @@
 ---
 id: 794
 title: ODROID Magazine Mayo 2017 (pdf)
+description: ODROID Magazine Mayo 2017 (pdf)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-05-17 10:40:00

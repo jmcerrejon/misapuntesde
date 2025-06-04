@@ -1,6 +1,7 @@
 ---
 id: 32
 title: Why programmers work better at night?
+description: Why programmers work better at night?
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-17 14:00:00

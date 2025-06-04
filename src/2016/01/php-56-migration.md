@@ -1,6 +1,7 @@
 ---
 id: 659
 title: PHP 5.6 migration
+description: PHP 5.6 migration
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-01-31 12:00:00

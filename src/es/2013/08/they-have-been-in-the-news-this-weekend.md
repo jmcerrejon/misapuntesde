@@ -1,6 +1,7 @@
 ---
 id: 224
 title: Han sido noticia este fín de semana...
+description: Han sido noticia este fín de semana...
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-08-05 14:30:00

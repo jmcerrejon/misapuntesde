@@ -1,6 +1,7 @@
 ---
 id: 291
 title: Stream TV channels from the Pi to iPad (translated link)
+description: Stream TV channels from the Pi to iPad (translated link)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-10-13 06:15:00

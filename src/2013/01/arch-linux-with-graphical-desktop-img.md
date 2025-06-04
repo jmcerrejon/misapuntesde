@@ -1,6 +1,7 @@
 ---
 id: 47
 title: Arch Linux with graphical desktop (.img)
+description: Arch Linux with graphical desktop (.img)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-21 10:10:00

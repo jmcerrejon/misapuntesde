@@ -1,6 +1,7 @@
 ---
 id: 910
 title: Descent 1 & 2 with DXX-Rebirth for Raspberry Pi 4
+description: Descent 1 & 2 with DXX-Rebirth for Raspberry Pi 4
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2019-09-17 10:45:00

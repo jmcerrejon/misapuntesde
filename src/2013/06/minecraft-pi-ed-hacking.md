@@ -1,6 +1,7 @@
 ---
 id: 184
 title: Minecraft Pi Ed. Hacking
+description: Minecraft Pi Ed. Hacking
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-06-12 10:00:00

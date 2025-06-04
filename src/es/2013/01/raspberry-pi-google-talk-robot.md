@@ -1,6 +1,7 @@
 ---
 id: 31
 title: Raspberry Pi Google Talk Robot
+description: Raspberry Pi Google Talk Robot
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-17 09:26:00

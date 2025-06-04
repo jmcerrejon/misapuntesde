@@ -1,6 +1,7 @@
 ---
 id: 782
 title: Review of Exagear Desktop for Raspberry Pi ver. 2.0 + Giveaway!
+description: Review of Exagear Desktop for Raspberry Pi ver. 2.0 + Giveaway!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-04-03 10:35:00

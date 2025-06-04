@@ -1,6 +1,7 @@
 ---
 id: 340
 title: Best of this year 2013 on Mis Apuntes de
+description: Best of this year 2013 on Mis Apuntes de
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-01-01 09:04:43

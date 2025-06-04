@@ -1,6 +1,7 @@
 ---
 id: 81
 title: Mostrar la temperatura de tu RasPi
+description: Mostrar la temperatura de tu RasPi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-02-25 14:15:00

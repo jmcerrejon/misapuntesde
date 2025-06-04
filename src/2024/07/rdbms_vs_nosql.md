@@ -1,5 +1,6 @@
 ---
 title: Relational Database Vs NoSQL
+description: Relational Database Vs NoSQL
 icon: fa-solid fa-code
 author: Jose Cerrejon
 date: 2024-07-31

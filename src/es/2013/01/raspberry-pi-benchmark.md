@@ -1,6 +1,7 @@
 ---
 id: 21
 title: Raspberry Pi benchmark
+description: Raspberry Pi benchmark
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-15 11:59:00

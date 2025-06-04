@@ -1,6 +1,7 @@
 ---
 id: 59
 title: PRIMICIA!. Posible nuevo emulador x86
+description: PRIMICIA!. Posible nuevo emulador x86
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-25 17:20:00

@@ -1,5 +1,6 @@
 ---
 title: Mantén tus apps actualizadas con estas apps gratuitas en macOS
+description: Mantén tus apps actualizadas con estas apps gratuitas en macOS
 icon: fa-brands fa-apple
 author: Jose Cerrejon
 date: 2024-06-13

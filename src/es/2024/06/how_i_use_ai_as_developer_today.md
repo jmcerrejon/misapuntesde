@@ -1,5 +1,6 @@
 ---
 title: El uso que doy a la AI como desarrollador a día de hoy
+description: El uso que doy a la AI como desarrollador a día de hoy
 icon: fa-solid fa-code
 author: Jose Cerrejon
 date: 2024-06-25

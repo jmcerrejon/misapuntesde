@@ -1,6 +1,7 @@
 ---
 id: 67
 title: Bluetooth Speakers using Raspberry Pi
+description: Bluetooth Speakers using Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-29 18:50:00

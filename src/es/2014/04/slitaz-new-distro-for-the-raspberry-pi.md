@@ -1,6 +1,7 @@
 ---
 id: 383
 title: SliTaz. Nueva distro para tu Raspberry Pi
+description: SliTaz. Nueva distro para tu Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-04-01 07:26:49

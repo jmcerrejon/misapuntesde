@@ -1,5 +1,6 @@
 ---
 title: Lo estabas deseando. PHP Vs Python
+description: Lo estabas deseando. PHP Vs Python
 icon: fa-solid fa-code
 author: Jose Cerrejon
 date: 2024-10-26

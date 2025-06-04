@@ -1,6 +1,7 @@
 ---
 id: 157
 title: Install Subsonic server in Raspbian
+description: Install Subsonic server in Raspbian
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-05-15 11:20:00

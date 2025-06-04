@@ -1,6 +1,7 @@
 ---
 id: 777
 title: Digital DVB-T on Raspbian and Debian flavours
+description: Digital DVB-T on Raspbian and Debian flavours
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-03-13 12:00:00

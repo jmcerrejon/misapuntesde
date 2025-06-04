@@ -1,6 +1,7 @@
 ---
 id: 307
 title: Binaries updated on RetroPie and the SD image
+description: Binaries updated on RetroPie and the SD image
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-11-06 10:00:00

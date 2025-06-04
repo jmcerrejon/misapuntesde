@@ -1,6 +1,7 @@
 ---
 id: 876
 title: Fueron noticia en el mundo Pi
+description: Fueron noticia en el mundo Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2018-04-02 16:25:00

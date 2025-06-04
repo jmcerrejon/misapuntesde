@@ -1,6 +1,7 @@
 ---
 id: 811
 title: Hide the Apache web server signature
+description: Hide the Apache web server signature
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-07-13 11:50:00

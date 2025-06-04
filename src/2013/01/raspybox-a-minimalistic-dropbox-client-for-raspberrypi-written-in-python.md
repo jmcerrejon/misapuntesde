@@ -1,6 +1,7 @@
 ---
 id: 61
 title: RaspyBox. A minimalistic Dropbox client for raspberryPI written in python. 
+description: RaspyBox. A minimalistic Dropbox client for raspberryPI written in python.
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-26 07:20:00

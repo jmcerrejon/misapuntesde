@@ -1,6 +1,7 @@
 ---
 id: 489
 title: Lamobo D1. development board with HD camera
+description: Lamobo D1. development board with HD camera
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-12-01 11:40:00

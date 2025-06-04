@@ -1,6 +1,7 @@
 ---
 id: 138
 title: Beaglebone llega para quedarse
+description: Beaglebone llega para quedarse
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-04-23 09:00:00

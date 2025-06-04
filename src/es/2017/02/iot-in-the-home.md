@@ -1,6 +1,7 @@
 ---
 id: 766
 title: IoT en el hogar
+description: IoT en el hogar
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-02-09 09:40:00

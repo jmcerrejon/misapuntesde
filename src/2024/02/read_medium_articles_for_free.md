@@ -1,5 +1,6 @@
 ---
 title: Read Medium articles for free
+description: Read Medium articles for free
 icon: fa-regular fa-newspaper
 author: Jose Cerrejon
 date: 2024-02-26

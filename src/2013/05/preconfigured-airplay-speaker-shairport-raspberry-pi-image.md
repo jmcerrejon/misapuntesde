@@ -1,6 +1,7 @@
 ---
 id: 146
 title: Preconfigured Airplay speaker (Shairport) - Raspberry PI image
+description: Preconfigured Airplay speaker (Shairport) - Raspberry PI image
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-05-02 13:45:00

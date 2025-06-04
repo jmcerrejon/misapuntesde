@@ -1,6 +1,7 @@
 ---
 id: 864
 title: Briefing SEO Mailrelay campaign
+description: Briefing SEO Mailrelay campaign
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2018-02-07 11:00:00

@@ -1,6 +1,7 @@
 ---
 id: 565
 title: Arx Fatalis for Raspberry Pi 2 & ODROID
+description: Arx Fatalis for Raspberry Pi 2 & ODROID
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-05-20 08:00:00

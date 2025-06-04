@@ -1,6 +1,7 @@
 ---
 id: 326
 title: News this last week
+description: News this last week
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-12-09 14:00:00

@@ -1,6 +1,7 @@
 ---
 id: 724
 title: Softbank Group and the ARM cake of $32bn
+description: Softbank Group and the ARM cake of $32bn
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-07-19 11:00:00

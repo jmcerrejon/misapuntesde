@@ -1,6 +1,7 @@
 ---
 id: 327
 title: Doom's Aniversary (20 years). Celebrate it with the Pi
+description: Doom's Aniversary (20 years). Celebrate it with the Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-12-11 11:00:00

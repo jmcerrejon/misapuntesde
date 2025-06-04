@@ -1,6 +1,7 @@
 ---
 id: 415
 title: Sonic Pi v2.0
+description: Sonic Pi v2.0
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-06-11 10:11:24

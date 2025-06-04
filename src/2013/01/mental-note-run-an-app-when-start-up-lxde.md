@@ -1,6 +1,7 @@
 ---
 id: 23
 title: Mental note. Run an app when start up LXDE
+description: Mental note. Run an app when start up LXDE
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-15 17:10:00

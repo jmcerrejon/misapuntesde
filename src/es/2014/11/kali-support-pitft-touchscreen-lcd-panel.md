@@ -1,6 +1,7 @@
 ---
 id: 486
 title: Kali habilita el soporte para pantallas PiTFT
+description: Kali habilita el soporte para pantallas PiTFT
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-11-24 09:20:00

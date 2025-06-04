@@ -1,6 +1,7 @@
 ---
 id: 171
 title: Control home automation with android (translated link)
+description: Control home automation with android (translated link)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-05-30 10:00:00

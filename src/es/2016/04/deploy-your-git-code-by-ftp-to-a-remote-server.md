@@ -1,6 +1,7 @@
 ---
 id: 692
 title: Deploy de nuestro código Git por FTP a servidor remoto
+description: Deploy de nuestro código Git por FTP a servidor remoto
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-04-19 20:45:00

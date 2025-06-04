@@ -1,6 +1,7 @@
 ---
 id: 803
 title: Spanish Webinar. Introduction to IoT with AWS
+description: Spanish Webinar. Introduction to IoT with AWS
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-06-13 10:00:00

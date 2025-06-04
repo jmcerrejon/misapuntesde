@@ -1,6 +1,7 @@
 ---
 id: 865
 title: ODROID-N1 single-board with hexa-core CPU
+description: ODROID-N1 single-board with hexa-core CPU
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2018-02-07 11:45:00

@@ -1,6 +1,7 @@
 ---
 id: 237
 title: Change MOTD on Raspberry Pi
+description: Change MOTD on Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-08-17 10:05:00

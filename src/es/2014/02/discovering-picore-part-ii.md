@@ -1,6 +1,7 @@
 ---
 id: 362
 title: Descubriendo piCore (II Parte)
+description: Descubriendo piCore (II Parte)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-02-07 07:56:20

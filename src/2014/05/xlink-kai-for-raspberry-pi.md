@@ -1,6 +1,7 @@
 ---
 id: 406
 title: XLink Kai for Raspberry Pi
+description: XLink Kai for Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-05-24 09:02:33

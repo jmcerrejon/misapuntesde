@@ -1,6 +1,7 @@
 ---
 id: 155
 title: BerryIO. Web browser based control system for the RaspberryPi
+description: BerryIO. Web browser based control system for the RaspberryPi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-05-13 09:00:00

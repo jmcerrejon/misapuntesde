@@ -1,6 +1,7 @@
 ---
 id: 288
 title: Tips Book on PartalLinux.es (Spanish)
+description: Tips Book on PartalLinux.es (Spanish)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-10-08 13:00:00

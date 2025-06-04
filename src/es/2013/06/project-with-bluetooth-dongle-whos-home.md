@@ -1,6 +1,7 @@
 ---
 id: 193
 title: Proyecto con dongle Bluetooth. ¿Quién está en casa?
+description: Proyecto con dongle Bluetooth. ¿Quién está en casa?
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-06-24 14:00:00

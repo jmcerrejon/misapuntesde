@@ -1,6 +1,7 @@
 ---
 id: 719
 title: Happy B
+description: Happy B
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-06-30 08:10:00

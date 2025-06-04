@@ -1,6 +1,7 @@
 ---
 id: 341
 title: Holidays... again!
+description: Holidays... again!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-01-02 09:07:18

@@ -1,6 +1,7 @@
 ---
 id: 726
 title: Hotspot on DietPi
+description: Hotspot on DietPi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-07-21 10:15:00

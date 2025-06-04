@@ -1,6 +1,7 @@
 ---
 id: 46
 title: Raspberry Pi Portable Hand Held MAME
+description: Raspberry Pi Portable Hand Held MAME
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-21 08:00:00

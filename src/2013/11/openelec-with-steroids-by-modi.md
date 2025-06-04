@@ -1,6 +1,7 @@
 ---
 id: 312
 title: OpenELEC with steroids by MoDi
+description: OpenELEC with steroids by MoDi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-11-17 12:00:00

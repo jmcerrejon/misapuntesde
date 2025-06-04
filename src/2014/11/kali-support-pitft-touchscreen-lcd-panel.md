@@ -1,6 +1,7 @@
 ---
 id: 486
 title: Kali support PiTFT touchscreen LCD panel
+description: Kali support PiTFT touchscreen LCD panel
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-11-24 09:20:00

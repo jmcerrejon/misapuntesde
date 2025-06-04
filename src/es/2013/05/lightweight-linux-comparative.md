@@ -1,6 +1,7 @@
 ---
 id: 152
 title: Linux ligero. Comparativa de escritorios livianos
+description: Linux ligero. Comparativa de escritorios livianos
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-05-10 10:40:00

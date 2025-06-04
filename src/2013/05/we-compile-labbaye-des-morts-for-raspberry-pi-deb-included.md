@@ -1,6 +1,7 @@
 ---
 id: 162
 title: We compile L'Abbaye des Morts for Raspberry Pi (.deb included)
+description: We compile L'Abbaye des Morts for Raspberry Pi (.deb included)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-05-18 20:00:00

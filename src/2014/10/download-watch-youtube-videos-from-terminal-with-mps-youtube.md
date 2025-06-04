@@ -1,6 +1,7 @@
 ---
 id: 471
 title: Download & watch Youtube videos from Terminal with mps-Youtube
+description: Download & watch Youtube videos from Terminal with mps-Youtube
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-10-20 07:10:00

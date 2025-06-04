@@ -1,6 +1,7 @@
 ---
 id: 669
 title: The Wonderful World of MicroSD Card Holder
+description: The Wonderful World of MicroSD Card Holder
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-02-22 11:10:00

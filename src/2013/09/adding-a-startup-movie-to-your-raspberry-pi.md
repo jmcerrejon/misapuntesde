@@ -1,6 +1,7 @@
 ---
 id: 277
 title: Adding a Startup Movie to your Raspberry Pi
+description: Adding a Startup Movie to your Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-09-26 09:00:00

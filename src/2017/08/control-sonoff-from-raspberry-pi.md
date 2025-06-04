@@ -1,6 +1,7 @@
 ---
 id: 820
 title: Control Sonoff from Raspberry Pi
+description: Control Sonoff from Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-08-07 13:35:00

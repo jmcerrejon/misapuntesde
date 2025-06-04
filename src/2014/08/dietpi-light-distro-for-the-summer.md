@@ -1,6 +1,7 @@
 ---
 id: 445
 title: DietPi. Light distro for the summer
+description: DietPi. Light distro for the summer
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-08-20 09:20:00

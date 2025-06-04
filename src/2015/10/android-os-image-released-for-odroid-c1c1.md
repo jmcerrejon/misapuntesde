@@ -1,6 +1,7 @@
 ---
 id: 628
 title: Android OS image released for ODROID C1/C1+
+description: Android OS image released for ODROID C1/C1+
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-10-20 09:45:00

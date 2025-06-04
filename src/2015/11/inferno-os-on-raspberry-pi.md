@@ -1,6 +1,7 @@
 ---
 id: 640
 title: Inferno OS on Raspberry Pi
+description: Inferno OS on Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-11-23 10:15:33

@@ -1,6 +1,7 @@
 ---
 id: 742
 title: Indoor tracking using 4G and A-GPS mode
+description: Indoor tracking using 4G and A-GPS mode
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-09-19 09:00:00

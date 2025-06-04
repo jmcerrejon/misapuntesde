@@ -1,6 +1,7 @@
 ---
 id: 899
 title: LudOS. New Libretro's Frontend
+description: LudOS. New Libretro's Frontend
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2019-02-24 19:00:00

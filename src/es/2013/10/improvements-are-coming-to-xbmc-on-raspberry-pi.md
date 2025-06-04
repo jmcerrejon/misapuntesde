@@ -1,6 +1,7 @@
 ---
 id: 282
 title: Se avecinan mejoras para XBMC en la Raspberry Pi
+description: Se avecinan mejoras para XBMC en la Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-10-01 07:15:00

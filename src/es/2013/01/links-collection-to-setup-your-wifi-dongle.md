@@ -1,6 +1,7 @@
 ---
 id: 69
 title: Recopilación de enlaces para configurar tu WIFI
+description: Recopilación de enlaces para configurar tu WIFI
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-30 11:00:00

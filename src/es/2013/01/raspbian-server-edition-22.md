@@ -1,6 +1,7 @@
 ---
 id: 45
 title: Raspbian Server Edition 2.2
+description: Raspbian Server Edition 2.2
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-21 07:40:00

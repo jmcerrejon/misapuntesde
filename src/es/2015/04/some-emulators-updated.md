@@ -1,6 +1,7 @@
 ---
 id: 551
 title: Oleada de emuladores actualizados
+description: Oleada de emuladores actualizados
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-04-18 08:20:00

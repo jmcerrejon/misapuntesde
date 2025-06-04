@@ -1,6 +1,7 @@
 ---
 id: 109
 title: RetroPie Project. Definitive Guide!
+description: RetroPie Project. Definitive Guide!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-03-22 07:20:00

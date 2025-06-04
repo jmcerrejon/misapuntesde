@@ -1,6 +1,7 @@
 ---
 id: 928
 title: Hoy en misterios que resolver. DOSBox y el bug del mapeo de teclas en macOS
+description: Hoy en misterios que resolver. DOSBox y el bug del mapeo de teclas en macOS
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2020-04-20 18:55:51

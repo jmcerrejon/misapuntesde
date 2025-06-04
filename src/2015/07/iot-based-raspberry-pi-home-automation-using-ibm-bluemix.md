@@ -1,6 +1,7 @@
 ---
 id: 596
 title: IoT based Raspberry Pi home automation using IBM Bluemix
+description: IoT based Raspberry Pi home automation using IBM Bluemix
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-07-27 10:15:00

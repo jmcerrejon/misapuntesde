@@ -1,6 +1,7 @@
 ---
 id: 481
 title: Lakka. Retro-gaming distro based on OpenELEC
+description: Lakka. Retro-gaming distro based on OpenELEC
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-11-12 09:00:00

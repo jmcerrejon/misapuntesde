@@ -1,6 +1,7 @@
 ---
 id: 612
 title: Plex Media Server updated
+description: Plex Media Server updated
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-08-31 12:00:00

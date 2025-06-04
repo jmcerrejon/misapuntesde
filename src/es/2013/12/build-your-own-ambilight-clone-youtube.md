@@ -1,6 +1,7 @@
 ---
 id: 323
 title: Construye tu propio sistema Ambilight (Youtube)
+description: Construye tu propio sistema Ambilight (Youtube)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-12-01 11:00:00

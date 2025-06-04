@@ -1,6 +1,7 @@
 ---
 id: 768
 title: Chinese online shop response. Official Enclosure for Raspberry Pi with great discount
+description: Chinese online shop response. Official Enclosure for Raspberry Pi with great discount
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-02-15 12:10:00

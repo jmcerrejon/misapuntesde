@@ -1,6 +1,7 @@
 ---
 id: 559
 title: CHIP, the 9$ computer (Kickstarter)
+description: CHIP, the 9$ computer (Kickstarter)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-05-07 19:30:00

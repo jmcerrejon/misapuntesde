@@ -1,6 +1,7 @@
 ---
 id: 187
 title: DLNA to share multimedia files on LAN
+description: DLNA to share multimedia files on LAN
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-06-17 07:40:00

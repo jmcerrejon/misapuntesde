@@ -1,6 +1,7 @@
 ---
 id: 473
 title: Install Latest Transmission on Raspberry Pi 
+description: Install Latest Transmission on Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-10-29 10:00:00

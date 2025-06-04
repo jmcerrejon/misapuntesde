@@ -1,6 +1,7 @@
 ---
 id: 409
 title: PiKISS para Raspberry Pi. Un puñado de scripts con menú para hacerte la vida más fácil
+description: PiKISS para Raspberry Pi. Un puñado de scripts con menú para hacerte la vida más fácil
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-05-29 10:03:10

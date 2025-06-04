@@ -1,6 +1,7 @@
 ---
 id: 837
 title: Raspberry Pi for Secret Agents - Third Edition (Free Ebook for a limited time)
+description: Raspberry Pi for Secret Agents - Third Edition (Free Ebook for a limited time)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-09-27 09:00:00

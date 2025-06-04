@@ -1,6 +1,7 @@
 ---
 id: 365
 title: Emulador de Commodore 64 para celebrar San Valentín
+description: Emulador de Commodore 64 para celebrar San Valentín
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-02-14 11:47:55

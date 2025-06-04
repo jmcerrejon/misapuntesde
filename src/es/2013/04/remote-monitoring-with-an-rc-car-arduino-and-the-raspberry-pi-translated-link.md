@@ -1,6 +1,7 @@
 ---
 id: 137
 title: Televigilancia con un coche RC, arduino y la raspberry pi
+description: Televigilancia con un coche RC, arduino y la raspberry pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-04-22 13:45:00

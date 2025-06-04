@@ -1,6 +1,7 @@
 ---
 id: 265
 title: ¡Liberado OpenELEC 3.2.0!
+description: ¡Liberado OpenELEC 3.2.0!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-09-14 07:25:00

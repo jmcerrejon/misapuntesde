@@ -1,6 +1,7 @@
 ---
 id: 286
 title: FTP on the Pi
+description: FTP on the Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-10-06 06:00:00

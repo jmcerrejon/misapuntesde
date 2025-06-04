@@ -1,6 +1,7 @@
 ---
 id: 176
 title: MagPi issue 13. out now!
+description: MagPi issue 13. out now!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-06-03 07:00:00

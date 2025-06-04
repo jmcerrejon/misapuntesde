@@ -1,5 +1,6 @@
 ---
 title: How I migrated from PHP to Vuepress 2 (Part I)
+description: How I migrated from PHP to Vuepress 2 (Part I)
 author: Jose Cerrejon
 icon: fa-solid fa-code
 date: 2024-02-19

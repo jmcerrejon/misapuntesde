@@ -1,6 +1,7 @@
 ---
 id: 221
 title: Sistema de refrigeración líquida en Raspberry Pi
+description: Sistema de refrigeración líquida en Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-07-31 10:15:00

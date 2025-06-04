@@ -1,6 +1,7 @@
 ---
 id: 936
 title: ¡Han sido noticia en el Mundo Pi!
+description: ¡Han sido noticia en el Mundo Pi!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2020-06-26 11:22:23

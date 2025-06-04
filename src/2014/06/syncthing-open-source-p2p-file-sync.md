@@ -1,6 +1,7 @@
 ---
 id: 412
 title: Syncthing. Open source P2P file sync
+description: Syncthing. Open source P2P file sync
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-06-05 05:50:08

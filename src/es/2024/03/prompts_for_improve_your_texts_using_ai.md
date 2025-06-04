@@ -1,5 +1,6 @@
 ---
 title: Prompts para mejorar tus textos usando Inteligencia Artificial
+description: Prompts para mejorar tus textos usando Inteligencia Artificial
 icon: fa-regular fa-newspaper
 author: Jose Cerrejon
 date: 2024-03-12

@@ -1,6 +1,7 @@
 ---
 id: 492
 title: Conexiones SSH y... ¡Olvídate de las contraseñas!
+description: Conexiones SSH y... ¡Olvídate de las contraseñas!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-12-08 11:15:00

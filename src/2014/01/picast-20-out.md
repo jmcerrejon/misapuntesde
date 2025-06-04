@@ -1,6 +1,7 @@
 ---
 id: 358
 title: PiCAST 2.0 out!
+description: PiCAST 2.0 out!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-01-29 14:00:20

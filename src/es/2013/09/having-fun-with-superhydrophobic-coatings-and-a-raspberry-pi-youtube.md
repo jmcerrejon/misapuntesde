@@ -1,6 +1,7 @@
 ---
 id: 272
 title: Divertirse con revestimiento superhidrófobo y Raspberry Pi (Youtube)
+description: Divertirse con revestimiento superhidrófobo y Raspberry Pi (Youtube)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-09-22 07:00:00

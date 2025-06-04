@@ -1,6 +1,7 @@
 ---
 id: 564
 title: LinkedIn help you to find a job
+description: LinkedIn help you to find a job
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-05-18 10:00:00

@@ -1,6 +1,7 @@
 ---
 id: 324
 title: Archlinux Ultimate Install
+description: Archlinux Ultimate Install
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-12-02 11:00:00

@@ -1,6 +1,7 @@
 ---
 id: 60
 title: libspotify for Raspberry Pi beta
+description: libspotify for Raspberry Pi beta
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-26 07:00:00

@@ -1,6 +1,7 @@
 ---
 id: 921
 title: Box86 on Raspberry Pi & ODROID
+description: Box86 on Raspberry Pi & ODROID
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2020-02-14 17:23:29

@@ -1,6 +1,7 @@
 ---
 id: 214
 title: News this week on PI's World...
+description: News this week on PI's World...
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-07-27 09:15:00

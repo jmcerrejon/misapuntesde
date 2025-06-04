@@ -1,6 +1,7 @@
 ---
 id: 279
 title: Nueva imagen de Raspbian disponible
+description: Nueva imagen de Raspbian disponible
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-09-27 20:00:00

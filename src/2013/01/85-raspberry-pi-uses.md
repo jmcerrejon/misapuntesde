@@ -1,6 +1,7 @@
 ---
 id: 65
 title: 85 Raspberry Pi uses
+description: 85 Raspberry Pi uses
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-28 20:00:00

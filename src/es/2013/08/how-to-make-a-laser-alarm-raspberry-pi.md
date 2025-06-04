@@ -1,6 +1,7 @@
 ---
 id: 228
 title: Como hacer una alarma láser con Raspberry Pi
+description: Como hacer una alarma láser con Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-08-08 12:25:00

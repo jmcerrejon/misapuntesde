@@ -1,6 +1,7 @@
 ---
 id: 460
 title: New OpenMSX 0.10.1! (binary)
+description: New OpenMSX 0.10.1! (binary)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-09-27 19:00:00

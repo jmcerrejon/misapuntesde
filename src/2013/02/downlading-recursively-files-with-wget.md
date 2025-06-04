@@ -1,6 +1,7 @@
 ---
 id: 74
 title: Downlading Recursively Files with wget
+description: Downlading Recursively Files with wget
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-02-21 18:30:00

@@ -1,6 +1,7 @@
 ---
 id: 56
 title: What is Git? (Spanish link)
+description: What is Git? (Spanish link)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-24 09:10:00

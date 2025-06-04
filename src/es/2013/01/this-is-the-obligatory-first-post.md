@@ -1,6 +1,7 @@
 ---
 id: 1
 title: Este es el obligado primer post.
+description: Este es el obligado primer post.
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-13 09:00:00

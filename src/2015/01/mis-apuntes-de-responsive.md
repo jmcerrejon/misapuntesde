@@ -1,6 +1,7 @@
 ---
 id: 504
 title: Mis apuntes de... responsive
+description: Mis apuntes de... responsive
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-01-10 11:25:00

@@ -1,6 +1,7 @@
 ---
 id: 330
 title: Conectan un Mac Plus a Internet gracias a Raspberry Pi
+description: Conectan un Mac Plus a Internet gracias a Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-12-15 10:21:47

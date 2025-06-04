@@ -1,6 +1,7 @@
 ---
 id: 386
 title: HOWTO. Adding a new emulator to PiMAME menu
+description: HOWTO. Adding a new emulator to PiMAME menu
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-04-06 11:48:00

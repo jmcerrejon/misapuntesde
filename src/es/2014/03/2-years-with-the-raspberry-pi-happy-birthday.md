@@ -1,6 +1,7 @@
 ---
 id: 371
 title: 2 años con la Raspberry Pi. ¡Feliz cumpleaños!
+description: 2 años con la Raspberry Pi. ¡Feliz cumpleaños!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-03-01 12:11:14

@@ -1,6 +1,7 @@
 ---
 id: 243
 title: Raspberry Putting to work
+description: Raspberry Putting to work
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-08-24 08:00:00

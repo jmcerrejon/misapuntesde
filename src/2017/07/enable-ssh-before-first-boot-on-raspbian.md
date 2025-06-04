@@ -1,6 +1,7 @@
 ---
 id: 810
 title: Enable SSH before first boot on Raspbian
+description: Enable SSH before first boot on Raspbian
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-07-10 09:31:00

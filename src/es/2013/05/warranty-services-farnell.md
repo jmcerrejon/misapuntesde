@@ -1,6 +1,7 @@
 ---
 id: 168
 title: Servicios de garantía. Farnell
+description: Servicios de garantía. Farnell
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-05-25 08:45:00

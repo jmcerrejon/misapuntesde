@@ -1,6 +1,7 @@
 ---
 id: 713
 title: Watch WWDC 2016 on the Raspberry Pi
+description: Watch WWDC 2016 on the Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-06-13 10:00:00

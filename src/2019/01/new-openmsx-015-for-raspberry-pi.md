@@ -1,6 +1,7 @@
 ---
 id: 896
 title: New OpenMSX 0.15 for Raspberry Pi!
+description: New OpenMSX 0.15 for Raspberry Pi!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2019-01-16 20:20:00

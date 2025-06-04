@@ -1,6 +1,7 @@
 ---
 id: 99
 title: 2 useful Mac tools. PiCLoner & PiWriter
+description: 2 useful Mac tools. PiCLoner & PiWriter
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-03-12 08:30:00

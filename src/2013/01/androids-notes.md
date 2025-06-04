@@ -1,6 +1,7 @@
 ---
 id: 66
 title: Android's Notes
+description: Android's Notes
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-29 17:40:00

@@ -1,5 +1,6 @@
 ---
 title: TensorZero is the black box you need for AI
+description: TensorZero is the black box you need for AI
 icon: fa-solid fa-code
 author: Jose Cerrejon
 date: 2025-03-29

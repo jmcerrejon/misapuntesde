@@ -1,6 +1,7 @@
 ---
 id: 885
 title: General Data Protection Regulation
+description: General Data Protection Regulation
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2018-05-23 17:35:00

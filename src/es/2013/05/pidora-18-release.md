@@ -1,6 +1,7 @@
 ---
 id: 166
 title: Anunciado Pidora 18
+description: Anunciado Pidora 18
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-05-23 13:00:00

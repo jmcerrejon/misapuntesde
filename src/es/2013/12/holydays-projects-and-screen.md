@@ -1,6 +1,7 @@
 ---
 id: 325
 title: Vacaciones, proyectos y screen
+description: Vacaciones, proyectos y screen
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-12-04 12:00:00

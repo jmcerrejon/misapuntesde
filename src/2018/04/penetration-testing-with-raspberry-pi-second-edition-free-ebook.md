@@ -1,6 +1,7 @@
 ---
 id: 880
 title: Penetration Testing with Raspberry Pi - Second Edition (free eBook)
+description: Penetration Testing with Raspberry Pi - Second Edition (free eBook)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2018-04-23 09:30:00

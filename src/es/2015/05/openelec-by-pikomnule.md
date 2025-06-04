@@ -1,6 +1,7 @@
 ---
 id: 568
 title: OpenELEC by pikomnule
+description: OpenELEC by pikomnule
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-05-28 09:38:00

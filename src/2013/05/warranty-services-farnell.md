@@ -1,6 +1,7 @@
 ---
 id: 168
 title: Warranty Services. Farnell
+description: Warranty Services. Farnell
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-05-25 08:45:00

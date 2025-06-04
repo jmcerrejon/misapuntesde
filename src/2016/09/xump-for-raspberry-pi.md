@@ -1,6 +1,7 @@
 ---
 id: 740
 title: Xump for Raspberry Pi
+description: Xump for Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-09-13 10:15:00

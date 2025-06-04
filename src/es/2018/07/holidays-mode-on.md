@@ -1,6 +1,7 @@
 ---
 id: 889
 title: Modo vacaciones ON
+description: Modo vacaciones ON
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2018-07-28 15:00:00

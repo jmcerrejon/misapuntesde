@@ -1,6 +1,7 @@
 ---
 id: 490
 title: Demo XBMC-Gamebox. Airplay mirroring for Raspberry Pi (Youtube)
+description: Demo XBMC-Gamebox. Airplay mirroring for Raspberry Pi (Youtube)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-12-03 12:25:00

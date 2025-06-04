@@ -1,6 +1,7 @@
 ---
 id: 788
 title: Review. ZX Spectrum on Raspberry Pi
+description: Review. ZX Spectrum on Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-04-27 09:40:00

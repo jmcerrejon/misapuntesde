@@ -1,6 +1,7 @@
 ---
 id: 297
 title: Disponible emulador de Nintendo 64
+description: Disponible emulador de Nintendo 64
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-10-21 12:20:00

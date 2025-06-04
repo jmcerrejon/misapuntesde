@@ -1,6 +1,7 @@
 ---
 id: 633
 title: OpenELEC 6 stable
+description: OpenELEC 6 stable
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-11-04 10:40:00

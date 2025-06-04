@@ -1,6 +1,7 @@
 ---
 id: 25
 title: Chromium-OS in stand by to RasPi
+description: Chromium-OS in stand by to RasPi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-16 13:00:00

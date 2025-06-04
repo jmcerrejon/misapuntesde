@@ -1,6 +1,7 @@
 ---
 id: 938
 title: GR-Lida, Front end for DOSBox, ScummVM on Raspberry Pi
+description: GR-Lida, Front end for DOSBox, ScummVM on Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2020-07-02 10:13:41

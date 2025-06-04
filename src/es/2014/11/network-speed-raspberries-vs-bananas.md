@@ -1,6 +1,7 @@
 ---
 id: 483
 title: Velocidad de la red. frambuesas Vs bananas
+description: Velocidad de la red. frambuesas Vs bananas
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-11-17 11:00:00

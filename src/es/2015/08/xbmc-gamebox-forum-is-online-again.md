@@ -1,6 +1,7 @@
 ---
 id: 607
 title: Foro de XBMC GameBox vuelve a estar operativo
+description: Foro de XBMC GameBox vuelve a estar operativo
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-08-17 09:00:00

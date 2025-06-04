@@ -1,6 +1,7 @@
 ---
 id: 76
 title: livarPi. Debian based distro
+description: livarPi. Debian based distro
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-02-22 16:15:00

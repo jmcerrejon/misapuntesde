@@ -1,6 +1,7 @@
 ---
 id: 27
 title: RSS al fin
+description: RSS al fin
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-16 18:00:00

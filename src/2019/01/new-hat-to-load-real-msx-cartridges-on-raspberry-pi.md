@@ -1,6 +1,7 @@
 ---
 id: 895
 title: New HAT to load REAL MSX cartridges on Raspberry Pi
+description: New HAT to load REAL MSX cartridges on Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2019-01-11 19:35:00

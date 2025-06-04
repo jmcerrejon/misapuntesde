@@ -1,6 +1,7 @@
 ---
 id: 418
 title: PiKISS. Two new scripts join to the family
+description: PiKISS. Two new scripts join to the family
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-06-18 10:00:38

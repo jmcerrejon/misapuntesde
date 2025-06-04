@@ -1,6 +1,7 @@
 ---
 id: 676
 title: Minimal Debian Jessie image for the ODROID by Meveric
+description: Minimal Debian Jessie image for the ODROID by Meveric
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-03-09 13:00:00

@@ -1,6 +1,7 @@
 ---
 id: 489
 title: Lamobo D1. placa de desarrollo con cámara HD
+description: Lamobo D1. placa de desarrollo con cámara HD
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-12-01 11:40:00

@@ -1,6 +1,7 @@
 ---
 id: 689
 title: View/streaming via Torrent with Webtorrent-cli
+description: View/streaming via Torrent with Webtorrent-cli
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-04-11 10:00:00

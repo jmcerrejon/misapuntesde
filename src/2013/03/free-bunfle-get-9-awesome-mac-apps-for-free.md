@@ -1,6 +1,7 @@
 ---
 id: 114
 title: Free Bunfle. get 9 awesome Mac apps for FREE
+description: Free Bunfle. get 9 awesome Mac apps for FREE
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-03-26 09:25:00

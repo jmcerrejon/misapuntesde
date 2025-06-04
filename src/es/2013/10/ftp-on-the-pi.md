@@ -1,6 +1,7 @@
 ---
 id: 286
 title: FTP en la RasPi
+description: FTP en la RasPi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-10-06 06:00:00

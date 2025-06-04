@@ -1,6 +1,7 @@
 ---
 id: 269
 title: makeuseof.com. How to Choose and Optimise Your Raspberry Pi Browser
+description: makeuseof.com. How to Choose and Optimise Your Raspberry Pi Browser
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-09-19 10:00:00

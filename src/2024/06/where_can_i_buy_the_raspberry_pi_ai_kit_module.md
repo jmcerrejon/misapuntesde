@@ -1,5 +1,6 @@
 ---
 title: Where can I buy the Raspberry pi AI Kit?
+description: Where can I buy the Raspberry pi AI Kit?
 icon: fa-brands fa-raspberry-pi
 author: Jose Cerrejon
 date: 2024-06-07

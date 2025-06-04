@@ -1,6 +1,7 @@
 ---
 id: 394
 title: Sobrevivir a la Semana Negra con la Raspberry Pi. Leer emails
+description: Sobrevivir a la Semana Negra con la Raspberry Pi. Leer emails
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-05-01 08:16:24

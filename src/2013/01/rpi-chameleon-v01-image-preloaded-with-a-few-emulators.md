@@ -1,6 +1,7 @@
 ---
 id: 24
 title: RPI Chameleon v.01. Image preloaded with a few emulators
+description: RPI Chameleon v.01. Image preloaded with a few emulators
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-16 10:52:00

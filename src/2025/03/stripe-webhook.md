@@ -1,5 +1,6 @@
 ---
 title: Stripe Webhook Guide
+description: Stripe Webhook Guide
 icon: fa-solid fa-code
 author: Jose Cerrejon
 date: 2025-03-15

@@ -1,5 +1,6 @@
 ---
 title: You Were Waiting for It. PHP Vs Python
+description: You Were Waiting for It. PHP Vs Python
 icon: fa-solid fa-code
 author: Jose Cerrejon
 date: 2024-10-26

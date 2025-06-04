@@ -1,5 +1,6 @@
 ---
 title: SOLID principles PHP Edition. Today, Open/Closed Principle
+description: SOLID principles PHP Edition. Today, Open/Closed Principle
 icon: fa-solid fa-code
 author: Jose Cerrejon
 date: 2024-03-22

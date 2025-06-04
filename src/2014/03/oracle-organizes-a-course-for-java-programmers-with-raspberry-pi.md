@@ -1,6 +1,7 @@
 ---
 id: 377
 title: Oracle organizes a course for Java programmers with Raspberry Pi
+description: Oracle organizes a course for Java programmers with Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-03-20 07:09:39

@@ -1,6 +1,7 @@
 ---
 id: 912
 title: Raspberry Pi 4 with 64 bits kernel
+description: Raspberry Pi 4 with 64 bits kernel
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2019-09-26 17:00:00

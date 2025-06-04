@@ -1,5 +1,6 @@
 ---
 title: Dietpi 9.1 release with Raspberry Pi 5 support!
+description: Dietpi 9.1 release with Raspberry Pi 5 support!
 icon: fa-regular fa-newspaper
 author: Jose Cerrejon
 date: 2024-02-26

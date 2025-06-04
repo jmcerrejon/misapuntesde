@@ -1,6 +1,7 @@
 ---
 id: 327
 title: 20 Aniversario de Doom. Celébralo en tu Raspberry Pi
+description: 20 Aniversario de Doom. Celébralo en tu Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-12-11 11:00:00

@@ -1,6 +1,7 @@
 ---
 id: 799
 title: PINN. An enhanced version of NOOBS
+description: PINN. An enhanced version of NOOBS
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-05-31 09:55:00

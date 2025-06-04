@@ -1,6 +1,7 @@
 ---
 id: 129
 title: Unstoppable. rpix86 0.5 released!
+description: Unstoppable. rpix86 0.5 released!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-04-09 07:35:00

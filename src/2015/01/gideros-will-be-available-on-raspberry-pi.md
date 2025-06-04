@@ -1,6 +1,7 @@
 ---
 id: 509
 title: Gideros will be available on Raspberry Pi
+description: Gideros will be available on Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-01-19 12:00:00

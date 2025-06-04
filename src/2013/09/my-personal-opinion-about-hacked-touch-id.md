@@ -1,6 +1,7 @@
 ---
 id: 278
 title: My personal opinion about hacked Touch iD
+description: My personal opinion about hacked Touch iD
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-09-26 12:00:00

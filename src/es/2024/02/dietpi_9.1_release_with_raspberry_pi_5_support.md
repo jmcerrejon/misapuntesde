@@ -1,5 +1,6 @@
 ---
 title: ¡Lanzamiento de Dietpi 9.1 compatible con Raspberry Pi 5!
+description: ¡Lanzamiento de Dietpi 9.1 compatible con Raspberry Pi 5!
 icon: fa-regular fa-newspaper
 author: Jose Cerrejon
 date: 2024-02-26

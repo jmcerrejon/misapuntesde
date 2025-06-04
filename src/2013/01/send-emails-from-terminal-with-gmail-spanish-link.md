@@ -1,6 +1,7 @@
 ---
 id: 29
 title: Send emails from terminal with GMail (Spanish link)
+description: Send emails from terminal with GMail (Spanish link)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-17 08:30:00

@@ -1,6 +1,7 @@
 ---
 id: 248
 title: Make an iso image from a directory on OSX
+description: Make an iso image from a directory on OSX
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-08-27 14:00:00

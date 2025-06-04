@@ -1,6 +1,7 @@
 ---
 id: 225
 title: ¿Pensábais que 1.4 Ghz eran suficientes? ¡¡4 Ghz!!
+description: ¿Pensábais que 1.4 Ghz eran suficientes? ¡¡4 Ghz!!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-08-06 09:00:00

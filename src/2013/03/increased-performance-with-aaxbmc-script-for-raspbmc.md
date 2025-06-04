@@ -1,6 +1,7 @@
 ---
 id: 87
 title: Increased Performance With Aaxbmc Script for Raspbmc
+description: Increased Performance With Aaxbmc Script for Raspbmc
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-03-01 17:30:00

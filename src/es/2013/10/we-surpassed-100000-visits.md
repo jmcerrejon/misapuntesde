@@ -1,6 +1,7 @@
 ---
 id: 284
 title: ¡Sobrepasamos las 100.000 visitas!
+description: ¡Sobrepasamos las 100.000 visitas!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-10-03 14:26:00

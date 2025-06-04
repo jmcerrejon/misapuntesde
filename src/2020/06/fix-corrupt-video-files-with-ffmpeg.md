@@ -1,6 +1,7 @@
 ---
 id: 937
 title: Fix corrupt video files with ffmpeg
+description: Fix corrupt video files with ffmpeg
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2020-06-29 11:37:09

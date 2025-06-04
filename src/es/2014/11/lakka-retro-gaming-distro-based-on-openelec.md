@@ -1,6 +1,7 @@
 ---
 id: 481
 title: Lakka. Distro para emuladores retro basado en OpenELEC
+description: Lakka. Distro para emuladores retro basado en OpenELEC
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-11-12 09:00:00

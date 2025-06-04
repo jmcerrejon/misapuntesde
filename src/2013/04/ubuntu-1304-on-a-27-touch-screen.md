@@ -1,6 +1,7 @@
 ---
 id: 121
 title: Ubuntu 13.04 on a 27 touch screen
+description: Ubuntu 13.04 on a 27 touch screen
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-04-01 08:45:00

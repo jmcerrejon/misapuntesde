@@ -1,6 +1,7 @@
 ---
 id: 532
 title:  Super Pintendo - Super Nes Case/Raspberry Pi
+description: Super Pintendo - Super Nes Case/Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-03-15 10:40:00

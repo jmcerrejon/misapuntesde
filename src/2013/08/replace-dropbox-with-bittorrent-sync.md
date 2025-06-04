@@ -1,6 +1,7 @@
 ---
 id: 247
 title: Replace Dropbox with BitTorrent Sync
+description: Replace Dropbox with BitTorrent Sync
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-08-27 08:00:00

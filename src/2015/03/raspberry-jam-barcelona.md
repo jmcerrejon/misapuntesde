@@ -1,6 +1,7 @@
 ---
 id: 529
 title: Raspberry Jam Barcelona
+description: Raspberry Jam Barcelona
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-03-12 09:00:00

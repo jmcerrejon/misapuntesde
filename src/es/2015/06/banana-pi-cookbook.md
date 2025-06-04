@@ -1,6 +1,7 @@
 ---
 id: 581
 title: Banana Pi CookBook
+description: Banana Pi CookBook
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-06-24 12:00:00

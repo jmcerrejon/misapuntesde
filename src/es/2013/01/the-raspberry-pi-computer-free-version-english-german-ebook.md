@@ -1,6 +1,7 @@
 ---
 id: 51
 title: The Raspberry Pi Computer (versión gratis) en inglés y alemán (Ebook)
+description: The Raspberry Pi Computer (versión gratis) en inglés y alemán (Ebook)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-22 16:40:00

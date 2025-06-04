@@ -1,5 +1,6 @@
 ---
 title: Kotlin Multiplatform en macOS usando Compose Multiplatform
+description: Kotlin Multiplatform en macOS usando Compose Multiplatform
 icon: fa-solid fa-code
 author: Jose Cerrejon
 date: 2024-05-24

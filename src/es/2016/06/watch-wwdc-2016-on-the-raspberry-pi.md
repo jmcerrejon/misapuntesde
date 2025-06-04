@@ -1,6 +1,7 @@
 ---
 id: 713
 title: ¿Quieres ver la WWDC 2016 en la raspberry Pi?
+description: ¿Quieres ver la WWDC 2016 en la raspberry Pi?
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-06-13 10:00:00

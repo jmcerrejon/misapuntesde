@@ -1,6 +1,7 @@
 ---
 id: 261
 title: Acceder a Dropbox a través de la línea de comandos. Dropbox uploader
+description: Acceder a Dropbox a través de la línea de comandos. Dropbox uploader
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-09-10 09:00:00

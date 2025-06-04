@@ -1,6 +1,7 @@
 ---
 id: 431
 title: Links salad to know all about Raspberry Pi Model B+
+description: Links salad to know all about Raspberry Pi Model B+
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-07-17 09:25:00

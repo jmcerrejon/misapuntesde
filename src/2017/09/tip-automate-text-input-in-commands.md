@@ -1,6 +1,7 @@
 ---
 id: 835
 title: Tip. Automate Text Input in Commands
+description: Tip. Automate Text Input in Commands
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-09-18 12:00:00

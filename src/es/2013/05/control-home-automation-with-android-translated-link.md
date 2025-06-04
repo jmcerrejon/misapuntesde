@@ -1,6 +1,7 @@
 ---
 id: 171
 title: Control domótico con android
+description: Control domótico con android
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-05-30 10:00:00

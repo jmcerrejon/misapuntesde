@@ -1,6 +1,7 @@
 ---
 id: 892
 title: Raspberry Pi 3 Model A+
+description: Raspberry Pi 3 Model A+
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2018-11-21 20:00:00

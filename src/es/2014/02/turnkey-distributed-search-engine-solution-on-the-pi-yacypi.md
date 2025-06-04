@@ -1,6 +1,7 @@
 ---
 id: 367
 title: Solución para tener un motor de búsquedas en la Raspberry Pi. YaCyPi
+description: Solución para tener un motor de búsquedas en la Raspberry Pi. YaCyPi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-02-18 10:07:02

@@ -1,6 +1,7 @@
 ---
 id: 145
 title: PiMAME script de instalación
+description: PiMAME script de instalación
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-05-01 13:21:00

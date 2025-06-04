@@ -1,6 +1,7 @@
 ---
 id: 126
 title: Raspberry Pi Temperature Control with Expansion Board (translated link)
+description: Raspberry Pi Temperature Control with Expansion Board (translated link)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-04-06 12:00:00

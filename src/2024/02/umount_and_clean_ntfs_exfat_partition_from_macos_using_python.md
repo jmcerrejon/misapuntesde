@@ -1,5 +1,6 @@
 ---
 title: Umount & Clean your NTFS/exFAT partition from macOS using Python
+description: Umount & Clean your NTFS/exFAT partition from macOS using Python
 author: Jose Cerrejon
 icon: fa-brands fa-apple
 date: 2024-02-21

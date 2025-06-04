@@ -1,6 +1,7 @@
 ---
 id: 252
 title: rPlay mirroring with Apple devices and Raspberry Pi
+description: rPlay mirroring with Apple devices and Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-08-30 08:00:00

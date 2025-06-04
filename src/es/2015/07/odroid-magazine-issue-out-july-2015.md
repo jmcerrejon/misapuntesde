@@ -1,6 +1,7 @@
 ---
 id: 593
 title: Nuevo número de la revista ODROID MAGAZINE (Julio 2015)
+description: Nuevo número de la revista ODROID MAGAZINE (Julio 2015)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-07-20 09:40:00

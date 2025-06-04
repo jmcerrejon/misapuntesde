@@ -1,6 +1,7 @@
 ---
 id: 588
 title: BBC Micro.bit
+description: BBC Micro.bit
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-07-08 10:00:00

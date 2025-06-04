@@ -1,6 +1,7 @@
 ---
 id: 150
 title: RetroPie SD-card image updated!
+description: RetroPie SD-card image updated!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-05-08 11:15:00

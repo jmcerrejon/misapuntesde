@@ -1,6 +1,7 @@
 ---
 id: 305
 title: UltraSlim. Retro Gaming + Q3A + Desktop + XBMC
+description: UltraSlim. Retro Gaming + Q3A + Desktop + XBMC
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-11-02 10:00:00

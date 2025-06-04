@@ -1,6 +1,7 @@
 ---
 id: 534
 title: Script para instalar Descent 1 & 2 en la Raspberry Pi
+description: Script para instalar Descent 1 & 2 en la Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-03-17 12:00:00

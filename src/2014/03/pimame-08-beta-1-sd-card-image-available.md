@@ -1,6 +1,7 @@
 ---
 id: 372
 title: PiMAME 0.8 Beta 1 SD card image available!
+description: PiMAME 0.8 Beta 1 SD card image available!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-03-03 11:11:09

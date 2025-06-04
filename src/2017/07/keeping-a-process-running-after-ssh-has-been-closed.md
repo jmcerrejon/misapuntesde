@@ -1,6 +1,7 @@
 ---
 id: 816
 title: Keeping a process running after SSH has been closed
+description: Keeping a process running after SSH has been closed
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-07-24 10:00:00

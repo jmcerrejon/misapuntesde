@@ -1,6 +1,7 @@
 ---
 id: 597
 title: Introducing OTTO, the camera with Raspberry Pi inside
+description: Introducing OTTO, the camera with Raspberry Pi inside
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-07-29 09:35:00

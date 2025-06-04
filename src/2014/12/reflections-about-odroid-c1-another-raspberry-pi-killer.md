@@ -1,6 +1,7 @@
 ---
 id: 493
 title: Reflections about ODROID-C1. Another Raspberry Pi Killer?
+description: Reflections about ODROID-C1. Another Raspberry Pi Killer?
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-12-11 09:45:00

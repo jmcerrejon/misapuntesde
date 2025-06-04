@@ -1,6 +1,7 @@
 ---
 id: 345
 title: Beginning with Raspberry Pi, today
+description: Beginning with Raspberry Pi, today
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-01-08 12:53:01

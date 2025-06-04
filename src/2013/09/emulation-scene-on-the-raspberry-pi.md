@@ -1,6 +1,7 @@
 ---
 id: 255
 title: Emulation scene on the Raspberry Pi
+description: Emulation scene on the Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-09-02 14:00:00

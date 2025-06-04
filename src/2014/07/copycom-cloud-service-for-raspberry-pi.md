@@ -1,6 +1,7 @@
 ---
 id: 427
 title: Copy.com cloud service for Raspberry Pi
+description: Copy.com cloud service for Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-07-07 08:06:34

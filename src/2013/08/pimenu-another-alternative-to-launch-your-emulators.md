@@ -1,6 +1,7 @@
 ---
 id: 231
 title: PiMenu, another alternative to launch your emulators
+description: PiMenu, another alternative to launch your emulators
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-08-11 17:20:00

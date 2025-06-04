@@ -1,6 +1,7 @@
 ---
 id: 344
 title: Mis Apuntes de included on raspifeed.com
+description: Mis Apuntes de included on raspifeed.com
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-01-07 09:54:57

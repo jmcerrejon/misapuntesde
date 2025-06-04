@@ -1,6 +1,7 @@
 ---
 id: 525
 title: PiKISS will add support for ODROID-C1
+description: PiKISS will add support for ODROID-C1
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-03-08 09:10:00

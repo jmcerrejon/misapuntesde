@@ -1,6 +1,7 @@
 ---
 id: 77
 title: The MagPi in Spanish
+description: The MagPi in Spanish
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-02-23 12:00:00

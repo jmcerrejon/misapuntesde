@@ -1,6 +1,7 @@
 ---
 id: 394
 title: Survive to the Back Week with a Raspberry Pi. Read emails
+description: Survive to the Back Week with a Raspberry Pi. Read emails
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-05-01 08:16:24

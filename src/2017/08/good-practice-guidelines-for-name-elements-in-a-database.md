@@ -1,6 +1,7 @@
 ---
 id: 828
 title: Good practice guidelines for name elements in a database
+description: Good practice guidelines for name elements in a database
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-08-31 12:40:00

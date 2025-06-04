@@ -1,6 +1,7 @@
 ---
 id: 567
 title: Playing with OpenBOR
+description: Playing with OpenBOR
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-05-25 09:00:00

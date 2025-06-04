@@ -1,6 +1,7 @@
 ---
 id: 12
 title: HowTo retro-emulators to Raspberry Pi.nes, snes, megadrive, gbc, gba, psx,...(spanish link)
+description: HowTo retro-emulators to Raspberry Pi.nes, snes, megadrive, gbc, gba, psx,...(spanish link)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-14 13:42:00

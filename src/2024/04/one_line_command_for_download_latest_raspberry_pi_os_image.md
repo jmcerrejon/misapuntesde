@@ -1,5 +1,6 @@
 ---
 title: One line command for download latest Raspberry Pi OS image
+description: One line command for download latest Raspberry Pi OS image
 icon: fa-brands fa-raspberry-pi
 author: Jose Cerrejon
 date: 2024-04-09

@@ -1,6 +1,7 @@
 ---
 id: 359
 title: Mic on Raspberry Pi
+description: Mic on Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-01-31 07:31:56

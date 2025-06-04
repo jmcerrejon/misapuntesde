@@ -1,6 +1,7 @@
 ---
 id: 452
 title: rpi-emulator-buildroot .img by @ulysess10
+description: rpi-emulator-buildroot .img by @ulysess10
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-09-07 08:20:00

@@ -1,6 +1,7 @@
 ---
 id: 759
 title: Merry Christmas and a happy new year from My notes about the Pi!
+description: Merry Christmas and a happy new year from My notes about the Pi!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-12-24 10:30:00

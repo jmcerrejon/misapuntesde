@@ -1,6 +1,7 @@
 ---
 id: 189
 title: Guía. Automatizar descargas de TV/Movie para XBMC
+description: Guía. Automatizar descargas de TV/Movie para XBMC
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-06-21 11:00:00

@@ -1,6 +1,7 @@
 ---
 id: 290
 title: Especial cámaras en Raspberry Pi (recopilación)
+description: Especial cámaras en Raspberry Pi (recopilación)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-10-12 07:05:00

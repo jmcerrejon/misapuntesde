@@ -1,6 +1,7 @@
 ---
 id: 422
 title: Raspbian Net Install+PiKISS = Combinación perfecta de SO
+description: Raspbian Net Install+PiKISS = Combinación perfecta de SO
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-06-25 10:48:03

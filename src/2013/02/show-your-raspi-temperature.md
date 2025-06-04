@@ -1,6 +1,7 @@
 ---
 id: 81
 title: Show your Raspi temperature
+description: Show your Raspi temperature
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-02-25 14:15:00

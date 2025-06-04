@@ -1,6 +1,7 @@
 ---
 id: 240
 title: Karaoke on Raspberry Pi
+description: Karaoke on Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-08-21 08:00:00

@@ -1,6 +1,7 @@
 ---
 id: 209
 title: ¡Ya tenemos buscador en el blog!
+description: ¡Ya tenemos buscador en el blog!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-07-11 09:15:00

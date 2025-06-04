@@ -1,6 +1,7 @@
 ---
 id: 411
 title: PiKISS. Don't type a command in the Shell any more (Part II)
+description: PiKISS. Don't type a command in the Shell any more (Part II)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-06-02 06:42:41

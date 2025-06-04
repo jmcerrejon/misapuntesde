@@ -1,6 +1,7 @@
 ---
 id: 604
 title: ODROID-C1+ ya a la venta
+description: ODROID-C1+ ya a la venta
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-08-12 10:00:00

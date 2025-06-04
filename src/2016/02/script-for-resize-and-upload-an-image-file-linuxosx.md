@@ -1,6 +1,7 @@
 ---
 id: 665
 title: Script for resize and upload an image file (Linux/OSX)
+description: Script for resize and upload an image file (Linux/OSX)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-02-14 13:00:00

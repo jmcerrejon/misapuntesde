@@ -1,5 +1,6 @@
 ---
 title: SOLID principles PHP Edition. Today, Interface Segregation Principle
+description: SOLID principles PHP Edition. Today, Interface Segregation Principle
 icon: fa-solid fa-code
 author: Jose Cerrejon
 date: 2024-04-10

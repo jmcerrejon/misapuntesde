@@ -1,6 +1,7 @@
 ---
 id: 264
 title: Raspberry Pi for Secret Agents (Ebook)
+description: Raspberry Pi for Secret Agents (Ebook)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-09-13 07:30:00

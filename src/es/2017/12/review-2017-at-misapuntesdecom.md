@@ -1,6 +1,7 @@
 ---
 id: 854
 title: Repaso 2017 en misapuntesde.com
+description: Repaso 2017 en misapuntesde.com
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-12-29 08:00:00

@@ -1,6 +1,7 @@
 ---
 id: 438
 title: sshfs. Mount remote directories via SSH protocol
+description: sshfs. Mount remote directories via SSH protocol
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-08-04 08:21:00

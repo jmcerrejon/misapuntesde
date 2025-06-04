@@ -1,6 +1,7 @@
 ---
 id: 428
 title: Descargar website por FTP en una sola línea de comando
+description: Descargar website por FTP en una sola línea de comando
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-07-10 08:20:00

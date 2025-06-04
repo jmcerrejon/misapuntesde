@@ -1,6 +1,7 @@
 ---
 id: 331
 title: Overclocking on the Pi
+description: Overclocking on the Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-12-16 10:12:48

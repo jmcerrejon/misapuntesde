@@ -1,6 +1,7 @@
 ---
 id: 537
 title: ODROID Magazine March
+description: ODROID Magazine March
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-03-19 11:25:00

@@ -1,5 +1,6 @@
 ---
 title: Install unrecognized USB Ethernet devices on macOS
+description: Install unrecognized USB Ethernet devices on macOS
 icon: fa-brands fa-apple
 author: Jose Cerrejon
 date: 2024-05-31

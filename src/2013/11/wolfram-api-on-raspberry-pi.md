@@ -1,6 +1,7 @@
 ---
 id: 317
 title: Wolfram API on Raspberry Pi
+description: Wolfram API on Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-11-22 11:00:00

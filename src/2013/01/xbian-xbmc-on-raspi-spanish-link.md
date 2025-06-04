@@ -1,6 +1,7 @@
 ---
 id: 13
 title: Xbian (XBMC) on RasPI (spanish link)
+description: Xbian (XBMC) on RasPI (spanish link)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-14 13:54:00

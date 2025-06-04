@@ -1,6 +1,7 @@
 ---
 id: 495
 title: SD Images to play Game Boy Color, Atari or MSX in a few seconds on Raspberry Pi
+description: SD Images to play Game Boy Color, Atari or MSX in a few seconds on Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-12-15 09:10:00

@@ -1,6 +1,7 @@
 ---
 id: 408
 title: PiKISS...mañana
+description: PiKISS...mañana
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-05-28 20:18:30

@@ -1,6 +1,7 @@
 ---
 id: 49
 title: Play ZX Spectrum with Unreal Speccy Portable
+description: Play ZX Spectrum with Unreal Speccy Portable
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-21 13:40:00

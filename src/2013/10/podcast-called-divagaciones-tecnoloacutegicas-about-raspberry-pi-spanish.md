@@ -1,6 +1,7 @@
 ---
 id: 300
 title: Podcast called Divagaciones Tecnol&oacute;gicas about Raspberry Pi (Spanish)
+description: Podcast called Divagaciones Tecnol&oacute;gicas about Raspberry Pi (Spanish)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-10-25 10:00:00

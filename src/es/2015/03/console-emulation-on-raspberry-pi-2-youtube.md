@@ -1,6 +1,7 @@
 ---
 id: 522
 title: Recopilación de vídeos Raspberry Pi 2 sobre emuladores (Youtube)
+description: Recopilación de vídeos Raspberry Pi 2 sobre emuladores (Youtube)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-03-02 09:25:00

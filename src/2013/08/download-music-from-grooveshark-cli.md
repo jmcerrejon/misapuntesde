@@ -1,6 +1,7 @@
 ---
 id: 241
 title: Download music from GrooveShark (CLI)
+description: Download music from GrooveShark (CLI)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-08-22 10:25:00

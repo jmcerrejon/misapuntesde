@@ -1,6 +1,7 @@
 ---
 id: 268
 title: Noticias frescas esta mañana
+description: Noticias frescas esta mañana
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-09-18 09:00:00

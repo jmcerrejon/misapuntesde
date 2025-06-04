@@ -1,6 +1,7 @@
 ---
 id: 803
 title: Webinar. Introducción a IoT con AWS
+description: Webinar. Introducción a IoT con AWS
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-06-13 10:00:00

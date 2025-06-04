@@ -1,6 +1,7 @@
 ---
 id: 291
 title: Emite TV en iPad con Raspberry Pi
+description: Emite TV en iPad con Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-10-13 06:15:00

@@ -1,6 +1,7 @@
 ---
 id: 367
 title: Turnkey Distributed Search Engine Solution on the Pi. YaCyPi
+description: Turnkey Distributed Search Engine Solution on the Pi. YaCyPi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-02-18 10:07:02

@@ -1,6 +1,7 @@
 ---
 id: 220
 title: Thank You!
+description: Thank You!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-07-31 09:10:00

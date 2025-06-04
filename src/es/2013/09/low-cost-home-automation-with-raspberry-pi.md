@@ -1,6 +1,7 @@
 ---
 id: 271
 title: Domótica Low Cost con Raspberry Pi
+description: Domótica Low Cost con Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-09-21 08:10:00

@@ -1,6 +1,7 @@
 ---
 id: 642
 title: Raspberry Zero
+description: Raspberry Zero
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-11-26 10:00:00

@@ -1,6 +1,7 @@
 ---
 id: 64
 title: OpenMSX compiled for the Raspberry Pi!
+description: OpenMSX compiled for the Raspberry Pi!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-28 14:40:00

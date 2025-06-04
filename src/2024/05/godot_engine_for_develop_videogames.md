@@ -1,5 +1,6 @@
 ---
 title: Godot Engine to develop your own video games
+description: Godot Engine to develop your own video games
 icon: fa-solid fa-code
 author: Jose Cerrejon
 date: 2024-05-22

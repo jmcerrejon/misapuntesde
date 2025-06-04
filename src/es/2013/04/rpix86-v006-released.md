@@ -1,6 +1,7 @@
 ---
 id: 136
 title: Actualizado rpix86 v0.06
+description: Actualizado rpix86 v0.06
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-04-21 17:30:00

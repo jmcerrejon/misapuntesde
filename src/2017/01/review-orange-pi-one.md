@@ -1,6 +1,7 @@
 ---
 id: 763
 title: Review Orange Pi One
+description: Review Orange Pi One
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-01-31 09:30:00

@@ -1,6 +1,7 @@
 ---
 id: 230
 title: WIFITE. Herramienta para atacar redes WEP, WPA y WPS
+description: WIFITE. Herramienta para atacar redes WEP, WPA y WPS
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-08-10 08:45:00

@@ -1,6 +1,7 @@
 ---
 id: 277
 title: Añadir un vídeo al arranque de tu Raspberry Pi
+description: Añadir un vídeo al arranque de tu Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-09-26 09:00:00

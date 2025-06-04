@@ -1,6 +1,7 @@
 ---
 id: 33
 title: Protect your Raspberry Pi from external attacks (ssh)(Spanish link)
+description: Protect your Raspberry Pi from external attacks (ssh)(Spanish link)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-18 09:35:00

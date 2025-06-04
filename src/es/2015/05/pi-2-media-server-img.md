@@ -1,6 +1,7 @@
 ---
 id: 557
 title: Pi 2 Media Server (img)
+description: Pi 2 Media Server (img)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-05-04 07:31:00

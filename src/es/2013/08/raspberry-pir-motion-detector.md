@@ -1,6 +1,7 @@
 ---
 id: 222
 title: Raspberry PIR detector de movimientos
+description: Raspberry PIR detector de movimientos
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-08-01 12:10:00

@@ -1,6 +1,7 @@
 ---
 id: 393
 title: Survive to the Back Week with a Raspberry Pi. IRC clients
+description: Survive to the Back Week with a Raspberry Pi. IRC clients
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-04-30 09:45:21

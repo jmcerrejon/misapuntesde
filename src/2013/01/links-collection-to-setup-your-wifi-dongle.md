@@ -1,6 +1,7 @@
 ---
 id: 69
 title: Links collection to setup your WIFI dongle
+description: Links collection to setup your WIFI dongle
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-30 11:00:00

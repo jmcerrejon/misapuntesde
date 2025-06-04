@@ -1,6 +1,7 @@
 ---
 id: 558
 title: Wolfram Language Raspberry Jam (BCN)
+description: Wolfram Language Raspberry Jam (BCN)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-05-06 08:09:00

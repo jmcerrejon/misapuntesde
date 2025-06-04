@@ -1,6 +1,7 @@
 ---
 id: 126
 title: Control temperatura con Raspberry Pi Expansion Board
+description: Control temperatura con Raspberry Pi Expansion Board
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-04-06 12:00:00

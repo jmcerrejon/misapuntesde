@@ -1,6 +1,7 @@
 ---
 id: 797
 title: Current state of Haiku on Raspberry Pi
+description: Current state of Haiku on Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-05-24 10:30:00

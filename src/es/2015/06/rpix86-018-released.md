@@ -1,6 +1,7 @@
 ---
 id: 570
 title: Liberado rpix86 0.18!
+description: Liberado rpix86 0.18!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-06-01 08:14:00

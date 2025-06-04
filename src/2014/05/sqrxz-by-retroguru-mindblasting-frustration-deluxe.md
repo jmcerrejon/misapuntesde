@@ -1,6 +1,7 @@
 ---
 id: 398
 title: Sqrxz by Retroguru - Mindblasting frustration deluxe! 
+description: Sqrxz by Retroguru - Mindblasting frustration deluxe!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-05-07 07:15:29

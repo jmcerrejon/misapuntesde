@@ -1,5 +1,6 @@
 ---
 title: Abrir Quicktime y transmitir cualquier dispositivo en macOS
+description: Abrir Quicktime y transmitir cualquier dispositivo en macOS
 icon: fa-regular fa-newspaper
 author: Jose Cerrejon
 date: 2024-02-27

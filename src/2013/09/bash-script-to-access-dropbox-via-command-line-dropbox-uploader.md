@@ -1,6 +1,7 @@
 ---
 id: 261
 title: Bash Script To Access Dropbox Via Command Line. Dropbox Uploader
+description: Bash Script To Access Dropbox Via Command Line. Dropbox Uploader
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-09-10 09:00:00

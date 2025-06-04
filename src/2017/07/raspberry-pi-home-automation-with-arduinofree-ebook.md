@@ -1,6 +1,7 @@
 ---
 id: 817
 title: Raspberry Pi Home Automation with Arduino(free Ebook)
+description: Raspberry Pi Home Automation with Arduino(free Ebook)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-07-25 09:31:00

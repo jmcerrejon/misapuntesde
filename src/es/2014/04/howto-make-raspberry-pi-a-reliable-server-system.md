@@ -1,6 +1,7 @@
 ---
 id: 388
 title: Cómo hacer de la Raspberry Pi un servidor de confianza
+description: Cómo hacer de la Raspberry Pi un servidor de confianza
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-04-19 13:37:27

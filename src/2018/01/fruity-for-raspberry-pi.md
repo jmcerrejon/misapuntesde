@@ -1,6 +1,7 @@
 ---
 id: 858
 title: Fruit'Y for Raspberry Pi
+description: Fruit'Y for Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2018-01-15 13:05:00

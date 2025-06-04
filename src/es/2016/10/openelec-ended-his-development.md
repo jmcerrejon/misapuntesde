@@ -1,6 +1,7 @@
 ---
 id: 749
 title: ¿OpenELEC ha llegado a su fin?
+description: ¿OpenELEC ha llegado a su fin?
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-10-05 11:00:00

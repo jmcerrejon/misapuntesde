@@ -1,6 +1,7 @@
 ---
 id: 438
 title: sshfs. Montar directorios en remoto a través del protocolo SSH
+description: sshfs. Montar directorios en remoto a través del protocolo SSH
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-08-04 08:21:00

@@ -1,6 +1,7 @@
 ---
 id: 355
 title: ¡Feliz cumpleaños, Mac!
+description: ¡Feliz cumpleaños, Mac!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-01-24 11:15:42

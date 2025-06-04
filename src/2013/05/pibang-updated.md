@@ -1,6 +1,7 @@
 ---
 id: 170
 title: PiBang updated!
+description: PiBang updated!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-05-28 09:00:00

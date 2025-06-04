@@ -1,6 +1,7 @@
 ---
 id: 232
 title: Watch playing online games thanks to twitch.tv on Raspberry Pi
+description: Watch playing online games thanks to twitch.tv on Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-08-12 07:19:00

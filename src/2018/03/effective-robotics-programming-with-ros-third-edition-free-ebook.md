@@ -1,6 +1,7 @@
 ---
 id: 869
 title: Effective Robotics Programming with ROS - Third Edition (free Ebook)
+description: Effective Robotics Programming with ROS - Third Edition (free Ebook)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2018-03-06 08:00:00

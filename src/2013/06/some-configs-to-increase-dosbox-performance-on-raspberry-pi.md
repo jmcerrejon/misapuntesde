@@ -1,6 +1,7 @@
 ---
 id: 196
 title: Some Configs to Increase DosBox Performance on Raspberry Pi
+description: Some Configs to Increase DosBox Performance on Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-06-28 09:00:00

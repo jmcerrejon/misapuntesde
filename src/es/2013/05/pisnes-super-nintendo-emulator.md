@@ -1,6 +1,7 @@
 ---
 id: 169
 title: PiSNES. Emulador de Super Nintendo
+description: PiSNES. Emulador de Super Nintendo
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-05-28 08:46:00

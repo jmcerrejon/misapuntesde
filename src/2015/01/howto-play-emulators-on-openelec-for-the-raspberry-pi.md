@@ -1,6 +1,7 @@
 ---
 id: 502
 title: HOWTO play emulators on OpenELEC for the raspberry Pi!
+description: HOWTO play emulators on OpenELEC for the raspberry Pi!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-01-04 11:00:00

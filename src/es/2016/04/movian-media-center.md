@@ -1,6 +1,7 @@
 ---
 id: 695
 title: Movian Media Center
+description: Movian Media Center
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-04-26 10:00:00

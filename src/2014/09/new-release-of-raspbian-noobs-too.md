@@ -1,6 +1,7 @@
 ---
 id: 455
 title: New release of Raspbian (& NOOBS too)
+description: New release of Raspbian (& NOOBS too)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-09-15 07:30:00

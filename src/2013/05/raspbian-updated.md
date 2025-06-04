@@ -1,6 +1,7 @@
 ---
 id: 156
 title: Raspbian updated!
+description: Raspbian updated!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-05-13 09:35:00

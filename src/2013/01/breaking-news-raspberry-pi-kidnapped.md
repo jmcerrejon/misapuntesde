@@ -1,6 +1,7 @@
 ---
 id: 53
 title: BREAKING NEWS. Raspberry Pi kidnapped!
+description: BREAKING NEWS. Raspberry Pi kidnapped!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-23 11:15:00

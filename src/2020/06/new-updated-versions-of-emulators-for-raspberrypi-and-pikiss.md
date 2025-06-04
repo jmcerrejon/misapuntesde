@@ -1,6 +1,7 @@
 ---
 id: 934
 title: New updated versions of emulators for RaspberryPi and PiKISS
+description: New updated versions of emulators for RaspberryPi and PiKISS
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2020-06-19 16:46:25

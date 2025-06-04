@@ -1,6 +1,7 @@
 ---
 id: 423
 title: Updating your MiniDLNA to version 1.1.3 (binaries inside!)
+description: Updating your MiniDLNA to version 1.1.3 (binaries inside!)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-06-26 10:05:45

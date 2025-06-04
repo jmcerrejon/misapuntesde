@@ -1,6 +1,7 @@
 ---
 id: 204
 title: ¡PiMAME v. 0.7.5 liberado!
+description: ¡PiMAME v. 0.7.5 liberado!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-07-07 08:00:00

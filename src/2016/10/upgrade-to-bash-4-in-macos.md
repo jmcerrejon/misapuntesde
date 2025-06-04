@@ -1,6 +1,7 @@
 ---
 id: 753
 title: Upgrade to bash 4 in macOS
+description: Upgrade to bash 4 in macOS
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-10-25 10:00:00

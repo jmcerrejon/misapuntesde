@@ -1,6 +1,7 @@
 ---
 id: 706
 title: Jugar ScummVM con Raspberry Pi
+description: Jugar ScummVM con Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-05-25 09:00:00

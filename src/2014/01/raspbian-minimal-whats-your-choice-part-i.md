@@ -1,6 +1,7 @@
 ---
 id: 349
 title: Raspbian minimal. What's your choice? (Part I)
+description: Raspbian minimal. What's your choice? (Part I)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-01-14 09:19:52

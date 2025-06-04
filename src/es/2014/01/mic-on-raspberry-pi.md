@@ -1,6 +1,7 @@
 ---
 id: 359
 title: Micrófono en la Raspberry Pi
+description: Micrófono en la Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-01-31 07:31:56

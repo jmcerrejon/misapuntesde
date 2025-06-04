@@ -1,6 +1,7 @@
 ---
 id: 235
 title: arkOS. Sistema Operativo para hosting
+description: arkOS. Sistema Operativo para hosting
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-08-15 09:30:00

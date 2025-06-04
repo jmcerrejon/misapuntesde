@@ -1,6 +1,7 @@
 ---
 id: 366
 title: ¡Alcanzamos las 200.000 visitas!
+description: ¡Alcanzamos las 200.000 visitas!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-02-17 11:09:11

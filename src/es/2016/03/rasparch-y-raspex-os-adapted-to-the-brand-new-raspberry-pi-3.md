@@ -1,6 +1,7 @@
 ---
 id: 679
 title: RaspArch y RaspEX. Sistemas operativos adaptados a la nueva Raspberry Pi 3
+description: RaspArch y RaspEX. Sistemas operativos adaptados a la nueva Raspberry Pi 3
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-03-14 11:40:00

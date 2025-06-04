@@ -1,6 +1,7 @@
 ---
 id: 22
 title: Our own Cloud with Raspberry Pi & Time Capsule (part V) (spanish link)
+description: Our own Cloud with Raspberry Pi & Time Capsule (part V) (spanish link)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-15 16:55:00

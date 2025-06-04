@@ -1,6 +1,7 @@
 ---
 id: 28
 title: How to run GeoGebra 4.0 on your Raspberry Pi
+description: How to run GeoGebra 4.0 on your Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-17 08:20:00

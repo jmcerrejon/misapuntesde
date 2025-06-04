@@ -1,6 +1,7 @@
 ---
 id: 315
 title: KANO. Raspberry Pi Kit for kids in the house
+description: KANO. Raspberry Pi Kit for kids in the house
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-11-20 10:30:00

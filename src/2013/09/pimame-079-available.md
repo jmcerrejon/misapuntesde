@@ -1,6 +1,7 @@
 ---
 id: 260
 title: PiMAME 0.79 available
+description: PiMAME 0.79 available
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-09-09 06:22:00

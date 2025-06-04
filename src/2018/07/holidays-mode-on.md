@@ -1,6 +1,7 @@
 ---
 id: 889
 title: Holidays Mode ON
+description: Holidays Mode ON
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2018-07-28 15:00:00

@@ -1,6 +1,7 @@
 ---
 id: 396
 title: Sobrevivir a la Semana Negra con la Raspberry Pi. Redes Sociales y chat
+description: Sobrevivir a la Semana Negra con la Raspberry Pi. Redes Sociales y chat
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-05-03 07:33:01

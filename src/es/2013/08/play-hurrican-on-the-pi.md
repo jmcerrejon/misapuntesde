@@ -1,6 +1,7 @@
 ---
 id: 242
 title: ¡Juega Hurrican en la Pi!
+description: ¡Juega Hurrican en la Pi!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-08-23 11:45:00

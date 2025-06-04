@@ -1,6 +1,7 @@
 ---
 id: 106
 title: Artículo de la revista Custom PC UK (Mayo 2013)
+description: Artículo de la revista Custom PC UK (Mayo 2013)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-03-19 17:05:00

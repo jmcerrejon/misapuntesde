@@ -1,6 +1,7 @@
 ---
 id: 345
 title: Empezando con Raspberry Pi, hoy
+description: Empezando con Raspberry Pi, hoy
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-01-08 12:53:01

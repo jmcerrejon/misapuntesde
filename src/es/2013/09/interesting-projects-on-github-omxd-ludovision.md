@@ -1,6 +1,7 @@
 ---
 id: 276
 title: Proyectos interesantes en GitHub. omxd y Ludovision
+description: Proyectos interesantes en GitHub. omxd y Ludovision
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-09-25 10:15:00

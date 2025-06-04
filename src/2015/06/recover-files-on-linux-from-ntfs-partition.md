@@ -1,6 +1,7 @@
 ---
 id: 582
 title: Recover files on Linux from NTFS partition
+description: Recover files on Linux from NTFS partition
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-06-25 09:00:00

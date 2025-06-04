@@ -1,6 +1,7 @@
 ---
 id: 846
 title: Getting Started with Raspberry Pi Zero (free ebook)
+description: Getting Started with Raspberry Pi Zero (free ebook)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-11-08 07:20:00

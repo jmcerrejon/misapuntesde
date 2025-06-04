@@ -1,6 +1,7 @@
 ---
 id: 904
 title: Noticias frescas en el Mundo Pi
+description: Noticias frescas en el Mundo Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2019-07-02 09:00:00

@@ -1,6 +1,7 @@
 ---
 id: 17
 title: MineCraft Pi Edition
+description: MineCraft Pi Edition
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-15 10:30:00

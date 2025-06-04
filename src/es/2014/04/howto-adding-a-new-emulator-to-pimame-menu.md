@@ -1,6 +1,7 @@
 ---
 id: 386
 title: HOWTO. Añadiendo un nuevo emulador a PiMAME
+description: HOWTO. Añadiendo un nuevo emulador a PiMAME
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-04-06 11:48:00

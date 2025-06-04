@@ -1,6 +1,7 @@
 ---
 id: 548
 title: PiKISS en Raspberry JAM BCN (Youtube)
+description: PiKISS en Raspberry JAM BCN (Youtube)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-04-13 13:29:00

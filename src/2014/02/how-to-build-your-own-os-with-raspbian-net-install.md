@@ -1,6 +1,7 @@
 ---
 id: 364
 title: How to build your own OS with Raspbian Net Install
+description: How to build your own OS with Raspbian Net Install
 
 author: Jose Cerrejon
 icon: pen-to-square

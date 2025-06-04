@@ -1,6 +1,7 @@
 ---
 id: 559
 title: CHIP, el ordenador de 9$ (Kickstarter)
+description: CHIP, el ordenador de 9$ (Kickstarter)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-05-07 19:30:00

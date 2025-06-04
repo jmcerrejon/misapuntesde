@@ -1,6 +1,7 @@
 ---
 id: 638
 title: (qbian) qemu + minibian
+description: (qbian) qemu + minibian
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-11-16 10:20:00

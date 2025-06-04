@@ -1,6 +1,7 @@
 ---
 id: 926
 title: Fix Git xcrun. error. active developer path (...) does not exist on macOS
+description: Fix Git xcrun. error. active developer path (...) does not exist on macOS
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2020-04-19 18:45:18

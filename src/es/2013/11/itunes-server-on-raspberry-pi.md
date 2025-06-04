@@ -1,6 +1,7 @@
 ---
 id: 314
 title: Monta un servidor de iTunes en tu Raspberry Pi
+description: Monta un servidor de iTunes en tu Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-11-19 11:30:00

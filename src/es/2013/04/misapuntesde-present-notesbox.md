@@ -1,6 +1,7 @@
 ---
 id: 125
 title: Misapuntesde presenta... ¡EL CUBOpuntes!
+description: Misapuntesde presenta... ¡EL CUBOpuntes!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-04-05 08:00:00

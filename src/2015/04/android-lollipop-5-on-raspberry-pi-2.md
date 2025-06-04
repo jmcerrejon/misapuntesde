@@ -1,6 +1,7 @@
 ---
 id: 552
 title: Android Lollipop 5 on Raspberry Pi 2
+description: Android Lollipop 5 on Raspberry Pi 2
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-04-21 12:00:00

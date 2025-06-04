@@ -1,6 +1,7 @@
 ---
 id: 111
 title: ¡Nueva versión de rpix86!
+description: ¡Nueva versión de rpix86!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-03-24 11:20:00

@@ -1,6 +1,7 @@
 ---
 id: 38
 title: ¡Por fín es Viernes!. Cómo debería haber terminado El Hobbit (video)
+description: ¡Por fín es Viernes!. Cómo debería haber terminado El Hobbit (video)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-18 19:27:00

@@ -1,6 +1,7 @@
 ---
 id: 136
 title: rpix86 v0.06 released!
+description: rpix86 v0.06 released!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-04-21 17:30:00

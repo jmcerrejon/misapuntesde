@@ -1,6 +1,7 @@
 ---
 id: 594
 title: ODROID-C1+ next week
+description: ODROID-C1+ next week
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-07-22 10:20:00

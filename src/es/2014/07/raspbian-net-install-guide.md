@@ -1,6 +1,7 @@
 ---
 id: 433
 title: Sácale partido a Raspbian Net Install
+description: Sácale partido a Raspbian Net Install
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-07-21 09:45:00

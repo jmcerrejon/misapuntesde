@@ -1,6 +1,7 @@
 ---
 id: 297
 title: Nintendo 64 Alpha Emulator
+description: Nintendo 64 Alpha Emulator
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-10-21 12:20:00

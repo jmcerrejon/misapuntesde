@@ -1,6 +1,7 @@
 ---
 id: 517
 title: Eliminar etiquetas HTML usando MySQL
+description: Eliminar etiquetas HTML usando MySQL
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-02-10 14:00:00

@@ -1,6 +1,7 @@
 ---
 id: 19
 title: Acceder desde Internet a tu Raspberry Pi. IPs dinámicas, puertos, DNS y túneles SSH
+description: Acceder desde Internet a tu Raspberry Pi. IPs dinámicas, puertos, DNS y túneles SSH
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-15 11:45:00

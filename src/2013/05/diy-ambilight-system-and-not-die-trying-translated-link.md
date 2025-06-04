@@ -1,6 +1,7 @@
 ---
 id: 163
 title: DIY Ambilight system and not die trying (translated link)
+description: DIY Ambilight system and not die trying (translated link)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-05-20 13:40:00

@@ -1,6 +1,7 @@
 ---
 id: 130
 title: Talleres de Raspberry Pi en Oviedo este Viernes
+description: Talleres de Raspberry Pi en Oviedo este Viernes
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-04-10 20:10:00

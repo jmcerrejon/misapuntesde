@@ -1,6 +1,7 @@
 ---
 id: 673
 title: ODROID-C2
+description: ODROID-C2
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-03-02 09:40:00

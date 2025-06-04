@@ -1,6 +1,7 @@
 ---
 id: 148
 title: News these days in the Pi World
+description: News these days in the Pi World
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-05-06 13:00:00

@@ -1,6 +1,7 @@
 ---
 id: 7
 title: ¿Por qué Raspberry Pi?
+description: ¿Por qué Raspberry Pi?
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-14 10:17:00

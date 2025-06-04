@@ -1,6 +1,7 @@
 ---
 id: 758
 title: ADRIAN Home asistant now open source
+description: ADRIAN Home asistant now open source
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-12-19 09:25:00

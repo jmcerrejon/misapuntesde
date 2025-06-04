@@ -1,6 +1,7 @@
 ---
 id: 218
 title: Super Scratch Programming Adventure! (Covers Version 2). Learn to Program by Making Cool Games, 2nd Edition (Ebook)
+description: Super Scratch Programming Adventure! (Covers Version 2). Learn to Program by Making Cool Games, 2nd Edition (Ebook)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-07-30 09:00:00

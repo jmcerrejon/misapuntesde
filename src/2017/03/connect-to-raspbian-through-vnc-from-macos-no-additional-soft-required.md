@@ -1,6 +1,7 @@
 ---
 id: 772
 title: Connect to Raspbian through VNC from macOS (no additional soft required)
+description: Connect to Raspbian through VNC from macOS (no additional soft required)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-03-02 12:00:00

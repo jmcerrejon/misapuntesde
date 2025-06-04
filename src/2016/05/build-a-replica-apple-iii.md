@@ -1,6 +1,7 @@
 ---
 id: 708
 title: Build a replica Apple III
+description: Build a replica Apple III
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-05-30 08:40:00

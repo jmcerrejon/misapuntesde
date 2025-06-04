@@ -1,6 +1,7 @@
 ---
 id: 828
 title: Guia buenas prácticas para nombrar elementos de una base de datos
+description: Guia buenas prácticas para nombrar elementos de una base de datos
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-08-31 12:40:00

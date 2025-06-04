@@ -1,6 +1,7 @@
 ---
 id: 584
 title: rpix86 version 0.19 released!
+description: rpix86 version 0.19 released!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-06-29 10:30:00

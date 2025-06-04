@@ -1,6 +1,7 @@
 ---
 id: 574
 title: ¿Quieres ver la Keynote 2015 en tu Raspberry Pi?
+description: ¿Quieres ver la Keynote 2015 en tu Raspberry Pi?
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-06-08 19:00:00

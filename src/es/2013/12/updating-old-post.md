@@ -1,6 +1,7 @@
 ---
 id: 329
 title: Actualizando viejos post
+description: Actualizando viejos post
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-12-13 08:05:49

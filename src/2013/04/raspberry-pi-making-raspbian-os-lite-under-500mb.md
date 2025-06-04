@@ -1,6 +1,7 @@
 ---
 id: 139
 title: Raspberry Pi. Making Raspbian OS Lite (under 500MB)
+description: Raspberry Pi. Making Raspbian OS Lite (under 500MB)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-04-25 09:40:00

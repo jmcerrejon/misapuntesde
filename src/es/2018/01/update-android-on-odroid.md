@@ -1,6 +1,7 @@
 ---
 id: 862
 title: Actualizar Android en ODROID
+description: Actualizar Android en ODROID
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2018-01-22 10:15:00

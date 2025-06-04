@@ -1,6 +1,7 @@
 ---
 id: 904
 title: Fresh news in the Pi World
+description: Fresh news in the Pi World
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2019-07-02 09:00:00

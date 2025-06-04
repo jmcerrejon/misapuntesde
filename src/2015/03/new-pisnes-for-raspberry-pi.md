@@ -1,6 +1,7 @@
 ---
 id: 535
 title: New PiSNES for Raspberry Pi
+description: New PiSNES for Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-03-18 10:30:00

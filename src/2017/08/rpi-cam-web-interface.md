@@ -1,6 +1,7 @@
 ---
 id: 826
 title: RPi Cam Web Interface
+description: RPi Cam Web Interface
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-08-24 12:20:00

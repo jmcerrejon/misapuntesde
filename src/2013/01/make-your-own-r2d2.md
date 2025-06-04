@@ -1,6 +1,7 @@
 ---
 id: 36
 title: Make your own R2D2
+description: Make your own R2D2
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-18 10:13:00

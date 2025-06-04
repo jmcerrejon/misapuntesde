@@ -1,6 +1,7 @@
 ---
 id: 710
 title: How to Build a Raspberry Pi Twitter Bot with Python
+description: How to Build a Raspberry Pi Twitter Bot with Python
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-06-06 09:30:00

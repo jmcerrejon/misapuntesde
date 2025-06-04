@@ -1,6 +1,7 @@
 ---
 id: 234
 title: La información de tu RasPi en la nube con Xively
+description: La información de tu RasPi en la nube con Xively
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-08-14 07:45:00

@@ -1,5 +1,6 @@
 ---
 title: Añade un icono a un directorio en macOS
+description: Añade un icono a un directorio en macOS
 icon: fa-brands fa-apple
 author: Jose Cerrejon
 date: 2024-06-12

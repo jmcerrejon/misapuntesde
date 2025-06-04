@@ -1,5 +1,6 @@
 ---
 title: Principios SOLID PHP Edition. Hoy, Principio Abierto/Cerrado
+description: Principios SOLID PHP Edition. Hoy, Principio Abierto/Cerrado
 icon: fa-solid fa-code
 author: Jose Cerrejon
 date: 2024-03-22

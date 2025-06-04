@@ -1,6 +1,7 @@
 ---
 id: 82
 title: ¡Mis Apuntes en G. Docs actualizado!
+description: ¡Mis Apuntes en G. Docs actualizado!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-02-26 08:50:00

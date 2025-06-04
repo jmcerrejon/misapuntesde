@@ -1,6 +1,7 @@
 ---
 id: 79
 title: Tip. save and compress at the same time with dd and gzip
+description: Tip. save and compress at the same time with dd and gzip
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-02-24 19:20:00

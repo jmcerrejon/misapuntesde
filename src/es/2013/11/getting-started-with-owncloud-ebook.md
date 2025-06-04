@@ -1,6 +1,7 @@
 ---
 id: 318
 title: Getting Started with ownCloud (Ebook)
+description: Getting Started with ownCloud (Ebook)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-11-24 08:15:00

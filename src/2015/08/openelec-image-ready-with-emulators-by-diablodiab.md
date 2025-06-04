@@ -1,6 +1,7 @@
 ---
 id: 599
 title: OpenELEC image ready with emulators by Diablodiab
+description: OpenELEC image ready with emulators by Diablodiab
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-08-03 09:00:00

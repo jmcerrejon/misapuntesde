@@ -1,6 +1,7 @@
 ---
 id: 735
 title: Pi Streaming Presence Detector
+description: Pi Streaming Presence Detector
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-09-05 12:00:00

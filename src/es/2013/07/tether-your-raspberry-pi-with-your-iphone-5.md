@@ -1,6 +1,7 @@
 ---
 id: 215
 title: Compartir conexión de iPhone con Raspberry Pi
+description: Compartir conexión de iPhone con Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-07-28 13:00:00

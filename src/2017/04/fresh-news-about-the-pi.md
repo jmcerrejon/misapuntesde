@@ -1,6 +1,7 @@
 ---
 id: 786
 title: Fresh news about the Pi
+description: Fresh news about the Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-04-18 20:00:00

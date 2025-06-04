@@ -1,5 +1,6 @@
 ---
 title: Mi Guía definitiva Git para desarrolladores
+description: Mi Guía definitiva Git para desarrolladores
 icon: fa-solid fa-code
 author: Jose Cerrejon
 date: 2024-11-12

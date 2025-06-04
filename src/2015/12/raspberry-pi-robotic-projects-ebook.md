@@ -1,6 +1,7 @@
 ---
 id: 647
 title: Raspberry Pi Robotic Projects (Ebook)
+description: Raspberry Pi Robotic Projects (Ebook)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-12-09 09:11:00

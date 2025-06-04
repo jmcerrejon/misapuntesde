@@ -1,5 +1,6 @@
 ---
 title: Bases de datos relacionales Vs NoSQL
+description: Bases de datos relacionales Vs NoSQL
 icon: fa-solid fa-code
 author: Jose Cerrejon
 date: 2024-07-31

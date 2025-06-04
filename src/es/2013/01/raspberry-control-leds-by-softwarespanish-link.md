@@ -1,6 +1,7 @@
 ---
 id: 39
 title: Raspberry, controlar el LED de lectura de la SD por software
+description: Raspberry, controlar el LED de lectura de la SD por software
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-19 07:00:00

@@ -1,6 +1,7 @@
 ---
 id: 666
 title: ODROID MAGAZINE release.
+description: ODROID MAGAZINE release.
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-02-14 13:00:00

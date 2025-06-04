@@ -1,6 +1,7 @@
 ---
 id: 627
 title: (Odrobian) Debian Jessie 8.2 MATE con KODI para C1/C1+
+description: (Odrobian) Debian Jessie 8.2 MATE con KODI para C1/C1+
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-10-19 09:35:00

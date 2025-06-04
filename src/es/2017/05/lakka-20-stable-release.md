@@ -1,6 +1,7 @@
 ---
 id: 790
 title: ¡Lakka 2.0 estable liberado!
+description: ¡Lakka 2.0 estable liberado!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-05-01 10:15:00

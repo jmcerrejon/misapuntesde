@@ -1,5 +1,6 @@
 ---
 title: Solucionar errores Autofirma en macOS Sonoma
+description: Solucionar errores Autofirma en macOS Sonoma
 icon: fa-brands fa-apple
 author: Jose Cerrejon
 date: 2024-09-27

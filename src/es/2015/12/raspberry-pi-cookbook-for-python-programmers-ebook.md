@@ -1,6 +1,7 @@
 ---
 id: 646
 title: Raspberry Pi Cookbook for Python Programmers (Ebook)
+description: Raspberry Pi Cookbook for Python Programmers (Ebook)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-12-07 11:00:00

@@ -1,6 +1,7 @@
 ---
 id: 104
 title: RasPlex. New Media Center Distribution
+description: RasPlex. New Media Center Distribution
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-03-18 13:40:00

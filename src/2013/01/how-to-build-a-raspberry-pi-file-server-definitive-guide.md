@@ -1,6 +1,7 @@
 ---
 id: 68
 title: How to Build a Raspberry Pi File Server (definitive guide)
+description: How to Build a Raspberry Pi File Server (definitive guide)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-29 19:10:00

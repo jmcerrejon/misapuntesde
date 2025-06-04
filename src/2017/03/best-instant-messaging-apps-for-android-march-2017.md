@@ -1,6 +1,7 @@
 ---
 id: 774
 title: Best instant messaging apps for Android (March 2017)
+description: Best instant messaging apps for Android (March 2017)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-03-08 09:30:00

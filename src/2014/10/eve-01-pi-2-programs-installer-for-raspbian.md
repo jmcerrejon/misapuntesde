@@ -1,6 +1,7 @@
 ---
 id: 462
 title: Eve 0.1 Pi. 2 (Programs Installer for Raspbian)
+description: Eve 0.1 Pi. 2 (Programs Installer for Raspbian)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-10-01 12:00:00

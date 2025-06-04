@@ -1,6 +1,7 @@
 ---
 id: 185
 title: Raspbian Server Edition 2.4
+description: Raspbian Server Edition 2.4
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-06-13 10:10:00

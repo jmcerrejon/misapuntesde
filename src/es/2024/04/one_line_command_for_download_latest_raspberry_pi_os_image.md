@@ -1,5 +1,6 @@
 ---
 title: Descarga la última imagen de Raspberry Pi OS usando la línea de comandos
+description: Descarga la última imagen de Raspberry Pi OS usando la línea de comandos
 icon: fa-brands fa-raspberry-pi
 author: Jose Cerrejon
 date: 2024-04-09

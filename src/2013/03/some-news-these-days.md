@@ -1,6 +1,7 @@
 ---
 id: 107
 title: Some news these days
+description: Some news these days
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-03-20 16:10:00

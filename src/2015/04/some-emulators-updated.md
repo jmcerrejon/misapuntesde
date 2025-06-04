@@ -1,6 +1,7 @@
 ---
 id: 551
 title: Some emulators updated
+description: Some emulators updated
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-04-18 08:20:00

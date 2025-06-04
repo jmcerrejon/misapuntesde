@@ -1,6 +1,7 @@
 ---
 id: 714
 title: Nuevo script para testear la Raspberry Pi
+description: Nuevo script para testear la Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-06-14 09:00:00

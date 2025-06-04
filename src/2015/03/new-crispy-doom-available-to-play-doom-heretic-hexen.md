@@ -1,6 +1,7 @@
 ---
 id: 531
 title: New Crispy Doom available to play Doom, Heretic & Hexen
+description: New Crispy Doom available to play Doom, Heretic & Hexen
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-03-14 08:00:00

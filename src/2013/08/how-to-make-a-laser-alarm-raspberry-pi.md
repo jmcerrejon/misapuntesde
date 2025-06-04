@@ -1,6 +1,7 @@
 ---
 id: 228
 title: How to make a laser alarm Raspberry Pi
+description: How to make a laser alarm Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-08-08 12:25:00

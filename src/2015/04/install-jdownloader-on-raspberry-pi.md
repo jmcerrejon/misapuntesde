@@ -1,6 +1,7 @@
 ---
 id: 549
 title: Install jdownloader on Raspberry Pi
+description: Install jdownloader on Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-04-16 09:45:00

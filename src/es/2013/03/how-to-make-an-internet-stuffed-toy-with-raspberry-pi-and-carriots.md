@@ -1,6 +1,7 @@
 ---
 id: 115
 title: Cómo hacer un peluche conectado a internet con una Raspberry Pi
+description: Cómo hacer un peluche conectado a internet con una Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-03-26 11:45:00

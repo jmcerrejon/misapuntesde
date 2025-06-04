@@ -1,6 +1,7 @@
 ---
 id: 362
 title: Discovering Picore (Part II)
+description: Discovering Picore (Part II)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-02-07 07:56:20

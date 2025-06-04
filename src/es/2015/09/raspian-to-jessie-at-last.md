@@ -1,6 +1,7 @@
 ---
 id: 622
 title: Raspbian por fin en Jessie
+description: Raspbian por fin en Jessie
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-09-30 09:15:00

@@ -1,6 +1,7 @@
 ---
 id: 275
 title: Open your garage from Android or iPhone with Raspberry Pi
+description: Open your garage from Android or iPhone with Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-09-24 09:15:00

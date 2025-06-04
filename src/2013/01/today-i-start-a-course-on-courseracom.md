@@ -1,6 +1,7 @@
 ---
 id: 14
 title: Today I start a course on coursera.com
+description: Today I start a course on coursera.com
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-14 14:43:00

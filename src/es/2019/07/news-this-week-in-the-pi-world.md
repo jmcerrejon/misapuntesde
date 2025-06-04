@@ -1,6 +1,7 @@
 ---
 id: 908
 title: ¡Noticias esta semana en el Mundo Pi!
+description: ¡Noticias esta semana en el Mundo Pi!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2019-07-25 09:00:00

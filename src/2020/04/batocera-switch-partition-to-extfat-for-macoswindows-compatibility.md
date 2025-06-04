@@ -1,6 +1,7 @@
 ---
 id: 930
 title: Batocera. Switch partition to extFAT for macOS/Windows compatibility
+description: Batocera. Switch partition to extFAT for macOS/Windows compatibility
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2020-04-23 12:04:13

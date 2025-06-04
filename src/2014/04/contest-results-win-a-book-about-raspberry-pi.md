@@ -1,6 +1,7 @@
 ---
 id: 390
 title: Contest Results Win a book about Raspberry Pi
+description: Contest Results Win a book about Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-04-23 09:15:58

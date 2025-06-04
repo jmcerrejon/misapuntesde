@@ -1,6 +1,7 @@
 ---
 id: 697
 title: ChromiumOS para Raspberry Pi
+description: ChromiumOS para Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-05-05 10:00:00

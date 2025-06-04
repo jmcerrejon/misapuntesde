@@ -1,6 +1,7 @@
 ---
 id: 507
 title: raylib. Simple and easy-to-use library to make videogames
+description: raylib. Simple and easy-to-use library to make videogames
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-01-14 09:30:00

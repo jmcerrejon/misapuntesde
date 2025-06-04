@@ -1,6 +1,7 @@
 ---
 id: 154
 title: ¡PiMAME 0.7 Beta 1 lanzada!
+description: ¡PiMAME 0.7 Beta 1 lanzada!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-05-12 08:00:00

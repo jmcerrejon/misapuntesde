@@ -1,6 +1,7 @@
 ---
 id: 343
 title: Happy Three Kings day!
+description: Happy Three Kings day!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-01-06 07:36:42

@@ -1,6 +1,7 @@
 ---
 id: 792
 title: TeamViewer Host for Raspberry Pi
+description: TeamViewer Host for Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-05-11 09:00:00

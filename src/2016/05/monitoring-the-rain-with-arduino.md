@@ -1,6 +1,7 @@
 ---
 id: 701
 title: Monitoring the rain with Arduino
+description: Monitoring the rain with Arduino
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-05-16 09:00:00

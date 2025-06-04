@@ -1,6 +1,7 @@
 ---
 id: 226
 title: Raspberry Pi como Servidor de impresión con Google Cloud
+description: Raspberry Pi como Servidor de impresión con Google Cloud
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-08-07 09:00:00

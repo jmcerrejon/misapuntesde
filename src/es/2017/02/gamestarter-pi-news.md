@@ -1,6 +1,7 @@
 ---
 id: 765
 title: Novedades Gamestarter-Pi
+description: Novedades Gamestarter-Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-02-07 10:30:00

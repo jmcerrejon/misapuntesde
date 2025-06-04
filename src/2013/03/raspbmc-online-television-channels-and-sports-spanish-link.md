@@ -1,6 +1,7 @@
 ---
 id: 89
 title: RaspBMC. online television channels and sports (Spanish link)
+description: RaspBMC. online television channels and sports (Spanish link)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-03-04 13:46:00

@@ -1,6 +1,7 @@
 ---
 id: 77
 title: The MagPi en Español
+description: The MagPi en Español
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-02-23 12:00:00

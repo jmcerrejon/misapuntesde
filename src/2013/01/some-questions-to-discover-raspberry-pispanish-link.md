@@ -1,6 +1,7 @@
 ---
 id: 55
 title: Some questions to discover Raspberry Pi(Spanish link)
+description: Some questions to discover Raspberry Pi(Spanish link)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-24 08:40:00

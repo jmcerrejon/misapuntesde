@@ -1,6 +1,7 @@
 ---
 id: 138
 title: Beaglebone Black comes to stay with us
+description: Beaglebone Black comes to stay with us
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-04-23 09:00:00

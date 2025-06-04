@@ -1,6 +1,7 @@
 ---
 id: 421
 title: Nuevo port de un emulador de Amiga en camino. uae4all2
+description: Nuevo port de un emulador de Amiga en camino. uae4all2
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-06-24 09:06:18

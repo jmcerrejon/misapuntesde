@@ -1,6 +1,7 @@
 ---
 id: 97
 title: Navegador web liviano que arranca en 1 segundo
+description: Navegador web liviano que arranca en 1 segundo
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-03-11 08:30:00

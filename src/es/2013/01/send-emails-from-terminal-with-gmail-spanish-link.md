@@ -1,6 +1,7 @@
 ---
 id: 29
 title: Envío de emails desde consola y con GMail
+description: Envío de emails desde consola y con GMail
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-17 08:30:00

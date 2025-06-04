@@ -1,6 +1,7 @@
 ---
 id: 158
 title: Install RetroPie on BerryBoot 2.0 (spanish pdf)
+description: Install RetroPie on BerryBoot 2.0 (spanish pdf)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-05-16 13:00:00

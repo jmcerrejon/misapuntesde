@@ -1,6 +1,7 @@
 ---
 id: 192
 title: Video tutorial from Pluralsight. Raspberry Pi
+description: Video tutorial from Pluralsight. Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-06-23 12:00:00

@@ -1,6 +1,7 @@
 ---
 id: 266
 title: Raspberry Pi Remote Wake-On-LAN Server
+description: Raspberry Pi Remote Wake-On-LAN Server
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-09-16 14:00:00

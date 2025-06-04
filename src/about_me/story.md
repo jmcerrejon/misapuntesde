@@ -1,5 +1,6 @@
 ---
 title: About me
+description: About me
 article: false
 ---
 

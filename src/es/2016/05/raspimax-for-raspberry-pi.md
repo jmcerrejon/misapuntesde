@@ -1,6 +1,7 @@
 ---
 id: 699
 title: RaspiMax para la Raspberry Pi
+description: RaspiMax para la Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-05-09 09:00:00

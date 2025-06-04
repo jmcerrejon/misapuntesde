@@ -1,6 +1,7 @@
 ---
 id: 41
 title: Setting up Prosody for our own chatroom
+description: Setting up Prosody for our own chatroom
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-20 09:30:00

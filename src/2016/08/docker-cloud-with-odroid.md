@@ -1,6 +1,7 @@
 ---
 id: 732
 title: Docker cloud with ODROID
+description: Docker cloud with ODROID
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-08-29 10:00:00

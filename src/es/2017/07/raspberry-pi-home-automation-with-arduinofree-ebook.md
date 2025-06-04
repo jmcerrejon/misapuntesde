@@ -1,6 +1,7 @@
 ---
 id: 817
 title: Automatización del hogar con Raspberry Pi y Arduino(Ebook gratis)
+description: Automatización del hogar con Raspberry Pi y Arduino(Ebook gratis)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-07-25 09:31:00

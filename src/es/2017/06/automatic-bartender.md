@@ -1,6 +1,7 @@
 ---
 id: 801
 title: Dispensador de bebidas automático
+description: Dispensador de bebidas automático
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-06-06 10:30:00

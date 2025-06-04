@@ -1,6 +1,7 @@
 ---
 id: 814
 title: Configure closest mirror with netselect-apt in Debian
+description: Configure closest mirror with netselect-apt in Debian
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-07-19 09:15:00

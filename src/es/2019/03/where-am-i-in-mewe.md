@@ -1,6 +1,7 @@
 ---
 id: 900
 title: ¿Dónde estoy?... ¡En MeWe!
+description: ¿Dónde estoy?... ¡En MeWe!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2019-03-30 11:00:00

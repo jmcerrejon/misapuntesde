@@ -1,6 +1,7 @@
 ---
 id: 663
 title: New Raspbian OS with GPU support on Desktop
+description: New Raspbian OS with GPU support on Desktop
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-02-10 10:00:00

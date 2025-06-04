@@ -1,6 +1,7 @@
 ---
 id: 233
 title: LemonPOS on the Raspberry Pi
+description: LemonPOS on the Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-08-13 10:00:00

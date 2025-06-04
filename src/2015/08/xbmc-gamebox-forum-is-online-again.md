@@ -1,6 +1,7 @@
 ---
 id: 607
 title: XBMC Gamebox forum is online again
+description: XBMC Gamebox forum is online again
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-08-17 09:00:00

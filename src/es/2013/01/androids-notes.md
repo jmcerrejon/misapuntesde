@@ -1,6 +1,7 @@
 ---
 id: 66
 title: Mis apuntes de Android
+description: Mis apuntes de Android
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-29 17:40:00

@@ -1,6 +1,7 @@
 ---
 id: 603
 title: Reflexiones sobre Windows 10 IoT Core para Raspberry Pi 2
+description: Reflexiones sobre Windows 10 IoT Core para Raspberry Pi 2
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-08-12 09:30:00

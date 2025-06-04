@@ -1,6 +1,7 @@
 ---
 id: 322
 title: Synergy. One keyboard and mouse to rule them all
+description: Synergy. One keyboard and mouse to rule them all
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-11-30 07:00:00

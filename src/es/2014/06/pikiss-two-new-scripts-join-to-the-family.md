@@ -1,6 +1,7 @@
 ---
 id: 418
 title: PiKISS. Dos nuevos scripts se suman a la familia
+description: PiKISS. Dos nuevos scripts se suman a la familia
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-06-18 10:00:38

@@ -1,5 +1,6 @@
 ---
 title: SOLID principles PHP Edition. Today, Single Responsibility Principle
+description: SOLID principles PHP Edition. Today, Single Responsibility Principle
 icon: fa-solid fa-code
 author: Jose Cerrejon
 date: 2024-03-20

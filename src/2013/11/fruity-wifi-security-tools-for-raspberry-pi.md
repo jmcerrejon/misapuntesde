@@ -1,6 +1,7 @@
 ---
 id: 320
 title: Fruity-WiFi, security tools for Raspberry Pi
+description: Fruity-WiFi, security tools for Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-11-26 10:00:00

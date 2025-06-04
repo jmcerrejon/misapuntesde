@@ -1,6 +1,7 @@
 ---
 id: 636
 title: MagPi divulge a guide about the terminal
+description: MagPi divulge a guide about the terminal
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-11-11 09:40:00

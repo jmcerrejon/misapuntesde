@@ -1,6 +1,7 @@
 ---
 id: 280
 title: Searching collaborator for porting games in Allegro and SDL
+description: Searching collaborator for porting games in Allegro and SDL
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-09-28 08:15:00

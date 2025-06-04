@@ -1,5 +1,6 @@
 ---
 title: SOLID principles PHP Edition. Today, Dependency Inversion Principle
+description: SOLID principles PHP Edition. Today, Dependency Inversion Principle
 icon: fa-solid fa-code
 author: Jose Cerrejon
 date: 2024-04-23

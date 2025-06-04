@@ -1,6 +1,7 @@
 ---
 id: 925
 title: Building the perfect operating system for Raspberry Pi with Alpine Linux (III)
+description: Building the perfect operating system for Raspberry Pi with Alpine Linux (III)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2020-04-07 19:51:36

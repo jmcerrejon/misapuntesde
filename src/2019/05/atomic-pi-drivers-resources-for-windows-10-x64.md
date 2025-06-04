@@ -1,6 +1,7 @@
 ---
 id: 902
 title: Atomic Pi. drivers & resources for Windows 10 x64
+description: Atomic Pi. drivers & resources for Windows 10 x64
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2019-05-22 19:00:00

@@ -1,6 +1,7 @@
 ---
 id: 461
 title: Pi Entertainment System (PES)
+description: Pi Entertainment System (PES)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-09-29 13:20:00

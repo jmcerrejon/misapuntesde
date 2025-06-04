@@ -1,6 +1,7 @@
 ---
 id: 155
 title: BerryIO. Sitema remoto de control web mediante Raspberry Pi
+description: BerryIO. Sitema remoto de control web mediante Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-05-13 09:00:00

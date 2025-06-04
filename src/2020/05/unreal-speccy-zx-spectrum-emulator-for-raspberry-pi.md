@@ -1,6 +1,7 @@
 ---
 id: 932
 title: Unreal Speccy ZX-Spectrum emulator for Raspberry Pi
+description: Unreal Speccy ZX-Spectrum emulator for Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2020-05-02 18:41:21

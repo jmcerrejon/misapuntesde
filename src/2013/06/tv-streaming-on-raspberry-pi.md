@@ -1,6 +1,7 @@
 ---
 id: 188
 title: TV streaming on Raspberry Pi 
+description: TV streaming on Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-06-19 10:30:00

@@ -1,6 +1,7 @@
 ---
 id: 442
 title: Emulador de Amiga UAE4ALL 0.3 rc4 para Raspberry Pi
+description: Emulador de Amiga UAE4ALL 0.3 rc4 para Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-08-14 10:30:00

@@ -1,6 +1,7 @@
 ---
 id: 924
 title: New version of Crispy Doom to play Doom, Heretic and Hexen with PiKISS
+description: New version of Crispy Doom to play Doom, Heretic and Hexen with PiKISS
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2020-03-07 09:51:46

@@ -1,6 +1,7 @@
 ---
 id: 410
 title: News this week on the Pi World
+description: News this week on the Pi World
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-05-30 11:16:01

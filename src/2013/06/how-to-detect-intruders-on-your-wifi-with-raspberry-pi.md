@@ -1,6 +1,7 @@
 ---
 id: 182
 title: How to detect intruders on your WiFi with Raspberry Pi
+description: How to detect intruders on your WiFi with Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-06-10 09:00:00

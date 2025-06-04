@@ -1,6 +1,7 @@
 ---
 id: 528
 title: Docker-Pi para admins y developers
+description: Docker-Pi para admins y developers
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-03-11 09:10:00

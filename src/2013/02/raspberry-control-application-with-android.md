@@ -1,6 +1,7 @@
 ---
 id: 75
 title: Raspberry Control application with Android
+description: Raspberry Control application with Android
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-02-22 16:00:00

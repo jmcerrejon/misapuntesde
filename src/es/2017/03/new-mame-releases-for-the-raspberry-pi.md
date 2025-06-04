@@ -1,6 +1,7 @@
 ---
 id: 775
 title: Nuevas versiones de MAME para la Raspberry Pi
+description: Nuevas versiones de MAME para la Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-03-09 11:35:00

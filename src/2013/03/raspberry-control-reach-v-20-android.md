@@ -1,6 +1,7 @@
 ---
 id: 117
 title: Raspberry Control reach v. 2.0 (Android)
+description: Raspberry Control reach v. 2.0 (Android)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-03-27 11:40:00

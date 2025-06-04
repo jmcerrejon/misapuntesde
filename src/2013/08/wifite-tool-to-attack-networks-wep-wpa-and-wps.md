@@ -1,6 +1,7 @@
 ---
 id: 230
 title: WIFITE. Tool to attack networks WEP, WPA and WPS
+description: WIFITE. Tool to attack networks WEP, WPA and WPS
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-08-10 08:45:00

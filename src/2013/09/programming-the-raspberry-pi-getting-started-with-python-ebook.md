@@ -1,6 +1,7 @@
 ---
 id: 281
 title: Programming the Raspberry Pi. Getting Started with Python (Ebook)
+description: Programming the Raspberry Pi. Getting Started with Python (Ebook)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-09-30 09:00:00

@@ -1,6 +1,7 @@
 ---
 id: 119
 title: Rapberry Pi. TV record and stream (Spanish link)
+description: Rapberry Pi. TV record and stream (Spanish link)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-03-29 08:30:00

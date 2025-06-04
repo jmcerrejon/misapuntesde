@@ -1,6 +1,7 @@
 ---
 id: 379
 title: Slow Motion con los nuevos modos de vídeo de la Cámara-Pi
+description: Slow Motion con los nuevos modos de vídeo de la Cámara-Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-03-25 09:26:42

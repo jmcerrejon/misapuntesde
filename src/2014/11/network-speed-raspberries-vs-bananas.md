@@ -1,6 +1,7 @@
 ---
 id: 483
 title: Network Speed. raspberries Vs bananas
+description: Network Speed. raspberries Vs bananas
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-11-17 11:00:00

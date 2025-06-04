@@ -1,6 +1,7 @@
 ---
 id: 787
 title: Winners of a license for Exagear Desktop 2.0
+description: Winners of a license for Exagear Desktop 2.0
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-04-20 12:15:00

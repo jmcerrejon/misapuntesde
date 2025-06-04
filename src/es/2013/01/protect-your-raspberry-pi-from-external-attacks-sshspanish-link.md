@@ -1,6 +1,7 @@
 ---
 id: 33
 title: Protegiendo un poco nuestra Raspberry Pi de ataques externos (ssh) 
+description: Protegiendo un poco nuestra Raspberry Pi de ataques externos (ssh)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-18 09:35:00

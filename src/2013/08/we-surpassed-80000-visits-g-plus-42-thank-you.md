@@ -1,6 +1,7 @@
 ---
 id: 250
 title: We surpassed 80,000+ visits, G. Plus +42 ... Thank you!
+description: We surpassed 80,000+ visits, G. Plus +42 ... Thank you!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-08-29 08:00:00

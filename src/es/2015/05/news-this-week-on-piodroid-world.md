@@ -1,6 +1,7 @@
 ---
 id: 563
 title: Han sido noticia esta semana en el mundo Pi/ODROID
+description: Han sido noticia esta semana en el mundo Pi/ODROID
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-05-15 09:00:00

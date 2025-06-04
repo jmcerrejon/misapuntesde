@@ -1,6 +1,7 @@
 ---
 id: 556
 title: Thinking about Windows 10
+description: Thinking about Windows 10
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-04-30 17:00:00

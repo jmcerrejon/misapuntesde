@@ -1,6 +1,7 @@
 ---
 id: 480
 title: rPlay at the end of November for the Banana Pi
+description: rPlay at the end of November for the Banana Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-11-10 09:35:00

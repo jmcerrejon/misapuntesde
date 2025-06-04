@@ -1,6 +1,7 @@
 ---
 id: 900
 title: Where am I? In MeWe!
+description: Where am I? In MeWe!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2019-03-30 11:00:00

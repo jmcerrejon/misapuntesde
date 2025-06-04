@@ -1,6 +1,7 @@
 ---
 id: 573
 title: Exagear Desktop. Run x86 apps on Raspberry Pi & ARMv7 (Part I+Giveaway)
+description: Exagear Desktop. Run x86 apps on Raspberry Pi & ARMv7 (Part I+Giveaway)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-06-08 08:00:00

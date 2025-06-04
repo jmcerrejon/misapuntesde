@@ -1,6 +1,7 @@
 ---
 id: 927
 title: Las mejores opciones para comprimir ficheros y directorios
+description: Las mejores opciones para comprimir ficheros y directorios
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2020-04-20 11:28:36

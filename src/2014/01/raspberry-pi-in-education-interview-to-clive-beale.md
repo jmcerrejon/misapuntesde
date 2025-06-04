@@ -1,6 +1,7 @@
 ---
 id: 346
 title: Raspberry Pi in Education. Interview to Clive Beale
+description: Raspberry Pi in Education. Interview to Clive Beale
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-01-09 13:57:42

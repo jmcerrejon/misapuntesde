@@ -1,6 +1,7 @@
 ---
 id: 307
 title: Retropie actualiza sus binarios y la imagen SD
+description: Retropie actualiza sus binarios y la imagen SD
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-11-06 10:00:00

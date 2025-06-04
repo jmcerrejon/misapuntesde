@@ -1,6 +1,7 @@
 ---
 id: 159
 title: ¡Raspberry Pi camera disponible en raspipc.es!
+description: ¡Raspberry Pi camera disponible en raspipc.es!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-05-17 08:45:00

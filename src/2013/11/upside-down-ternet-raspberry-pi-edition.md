@@ -1,6 +1,7 @@
 ---
 id: 309
 title: Upside-Down-Ternet. Raspberry Pi Edition
+description: Upside-Down-Ternet. Raspberry Pi Edition
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-11-10 10:15:00

@@ -1,6 +1,7 @@
 ---
 id: 919
 title: ¡Feliz año nuevo!
+description: ¡Feliz año nuevo!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2019-12-31 19:00:00

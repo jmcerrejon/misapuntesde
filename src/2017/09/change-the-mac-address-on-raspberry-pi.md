@@ -1,6 +1,7 @@
 ---
 id: 831
 title: Change the MAC address on Raspberry Pi
+description: Change the MAC address on Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-09-09 13:00:00

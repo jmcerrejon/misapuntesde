@@ -1,6 +1,7 @@
 ---
 id: 352
 title: ¡Rama master actualizada del emulador de Nintendo 64! (¡binario incluído!)
+description: ¡Rama master actualizada del emulador de Nintendo 64! (¡binario incluído!)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-01-18 11:58:29

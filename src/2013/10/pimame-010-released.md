@@ -1,6 +1,7 @@
 ---
 id: 304
 title: PiMAME 0.10 released!
+description: PiMAME 0.10 released!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-10-31 11:00:00

@@ -1,6 +1,7 @@
 ---
 id: 775
 title: New MAME releases for the Raspberry Pi
+description: New MAME releases for the Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-03-09 11:35:00

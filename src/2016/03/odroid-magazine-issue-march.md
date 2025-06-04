@@ -1,6 +1,7 @@
 ---
 id: 680
 title: ODROID Magazine issue (March)
+description: ODROID Magazine issue (March)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-03-15 10:16:00

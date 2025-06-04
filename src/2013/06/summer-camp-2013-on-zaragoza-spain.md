@@ -1,6 +1,7 @@
 ---
 id: 190
 title: Summer Camp 2013 on Zaragoza (Spain)
+description: Summer Camp 2013 on Zaragoza (Spain)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-06-21 12:00:00

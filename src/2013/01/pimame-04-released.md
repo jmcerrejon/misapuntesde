@@ -1,6 +1,7 @@
 ---
 id: 16
 title: PiMAME 0.4 released!
+description: PiMAME 0.4 released!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-15 10:20:00

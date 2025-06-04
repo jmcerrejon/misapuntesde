@@ -1,6 +1,7 @@
 ---
 id: 389
 title: Maynard, un escritorio basado en Wayland para Raspberry Pi
+description: Maynard, un escritorio basado en Wayland para Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-04-21 13:57:00

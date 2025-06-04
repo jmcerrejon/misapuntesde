@@ -1,6 +1,7 @@
 ---
 id: 333
 title: HOWTO. Bluetooth en OpenELEC
+description: HOWTO. Bluetooth en OpenELEC
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-12-20 10:48:39

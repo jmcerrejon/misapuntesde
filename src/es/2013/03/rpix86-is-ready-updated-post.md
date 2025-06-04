@@ -1,6 +1,7 @@
 ---
 id: 98
 title: rpix86 ya está con nosotros! (post actualizado)
+description: rpix86 ya está con nosotros! (post actualizado)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-03-15 10:00:00

@@ -1,6 +1,7 @@
 ---
 id: 777
 title: Sintonizadora DVB-T en Raspbian u otros sabores Debian
+description: Sintonizadora DVB-T en Raspbian u otros sabores Debian
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-03-13 12:00:00

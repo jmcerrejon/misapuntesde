@@ -1,6 +1,7 @@
 ---
 id: 871
 title: ¡Celebra el día Pi con la nueva Raspberry Pi 3 B+!
+description: ¡Celebra el día Pi con la nueva Raspberry Pi 3 B+!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2018-03-14 09:30:00

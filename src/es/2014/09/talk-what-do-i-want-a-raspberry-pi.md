@@ -1,6 +1,7 @@
 ---
 id: 449
 title: Charla. ¿Para qué quiero yo una Raspberry Pi? 
+description: Charla. ¿Para qué quiero yo una Raspberry Pi?
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-09-02 05:40:00

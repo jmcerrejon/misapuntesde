@@ -1,6 +1,7 @@
 ---
 id: 270
 title: RasPyPlayer
+description: RasPyPlayer
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-09-20 08:00:00

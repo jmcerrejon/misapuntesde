@@ -1,6 +1,7 @@
 ---
 id: 11
 title: Análisis iMac 27 (2012) en Applesfera
+description: Análisis iMac 27 (2012) en Applesfera
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-14 13:00:00

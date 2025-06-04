@@ -1,6 +1,7 @@
 ---
 id: 129
 title: Imparable. Nuevo rpix86 ver 0.5!
+description: Imparable. Nuevo rpix86 ver 0.5!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-04-09 07:35:00

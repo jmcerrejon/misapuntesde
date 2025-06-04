@@ -1,6 +1,7 @@
 ---
 id: 654
 title: Imagen Raspbian Emuladores+Steam+Media Center
+description: Imagen Raspbian Emuladores+Steam+Media Center
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-01-11 13:20:00

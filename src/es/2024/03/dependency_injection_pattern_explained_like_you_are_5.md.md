@@ -1,5 +1,6 @@
 ---
 title: Inyección de dependencia como si tuvieras 5 años
+description: Inyección de dependencia como si tuvieras 5 años
 icon: fa-solid fa-code
 author: Jose Cerrejon
 date: 2024-03-19

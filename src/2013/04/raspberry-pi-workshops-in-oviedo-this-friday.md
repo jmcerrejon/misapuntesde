@@ -1,6 +1,7 @@
 ---
 id: 130
 title: Raspberry Pi Workshops in Oviedo this Friday
+description: Raspberry Pi Workshops in Oviedo this Friday
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-04-10 20:10:00

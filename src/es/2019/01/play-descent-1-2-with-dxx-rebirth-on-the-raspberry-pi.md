@@ -1,6 +1,7 @@
 ---
 id: 897
 title: Juega Descent 1 & 2 con DXX-Rebirth en tu Raspberry Pi
+description: Juega Descent 1 & 2 con DXX-Rebirth en tu Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2019-01-25 19:35:00

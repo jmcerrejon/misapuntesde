@@ -1,6 +1,7 @@
 ---
 id: 923
 title: Creando el sistema operativo perfecto para la Raspberry Pi con Alpine Linux (II)
+description: Creando el sistema operativo perfecto para la Raspberry Pi con Alpine Linux (II)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2020-02-26 11:39:18

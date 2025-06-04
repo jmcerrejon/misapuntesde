@@ -1,6 +1,7 @@
 ---
 id: 319
 title: RACHEL PI o como llevar el conocimiento en una tarjeta SD
+description: RACHEL PI o como llevar el conocimiento en una tarjeta SD
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-11-25 17:00:00

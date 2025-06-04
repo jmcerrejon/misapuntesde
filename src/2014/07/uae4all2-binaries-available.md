@@ -1,6 +1,7 @@
 ---
 id: 425
 title: uae4all2. Binaries available!
+description: uae4all2. Binaries available!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-07-02 08:33:32

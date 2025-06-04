@@ -1,6 +1,7 @@
 ---
 id: 144
 title: Read/write on ext2/ext3/ext4 partitions from Mac & HFS+ from Linux
+description: Read/write on ext2/ext3/ext4 partitions from Mac & HFS+ from Linux
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-05-01 08:50:00

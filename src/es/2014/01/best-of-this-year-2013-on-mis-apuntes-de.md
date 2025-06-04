@@ -1,6 +1,7 @@
 ---
 id: 340
 title: Lo mejor de este año 2013 en Mis Apuntes de…
+description: Lo mejor de este año 2013 en Mis Apuntes de…
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-01-01 09:04:43

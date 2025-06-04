@@ -1,6 +1,7 @@
 ---
 id: 447
 title: New UAE4ALL 0.5 updated!
+description: New UAE4ALL 0.5 updated!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-08-25 09:30:00

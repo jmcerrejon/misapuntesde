@@ -1,6 +1,7 @@
 ---
 id: 608
 title: Godot Engine en la Raspberry Pi
+description: Godot Engine en la Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-08-19 08:30:00

@@ -1,6 +1,7 @@
 ---
 id: 65
 title: 85 usos que puedes dar a la Raspberry Pi
+description: 85 usos que puedes dar a la Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-28 20:00:00

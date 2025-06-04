@@ -1,6 +1,7 @@
 ---
 id: 223
 title: Compilación cruzada Windows-Raspberrry Pi
+description: Compilación cruzada Windows-Raspberrry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-08-02 10:00:00

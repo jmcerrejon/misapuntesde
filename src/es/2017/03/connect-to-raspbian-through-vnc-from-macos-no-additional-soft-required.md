@@ -1,6 +1,7 @@
 ---
 id: 772
 title: Conectar a Raspbian por VNC desde macOS sin software adicional
+description: Conectar a Raspbian por VNC desde macOS sin software adicional
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-03-02 12:00:00

@@ -1,6 +1,7 @@
 ---
 id: 165
 title: Fastdosbox acelera dosbox un 250%
+description: Fastdosbox acelera dosbox un 250%
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-05-23 08:00:00

@@ -1,6 +1,7 @@
 ---
 id: 93
 title: New firmware with improvements for analogue audio popping
+description: New firmware with improvements for analogue audio popping
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-03-06 15:00:00

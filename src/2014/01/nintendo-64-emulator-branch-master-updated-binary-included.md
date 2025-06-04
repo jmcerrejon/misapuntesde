@@ -1,6 +1,7 @@
 ---
 id: 352
 title:  Nintendo 64 emulator branch master updated! (binary included!)
+description: Nintendo 64 emulator branch master updated! (binary included!)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-01-18 11:58:29

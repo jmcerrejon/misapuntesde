@@ -1,6 +1,7 @@
 ---
 id: 873
 title: Raspberry Pi Robotic Projects - Third Edition (free Ebook TODAY)
+description: Raspberry Pi Robotic Projects - Third Edition (free Ebook TODAY)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2018-03-18 14:00:00

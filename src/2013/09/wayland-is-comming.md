@@ -1,6 +1,7 @@
 ---
 id: 273
 title: Wayland is comming...
+description: Wayland is comming...
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-09-23 10:20:00

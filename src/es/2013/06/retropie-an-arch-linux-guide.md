@@ -1,6 +1,7 @@
 ---
 id: 178
 title: Retropie - Guía para Arch Linux
+description: Retropie - Guía para Arch Linux
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-06-04 10:00:00

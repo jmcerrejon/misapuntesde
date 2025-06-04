@@ -1,6 +1,7 @@
 ---
 id: 379
 title: Slow Motion thanks to new video modes on Pi Camera
+description: Slow Motion thanks to new video modes on Pi Camera
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-03-25 09:26:42

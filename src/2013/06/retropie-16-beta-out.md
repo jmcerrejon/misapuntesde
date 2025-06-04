@@ -1,6 +1,7 @@
 ---
 id: 180
 title: RetroPie 1.6 Beta out!
+description: RetroPie 1.6 Beta out!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-06-06 10:43:00

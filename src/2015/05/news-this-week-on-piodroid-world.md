@@ -1,6 +1,7 @@
 ---
 id: 563
 title: News this week on Pi/ODROID World
+description: News this week on Pi/ODROID World
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-05-15 09:00:00

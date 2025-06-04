@@ -1,6 +1,7 @@
 ---
 id: 739
 title: Extraer subtítulos de ficheros mp4 usando MP4Box
+description: Extraer subtítulos de ficheros mp4 usando MP4Box
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-09-12 15:35:00

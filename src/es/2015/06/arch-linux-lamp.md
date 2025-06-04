@@ -1,6 +1,7 @@
 ---
 id: 577
 title: Arch Linux + LAMP
+description: Arch Linux + LAMP
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-06-16 08:00:00

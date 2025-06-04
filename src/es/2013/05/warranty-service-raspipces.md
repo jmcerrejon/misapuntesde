@@ -1,6 +1,7 @@
 ---
 id: 172
 title: Servicio de garantía. Raspipc.es
+description: Servicio de garantía. Raspipc.es
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-05-30 10:45:00

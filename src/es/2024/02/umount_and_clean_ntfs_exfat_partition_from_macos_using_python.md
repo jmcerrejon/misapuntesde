@@ -1,5 +1,6 @@
 ---
 title: Desmontar y Limpiar tu partición NTFS/exFAT desde macOS utilizando Python
+description: Desmontar y Limpiar tu partición NTFS/exFAT desde macOS utilizando Python
 author: Jose Cerrejon
 icon: fa-brands fa-apple
 date: 2024-02-21

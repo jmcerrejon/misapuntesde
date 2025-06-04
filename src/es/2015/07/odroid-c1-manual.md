@@ -1,6 +1,7 @@
 ---
 id: 590
 title: Manual de usuario de ODROID-C1
+description: Manual de usuario de ODROID-C1
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-07-13 08:25:00

@@ -1,6 +1,7 @@
 ---
 id: 513
 title: Burning images to the SD card on OSX
+description: Burning images to the SD card on OSX
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-02-02 00:00:00

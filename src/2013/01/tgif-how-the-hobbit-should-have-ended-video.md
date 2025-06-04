@@ -1,6 +1,7 @@
 ---
 id: 38
 title: TGIF!. How The Hobbit Should Have Ended (video)
+description: TGIF!. How The Hobbit Should Have Ended (video)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-18 19:27:00

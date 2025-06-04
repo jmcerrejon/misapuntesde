@@ -1,6 +1,7 @@
 ---
 id: 26
 title: KidsRuby, enseña a programar a los más jóvenes, y ahora disponible para la RasPi.
+description: KidsRuby, enseña a programar a los más jóvenes, y ahora disponible para la RasPi.
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-16 14:45:00

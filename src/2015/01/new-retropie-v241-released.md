@@ -1,6 +1,7 @@
 ---
 id: 505
 title: New RetroPie V2.4.1 released
+description: New RetroPie V2.4.1 released
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-01-12 10:00:00

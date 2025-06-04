@@ -1,6 +1,7 @@
 ---
 id: 85
 title: Abriendo la RasPi y domótica de mano de Javier Pardo Blasco
+description: Abriendo la RasPi y domótica de mano de Javier Pardo Blasco
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-02-28 12:40:00

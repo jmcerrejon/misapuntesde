@@ -1,6 +1,7 @@
 ---
 id: 905
 title: Prettier - Code formatter con soporte de PHP en VSCode
+description: Prettier - Code formatter con soporte de PHP en VSCode
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2019-07-02 15:00:00

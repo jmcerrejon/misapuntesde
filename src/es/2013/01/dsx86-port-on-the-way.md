@@ -1,6 +1,7 @@
 ---
 id: 71
 title: Port del DSx86 en camino
+description: Port del DSx86 en camino
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-31 15:50:00

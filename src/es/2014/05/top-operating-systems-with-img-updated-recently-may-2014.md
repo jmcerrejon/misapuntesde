@@ -1,6 +1,7 @@
 ---
 id: 400
 title: Top Sistemas Operativos actualizados recientemente (Mayo 2014)
+description: Top Sistemas Operativos actualizados recientemente (Mayo 2014)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-05-12 08:11:49

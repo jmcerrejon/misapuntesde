@@ -1,6 +1,7 @@
 ---
 id: 804
 title: Mongodb on macOS
+description: Mongodb on macOS
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-06-15 09:40:00

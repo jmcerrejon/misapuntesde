@@ -1,6 +1,7 @@
 ---
 id: 44
 title: Tutorials on The Pi Hut
+description: Tutorials on The Pi Hut
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-20 18:40:00

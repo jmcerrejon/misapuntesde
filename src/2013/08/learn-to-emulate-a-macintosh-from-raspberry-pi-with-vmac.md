@@ -1,6 +1,7 @@
 ---
 id: 249
 title: Learn to emulate a Macintosh from Raspberry Pi with vMac
+description: Learn to emulate a Macintosh from Raspberry Pi with vMac
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-08-28 08:45:00

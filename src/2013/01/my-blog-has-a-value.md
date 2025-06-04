@@ -1,6 +1,7 @@
 ---
 id: 10
 title: My blog has a value!
+description: My blog has a value!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-14 12:47:00

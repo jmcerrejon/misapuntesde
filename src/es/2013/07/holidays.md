@@ -1,6 +1,7 @@
 ---
 id: 213
 title: Vacaciones
+description: Vacaciones
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-07-21 21:00:00

@@ -1,6 +1,7 @@
 ---
 id: 221
 title: Water Cooled Raspberry Pi Build
+description: Water Cooled Raspberry Pi Build
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-07-31 10:15:00

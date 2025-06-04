@@ -1,6 +1,7 @@
 ---
 id: 10
 title: Mi blog ya vale dinero!
+description: Mi blog ya vale dinero!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-14 12:47:00

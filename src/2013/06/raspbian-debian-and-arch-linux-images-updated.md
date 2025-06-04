@@ -1,6 +1,7 @@
 ---
 id: 175
 title: Raspbian, Debian and Arch Linux images updated!
+description: Raspbian, Debian and Arch Linux images updated!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-06-01 17:34:00

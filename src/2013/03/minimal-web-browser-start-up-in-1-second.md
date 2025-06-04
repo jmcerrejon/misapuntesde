@@ -1,6 +1,7 @@
 ---
 id: 97
 title: Minimal web browser start up in 1 second
+description: Minimal web browser start up in 1 second
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-03-11 08:30:00

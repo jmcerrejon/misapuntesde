@@ -1,6 +1,7 @@
 ---
 id: 487
 title: OpenMSX 0.11.0. Choose a flavor. Banana or Raspberry.
+description: OpenMSX 0.11.0. Choose a flavor. Banana or Raspberry.
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-11-25 07:30:00

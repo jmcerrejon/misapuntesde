@@ -1,5 +1,6 @@
 ---
 title: Open Quicktime and stream any device on macOS
+description: Open Quicktime and stream any device on macOS
 icon: fa-regular fa-newspaper
 author: Jose Cerrejon
 date: 2024-02-27

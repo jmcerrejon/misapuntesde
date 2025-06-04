@@ -1,6 +1,7 @@
 ---
 id: 229
 title: Remote led control with Raspberry Pi
+description: Remote led control with Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-08-09 08:20:00

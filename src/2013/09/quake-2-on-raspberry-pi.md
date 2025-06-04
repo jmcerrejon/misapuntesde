@@ -1,6 +1,7 @@
 ---
 id: 259
 title: Quake 2 on Raspberry Pi
+description: Quake 2 on Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-09-06 07:20:00

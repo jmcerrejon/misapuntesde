@@ -1,6 +1,7 @@
 ---
 id: 311
 title: An index for the MagPi Magazine
+description: An index for the MagPi Magazine
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-11-15 10:00:00

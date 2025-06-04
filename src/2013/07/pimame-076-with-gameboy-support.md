@@ -1,6 +1,7 @@
 ---
 id: 211
 title: PiMAME 0.7.6 with gameboy support
+description: PiMAME 0.7.6 with gameboy support
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-07-13 12:00:00

@@ -1,6 +1,7 @@
 ---
 id: 353
 title: Raspberry Pi. Configuración inicial enfocado en la seguridad
+description: Raspberry Pi. Configuración inicial enfocado en la seguridad
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-01-21 10:12:22

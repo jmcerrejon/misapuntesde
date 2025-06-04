@@ -1,6 +1,7 @@
 ---
 id: 675
 title: Seville Meetup. Practical projects with Raspberry Pi
+description: Seville Meetup. Practical projects with Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-03-07 11:15:00

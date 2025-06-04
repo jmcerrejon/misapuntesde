@@ -1,6 +1,7 @@
 ---
 id: 210
 title: Pasos para construir un Rover inalámbrico con Arduino y una RasPi
+description: Pasos para construir un Rover inalámbrico con Arduino y una RasPi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-07-13 10:44:00

@@ -1,6 +1,7 @@
 ---
 id: 580
 title: Raspberry Pi and the IoT
+description: Raspberry Pi and the IoT
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-06-22 09:40:00

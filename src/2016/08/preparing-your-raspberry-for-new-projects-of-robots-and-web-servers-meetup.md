@@ -1,6 +1,7 @@
 ---
 id: 733
 title: Preparing Your Raspberry for new projects of robots and Web Servers (Meetup)
+description: Preparing Your Raspberry for new projects of robots and Web Servers (Meetup)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-08-31 09:00:00

@@ -1,6 +1,7 @@
 ---
 id: 851
 title: Smart Internet of Things Projects (free Epub)
+description: Smart Internet of Things Projects (free Epub)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-12-12 10:00:00

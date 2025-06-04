@@ -1,6 +1,7 @@
 ---
 id: 99
 title: 2 herramientas útiles para Mac. PiCLoner y PiWriter
+description: 2 herramientas útiles para Mac. PiCLoner y PiWriter
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-03-12 08:30:00

@@ -1,6 +1,7 @@
 ---
 id: 181
 title: Construye tu propio Google TV con Donald Derek
+description: Construye tu propio Google TV con Donald Derek
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-06-07 13:20:00

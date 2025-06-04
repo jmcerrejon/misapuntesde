@@ -1,6 +1,7 @@
 ---
 id: 55
 title: Una docena de preguntas para descubrir Raspberry Pi
+description: Una docena de preguntas para descubrir Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-24 08:40:00

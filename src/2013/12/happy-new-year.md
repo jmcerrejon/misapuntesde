@@ -1,6 +1,7 @@
 ---
 id: 339
 title: Happy New Year!
+description: Happy New Year!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-12-31 10:37:18

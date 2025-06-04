@@ -1,6 +1,7 @@
 ---
 id: 95
 title: Quedada en Barcelona el próximo Jueves. ¡No te la pierdas!
+description: Quedada en Barcelona el próximo Jueves. ¡No te la pierdas!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-03-08 16:15:00

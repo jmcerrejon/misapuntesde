@@ -1,6 +1,7 @@
 ---
 id: 782
 title: Exagear Desktop para Raspberry Pi ver. 2.0 + Sorteo!
+description: Exagear Desktop para Raspberry Pi ver. 2.0 + Sorteo!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-04-03 10:35:00

@@ -1,6 +1,7 @@
 ---
 id: 553
 title: Ubuntu 15.04 ya está entre nosotros!
+description: Ubuntu 15.04 ya está entre nosotros!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-04-23 17:00:00

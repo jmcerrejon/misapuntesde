@@ -1,6 +1,7 @@
 ---
 id: 644
 title: NodeOS. Lightweight operating system using Node.js
+description: NodeOS. Lightweight operating system using Node.js
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-12-02 10:10:00

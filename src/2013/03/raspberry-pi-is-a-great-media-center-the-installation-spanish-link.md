@@ -1,6 +1,7 @@
 ---
 id: 113
 title: Raspberry Pi is a great Media Center. The installation (Spanish link)
+description: Raspberry Pi is a great Media Center. The installation (Spanish link)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-03-25 12:35:00

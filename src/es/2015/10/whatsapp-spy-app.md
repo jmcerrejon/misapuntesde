@@ -1,6 +1,7 @@
 ---
 id: 623
 title: Aplicación espía de WhatsApp
+description: Aplicación espía de WhatsApp
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-10-05 17:25:00

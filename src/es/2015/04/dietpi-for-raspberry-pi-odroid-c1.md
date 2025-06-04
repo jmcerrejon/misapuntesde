@@ -1,6 +1,7 @@
 ---
 id: 545
 title: DietPi para Raspberry Pi y ahora también para ODROID-C1
+description: DietPi para Raspberry Pi y ahora también para ODROID-C1
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-04-06 08:00:00

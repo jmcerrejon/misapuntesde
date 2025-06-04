@@ -1,5 +1,6 @@
 ---
 title: TensorZero es la caja negra que necesitas para IA
+description: TensorZero es la caja negra que necesitas para IA
 icon: fa-solid fa-code
 author: Jose Cerrejon
 date: 2025-03-29

@@ -1,6 +1,7 @@
 ---
 id: 95
 title: Meeting next Thursday on Barcelona (Spain)
+description: Meeting next Thursday on Barcelona (Spain)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-03-08 16:15:00

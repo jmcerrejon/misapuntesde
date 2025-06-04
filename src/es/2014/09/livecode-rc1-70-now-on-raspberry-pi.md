@@ -1,6 +1,7 @@
 ---
 id: 450
 title: LiveCode RC1 7.0 portado a Raspberry Pi
+description: LiveCode RC1 7.0 portado a Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-09-04 08:00:00

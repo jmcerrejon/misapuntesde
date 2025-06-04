@@ -1,6 +1,7 @@
 ---
 id: 208
 title: RetroPie updates its binary and GPIO adapter tutorial
+description: RetroPie updates its binary and GPIO adapter tutorial
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-07-10 08:45:00

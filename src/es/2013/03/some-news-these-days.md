@@ -1,6 +1,7 @@
 ---
 id: 107
 title: Varias noticias estos días
+description: Varias noticias estos días
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-03-20 16:10:00

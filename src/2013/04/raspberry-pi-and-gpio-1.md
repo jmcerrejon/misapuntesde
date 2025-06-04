@@ -1,6 +1,7 @@
 ---
 id: 134
 title: Raspberry Pi and GPIO (1)
+description: Raspberry Pi and GPIO (1)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-04-16 10:05:00

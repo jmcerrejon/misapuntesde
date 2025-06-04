@@ -1,6 +1,7 @@
 ---
 id: 80
 title: Top 10 Raspberry Pi Blogs on Jeremy Morgan's website.
+description: Top 10 Raspberry Pi Blogs on Jeremy Morgan's website.
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-02-24 19:35:00

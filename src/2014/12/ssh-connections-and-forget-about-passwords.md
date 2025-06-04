@@ -1,6 +1,7 @@
 ---
 id: 492
 title: SSH connections,... and forget about passwords!
+description: SSH connections,... and forget about passwords!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-12-08 11:15:00

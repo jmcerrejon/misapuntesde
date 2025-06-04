@@ -1,5 +1,6 @@
 ---
 title: Trivy escáner de vulnerabilidades para contenedores... y más!
+description: Trivy escáner de vulnerabilidades para contenedores... y más!
 icon: fa-solid fa-code
 author: Jose Cerrejon
 date: 2025-05-22

@@ -1,6 +1,7 @@
 ---
 id: 894
 title: News this week in the Pi World... Xmas Edition!
+description: News this week in the Pi World... Xmas Edition!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2018-12-24 19:00:00

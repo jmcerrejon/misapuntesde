@@ -1,6 +1,7 @@
 ---
 id: 473
 title: Instalar la última versión de Transmission en Raspberry Pi
+description: Instalar la última versión de Transmission en Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-10-29 10:00:00

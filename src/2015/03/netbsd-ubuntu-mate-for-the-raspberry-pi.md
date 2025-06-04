@@ -1,6 +1,7 @@
 ---
 id: 527
 title: NetBSD & Ubuntu Mate for the Raspberry Pi
+description: NetBSD & Ubuntu Mate for the Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-03-10 11:10:00

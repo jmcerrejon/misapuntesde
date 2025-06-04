@@ -1,6 +1,7 @@
 ---
 id: 412
 title: Syncthing. Sincronización de ficheros P2P open source 
+description: Syncthing. Sincronización de ficheros P2P open source
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-06-05 05:50:08

@@ -1,6 +1,7 @@
 ---
 id: 23
 title: Nota mental. Ejecutar una aplicación al arrancar LXDE
+description: Nota mental. Ejecutar una aplicación al arrancar LXDE
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-15 17:10:00

@@ -1,6 +1,7 @@
 ---
 id: 710
 title: Construir un Twitter Bot con Python
+description: Construir un Twitter Bot con Python
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-06-06 09:30:00

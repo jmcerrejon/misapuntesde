@@ -1,6 +1,7 @@
 ---
 id: 325
 title: Holydays, projects and screen
+description: Holydays, projects and screen
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-12-04 12:00:00

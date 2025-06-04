@@ -1,6 +1,7 @@
 ---
 id: 435
 title: Benchmark on Raspberry Pi
+description: Benchmark on Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-07-29 09:30:00

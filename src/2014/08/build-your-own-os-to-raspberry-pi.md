@@ -1,6 +1,7 @@
 ---
 id: 441
 title: Build your own OS to Raspberry Pi
+description: Build your own OS to Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-08-12 11:20:00

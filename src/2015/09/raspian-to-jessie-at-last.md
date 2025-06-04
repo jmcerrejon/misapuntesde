@@ -1,6 +1,7 @@
 ---
 id: 622
 title: Raspian to Jessie at last
+description: Raspian to Jessie at last
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-09-30 09:15:00

@@ -1,6 +1,7 @@
 ---
 id: 152
 title: Lightweight Linux comparative
+description: Lightweight Linux comparative
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-05-10 10:40:00

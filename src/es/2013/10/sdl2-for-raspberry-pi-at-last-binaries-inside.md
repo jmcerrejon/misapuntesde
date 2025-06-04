@@ -1,6 +1,7 @@
 ---
 id: 283
 title: SDL2 por fin para Raspberry Pi (¡binarios incluídos!)
+description: SDL2 por fin para Raspberry Pi (¡binarios incluídos!)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-10-02 10:00:00

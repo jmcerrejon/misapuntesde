@@ -1,6 +1,7 @@
 ---
 id: 115
 title: How to make an internet Stuffed Toy with Raspberry Pi and Carriots
+description: How to make an internet Stuffed Toy with Raspberry Pi and Carriots
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-03-26 11:45:00

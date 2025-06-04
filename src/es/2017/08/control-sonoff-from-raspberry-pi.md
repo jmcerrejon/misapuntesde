@@ -1,6 +1,7 @@
 ---
 id: 820
 title: Controla Sonoff desde una Raspberry Pi
+description: Controla Sonoff desde una Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-08-07 13:35:00

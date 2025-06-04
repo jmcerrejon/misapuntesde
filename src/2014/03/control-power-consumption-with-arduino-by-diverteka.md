@@ -1,6 +1,7 @@
 ---
 id: 375
 title: Control power consumption with Arduino by Diverteka
+description: Control power consumption with Arduino by Diverteka
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-03-13 11:12:39

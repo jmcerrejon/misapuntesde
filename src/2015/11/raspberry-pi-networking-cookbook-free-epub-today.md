@@ -1,6 +1,7 @@
 ---
 id: 641
 title: Raspberry Pi Networking Cookbook (free epub TODAY)
+description: Raspberry Pi Networking Cookbook (free epub TODAY)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-11-25 10:00:00

@@ -1,6 +1,7 @@
 ---
 id: 796
 title: Farmbot. First Open Source CNC farming machine
+description: Farmbot. First Open Source CNC farming machine
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-05-22 09:10:00

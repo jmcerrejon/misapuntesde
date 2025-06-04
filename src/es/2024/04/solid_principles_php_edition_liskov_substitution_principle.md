@@ -1,5 +1,6 @@
 ---
 title: Principios SOLID PHP Edition. Hoy, el principio de sustitución de Liskov
+description: Principios SOLID PHP Edition. Hoy, el principio de sustitución de Liskov
 icon: fa-solid fa-code
 author: Jose Cerrejon
 date: 2024-04-01

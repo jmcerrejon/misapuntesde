@@ -1,6 +1,7 @@
 ---
 id: 421
 title: New Amiga emulator port on the way. uae4all2
+description: New Amiga emulator port on the way. uae4all2
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-06-24 09:06:18

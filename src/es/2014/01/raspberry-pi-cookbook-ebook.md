@@ -1,6 +1,7 @@
 ---
 id: 350
 title: Raspberry Pi Cookbook (Ebook)
+description: Raspberry Pi Cookbook (Ebook)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-01-16 15:09:51

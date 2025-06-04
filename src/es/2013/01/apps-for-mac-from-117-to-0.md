@@ -1,6 +1,7 @@
 ---
 id: 37
 title: Software para Mac, de 117$ a 0$
+description: Software para Mac, de 117$ a 0$
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-18 13:35:00

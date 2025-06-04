@@ -1,6 +1,7 @@
 ---
 id: 541
 title: KODITorrent. Addon to watch movies & TV Shows through Torrent
+description: KODITorrent. Addon to watch movies & TV Shows through Torrent
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-03-30 09:00:00

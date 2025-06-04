@@ -1,6 +1,7 @@
 ---
 id: 534
 title: Install Descent 1 & 2 on the Raspberry Pi
+description: Install Descent 1 & 2 on the Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-03-17 12:00:00

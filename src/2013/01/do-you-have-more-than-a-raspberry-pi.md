@@ -1,6 +1,7 @@
 ---
 id: 34
 title: Do you have more than a Raspberry Pi?
+description: Do you have more than a Raspberry Pi?
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-18 09:47:00

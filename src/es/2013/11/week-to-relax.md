@@ -1,6 +1,7 @@
 ---
 id: 310
 title: Semana algo atareada
+description: Semana algo atareada
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-11-13 12:00:00

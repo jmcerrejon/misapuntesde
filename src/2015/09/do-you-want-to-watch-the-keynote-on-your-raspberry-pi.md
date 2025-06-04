@@ -1,6 +1,7 @@
 ---
 id: 616
 title: Do you want to watch the Keynote on your Raspberry Pi?
+description: Do you want to watch the Keynote on your Raspberry Pi?
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-09-09 10:00:00

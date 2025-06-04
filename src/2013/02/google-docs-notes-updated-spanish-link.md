@@ -1,6 +1,7 @@
 ---
 id: 82
 title: Google Docs' Notes Updated! (spanish link)
+description: Google Docs' Notes Updated! (spanish link)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-02-26 08:50:00

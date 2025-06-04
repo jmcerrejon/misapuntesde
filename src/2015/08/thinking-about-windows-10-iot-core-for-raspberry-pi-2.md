@@ -1,6 +1,7 @@
 ---
 id: 603
 title: Thinking about Windows 10 IoT Core for Raspberry Pi 2
+description: Thinking about Windows 10 IoT Core for Raspberry Pi 2
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-08-12 09:30:00

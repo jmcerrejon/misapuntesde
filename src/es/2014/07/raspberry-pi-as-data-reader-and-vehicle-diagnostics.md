@@ -1,6 +1,7 @@
 ---
 id: 430
 title: Raspberry Pi como lector de datos y diagnóstico de vehículos
+description: Raspberry Pi como lector de datos y diagnóstico de vehículos
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-07-14 08:00:00

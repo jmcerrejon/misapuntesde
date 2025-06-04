@@ -1,6 +1,7 @@
 ---
 id: 464
 title: ScoutBot. Penetration testers for Raspberry Pi (IMG)
+description: ScoutBot. Penetration testers for Raspberry Pi (IMG)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-10-06 09:20:00

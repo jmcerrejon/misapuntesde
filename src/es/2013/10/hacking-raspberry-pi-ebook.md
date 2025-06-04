@@ -1,6 +1,7 @@
 ---
 id: 303
 title: Hacking Raspberry Pi (Ebook)
+description: Hacking Raspberry Pi (Ebook)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-10-29 10:00:00

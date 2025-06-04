@@ -1,6 +1,7 @@
 ---
 id: 833
 title: Evento Apple Septiembre en la Raspberry Pi
+description: Evento Apple Septiembre en la Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-09-12 18:40:00

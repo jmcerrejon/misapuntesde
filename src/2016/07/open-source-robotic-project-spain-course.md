@@ -1,6 +1,7 @@
 ---
 id: 725
 title: Open Source Robotic project (Spain course)
+description: Open Source Robotic project (Spain course)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-07-20 13:00:00

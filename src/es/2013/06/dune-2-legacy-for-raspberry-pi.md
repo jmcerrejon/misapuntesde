@@ -1,6 +1,7 @@
 ---
 id: 195
 title: Dune 2 Legacy para Raspberry Pi
+description: Dune 2 Legacy para Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-06-27 13:00:00

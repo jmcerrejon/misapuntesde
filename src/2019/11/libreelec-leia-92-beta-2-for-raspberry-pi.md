@@ -1,6 +1,7 @@
 ---
 id: 918
 title: LibreELEC (Leia) 9.2 Beta 2 for Raspberry Pi
+description: LibreELEC (Leia) 9.2 Beta 2 for Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2019-11-07 13:15:00

@@ -1,6 +1,7 @@
 ---
 id: 219
 title: ¡Raspberry Pi a 1400 Mhz!
+description: ¡Raspberry Pi a 1400 Mhz!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-07-30 09:30:00

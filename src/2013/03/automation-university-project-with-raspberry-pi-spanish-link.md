@@ -1,6 +1,7 @@
 ---
 id: 90
 title: Automation university project with Raspberry Pi (Spanish link)
+description: Automation university project with Raspberry Pi (Spanish link)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-03-05 08:35:00

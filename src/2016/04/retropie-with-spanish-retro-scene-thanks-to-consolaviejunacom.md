@@ -1,6 +1,7 @@
 ---
 id: 693
 title: RetroPie with Spanish Retro Scene thanks to consolaviejuna.com
+description: RetroPie with Spanish Retro Scene thanks to consolaviejuna.com
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-04-20 10:00:00

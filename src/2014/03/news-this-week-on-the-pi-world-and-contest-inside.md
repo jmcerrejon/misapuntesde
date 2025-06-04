@@ -1,6 +1,7 @@
 ---
 id: 381
 title: News this week on the Pi World and... Contest inside!
+description: News this week on the Pi World and... Contest inside!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-03-28 10:57:47

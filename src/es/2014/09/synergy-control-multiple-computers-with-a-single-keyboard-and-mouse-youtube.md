@@ -1,6 +1,7 @@
 ---
 id: 456
 title: Synergy. Controla varios equipos con un solo teclado y ratón (Youtube)
+description: Synergy. Controla varios equipos con un solo teclado y ratón (Youtube)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-09-17 08:00:00

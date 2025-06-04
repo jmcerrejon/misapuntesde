@@ -1,6 +1,7 @@
 ---
 id: 37
 title: Apps for Mac, from 117$ to 0$
+description: Apps for Mac, from 117$ to 0$
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-18 13:35:00

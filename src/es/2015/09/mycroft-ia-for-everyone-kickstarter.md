@@ -1,6 +1,7 @@
 ---
 id: 613
 title: Mycroft. IA para todos (Kickstarter)
+description: Mycroft. IA para todos (Kickstarter)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-09-02 09:00:00

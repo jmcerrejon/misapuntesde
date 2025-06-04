@@ -1,6 +1,7 @@
 ---
 id: 316
 title: OpenSUSE 13.1 disponible para Raspberry Pi
+description: OpenSUSE 13.1 disponible para Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-11-21 12:15:00

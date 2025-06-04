@@ -1,6 +1,7 @@
 ---
 id: 87
 title: Aumenta el rendimiento de tu Raspbmc con el script Aaxbmc
+description: Aumenta el rendimiento de tu Raspbmc con el script Aaxbmc
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-03-01 17:30:00

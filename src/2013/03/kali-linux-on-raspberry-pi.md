@@ -1,6 +1,7 @@
 ---
 id: 102
 title: Kali Linux on Raspberry Pi
+description: Kali Linux on Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-03-14 13:10:00

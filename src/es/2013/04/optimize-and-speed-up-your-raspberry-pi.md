@@ -1,6 +1,7 @@
 ---
 id: 131
 title: Optimiza y acelera tu Raspberry Pi
+description: Optimiza y acelera tu Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-04-12 11:00:00

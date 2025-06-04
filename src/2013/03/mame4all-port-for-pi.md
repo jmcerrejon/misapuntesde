@@ -1,6 +1,7 @@
 ---
 id: 92
 title: MAME4ALL port for Pi
+description: MAME4ALL port for Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-03-06 13:52:00

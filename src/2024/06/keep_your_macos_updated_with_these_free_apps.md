@@ -1,5 +1,6 @@
 ---
 title: Keep your macOS Apps updated with these free apps
+description: Keep your macOS Apps updated with these free apps
 icon: fa-brands fa-apple
 author: Jose Cerrejon
 date: 2024-06-13

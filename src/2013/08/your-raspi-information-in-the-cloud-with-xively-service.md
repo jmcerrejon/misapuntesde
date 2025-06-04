@@ -1,6 +1,7 @@
 ---
 id: 234
 title: Your Raspi information in the cloud with Xively service
+description: Your Raspi information in the cloud with Xively service
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-08-14 07:45:00

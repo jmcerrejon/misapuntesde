@@ -1,6 +1,7 @@
 ---
 id: 455
 title: Nueva versión de Raspbian (y NOOBS también)
+description: Nueva versión de Raspbian (y NOOBS también)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-09-15 07:30:00

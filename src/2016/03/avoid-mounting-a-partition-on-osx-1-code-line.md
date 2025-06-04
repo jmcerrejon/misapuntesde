@@ -1,6 +1,7 @@
 ---
 id: 685
 title: Avoid mounting a partition on OSX (1 code line)
+description: Avoid mounting a partition on OSX (1 code line)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-03-29 20:20:00

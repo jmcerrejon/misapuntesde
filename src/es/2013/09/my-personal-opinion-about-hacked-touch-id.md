@@ -1,6 +1,7 @@
 ---
 id: 278
 title: Opinión personal sobre el hackeo al Touch iD
+description: Opinión personal sobre el hackeo al Touch iD
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-09-26 12:00:00

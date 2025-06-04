@@ -1,6 +1,7 @@
 ---
 id: 253
 title: Partition backup with fsarchive (Linux)
+description: Partition backup with fsarchive (Linux)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-08-31 08:00:00

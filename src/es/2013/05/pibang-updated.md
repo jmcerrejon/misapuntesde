@@ -1,6 +1,7 @@
 ---
 id: 170
 title: Nueva versión de PiBang!
+description: Nueva versión de PiBang!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-05-28 09:00:00

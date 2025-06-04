@@ -1,5 +1,6 @@
 ---
 title: AutoFirma Troubleshooting on macOS Sonoma
+description: AutoFirma Troubleshooting on macOS Sonoma
 icon: fa-brands fa-apple
 author: Jose Cerrejon
 date: 2024-09-27

@@ -1,6 +1,7 @@
 ---
 id: 150
 title: Actualizada Imagen SD de RetroPie
+description: Actualizada Imagen SD de RetroPie
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-05-08 11:15:00

@@ -1,6 +1,7 @@
 ---
 id: 619
 title: NesPi. Raspberry Pi inside a NES build with Lego
+description: NesPi. Raspberry Pi inside a NES build with Lego
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-09-16 09:00:00

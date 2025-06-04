@@ -1,6 +1,7 @@
 ---
 id: 903
 title: New Raspberry Pi 4. All the info you need to know
+description: New Raspberry Pi 4. All the info you need to know
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2019-06-24 10:30:00

@@ -1,6 +1,7 @@
 ---
 id: 122
 title: ¿Es real?. Bodhi Linux se pasa a Raspberry Pi
+description: ¿Es real?. Bodhi Linux se pasa a Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-04-01 20:50:00

@@ -1,6 +1,7 @@
 ---
 id: 236
 title: Notifications from Raspberry Pi to WhatsApp with FonYou
+description: Notifications from Raspberry Pi to WhatsApp with FonYou
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-08-16 07:00:00

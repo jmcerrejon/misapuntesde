@@ -1,5 +1,6 @@
 ---
 title: How I use AI as a developer today
+description: How I use AI as a developer today
 icon: fa-solid fa-code
 author: Jose Cerrejon
 date: 2024-06-25

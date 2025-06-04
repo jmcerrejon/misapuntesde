@@ -1,6 +1,7 @@
 ---
 id: 135
 title: Han sido noticia esta semana...
+description: Han sido noticia esta semana...
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-04-19 11:00:00

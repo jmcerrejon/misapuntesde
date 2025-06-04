@@ -1,6 +1,7 @@
 ---
 id: 131
 title: Optimize and speed up your Raspberry Pi
+description: Optimize and speed up your Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-04-12 11:00:00

@@ -1,6 +1,7 @@
 ---
 id: 15
 title: Emulate Raspberry Pi using QEMU (spanish link)
+description: Emulate Raspberry Pi using QEMU (spanish link)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-14 20:33:00

@@ -1,6 +1,7 @@
 ---
 id: 212
 title: PiMAME. Resolución de problemas
+description: PiMAME. Resolución de problemas
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-07-15 07:30:00

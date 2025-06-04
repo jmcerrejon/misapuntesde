@@ -1,6 +1,7 @@
 ---
 id: 878
 title: Animación 3D, una profesión de futuro
+description: Animación 3D, una profesión de futuro
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2018-04-16 17:20:00

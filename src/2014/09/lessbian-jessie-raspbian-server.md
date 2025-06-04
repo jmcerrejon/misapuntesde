@@ -1,6 +1,7 @@
 ---
 id: 458
 title: Lessbian. Jessie Raspbian server
+description: Lessbian. Jessie Raspbian server
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-09-22 07:45:00

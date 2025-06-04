@@ -1,6 +1,7 @@
 ---
 id: 796
 title: Farmbot. Primera máquina agrícola CNC Open Source
+description: Farmbot. Primera máquina agrícola CNC Open Source
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-05-22 09:10:00

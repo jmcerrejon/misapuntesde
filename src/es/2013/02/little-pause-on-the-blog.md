@@ -1,6 +1,7 @@
 ---
 id: 72
 title: Pequeña pausa en el blog
+description: Pequeña pausa en el blog
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-02-07 21:40:00

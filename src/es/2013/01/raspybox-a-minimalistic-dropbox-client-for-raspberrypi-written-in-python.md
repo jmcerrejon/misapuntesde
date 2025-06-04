@@ -1,6 +1,7 @@
 ---
 id: 61
 title: RaspyBox. Minimalista cliente de Dropbox escrito en Python.
+description: RaspyBox. Minimalista cliente de Dropbox escrito en Python.
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-26 07:20:00

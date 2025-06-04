@@ -1,6 +1,7 @@
 ---
 id: 806
 title: Kodi's future
+description: Kodi's future
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-06-21 13:40:00

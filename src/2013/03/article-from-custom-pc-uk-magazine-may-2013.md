@@ -1,6 +1,7 @@
 ---
 id: 106
 title: Article from Custom PC UK Magazine (May, 2013)
+description: Article from Custom PC UK Magazine (May, 2013)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-03-19 17:05:00

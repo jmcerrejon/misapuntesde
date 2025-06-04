@@ -1,6 +1,7 @@
 ---
 id: 239
 title: Descarga desde webs de intercambio de ficheros (uploaded, MEGA, freakshare) en tu Raspberry Pi
+description: Descarga desde webs de intercambio de ficheros (uploaded, MEGA, freakshare) en tu Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-08-20 08:40:00

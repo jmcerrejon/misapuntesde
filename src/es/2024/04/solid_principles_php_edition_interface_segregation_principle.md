@@ -1,5 +1,6 @@
 ---
 title: Principios SOLID PHP Edition. Hoy, el principio de segregación de Interfaces
+description: Principios SOLID PHP Edition. Hoy, el principio de segregación de Interfaces
 icon: fa-solid fa-code
 author: Jose Cerrejon
 date: 2024-04-10

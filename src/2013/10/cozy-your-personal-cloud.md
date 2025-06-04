@@ -1,6 +1,7 @@
 ---
 id: 301
 title: Cozy, your personal cloud
+description: Cozy, your personal cloud
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-10-26 12:00:00

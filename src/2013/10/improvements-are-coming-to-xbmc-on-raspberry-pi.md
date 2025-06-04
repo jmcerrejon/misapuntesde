@@ -1,6 +1,7 @@
 ---
 id: 282
 title: Improvements are coming to XBMC on Raspberry Pi
+description: Improvements are coming to XBMC on Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-10-01 07:15:00

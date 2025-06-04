@@ -1,6 +1,7 @@
 ---
 id: 245
 title: How to control 2 motors with Raspberry Pi
+description: How to control 2 motors with Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-08-25 07:00:00

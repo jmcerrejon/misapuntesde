@@ -1,6 +1,7 @@
 ---
 id: 293
 title: Disponible Minibian 2013-10-13
+description: Disponible Minibian 2013-10-13
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-10-16 18:36:00

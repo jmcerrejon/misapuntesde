@@ -1,6 +1,7 @@
 ---
 id: 311
 title: Buscador para la revista the MagPi
+description: Buscador para la revista the MagPi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-11-15 10:00:00

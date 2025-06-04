@@ -1,5 +1,6 @@
 ---
 title: Tuplas VS Listas en Python
+description: Tuplas VS Listas en Python
 icon: fa-solid fa-code
 author: Jose Cerrejon
 date: 2024-03-04

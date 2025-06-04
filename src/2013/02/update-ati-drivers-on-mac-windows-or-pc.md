@@ -1,6 +1,7 @@
 ---
 id: 84
 title: Update ATI drivers on Mac (Windows) or PC
+description: Update ATI drivers on Mac (Windows) or PC
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-02-27 13:30:00

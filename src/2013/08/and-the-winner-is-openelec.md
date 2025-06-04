@@ -1,6 +1,7 @@
 ---
 id: 251
 title: And the winner is... OpenELEC!
+description: And the winner is... OpenELEC!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-08-29 08:20:00

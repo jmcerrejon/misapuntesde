@@ -1,6 +1,7 @@
 ---
 id: 365
 title: Commodore 64 emulator to celebrate Valentine's Day
+description: Commodore 64 emulator to celebrate Valentine's Day
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-02-14 11:47:55

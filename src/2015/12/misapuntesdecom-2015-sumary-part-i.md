@@ -1,6 +1,7 @@
 ---
 id: 651
 title: misapuntesde.com 2015 sumary (Part I)
+description: misapuntesde.com 2015 sumary (Part I)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-12-31 12:40:00

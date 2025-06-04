@@ -1,5 +1,6 @@
 ---
 title: Debug de una función AWS Lambda en Python dentro de un contenedor Docker usando VS Code
+description: Debug de una función AWS Lambda en Python dentro de un contenedor Docker usando VS Code
 icon: fa-solid fa-code
 author: Jose Cerrejon
 date: 2025-06-02

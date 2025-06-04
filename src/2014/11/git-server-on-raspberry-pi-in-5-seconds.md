@@ -1,6 +1,7 @@
 ---
 id: 476
 title: Git Server on Raspberry Pi in 5 seconds
+description: Git Server on Raspberry Pi in 5 seconds
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-11-03 09:00:00

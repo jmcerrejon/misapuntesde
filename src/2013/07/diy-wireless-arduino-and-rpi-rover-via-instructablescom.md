@@ -1,6 +1,7 @@
 ---
 id: 210
 title: DIY Wireless Arduino and RPi Rover via instructables.com
+description: DIY Wireless Arduino and RPi Rover via instructables.com
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-07-13 10:44:00

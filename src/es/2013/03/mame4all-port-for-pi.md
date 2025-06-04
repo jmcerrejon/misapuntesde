@@ -1,6 +1,7 @@
 ---
 id: 92
 title: Port del MAME4ALL para la RasPi
+description: Port del MAME4ALL para la RasPi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-03-06 13:52:00

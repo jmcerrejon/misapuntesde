@@ -1,6 +1,7 @@
 ---
 id: 739
 title: Extract subtitles from mp4 files using MP4Box
+description: Extract subtitles from mp4 files using MP4Box
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-09-12 15:35:00

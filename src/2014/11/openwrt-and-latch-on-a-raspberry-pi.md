@@ -1,6 +1,7 @@
 ---
 id: 477
 title: OpenWRT and Latch on a Raspberry Pi
+description: OpenWRT and Latch on a Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-11-05 11:00:00

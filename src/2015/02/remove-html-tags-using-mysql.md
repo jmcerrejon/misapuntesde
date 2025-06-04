@@ -1,6 +1,7 @@
 ---
 id: 517
 title: Remove HTML tags using mysql
+description: Remove HTML tags using mysql
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-02-10 14:00:00

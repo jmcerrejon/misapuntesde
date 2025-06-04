@@ -1,6 +1,7 @@
 ---
 id: 50
 title: Android app to control omxplayer
+description: Android app to control omxplayer
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-22 13:50:00

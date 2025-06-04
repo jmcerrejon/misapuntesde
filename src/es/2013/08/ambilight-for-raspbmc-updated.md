@@ -1,6 +1,7 @@
 ---
 id: 227
 title: Actualización Ambilight para Raspbmc
+description: Actualización Ambilight para Raspbmc
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-08-08 10:30:00

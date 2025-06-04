@@ -1,6 +1,7 @@
 ---
 id: 730
 title: Raspberry Pi Finder & PiBakery
+description: Raspberry Pi Finder & PiBakery
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-08-17 11:00:00

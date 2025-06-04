@@ -1,6 +1,7 @@
 ---
 id: 624
 title: Front end para emuladores attract mode
+description: Front end para emuladores attract mode
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-10-07 08:00:00

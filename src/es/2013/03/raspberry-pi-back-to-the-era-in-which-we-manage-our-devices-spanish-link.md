@@ -1,6 +1,7 @@
 ---
 id: 116
 title: Raspberry Pi. regreso a la era en que administrábamos nuestros dispositivos
+description: Raspberry Pi. regreso a la era en que administrábamos nuestros dispositivos
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-03-27 11:00:00

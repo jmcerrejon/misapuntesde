@@ -1,6 +1,7 @@
 ---
 id: 258
 title: ¡RetroPie 1.8 disponible!
+description: ¡RetroPie 1.8 disponible!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-09-05 06:10:00

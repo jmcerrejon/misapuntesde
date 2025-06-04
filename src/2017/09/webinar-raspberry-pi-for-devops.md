@@ -1,6 +1,7 @@
 ---
 id: 832
 title: Webinar Raspberry Pi for Devops
+description: Webinar Raspberry Pi for Devops
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-09-12 12:20:00

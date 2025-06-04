@@ -1,6 +1,7 @@
 ---
 id: 217
 title: Final Burn Alpha 2x for Raspberry Pi by Squid
+description: Final Burn Alpha 2x for Raspberry Pi by Squid
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-07-29 09:00:00

@@ -1,6 +1,7 @@
 ---
 id: 351
 title: The Wolf of Raspberry Pi
+description: The Wolf of Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-01-17 08:48:39

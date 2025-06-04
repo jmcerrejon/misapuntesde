@@ -1,6 +1,7 @@
 ---
 id: 718
 title: Getting Started with Electronic Projects (free epub)
+description: Getting Started with Electronic Projects (free epub)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-06-29 10:00:00

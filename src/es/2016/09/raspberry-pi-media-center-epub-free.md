@@ -1,6 +1,7 @@
 ---
 id: 737
 title: Raspberry Pi Media Center (Epub gratis)
+description: Raspberry Pi Media Center (Epub gratis)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-09-08 11:00:00

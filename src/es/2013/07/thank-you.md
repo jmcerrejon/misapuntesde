@@ -1,6 +1,7 @@
 ---
 id: 220
 title: ¡Gracias!
+description: ¡Gracias!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-07-31 09:10:00

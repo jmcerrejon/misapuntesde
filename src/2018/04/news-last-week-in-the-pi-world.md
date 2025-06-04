@@ -1,6 +1,7 @@
 ---
 id: 876
 title: News last week in the Pi World
+description: News last week in the Pi World
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2018-04-02 16:25:00

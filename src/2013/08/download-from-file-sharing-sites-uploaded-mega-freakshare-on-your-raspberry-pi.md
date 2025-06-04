@@ -1,6 +1,7 @@
 ---
 id: 239
 title: Download from file sharing sites (uploaded, MEGA, freakshare) on your Raspberry Pi
+description: Download from file sharing sites (uploaded, MEGA, freakshare) on your Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-08-20 08:40:00

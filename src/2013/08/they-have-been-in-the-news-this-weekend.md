@@ -1,6 +1,7 @@
 ---
 id: 224
 title: They have been in the news this weekend...
+description: They have been in the news this weekend...
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-08-05 14:30:00

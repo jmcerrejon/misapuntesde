@@ -1,6 +1,7 @@
 ---
 id: 306
 title: GeeXboX 3.1 disponible
+description: GeeXboX 3.1 disponible
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-11-04 09:00:00

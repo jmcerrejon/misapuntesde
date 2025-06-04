@@ -1,6 +1,7 @@
 ---
 id: 48
 title: ¡2000 visitas en una semana!
+description: ¡2000 visitas en una semana!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-21 10:35:00

@@ -1,6 +1,7 @@
 ---
 id: 693
 title: RetroPie con Retro Scene española de la mano de consolaviejuna.com
+description: RetroPie con Retro Scene española de la mano de consolaviejuna.com
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-04-20 10:00:00

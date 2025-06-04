@@ -1,6 +1,7 @@
 ---
 id: 146
 title: Imagen Raspbian con AirPlay preconfigurado (Shairport)
+description: Imagen Raspbian con AirPlay preconfigurado (Shairport)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-05-02 13:45:00

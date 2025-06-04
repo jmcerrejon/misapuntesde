@@ -1,6 +1,7 @@
 ---
 id: 561
 title: Sistema operativo de sólo lectura
+description: Sistema operativo de sólo lectura
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-05-11 10:40:00

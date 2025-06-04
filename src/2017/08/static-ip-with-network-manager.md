@@ -1,6 +1,7 @@
 ---
 id: 824
 title: Static IP with network manager
+description: Static IP with network manager
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-08-23 08:00:00

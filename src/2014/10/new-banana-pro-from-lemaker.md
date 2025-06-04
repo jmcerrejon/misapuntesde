@@ -1,6 +1,7 @@
 ---
 id: 469
 title: New Banana Pro from Lemaker
+description: New Banana Pro from Lemaker
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-10-16 07:40:00

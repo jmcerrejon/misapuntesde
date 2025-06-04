@@ -1,6 +1,7 @@
 ---
 id: 20
 title: WebIOPi. Control IO ports from a web browser
+description: WebIOPi. Control IO ports from a web browser
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-15 12:00:00

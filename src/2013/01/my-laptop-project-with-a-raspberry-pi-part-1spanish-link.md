@@ -1,6 +1,7 @@
 ---
 id: 54
 title: My laptop project with a Raspberry Pi (Part 1)(Spanish link)
+description: My laptop project with a Raspberry Pi (Part 1)(Spanish link)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-24 07:55:00

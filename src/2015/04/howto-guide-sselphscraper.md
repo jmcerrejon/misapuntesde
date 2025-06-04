@@ -1,6 +1,7 @@
 ---
 id: 542
 title: HOWTO guide. sselph/scraper
+description: HOWTO guide. sselph/scraper
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-04-01 07:00:00

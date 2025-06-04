@@ -1,6 +1,7 @@
 ---
 id: 343
 title: ¡Feliz día de los Reyes Magos!
+description: ¡Feliz día de los Reyes Magos!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-01-06 07:36:42

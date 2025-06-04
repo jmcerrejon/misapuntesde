@@ -1,6 +1,7 @@
 ---
 id: 86
 title: rpix86 progress
+description: rpix86 progress
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-03-01 09:15:00

@@ -1,6 +1,7 @@
 ---
 id: 53
 title: ULTIMAS NOTICIAS. ¡Una Raspberry Pi ha sido secuestrada!
+description: ULTIMAS NOTICIAS. ¡Una Raspberry Pi ha sido secuestrada!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-23 11:15:00

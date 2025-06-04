@@ -1,6 +1,7 @@
 ---
 id: 201
 title: Hardware Hacking. Lessons for Raspberry Pi (translated)
+description: Hardware Hacking. Lessons for Raspberry Pi (translated)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-07-02 09:40:00

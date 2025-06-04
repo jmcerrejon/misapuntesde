@@ -1,6 +1,7 @@
 ---
 id: 898
 title: Raspberry Pi spanish group on mewe.com
+description: Raspberry Pi spanish group on mewe.com
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2019-02-19 20:00:00

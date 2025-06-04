@@ -1,6 +1,7 @@
 ---
 id: 198
 title: ChameleonPI v.0.3.2 - SUMMER MANIA
+description: ChameleonPI v.0.3.2 - SUMMER MANIA
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-06-30 08:00:00

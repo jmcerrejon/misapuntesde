@@ -1,6 +1,7 @@
 ---
 id: 57
 title: Burn Linux OS to USB/SD from OSX (Terminal)
+description: Burn Linux OS to USB/SD from OSX (Terminal)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-24 12:43:00

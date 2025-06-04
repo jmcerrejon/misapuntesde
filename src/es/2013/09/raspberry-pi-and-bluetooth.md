@@ -1,6 +1,7 @@
 ---
 id: 262
 title: Raspberry Pi y Bluetooth
+description: Raspberry Pi y Bluetooth
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-09-11 09:40:00

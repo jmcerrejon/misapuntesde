@@ -1,6 +1,7 @@
 ---
 id: 275
 title: Abre tu garaje desde Android o iPhone con Raspberry Pi
+description: Abre tu garaje desde Android o iPhone con Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-09-24 09:15:00

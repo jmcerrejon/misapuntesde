@@ -1,6 +1,7 @@
 ---
 id: 756
 title: Genymotion + local web server with different domains
+description: Genymotion + local web server with different domains
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-12-01 16:15:00

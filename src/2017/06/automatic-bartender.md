@@ -1,6 +1,7 @@
 ---
 id: 801
 title: Automatic bartender
+description: Automatic bartender
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-06-06 10:30:00

@@ -1,6 +1,7 @@
 ---
 id: 392
 title: Rpi Simple Monitor (Android App)
+description: Rpi Simple Monitor (Android App)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-04-28 09:49:19

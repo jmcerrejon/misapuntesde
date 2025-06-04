@@ -1,6 +1,7 @@
 ---
 id: 743
 title: Howto emulate a Commodore Amiga with Amibian
+description: Howto emulate a Commodore Amiga with Amibian
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-09-23 09:00:00

@@ -1,6 +1,7 @@
 ---
 id: 205
 title: Everything returns to normal
+description: Everything returns to normal
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-07-08 12:00:00

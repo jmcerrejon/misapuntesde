@@ -1,6 +1,7 @@
 ---
 id: 417
 title: The World Cup with Raspberry Pi or Ubuntu
+description: The World Cup with Raspberry Pi or Ubuntu
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-06-13 14:20:13

@@ -1,6 +1,7 @@
 ---
 id: 612
 title: Nueva versión de Plex Media Server
+description: Nueva versión de Plex Media Server
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-08-31 12:00:00

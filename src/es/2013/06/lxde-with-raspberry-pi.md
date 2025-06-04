@@ -1,6 +1,7 @@
 ---
 id: 186
 title: LXDE con Raspberry Pi
+description: LXDE con Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-06-14 12:50:00

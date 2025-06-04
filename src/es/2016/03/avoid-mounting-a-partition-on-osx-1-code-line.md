@@ -1,6 +1,7 @@
 ---
 id: 685
 title: Evitar montar una partición en OSX (1 línea de código)
+description: Evitar montar una partición en OSX (1 línea de código)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-03-29 20:20:00

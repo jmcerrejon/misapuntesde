@@ -1,6 +1,7 @@
 ---
 id: 808
 title: News this week in the Pi World
+description: News this week in the Pi World
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-06-30 13:00:00

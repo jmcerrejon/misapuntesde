@@ -1,6 +1,7 @@
 ---
 id: 267
 title: cmus music player guide
+description: cmus music player guide
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-09-17 09:30:00

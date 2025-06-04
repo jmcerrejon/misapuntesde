@@ -1,6 +1,7 @@
 ---
 id: 202
 title: AEROS for Raspberry Pi
+description: AEROS for Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-07-03 09:00:00

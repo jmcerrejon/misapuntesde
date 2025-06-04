@@ -1,6 +1,7 @@
 ---
 id: 59
 title: EXTRA!. Possible new x86 emulator
+description: EXTRA!. Possible new x86 emulator
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-25 17:20:00

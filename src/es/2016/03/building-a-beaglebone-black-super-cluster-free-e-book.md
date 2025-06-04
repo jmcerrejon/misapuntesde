@@ -1,6 +1,7 @@
 ---
 id: 683
 title: Building a BeagleBone Black Super Cluster (free E-book)
+description: Building a BeagleBone Black Super Cluster (free E-book)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-03-29 12:20:00

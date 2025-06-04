@@ -1,6 +1,7 @@
 ---
 id: 749
 title: OpenELEC ended his development?
+description: OpenELEC ended his development?
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-10-05 11:00:00

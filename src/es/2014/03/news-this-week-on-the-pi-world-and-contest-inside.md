@@ -1,6 +1,7 @@
 ---
 id: 381
 title: Han sido noticia esta semana en el mundo Pi y... ¡Concurso inside!
+description: Han sido noticia esta semana en el mundo Pi y... ¡Concurso inside!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-03-28 10:57:47

@@ -1,6 +1,7 @@
 ---
 id: 555
 title: Update Raspian from Wheezy to Jessie
+description: Update Raspian from Wheezy to Jessie
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-04-29 10:15:00

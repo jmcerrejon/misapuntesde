@@ -1,6 +1,7 @@
 ---
 id: 887
 title: ¡Aún vivo!
+description: ¡Aún vivo!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2018-06-24 08:00:00

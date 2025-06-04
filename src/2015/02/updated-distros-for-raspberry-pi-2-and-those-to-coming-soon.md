@@ -1,6 +1,7 @@
 ---
 id: 515
 title: Updated distros for Raspberry Pi 2 and those to coming soon
+description: Updated distros for Raspberry Pi 2 and those to coming soon
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-02-04 07:00:00

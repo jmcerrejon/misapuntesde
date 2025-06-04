@@ -1,6 +1,7 @@
 ---
 id: 223
 title: Windows-Raspberry Pi Cross Compiler
+description: Windows-Raspberry Pi Cross Compiler
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-08-02 10:00:00

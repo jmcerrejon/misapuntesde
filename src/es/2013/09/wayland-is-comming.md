@@ -1,6 +1,7 @@
 ---
 id: 273
 title: Wayland se acerca...
+description: Wayland se acerca...
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-09-23 10:20:00

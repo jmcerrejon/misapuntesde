@@ -1,6 +1,7 @@
 ---
 id: 519
 title: Quiero desarrollar un videojuego en 2D. ¿Por dónde empiezo?
+description: Quiero desarrollar un videojuego en 2D. ¿Por dónde empiezo?
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-02-18 09:00:00

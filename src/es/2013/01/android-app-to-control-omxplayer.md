@@ -1,6 +1,7 @@
 ---
 id: 50
 title: App Android para controlar omxplayer en tu RasPi de forma remota
+description: App Android para controlar omxplayer en tu RasPi de forma remota
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-22 13:50:00

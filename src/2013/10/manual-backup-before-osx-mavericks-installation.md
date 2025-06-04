@@ -1,6 +1,7 @@
 ---
 id: 298
 title: Manual backup before OSX Mavericks installation
+description: Manual backup before OSX Mavericks installation
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-10-23 11:00:00

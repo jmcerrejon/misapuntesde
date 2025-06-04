@@ -1,6 +1,7 @@
 ---
 id: 578
 title: Winners of a Exagear Desktop license (Giveaway)
+description: Winners of a Exagear Desktop license (Giveaway)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-06-16 17:30:00

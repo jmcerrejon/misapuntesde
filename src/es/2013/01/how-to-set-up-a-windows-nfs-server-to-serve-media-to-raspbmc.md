@@ -1,6 +1,7 @@
 ---
 id: 35
 title: Tutorial. Cómo configurar un servidor windows para servir al RaspBMC
+description: Tutorial. Cómo configurar un servidor windows para servir al RaspBMC
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-18 10:05:00

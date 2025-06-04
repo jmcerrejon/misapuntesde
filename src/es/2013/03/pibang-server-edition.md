@@ -1,6 +1,7 @@
 ---
 id: 101
 title: PiBang Server Edition
+description: PiBang Server Edition
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-03-13 10:25:00

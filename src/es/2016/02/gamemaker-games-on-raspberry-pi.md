@@ -1,6 +1,7 @@
 ---
 id: 670
 title: Juegos en GameMaker para la Raspberry Pi
+description: Juegos en GameMaker para la Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-02-24 11:00:00

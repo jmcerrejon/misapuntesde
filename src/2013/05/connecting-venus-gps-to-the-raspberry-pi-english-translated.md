@@ -1,6 +1,7 @@
 ---
 id: 151
 title: Connecting Venus GPS to the Raspberry Pi (english translated)
+description: Connecting Venus GPS to the Raspberry Pi (english translated)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-05-10 09:15:00

@@ -1,6 +1,7 @@
 ---
 id: 894
 title: ¡Noticias esta semana en el Mundo Pi...Edición Navidad!
+description: ¡Noticias esta semana en el Mundo Pi...Edición Navidad!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2018-12-24 19:00:00

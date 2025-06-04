@@ -1,6 +1,7 @@
 ---
 id: 610
 title: VOLKSPC OS to the ODROID-C1 board
+description: VOLKSPC OS to the ODROID-C1 board
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-08-26 08:38:00

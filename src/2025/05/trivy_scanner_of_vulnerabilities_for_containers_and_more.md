@@ -1,5 +1,6 @@
 ---
 title: Trivy vulnerability scanner for containers... and more!
+description: Trivy vulnerability scanner for containers... and more!
 icon: fa-solid fa-code
 author: Jose Cerrejon
 date: 2025-05-22

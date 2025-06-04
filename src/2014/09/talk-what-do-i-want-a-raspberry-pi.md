@@ -1,6 +1,7 @@
 ---
 id: 449
 title: Talk. What do I want a Raspberry Pi?
+description: Talk. What do I want a Raspberry Pi?
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-09-02 05:40:00

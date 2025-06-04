@@ -1,6 +1,7 @@
 ---
 id: 602
 title: Streaming de juegos con nVIDIA a través de ODROID
+description: Streaming de juegos con nVIDIA a través de ODROID
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-08-10 10:00:00

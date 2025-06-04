@@ -1,6 +1,7 @@
 ---
 id: 309
 title: Voltear imágenes en el navegador web con la Raspberry Pi
+description: Voltear imágenes en el navegador web con la Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-11-10 10:15:00

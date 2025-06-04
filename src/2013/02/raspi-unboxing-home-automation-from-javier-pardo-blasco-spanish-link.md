@@ -1,6 +1,7 @@
 ---
 id: 85
 title: RasPi unboxing & home automation from Javier Pardo Blasco (Spanish Link)
+description: RasPi unboxing & home automation from Javier Pardo Blasco (Spanish Link)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-02-28 12:40:00

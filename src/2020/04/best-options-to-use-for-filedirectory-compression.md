@@ -1,6 +1,7 @@
 ---
 id: 927
 title: Best options to use for file/directory compression
+description: Best options to use for file/directory compression
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2020-04-20 11:28:36

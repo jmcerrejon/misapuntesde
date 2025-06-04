@@ -1,6 +1,7 @@
 ---
 id: 120
 title: RISC OS Pi
+description: RISC OS Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-03-31 14:30:00

@@ -1,6 +1,7 @@
 ---
 id: 887
 title: Still alive!
+description: Still alive!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2018-06-24 08:00:00

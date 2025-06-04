@@ -1,6 +1,7 @@
 ---
 id: 266
 title: Raspberry Pi como Servidor Wake-On-LAN remoto
+description: Raspberry Pi como Servidor Wake-On-LAN remoto
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-09-16 14:00:00

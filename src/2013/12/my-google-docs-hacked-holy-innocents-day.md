@@ -1,6 +1,7 @@
 ---
 id: 337
 title: My Google Docs hacked (Holy Innocents' Day)
+description: My Google Docs hacked (Holy Innocents' Day)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-12-28 09:28:03

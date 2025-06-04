@@ -1,6 +1,7 @@
 ---
 id: 428
 title: Download entire website via FTP with a single line command
+description: Download entire website via FTP with a single line command
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-07-10 08:20:00

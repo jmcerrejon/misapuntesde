@@ -1,6 +1,7 @@
 ---
 id: 433
 title: Raspbian Net Install Guide
+description: Raspbian Net Install Guide
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-07-21 09:45:00

@@ -1,6 +1,7 @@
 ---
 id: 660
 title: Pasos para instalar Homestead en OSX/Linux usando Vagrant
+description: Pasos para instalar Homestead en OSX/Linux usando Vagrant
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-02-01 12:00:00

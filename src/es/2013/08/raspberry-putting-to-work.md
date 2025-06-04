@@ -1,6 +1,7 @@
 ---
 id: 243
 title: Poniendo la Raspberry a trabajar
+description: Poniendo la Raspberry a trabajar
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-08-24 08:00:00

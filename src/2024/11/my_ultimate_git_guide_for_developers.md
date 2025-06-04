@@ -1,5 +1,6 @@
 ---
 title: My Ultimate Git Guide for Developers
+description: My Ultimate Git Guide for Developers
 icon: fa-solid fa-code
 author: Jose Cerrejon
 date: 2024-11-12

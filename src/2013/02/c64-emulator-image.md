@@ -1,6 +1,7 @@
 ---
 id: 78
 title: C64 emulator (image)
+description: C64 emulator (image)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-02-23 12:15:00

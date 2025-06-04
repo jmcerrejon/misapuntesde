@@ -1,6 +1,7 @@
 ---
 id: 911
 title: Compartiendo la conexión a internet desde macOS a la Raspberry Pi (Internet Sharing)
+description: Compartiendo la conexión a internet desde macOS a la Raspberry Pi (Internet Sharing)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2019-09-19 09:00:00

@@ -1,6 +1,7 @@
 ---
 id: 779
 title: Make your own beer with Raspberry Pi
+description: Make your own beer with Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-03-22 12:00:00

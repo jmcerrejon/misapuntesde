@@ -1,6 +1,7 @@
 ---
 id: 83
 title: Spectrum girl calendar
+description: Spectrum girl calendar
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-02-27 10:25:00

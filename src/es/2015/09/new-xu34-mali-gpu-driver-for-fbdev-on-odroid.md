@@ -1,6 +1,7 @@
 ---
 id: 621
 title: Nuevos Drivers XU3/4 Mali GPU para FBDEV en ODROID
+description: Nuevos Drivers XU3/4 Mali GPU para FBDEV en ODROID
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-09-21 12:00:00

@@ -1,6 +1,7 @@
 ---
 id: 338
 title: Streaming de la camara H264 desde HTML sobre RTMP
+description: Streaming de la camara H264 desde HTML sobre RTMP
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-12-29 13:20:16

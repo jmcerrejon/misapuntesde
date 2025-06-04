@@ -1,5 +1,6 @@
 ---
 title: Python. Curiosities, code, notes to get ready to PCEP
+description: Python. Curiosities, code, notes to get ready to PCEP
 icon: fa-solid fa-code
 author: Jose Cerrejon
 date: 2024-11-07

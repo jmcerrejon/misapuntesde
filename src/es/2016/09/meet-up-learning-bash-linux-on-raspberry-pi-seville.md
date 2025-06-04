@@ -1,6 +1,7 @@
 ---
 id: 736
 title: Aprendiendo el Bash de Linux sobre Raspberry Pi (Meet up)
+description: Aprendiendo el Bash de Linux sobre Raspberry Pi (Meet up)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-09-07 08:20:00

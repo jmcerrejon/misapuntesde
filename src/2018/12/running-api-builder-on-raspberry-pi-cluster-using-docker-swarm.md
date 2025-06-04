@@ -1,6 +1,7 @@
 ---
 id: 893
 title: Running API Builder on Raspberry Pi Cluster using Docker Swarm
+description: Running API Builder on Raspberry Pi Cluster using Docker Swarm
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2018-12-20 18:26:00

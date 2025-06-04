@@ -1,6 +1,7 @@
 ---
 id: 319
 title: RACHEL Pi. Get all the knowledge on a SD Card.
+description: RACHEL Pi. Get all the knowledge on a SD Card.
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-11-25 17:00:00

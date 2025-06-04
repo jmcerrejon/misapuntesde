@@ -1,6 +1,7 @@
 ---
 id: 456
 title: Synergy. Control multiple computers with a single keyboard and mouse (Youtube)
+description: Synergy. Control multiple computers with a single keyboard and mouse (Youtube)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-09-17 08:00:00

@@ -1,6 +1,7 @@
 ---
 id: 284
 title: We surpassed 100,000 visits!
+description: We surpassed 100,000 visits!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-10-03 14:26:00

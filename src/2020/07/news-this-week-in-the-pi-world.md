@@ -1,6 +1,7 @@
 ---
 id: 940
 title: News this week in the Pi World!
+description: News this week in the Pi World!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2020-07-10 19:27:43

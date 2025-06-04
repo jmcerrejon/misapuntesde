@@ -1,6 +1,7 @@
 ---
 id: 201
 title: Hardware Hacking. Lecciones para Raspberry Pi
+description: Hardware Hacking. Lecciones para Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-07-02 09:40:00

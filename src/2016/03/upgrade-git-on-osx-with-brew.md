@@ -1,6 +1,7 @@
 ---
 id: 684
 title: Upgrade Git on OSX with brew
+description: Upgrade Git on OSX with brew
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-03-29 14:25:00

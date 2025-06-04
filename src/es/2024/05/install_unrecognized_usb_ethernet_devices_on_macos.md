@@ -1,5 +1,6 @@
 ---
 title: Instalar dispositivos Ethernet USB no reconocidos en macOS
+description: Instalar dispositivos Ethernet USB no reconocidos en macOS
 icon: fa-brands fa-apple
 author: Jose Cerrejon
 date: 2024-05-31

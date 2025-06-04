@@ -1,6 +1,7 @@
 ---
 id: 722
 title: NodeCode on Raspberry Pi
+description: NodeCode on Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-07-13 12:00:00

@@ -1,6 +1,7 @@
 ---
 id: 238
 title: Smart Home Automation with Linux and Raspberry Pi, 2ª Edición (Ebook)
+description: Smart Home Automation with Linux and Raspberry Pi, 2ª Edición (Ebook)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-08-18 07:15:00

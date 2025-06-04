@@ -1,6 +1,7 @@
 ---
 id: 384
 title: Open Lighting Project on Raspberry Pi
+description: Open Lighting Project on Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-04-03 16:24:23

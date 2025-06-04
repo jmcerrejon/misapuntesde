@@ -1,6 +1,7 @@
 ---
 id: 466
 title: MiniDLNA 1.1.4 para Raspberry Pi (binario)
+description: MiniDLNA 1.1.4 para Raspberry Pi (binario)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-10-09 10:00:00

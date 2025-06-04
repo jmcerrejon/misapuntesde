@@ -1,6 +1,7 @@
 ---
 id: 436
 title: Eben Upton. Introducing the New Raspberry Pi B+
+description: Eben Upton. Introducing the New Raspberry Pi B+
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-07-31 08:20:00

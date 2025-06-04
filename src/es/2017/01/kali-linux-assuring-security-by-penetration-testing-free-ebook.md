@@ -1,6 +1,7 @@
 ---
 id: 761
 title: Kali Linux – Assuring Security by Penetration Testing (Ebook gratis)
+description: Kali Linux – Assuring Security by Penetration Testing (Ebook gratis)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-01-12 00:00:00

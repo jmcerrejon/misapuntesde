@@ -1,6 +1,7 @@
 ---
 id: 226
 title: How to Turn a Raspberry Pi into a Google Cloud Print Server
+description: How to Turn a Raspberry Pi into a Google Cloud Print Server
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-08-07 09:00:00

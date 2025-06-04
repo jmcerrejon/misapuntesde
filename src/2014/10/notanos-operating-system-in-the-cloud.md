@@ -1,6 +1,7 @@
 ---
 id: 465
 title: NotanOS. Operating System in the cloud
+description: NotanOS. Operating System in the cloud
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-10-08 09:20:00

@@ -1,6 +1,7 @@
 ---
 id: 246
 title: PiMAME 0.7.8
+description: PiMAME 0.7.8
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-08-26 09:15:00

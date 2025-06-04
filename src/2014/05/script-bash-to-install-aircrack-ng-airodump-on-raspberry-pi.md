@@ -1,6 +1,7 @@
 ---
 id: 404
 title: Script bash to install Aircrack-NG + Airodump on Raspberry Pi
+description: Script bash to install Aircrack-NG + Airodump on Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-05-22 11:35:18

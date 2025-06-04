@@ -1,6 +1,7 @@
 ---
 id: 58
 title: Article from Micro Mart publication (January 2013)
+description: Article from Micro Mart publication (January 2013)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-25 14:20:00

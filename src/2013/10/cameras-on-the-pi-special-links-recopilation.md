@@ -1,6 +1,7 @@
 ---
 id: 290
 title: cameras on the Pi (Special links recopilation)
+description: cameras on the Pi (Special links recopilation)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-10-12 07:05:00

@@ -1,6 +1,7 @@
 ---
 id: 526
 title: Nueva versión de Lakka para Raspberry Pi 2 y ODROID-C1
+description: Nueva versión de Lakka para Raspberry Pi 2 y ODROID-C1
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-03-09 08:00:00

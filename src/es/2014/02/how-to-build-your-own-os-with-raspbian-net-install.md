@@ -1,6 +1,7 @@
 ---
 id: 364
 title: Construye tu propio sistema operativo con Raspbian Net Install
+description: Construye tu propio sistema operativo con Raspbian Net Install
 
 author: Jose Cerrejon
 icon: pen-to-square

@@ -1,6 +1,7 @@
 ---
 id: 536
 title: Updated the script to install Return to Castle Wolfenstein
+description: Updated the script to install Return to Castle Wolfenstein
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-03-19 11:15:00

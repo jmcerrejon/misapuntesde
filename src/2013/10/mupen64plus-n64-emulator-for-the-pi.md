@@ -1,6 +1,7 @@
 ---
 id: 285
 title: Mupen64Plus - N64 Emulator for the Pi
+description: Mupen64Plus - N64 Emulator for the Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-10-04 09:20:00

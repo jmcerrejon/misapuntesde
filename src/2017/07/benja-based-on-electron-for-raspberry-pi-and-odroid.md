@@ -1,6 +1,7 @@
 ---
 id: 813
 title: BENJA based on Electron for Raspberry Pi and ODROID
+description: BENJA based on Electron for Raspberry Pi and ODROID
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-07-17 11:16:00

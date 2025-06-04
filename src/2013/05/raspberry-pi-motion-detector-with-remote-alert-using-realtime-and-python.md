@@ -1,6 +1,7 @@
 ---
 id: 147
 title: Raspberry Pi motion detector with remote alert using Realtime and Python
+description: Raspberry Pi motion detector with remote alert using Realtime and Python
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-05-03 10:30:00

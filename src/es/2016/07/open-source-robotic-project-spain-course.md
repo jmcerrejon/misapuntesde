@@ -1,6 +1,7 @@
 ---
 id: 725
 title: CURSO-PROYECTO de Robótica Open Source
+description: CURSO-PROYECTO de Robótica Open Source
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-07-20 13:00:00

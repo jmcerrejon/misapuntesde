@@ -1,6 +1,7 @@
 ---
 id: 354
 title: Framework para controlar la Raspberry Pi. WebIOPi
+description: Framework para controlar la Raspberry Pi. WebIOPi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-01-23 09:39:47

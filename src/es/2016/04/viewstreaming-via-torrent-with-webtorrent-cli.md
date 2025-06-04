@@ -1,6 +1,7 @@
 ---
 id: 689
 title: Ver/retransmitir via Torrent con Webtorrent-cli
+description: Ver/retransmitir via Torrent con Webtorrent-cli
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-04-11 10:00:00

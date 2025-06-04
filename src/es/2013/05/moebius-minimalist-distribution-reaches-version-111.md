@@ -1,6 +1,7 @@
 ---
 id: 161
 title: Moebius distribución minimalista alcanza la versión 1.1.1
+description: Moebius distribución minimalista alcanza la versión 1.1.1
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-05-18 10:35:00

@@ -1,6 +1,7 @@
 ---
 id: 42
 title: ¡Nuevos paquetes .deb de emuladores Advanced!
+description: ¡Nuevos paquetes .deb de emuladores Advanced!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-20 10:00:00

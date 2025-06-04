@@ -1,6 +1,7 @@
 ---
 id: 216
 title: Nueva imagen de Raspbian y una distro minimal llamada MINIBIAN
+description: Nueva imagen de Raspbian y una distro minimal llamada MINIBIAN
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-07-28 13:45:00

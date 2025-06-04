@@ -1,6 +1,7 @@
 ---
 id: 656
 title: Configurar dispositivo Bluetooth en Debian
+description: Configurar dispositivo Bluetooth en Debian
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-01-18 14:00:00

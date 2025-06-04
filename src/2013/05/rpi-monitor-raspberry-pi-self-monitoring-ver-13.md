@@ -1,6 +1,7 @@
 ---
 id: 164
 title: RPi-Monitor. Raspberry Pi self monitoring ver. 1.3
+description: RPi-Monitor. Raspberry Pi self monitoring ver. 1.3
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-05-22 11:00:00

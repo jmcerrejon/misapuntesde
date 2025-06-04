@@ -1,6 +1,7 @@
 ---
 id: 296
 title: ¡Ya tenemos ganador!
+description: ¡Ya tenemos ganador!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-10-20 18:30:00

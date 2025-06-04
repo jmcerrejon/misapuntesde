@@ -1,6 +1,7 @@
 ---
 id: 321
 title: Tanda de actualizaciones. OpenELEC y RetroPie
+description: Tanda de actualizaciones. OpenELEC y RetroPie
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-11-28 12:00:00

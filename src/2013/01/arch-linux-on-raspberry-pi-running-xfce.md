@@ -1,6 +1,7 @@
 ---
 id: 18
 title: Arch Linux on Raspberry Pi Running XFCE
+description: Arch Linux on Raspberry Pi Running XFCE
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-15 11:35:00

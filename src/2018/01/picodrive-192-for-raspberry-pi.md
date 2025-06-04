@@ -1,6 +1,7 @@
 ---
 id: 859
 title: Picodrive 1.92 for Raspberry Pi
+description: Picodrive 1.92 for Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2018-01-18 09:15:00

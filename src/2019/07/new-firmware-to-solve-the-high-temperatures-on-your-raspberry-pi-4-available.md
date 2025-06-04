@@ -1,6 +1,7 @@
 ---
 id: 906
 title: New firmware to solve the high temperatures on your Raspberry Pi 4 available!
+description: New firmware to solve the high temperatures on your Raspberry Pi 4 available!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2019-07-03 13:40:00

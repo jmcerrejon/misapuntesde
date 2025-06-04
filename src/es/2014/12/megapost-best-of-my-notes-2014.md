@@ -1,6 +1,7 @@
 ---
 id: 500
 title: MEGAPOST. Lo mejor de Mis Apuntes del 2014
+description: MEGAPOST. Lo mejor de Mis Apuntes del 2014
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-12-29 12:00:00

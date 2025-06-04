@@ -1,6 +1,7 @@
 ---
 id: 942
 title: MacBook Pro 2021. mis impresiones y ayuda en la migración
+description: MacBook Pro 2021. mis impresiones y ayuda en la migración
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2021-12-05 18:14:57

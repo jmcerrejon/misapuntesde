@@ -1,6 +1,7 @@
 ---
 id: 651
 title: Resumen del año 2015 en misapuntesde.com (Parte I)
+description: Resumen del año 2015 en misapuntesde.com (Parte I)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-12-31 12:40:00

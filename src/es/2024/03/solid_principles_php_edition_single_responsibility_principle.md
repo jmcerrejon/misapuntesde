@@ -1,5 +1,6 @@
 ---
 title: Principios SOLID PHP Edition. Hoy, Principio de responsabilidad única
+description: Principios SOLID PHP Edition. Hoy, Principio de responsabilidad única
 icon: fa-solid fa-code
 author: Jose Cerrejon
 date: 2024-03-20

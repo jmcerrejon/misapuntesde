@@ -1,6 +1,7 @@
 ---
 id: 497
 title: Berryboot en la Banana Pi
+description: Berryboot en la Banana Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-12-22 11:15:00

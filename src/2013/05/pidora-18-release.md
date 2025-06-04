@@ -1,6 +1,7 @@
 ---
 id: 166
 title: Pidora 18 release
+description: Pidora 18 release
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-05-23 13:00:00

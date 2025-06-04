@@ -1,6 +1,7 @@
 ---
 id: 561
 title: Read Only Operating System
+description: Read Only Operating System
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-05-11 10:40:00

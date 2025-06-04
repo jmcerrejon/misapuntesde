@@ -1,6 +1,7 @@
 ---
 id: 686
 title: Fueron noticia la semana pasada en el mundo Pi
+description: Fueron noticia la semana pasada en el mundo Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-04-04 13:35:00

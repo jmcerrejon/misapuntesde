@@ -1,6 +1,7 @@
 ---
 id: 173
 title: Retropie activate the binaries download on their script
+description: Retropie activate the binaries download on their script
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-05-31 09:20:00

@@ -1,5 +1,6 @@
 ---
 title: Ejecutar un script después de ejecutar apt-get update en Debian o Ubuntu Linux
+description: Ejecutar un script después de ejecutar apt-get update en Debian o Ubuntu Linux
 author: Jose Cerrejon
 icon: fa-brands fa-linux
 date: 2024-02-22

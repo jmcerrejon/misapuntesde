@@ -1,6 +1,7 @@
 ---
 id: 26
 title: KidsRuby, teach to program to younger people, and now is available to Raspberry Pi.
+description: KidsRuby, teach to program to younger people, and now is available to Raspberry Pi.
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-16 14:45:00

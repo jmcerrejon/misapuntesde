@@ -1,6 +1,7 @@
 ---
 id: 430
 title: Raspberry Pi as data reader and vehicle diagnostics
+description: Raspberry Pi as data reader and vehicle diagnostics
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-07-14 08:00:00

@@ -1,5 +1,6 @@
 ---
 title: Adblock for the Spotify desktop client on Linux & macOS
+description: Adblock for the Spotify desktop client on Linux & macOS
 icon: fa-brands fa-apple
 author: Jose Cerrejon
 date: 2024-06-09

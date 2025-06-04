@@ -1,5 +1,6 @@
 ---
 title: Run a script after running apt-get update on a Debian or Ubuntu Linux
+description: Run a script after running apt-get update on a Debian or Ubuntu Linux
 author: Jose Cerrejon
 icon: fa-brands fa-linux
 date: 2024-02-22

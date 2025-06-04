@@ -1,6 +1,7 @@
 ---
 id: 914
 title: Play Diablo 1 on Raspberry Pi 4
+description: Play Diablo 1 on Raspberry Pi 4
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2019-10-03 09:00:00

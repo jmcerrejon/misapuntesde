@@ -1,6 +1,7 @@
 ---
 id: 287
 title: Trackers. Review on Raspberry Pi
+description: Trackers. Review on Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-10-07 07:00:00

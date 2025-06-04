@@ -1,6 +1,7 @@
 ---
 id: 606
 title: RetroPie 3.0 liberado
+description: RetroPie 3.0 liberado
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-08-15 08:35:00

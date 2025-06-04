@@ -1,6 +1,7 @@
 ---
 id: 298
 title: Copia de seguridad manual antes de instalar OSX Yosemite
+description: Copia de seguridad manual antes de instalar OSX Yosemite
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-10-23 11:00:00

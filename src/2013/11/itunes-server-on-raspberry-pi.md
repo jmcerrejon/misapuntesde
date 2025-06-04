@@ -1,6 +1,7 @@
 ---
 id: 314
 title: iTunes Server on Raspberry Pi
+description: iTunes Server on Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-11-19 11:30:00

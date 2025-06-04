@@ -1,6 +1,7 @@
 ---
 id: 15
 title: Emular la Raspberry Pi utilizando QEMU
+description: Emular la Raspberry Pi utilizando QEMU
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-14 20:33:00

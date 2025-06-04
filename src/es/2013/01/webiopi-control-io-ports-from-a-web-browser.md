@@ -1,6 +1,7 @@
 ---
 id: 20
 title: WebIOPi. Controla los puertos E/S de tu RasPi a través del navegador
+description: WebIOPi. Controla los puertos E/S de tu RasPi a través del navegador
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-15 12:00:00

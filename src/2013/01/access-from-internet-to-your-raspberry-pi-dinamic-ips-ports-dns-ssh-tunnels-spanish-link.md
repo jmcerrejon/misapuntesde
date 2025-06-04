@@ -1,6 +1,7 @@
 ---
 id: 19
 title: Access from Internet to your Raspberry Pi. Dinamic IPs, ports, DNS & SSH tunnels (spanish link)
+description: Access from Internet to your Raspberry Pi. Dinamic IPs, ports, DNS & SSH tunnels (spanish link)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-15 11:45:00

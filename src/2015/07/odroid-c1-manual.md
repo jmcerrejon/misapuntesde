@@ -1,6 +1,7 @@
 ---
 id: 590
 title: ODROID-C1 manual
+description: ODROID-C1 manual
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-07-13 08:25:00

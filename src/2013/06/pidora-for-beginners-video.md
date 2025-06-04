@@ -1,6 +1,7 @@
 ---
 id: 194
 title: Pidora for beginners (video)
+description: Pidora for beginners (video)
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-06-26 07:40:00

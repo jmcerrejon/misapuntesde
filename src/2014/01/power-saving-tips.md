@@ -1,6 +1,7 @@
 ---
 id: 356
 title: Power Saving Tips
+description: Power Saving Tips
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-01-26 09:47:35

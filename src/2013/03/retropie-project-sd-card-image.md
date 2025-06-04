@@ -1,6 +1,7 @@
 ---
 id: 103
 title: RetroPie Project SD Card Image
+description: RetroPie Project SD Card Image
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-03-15 10:40:00

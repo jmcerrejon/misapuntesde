@@ -1,6 +1,7 @@
 ---
 id: 153
 title: New shared notes. Ubuntu join to the family
+description: New shared notes. Ubuntu join to the family
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-05-10 14:00:00

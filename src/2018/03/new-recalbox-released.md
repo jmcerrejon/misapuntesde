@@ -1,6 +1,7 @@
 ---
 id: 874
 title: New Recalbox released!
+description: New Recalbox released!
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2018-03-20 10:30:00

@@ -1,6 +1,7 @@
 ---
 id: 854
 title: Review 2017 at misapuntesde.com
+description: Review 2017 at misapuntesde.com
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2017-12-29 08:00:00

@@ -1,6 +1,7 @@
 ---
 id: 604
 title: ODROID-C1+ on the market
+description: ODROID-C1+ on the market
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-08-12 10:00:00

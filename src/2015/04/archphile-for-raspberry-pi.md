@@ -1,6 +1,7 @@
 ---
 id: 546
 title: ArchPhile for Raspberry Pi
+description: ArchPhile for Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-04-08 12:15:00

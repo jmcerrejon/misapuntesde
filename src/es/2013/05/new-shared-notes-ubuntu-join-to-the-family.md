@@ -1,6 +1,7 @@
 ---
 id: 153
 title: Nuevos apuntes compartidos. Ubuntu se une a la familia
+description: Nuevos apuntes compartidos. Ubuntu se une a la familia
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-05-10 14:00:00

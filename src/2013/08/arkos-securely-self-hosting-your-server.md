@@ -1,6 +1,7 @@
 ---
 id: 235
 title: arkOS. Securely self-hosting your server
+description: arkOS. Securely self-hosting your server
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-08-15 09:30:00

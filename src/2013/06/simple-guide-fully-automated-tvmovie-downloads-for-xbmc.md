@@ -1,6 +1,7 @@
 ---
 id: 189
 title: Simple GUIDE. Fully Automated TV/Movie downloads for XBMC
+description: Simple GUIDE. Fully Automated TV/Movie downloads for XBMC
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-06-21 11:00:00

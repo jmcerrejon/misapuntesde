@@ -1,6 +1,7 @@
 ---
 id: 67
 title: Altavoces bluetooth usando la Raspberry Pi
+description: Altavoces bluetooth usando la Raspberry Pi
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-29 18:50:00
