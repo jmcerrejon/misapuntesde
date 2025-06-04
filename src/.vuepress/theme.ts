@@ -61,6 +61,7 @@ export default hopeTheme({
 
   plugins: {
     blog: true,
+    sitemap: true,
     seo: {
       canonical: (_) => "https://misapuntesde.com",
     },
@@ -119,8 +120,6 @@ export default hopeTheme({
       sup: true,
       tabs: true,
       vPre: true,
-    },
-    sitemap: {
     },
     // You should create and use your own comment service in production.
     // comment: {
