@@ -6,27 +6,28 @@ date: 2024-02-19
 prev: /es/
 next: false
 category:
-  - DevOps
+    - DevOps
 tags:
-  - Developer
-  - PHP
-  - Vuepress
+    - Developer
+    - PHP
+    - Vuepress
 ---
 
 # Como migré de PHP a Vuepress 2 (Parte I)
 
-![Alt](/images/2024/02/php_vue.jpg "Este es el único uso de IA que vas a ver en este artículo. Generado por DALL-E de OpenAI y modificado posteriormente.")
+![Este es el único uso de IA que vas a ver en este artículo. Generado por DALL-E de OpenAI y modificado posteriormente.](/images/2024/02/php_vue.jpg "Este es el único uso de IA que vas a ver en este artículo. Generado por DALL-E de OpenAI y modificado posteriormente.")
 
 Han pasado 3 años desde mi último post aquí. He estado ocupado con mi trabajo y otros proyectos. El nuevo enfoque que le quiero dar al blog va a ser un poco diferente. Menos _Raspberry Pi_ (contaré el porqué más adelante) y más técnico. Ya os iré hablando de ello en los próximos días.
 
 Quiero compartir con vosotros una serie de artículos de cómo ha sido la experiencia de migrar un blog hecho en _PHP + MySQL_, a uno estático utilizando _Vuepress 2_.
 
-- - -
+---
+
 ## Antes y ahora
 
 ![Captura de mi blog hace dos días.](/images/misapuntesde_v1.5.png "Captura de mi blog hace dos días.")
 
-Esta no es la primera vez que cambio de diseño. No recuerdo cuándo fue la última vez que lo hice, pero sí que fue un cambio radical (tengo que buscar una foto de la primera versión del blog). El cambio en su día lo hice principalmente para ser responsive (¡Cielos, aún las páginas no lo necesitaban tanto!), poder utilizar *markdown* y meter algunos plug-in en _Javascript_ para hacer zoom en las imágenes y resalto de sintaxis en el código fuente que mostraba.
+Esta no es la primera vez que cambio de diseño. No recuerdo cuándo fue la última vez que lo hice, pero sí que fue un cambio radical (tengo que buscar una foto de la primera versión del blog). El cambio en su día lo hice principalmente para ser responsive (¡Cielos, aún las páginas no lo necesitaban tanto!), poder utilizar _markdown_ y meter algunos plug-in en _Javascript_ para hacer zoom en las imágenes y resalto de sintaxis en el código fuente que mostraba.
 
 La tecnología en este aspecto, no ha cambiado mucho. Seguimos dependiendo de _Javascript_ en el lado cliente y lo usamos más de lo que a muchos haters de este lenguaje les gustaría (_¡JQuery_ ha entrado en Beta con la versión 4!).
 
@@ -52,10 +53,10 @@ Lo único que me da rabia, es que yo, siendo un desarrollador artesano que me gu
 
 Como veis, no ha sido un camino de rosas. He tenido que hacer un montón de cosas para que el blog esté como lo ves ahora. Y aún me queda mucho por hacer. Algunas de las cosas que tengo pendientes son:
 
-- Cambiar de hosting. Ahora estoy con _Ionos_ y no cambio porque tengo muchos ficheros que uso en [PiKISS](https://github.com/jmcerrejon/PiKISS/) y tendré que buscarle alojamiento. También quiero experimentar algo con _hostings_ gratuítos para contenido estático, tipo _Netlify_, _Vercel_ o _GitHub Pages_.
-- Añadir comentarios. Me gusta _Discus_ y creo que seguiré con él. He visto un _plug-in_ para _Vuepress_ que lo permite.
-- Contador de visitas. No me gusta, pero me gustaría saber si alguien lee lo que escribo.
-- Etc...
+-   Cambiar de hosting. Ahora estoy con _Ionos_ y no cambio porque tengo muchos ficheros que uso en [PiKISS](https://github.com/jmcerrejon/PiKISS/) y tendré que buscarle alojamiento. También quiero experimentar algo con _hostings_ gratuítos para contenido estático, tipo _Netlify_, _Vercel_ o _GitHub Pages_.
+-   Añadir comentarios. Me gusta _Discus_ y creo que seguiré con él. He visto un _plug-in_ para _Vuepress_ que lo permite.
+-   Contador de visitas. No me gusta, pero me gustaría saber si alguien lee lo que escribo.
+-   Etc...
 
 Por supuesto, si te gusta el desarrollo tanto como a mí, os iré comentando en sucesivos artículos lo que he hecho y como voy implementando estas nuevas funcionalidades y mejoras en el blog.
 

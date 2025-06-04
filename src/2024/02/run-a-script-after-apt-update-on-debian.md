@@ -16,7 +16,7 @@ tags:
 
 # Run a script after running apt-get update on a Debian or Ubuntu Linux
 
-![alt](/images/2024/02/apt_conf_d.png "/etc/apt/apt.conf.d")
+![/etc/apt/apt.conf.d](/images/2024/02/apt_conf_d.png "/etc/apt/apt.conf.d")
 
 If you want to run a script for example, after `apt update` on _Debian_, you can use the `apt` hook system. This is useful if you want to perform some other action after the update. In my case, I need to run a script and re-install the _Vulkan driver on Raspberry Pi_, because `apt update` break it and the system can't open the _Desktop environment_.
 

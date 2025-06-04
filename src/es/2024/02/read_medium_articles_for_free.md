@@ -13,7 +13,7 @@ tags:
 
 # Leer artículos de Medium de forma gratuita
 
-![Alt](/images/2024/02/medium.png "Medium post leído de gratis")
+![Medium post leído de gratis](/images/2024/02/medium.png "Medium post leído de gratis")
 
 Solo un consejo rápido si quieres leer un artículo de _Medium_ de forma gratuita, porque no tienes dinero para pagar una suscripción o no quieres crear una cuenta.
 
