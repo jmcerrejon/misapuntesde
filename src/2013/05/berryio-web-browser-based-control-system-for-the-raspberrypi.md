@@ -8,9 +8,9 @@ date: 2013-05-13 09:00:00
 prev: /
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/berryio.jpg
 ---
 
@@ -18,32 +18,33 @@ image: /images/berryio.jpg
 
 ![berryio](/images/berryio.jpg)
 
-The aim of *BerryIO* is to enable developers to control the *Raspberry Pi* and its *GPIO* ports remotely from any device with a web browser, without ever needing to connect a screen or keyboard to the Pi itself.
+The aim of _BerryIO_ is to enable developers to control the _Raspberry Pi_ and its _GPIO_ ports remotely from any device with a web browser, without ever needing to connect a screen or keyboard to the Pi itself.
 
-- - -
+---
+
 Features:
 
-* Full *GPIO* control including input/output mode and on off toggling.
+-   Full _GPIO_ control including input/output mode and on off toggling.
 
-* Support for *Raspberry Pi* revision 1 and 2 including 512MB version.
+-   Support for _Raspberry Pi_ revision 1 and 2 including 512MB version.
 
-* *SPI DAC* control and *ADC* values display.
+-   _SPI DAC_ control and _ADC_ values display.
 
-* Control of *HDD44780* or *KS0066U* compatible LCD's.
+-   Control of _HDD44780_ or _KS0066U_ compatible LCD's.
 
-* CPU information display, including temperature.
+-   CPU information display, including temperature.
 
-* Disk and memory usage information.
+-   Disk and memory usage information.
 
-* Network status view showing connectivity, signal strength, etc.
+-   Network status view showing connectivity, signal strength, etc.
 
-* Command line interface which offers the same level of control as the web browser interface.
+-   Command line interface which offers the same level of control as the web browser interface.
 
-* Email notification with a link to the *BerryIO* web browser interface.
+-   Email notification with a link to the _BerryIO_ web browser interface.
 
-* Integrated upgrade system
+-   Integrated upgrade system
 
-* *API* system for developing mobile apps
+-   _API_ system for developing mobile apps
 
 Installation instructions
 
@@ -57,7 +58,7 @@ chmod +x berryio_install.sh
 sudo ./berryio_install.sh
 
 // Configure msmtp so it can access your mailserver
-// Please check http://msmtp.sourceforge.net/documentation.html
+// Please check https://msmtp.sourceforge.net/documentation.html
 // for further details
 sudo nano /etc/msmtprc
 
@@ -77,4 +78,4 @@ sudo berryio email_ip
 
 Definitely an interesting project that is updated fairly regularly.
 
-Link: [BerryIO](http://frozenmist.co.uk/downloads/berryio/)
+Link: [BerryIO](https://frozenmist.co.uk/downloads/berryio/)

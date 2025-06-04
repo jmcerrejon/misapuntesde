@@ -8,9 +8,9 @@ date: 2020-04-07 19:51:36
 prev: /es/
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/2020/02/alpinos_logo.png
 ---
 
@@ -18,12 +18,13 @@ image: /images/2020/02/alpinos_logo.png
 
 ![alpinos_logo](/images/2020/02/alpinos_logo.png)
 
-Como vimos hace unas semanas, ya tenemos nuestro sistema listo. Ahora necesitamos software y qué mejor manera que aprendiendo como actualizar nuestra *alpinOS* o usar su gestor de paquetes *apk*.
+Como vimos hace unas semanas, ya tenemos nuestro sistema listo. Ahora necesitamos software y qué mejor manera que aprendiendo como actualizar nuestra _alpinOS_ o usar su gestor de paquetes _apk_.
 
-- - -
-###  [ Crear usuarios ]
+---
 
-Siempre es conveniente tener usuarios que no sean root en el sistema. Seremos tradicionales y añadiremos un usuario pi en el directorio */home/pi*.
+### [ Crear usuarios ]
+
+Siempre es conveniente tener usuarios que no sean root en el sistema. Seremos tradicionales y añadiremos un usuario pi en el directorio _/home/pi_.
 
 ```bash
 adduser -g 'John Wick' pi
@@ -32,9 +33,9 @@ lbu add /home/pi
 lbu commit -d
 ```
 
-Ahora si escribes *login*, podrás acceder como el usuario pi.
+Ahora si escribes _login_, podrás acceder como el usuario pi.
 
-###  [ Gestión de paquetes ]
+### [ Gestión de paquetes ]
 
 Muy sencillo:
 
@@ -53,15 +54,15 @@ apk stats # Estadística de paquetes
 
 Si queréis consultar los paquetes desde la comodidad de vuestro navegador, podéis visitar [alpine.pkgs.org](https://alpine.pkgs.org/).
 
-###  [ Actualizando a la última versión ]
+### [ Actualizando a la última versión ]
 
-Hay varias maneras de tener el sistema siempre actualizado. Yo os voy a contar la que considero es la mejor opción. Se trata de sustituir las urls que apuntan a la versión en concreto que habéis descargado, por la última. Editamos el fichero */etc/apk/repositories*, comentamos los mirror con número de versión y añadimos los siguientes:
+Hay varias maneras de tener el sistema siempre actualizado. Yo os voy a contar la que considero es la mejor opción. Se trata de sustituir las urls que apuntan a la versión en concreto que habéis descargado, por la última. Editamos el fichero _/etc/apk/repositories_, comentamos los mirror con número de versión y añadimos los siguientes:
 
 ```bash
-http://dl-3.alpinelinux.org/alpine/latest-stable/main
-http://dl-3.alpinelinux.org/alpine/latest-stable/community
-http://dl-cdn.alpinelinux.org/alpine/edge/main
-http://dl-cdn.alpinelinux.org/alpine/edge/community
+https://dl-3.alpinelinux.org/alpine/latest-stable/main
+https://dl-3.alpinelinux.org/alpine/latest-stable/community
+https://dl-cdn.alpinelinux.org/alpine/edge/main
+https://dl-cdn.alpinelinux.org/alpine/edge/community
 ```
 
 Otra forma de hacerlo mas cool:
@@ -79,7 +80,7 @@ Ahora procedemos a hacer update y upgrade:
 apk update && apk upgrade
 ```
 
-¡Recuerda! Ejecuta *lbu commit -d* después de instalar el software que necesites o se perderán todos los cambios como lágrimas en la lluvia.
+¡Recuerda! Ejecuta _lbu commit -d_ después de instalar el software que necesites o se perderán todos los cambios como lágrimas en la lluvia.
 
 Y esto es todo. Os dejo los comentarios si queréis añadir algo más, aportar ideas para mi repo, etc...
 

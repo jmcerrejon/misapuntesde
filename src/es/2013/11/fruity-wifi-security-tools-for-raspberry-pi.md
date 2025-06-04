@@ -8,9 +8,9 @@ date: 2013-11-26 10:00:00
 prev: /es/
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/donottouch.jpg
 ---
 
@@ -22,9 +22,9 @@ Una de mis pasiones es la seguridad. Aunque no le puedo dedicar el tiempo que me
 
 Hoy he descubierto estas herramientas de auditoría basadas en [WiFi Pineapple](https://wifipineapple.com), que para el que no lo conzca se trata de una fusión entre hardware y software para hacer auditoría de redes inalámbricas todo a través de un navegador web.
 
-- - -
+---
 
-Gracias al blog de [securitybydefault.com](http://www.securitybydefault.com), donde explican perfectamente su uso y instalación, tendremos un entorno como el de la siguiente captura:
+Gracias al blog de [securitybydefault.com](https://www.securitybydefault.com), donde explican perfectamente su uso y instalación, tendremos un entorno como el de la siguiente captura:
 
 ![frutiwifi.jpg](/images/2013/11/frutiwifi.jpg)
 
@@ -37,12 +37,12 @@ chmod a+x install-FruityWifi.sh
 ./install-FruityWifi.sh
 ```
 
-Puedes instalarlo en *Debian, Kali Linux ARM, Raspbian o Pwnpi*.
+Puedes instalarlo en _Debian, Kali Linux ARM, Raspbian o Pwnpi_.
 
-Para usarlo, entra en **http://localhost/FruityWifi** con *admin/admin*.
+Para usarlo, entra en **http://localhost/FruityWifi** con _admin/admin_.
 
 Os recomiendo leer el artículo que pongo a continuación. Merece la pena.
 
-Enlace: [securitybydefault.com > FRUITY-WIFI, COMO LA WIFIPINEAPPLE PERO SIN LA MARK IV](http://www.securitybydefault.com/2013/11/fruity-wifi-como-la-wifipineapple-pero.html)
+Enlace: [securitybydefault.com > FRUITY-WIFI, COMO LA WIFIPINEAPPLE PERO SIN LA MARK IV](https://www.securitybydefault.com/2013/11/fruity-wifi-como-la-wifipineapple-pero.html)
 
-Enlace: [Github](https://github.com/xtr4nge/FruityWifi/) 
+Enlace: [Github](https://github.com/xtr4nge/FruityWifi/)

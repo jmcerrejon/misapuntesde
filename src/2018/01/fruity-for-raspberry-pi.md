@@ -8,9 +8,9 @@ date: 2018-01-15 13:05:00
 prev: /
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/2018/01/fruity_screenshot3.png
 ---
 
@@ -18,13 +18,14 @@ image: /images/2018/01/fruity_screenshot3.png
 
 ![fruity_screenshot3](/images/2018/01/fruity_screenshot3.png)
 
-Just note that I've added to [PiKISS](https://github.com/jmcerrejon/PiKISS) this game I didn't know from *Retroguru* studios. One of those classics to combine fruit of the same kind that is so fashionable and that we already played it in the era of *8/16 bits*. I'll leave you with the video. 
+Just note that I've added to [PiKISS](https://github.com/jmcerrejon/PiKISS) this game I didn't know from _Retroguru_ studios. One of those classics to combine fruit of the same kind that is so fashionable and that we already played it in the era of _8/16 bits_. I'll leave you with the video.
 
-- - -
-To install it, you can do it automatically with [this](https://github.com/jmcerrejon/PiKISS/blob/master/scripts/games/fruity.sh) script from *PiKISS*.
+---
+
+To install it, you can do it automatically with [this](https://github.com/jmcerrejon/PiKISS/blob/master/scripts/games/fruity.sh) script from _PiKISS_.
 
 Let's play!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2TqFE5EBszI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-Link: [retroguru.com > fruity](http://www.retroguru.com/fruity/)
+Link: [retroguru.com > fruity](https://www.retroguru.com/fruity/)

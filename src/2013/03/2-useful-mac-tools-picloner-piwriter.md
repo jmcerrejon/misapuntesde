@@ -8,11 +8,11 @@ date: 2013-03-12 08:30:00
 prev: /
 next: false
 category:
-  - Raspberry PI
-  - Apple
+    - Raspberry PI
+    - Apple
 tag:
-  - Raspberry PI
-  - Apple
+    - Raspberry PI
+    - Apple
 image: /images/piclonerwriter.jpg
 ---
 
@@ -20,9 +20,9 @@ image: /images/piclonerwriter.jpg
 
 ![pipi](/images/piclonerwriter.jpg)
 
-I have two applications on *Mac* to create a backup of your SD card *(PiCloner)* and another that is a graphical interface to copy the operating system from the *.img* file to *SD (PiWriter).*
+I have two applications on _Mac_ to create a backup of your SD card _(PiCloner)_ and another that is a graphical interface to copy the operating system from the _.img_ file to _SD (PiWriter)._
 
-Remember the right way to do the same as *PiWriter* in the Mac Terminal:
+Remember the right way to do the same as _PiWriter_ in the Mac Terminal:
 
 ```bash
 
@@ -34,6 +34,6 @@ $ diskutil eject /dev/diskN
 
 ```
 
-Link: [PiCloner](http://sourceforge.net/projects/picloner/)
+Link: [PiCloner](https://sourceforge.net/projects/picloner/)
 
-Link: [PiWriter](http://sourceforge.net/projects/piwriter/)
+Link: [PiWriter](https://sourceforge.net/projects/piwriter/)

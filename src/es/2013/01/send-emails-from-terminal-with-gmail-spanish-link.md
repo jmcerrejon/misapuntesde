@@ -8,9 +8,9 @@ date: 2013-01-17 08:30:00
 prev: /es/
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/rsppi.jpg
 ---
 
@@ -22,4 +22,4 @@ image: /images/rsppi.jpg
 
 Nos llega a la redacción la noticia de que SuperRSPPI tiene un nuevo Super poder. Hablamos de poder mandar emails por ejemplo para el envio de alertas desde la RasPi, o cualquier cosa que se te ocurra.
 
-Enlace: [RSPPI](http://rsppi.blogspot.com.es/2013/01/envio-de-emails-desde-consola-y-con.html)
+Enlace: [RSPPI](https://rsppi.blogspot.com.es/2013/01/envio-de-emails-desde-consola-y-con.html)

@@ -8,9 +8,9 @@ date: 2016-03-07 11:15:00
 prev: /
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/2016/03/meetup.png
 ---
 
@@ -20,6 +20,6 @@ Sevilla Meetup: Simple and practical projects with Raspberry Pi
 
 ![meetup](/images/2016/03/meetup.png)
 
-This *Saturday* you have an appointment in Seville where *Bernardo Ronquillo*  show you several projects that we can do with our *Raspberry Pi*.
+This _Saturday_ you have an appointment in Seville where _Bernardo Ronquillo_ show you several projects that we can do with our _Raspberry Pi_.
 
-More Info: [meetup.com](http://www.meetup.com/es-ES/RaspberryPi-Hackers-en-Sevilla/events/229259308/)
+More Info: [meetup.com](https://www.meetup.com/es-ES/RaspberryPi-Hackers-en-Sevilla/events/229259308/)

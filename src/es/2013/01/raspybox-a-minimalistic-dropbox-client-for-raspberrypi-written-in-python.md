@@ -8,9 +8,9 @@ date: 2013-01-26 07:20:00
 prev: /es/
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/dropbox.jpg
 ---
 
@@ -18,10 +18,10 @@ image: /images/dropbox.jpg
 
 ![dropbox](/images/dropbox.jpg)
 
-Bastante útil para los que usamos *Dropbox* como servicio de almacenamiento en la nube.
+Bastante útil para los que usamos _Dropbox_ como servicio de almacenamiento en la nube.
 
 Nos va a permitir crear ficheros, subir, descargar, navegar,...
 
-Requiere *Python Dropbox SDK* y crear una aplicación en la web de desarrollador de *Dropbox*.
+Requiere _Python Dropbox SDK_ y crear una aplicación en la web de desarrollador de _Dropbox_.
 
-Enlace: [raspybox](http://sourceforge.net/projects/raspybox/) 
+Enlace: [raspybox](https://sourceforge.net/projects/raspybox/)

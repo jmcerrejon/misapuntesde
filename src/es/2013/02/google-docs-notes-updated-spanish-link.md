@@ -8,9 +8,9 @@ date: 2013-02-26 08:50:00
 prev: /es/
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /css/images/raspi_icon.png
 ---
 
@@ -18,8 +18,8 @@ image: /css/images/raspi_icon.png
 
 ![Rpi](/css/images/raspi_icon.png)
 
-Veo que mi documento de *Google Docs* tiene casi el mismo éxito (o más) que este blog :P
+Veo que mi documento de _Google Docs_ tiene casi el mismo éxito (o más) que este blog :P
 
-He actualizado y ordenado las secciones de blogs, foros, etc... 
+He actualizado y ordenado las secciones de blogs, foros, etc...
 
-Enlace: [G Docs](http://goo.gl/Iwhbq)
+Enlace: [G Docs](https://goo.gl/Iwhbq)

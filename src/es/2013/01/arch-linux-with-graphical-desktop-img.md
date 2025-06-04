@@ -8,9 +8,9 @@ date: 2013-01-21 10:10:00
 prev: /es/
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/archpi_5002.jpg
 ---
 
@@ -18,24 +18,24 @@ image: /images/archpi_5002.jpg
 
 ![archlinux](/images/archpi_5002.jpg)
 
-Un usuario del foro en [raspberrypi.org](http://www.raspberrypi.org/phpBB3/viewtopic.php?f=63&t=30272) a puesto a disposición de todos una imagen preparada con *Arch Linux* y entorno gráfico entre otros paquetes con muy buenos resultados.
+Un usuario del foro en [raspberrypi.org](https://www.raspberrypi.org/phpBB3/viewtopic.php?f=63&t=30272) a puesto a disposición de todos una imagen preparada con _Arch Linux_ y entorno gráfico entre otros paquetes con muy buenos resultados.
 
-Si siempre has tenido miedo de *Arch Linux* o no te funciona como si fueras un usuario avanzado, esta es tu oportunidad ;)
+Si siempre has tenido miedo de _Arch Linux_ o no te funciona como si fueras un usuario avanzado, esta es tu oportunidad ;)
 
-- - -
+---
 
-Inicia sesión con *root* y password *root*. El entorno utilizado es *Oppenbox* con *Rox*. Está overcloqueada a 930 Mhz y viene con una serie de paquetes preinstalados:
+Inicia sesión con _root_ y password _root_. El entorno utilizado es _Oppenbox_ con _Rox_. Está overcloqueada a 930 Mhz y viene con una serie de paquetes preinstalados:
 
-* MIT Scheme
-* Leafpad
-* Mtpaint
-* Mupdf
-* wireless_tools y wpa_supplicant
-* Tigervnc
-* Python 3.1.4 compilados desde el código fuente.
-* Sin navegador web, pero si deseas instalarlo: *pacman -S midori*
+-   MIT Scheme
+-   Leafpad
+-   Mtpaint
+-   Mupdf
+-   wireless_tools y wpa_supplicant
+-   Tigervnc
+-   Python 3.1.4 compilados desde el código fuente.
+-   Sin navegador web, pero si deseas instalarlo: _pacman -S midori_
 
-La imagen cabe en una SD de 2 Gb. Posee una partición swap. Para ejecutar el servidor VNC, escribe simplemente *vnc.sh* (password es *button*). Una vez tengas instalada tu tarjeta *WIFI*, hay un script para configurarla llamada *wifi.sh*
+La imagen cabe en una SD de 2 Gb. Posee una partición swap. Para ejecutar el servidor VNC, escribe simplemente _vnc.sh_ (password es _button_). Una vez tengas instalada tu tarjeta _WIFI_, hay un script para configurarla llamada _wifi.sh_
 
 Enlace: [Readme](https://www.dropbox.com/s/eaxtwnm5uta6asn/README.txt)
 

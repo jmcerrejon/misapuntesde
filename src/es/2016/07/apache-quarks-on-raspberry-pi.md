@@ -8,9 +8,9 @@ date: 2016-07-04 12:05:00
 prev: /es/
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/2016/07/quarks.png
 ---
 
@@ -18,13 +18,14 @@ image: /images/2016/07/quarks.png
 
 ![Quarks](/images/2016/07/quarks.png)
 
-*Apache Quarks* es un modelo de programación y micro-kernel que puede ser embebido en *SBC*. Permiten en tiempo real, análisis de las corrientes continuas de datos procedentes de equipos, vehículos, sistemas, aparatos, dispositivos y sensores de todo tipo (por ejemplo, *Raspberry Pi* o teléfonos inteligentes). Trabajando en conjunto con los sistemas analíticos centralizados, *Apache Quarks* proporciona análisis eficiente a través de todo el ecosistema del *IoT*.
+_Apache Quarks_ es un modelo de programación y micro-kernel que puede ser embebido en _SBC_. Permiten en tiempo real, análisis de las corrientes continuas de datos procedentes de equipos, vehículos, sistemas, aparatos, dispositivos y sensores de todo tipo (por ejemplo, _Raspberry Pi_ o teléfonos inteligentes). Trabajando en conjunto con los sistemas analíticos centralizados, _Apache Quarks_ proporciona análisis eficiente a través de todo el ecosistema del _IoT_.
 
-En el vídeo a continuación, se dan unas nociones básicas y nos enseñan cómo prerarar el ecosistema para enviar los datos del sensor de temperatura de la Raspberry Pi a una cuenta de [IBM Watson](http://www.ibm.com/watson/), la cual nos ayudará a tratar los datos de forma masiva.
+En el vídeo a continuación, se dan unas nociones básicas y nos enseñan cómo prerarar el ecosistema para enviar los datos del sensor de temperatura de la Raspberry Pi a una cuenta de [IBM Watson](https://www.ibm.com/watson/), la cual nos ayudará a tratar los datos de forma masiva.
 
 Si os interesa, os dejo un vídeo de introducción y algunos enlaces de interés después del salto...
 
-- - -
+---
+
 <iframe width="512" height="288" src="https://www.youtube.com/embed/59XwIEpRJn8?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 +Info: [developer.ibm.com > videos](https://developer.ibm.com/open/videos/)

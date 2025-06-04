@@ -8,9 +8,9 @@ date: 2013-06-07 13:20:00
 prev: /
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/rpiTV.jpg
 ---
 
@@ -18,12 +18,12 @@ image: /images/rpiTV.jpg
 
 ![rpiTV](/images/rpiTV.jpg)
 
-Fantastic *DIY* for this weekend!
+Fantastic _DIY_ for this weekend!
 
-Now I've sold my *AppleTV*, the hardest part is handle with the *SmartTV*, the remote control and the onscreen keyboard.
+Now I've sold my _AppleTV_, the hardest part is handle with the _SmartTV_, the remote control and the onscreen keyboard.
 
-With this project you can send content from your mobile. It is based on the use of various technologies with success, especially with *Raspbian* like operating system and various applications such *omxplayer* or *youtube-dl* among others and *Chromium* running in the background.
+With this project you can send content from your mobile. It is based on the use of various technologies with success, especially with _Raspbian_ like operating system and various applications such _omxplayer_ or _youtube-dl_ among others and _Chromium_ running in the background.
 
 A little further along, but worth it.
 
-Link: [Donald Dereck - Build your own Google TV](http://blog.donaldderek.com/2013/06/build-your-own-google-tv-using-raspberrypi-nodejs-and-socket-io/)
+Link: [Donald Dereck - Build your own Google TV](https://blog.donaldderek.com/2013/06/build-your-own-google-tv-using-raspberrypi-nodejs-and-socket-io/)

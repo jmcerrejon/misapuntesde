@@ -8,9 +8,9 @@ date: 2016-02-14 13:00:00
 prev: /es/
 next: false
 category:
-  - Developer
+    - Developer
 tag:
-  - Developer
+    - Developer
 image: /images/2016/02/love_es.png
 ---
 
@@ -18,10 +18,11 @@ image: /images/2016/02/love_es.png
 
 ![love_es](/images/2016/02/love_es.png)
 
-Si, tengo una mujer adorable que me quiere y una hija maravillosa. **¿Qué hago aquí?**. Pues que me he levantado con ganas de mejorar un *script* que tenía pendiente hace años con el que poder: Redimensionar una imagen *png*, optimizarla, subirla por *ftp* y copiar el resultado al portapapeles con formato *Markdown*. El código funciona tanto en *OSX* como en *Linux*...
+Si, tengo una mujer adorable que me quiere y una hija maravillosa. **¿Qué hago aquí?**. Pues que me he levantado con ganas de mejorar un _script_ que tenía pendiente hace años con el que poder: Redimensionar una imagen _png_, optimizarla, subirla por _ftp_ y copiar el resultado al portapapeles con formato _Markdown_. El código funciona tanto en _OSX_ como en _Linux_...
 
-- - -
-Esta semana ha sido para mí bastante productiva y he aprovechado sobretodo para optimizar las herramientas diarias con las que trabajo y así mejorar mi *workflow*. Ahora tardo menos tiempo en hacer ciertas tareas que a veces son bastante tediosas y por pereza no solía mejorar. Lo he testeado con *OSX*, pero debería funcionar en *Linux* también con unos cuantos ajustes. 
+---
+
+Esta semana ha sido para mí bastante productiva y he aprovechado sobretodo para optimizar las herramientas diarias con las que trabajo y así mejorar mi _workflow_. Ahora tardo menos tiempo en hacer ciertas tareas que a veces son bastante tediosas y por pereza no solía mejorar. Lo he testeado con _OSX_, pero debería funcionar en _Linux_ también con unos cuantos ajustes.
 
 Os dejo con el código:
 
@@ -51,7 +52,7 @@ for f in "$@"
 do
     IMGNAME=${f##*/}
     IMGNOEXT=${IMGNAME%.png}
-    OUTPUT_MSG="![$IMGNOEXT](http://${FTP[2]}${FTP[3]}$IMGNAME)"
+    OUTPUT_MSG="![$IMGNOEXT](https://${FTP[2]}${FTP[3]}$IMGNAME)"
     # Resize to a temporal file
     convert -resize 512 "$f" "$IMGNOEXT"_res.png
     # Backup original file
@@ -65,13 +66,14 @@ do
     # Do the magic with ftp upload
     curl -T "$f" -u ${FTP[0]}:${FTP[1]} ftp://${FTP[2]}${FTP[3]}
     # Copy to clipboard on OSX
-    echo "$OUTPUT_MSG" | pbcopy 
+    echo "$OUTPUT_MSG" | pbcopy
     # On Debian, you can use the package xclip and uncomment the next two lines
     # echo "$OUTPUT_MSG" | xclip -selection clipboard
     # notify-send "Uploaded image copied to clipboard" --icon=mail-signed-verified
 done
 ```
-### ### Bajo licencia [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/)
+
+### ### Bajo licencia [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
 Con este simple código me ahorro horas de trabajo con el que poder disfrutar de mi familia.
 

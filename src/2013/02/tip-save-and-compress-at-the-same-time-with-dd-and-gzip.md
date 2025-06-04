@@ -8,11 +8,11 @@ date: 2013-02-24 19:20:00
 prev: /
 next: false
 category:
-  - Raspberry PI
-  - Linux
+    - Raspberry PI
+    - Linux
 tag:
-  - Raspberry PI
-  - Linux
+    - Raspberry PI
+    - Linux
 ---
 
 # Tip: save and compress at the same time with dd and gzip
@@ -26,15 +26,15 @@ To save and compress, the command is as follows (replace xxx with the ID of your
 dd if=/dev/xxx conv=sync,noerror bs=4m | gzip -c > xxx.img.gz
 
 ```
- 
+
 To decompress and restore, the command is as follows (replace xxx with the ID of your disc):
 
 ```bash
 
-gunzip -c xxx.img.gz | dd of=/dev/xxx conv=sync,noerror bs=4m 
+gunzip -c xxx.img.gz | dd of=/dev/xxx conv=sync,noerror bs=4m
 
 ```
 
-For other operating system than *OSX*, use capital M. 
+For other operating system than _OSX_, use capital M.
 
-Source: [pihomeserver.wordpress.com](http://pihomeserver.wordpress.com/2013/02/07/astuce-sauvegarder-et-compresser-en-meme-temps-avec-dd-et-gzip/)
+Source: [pihomeserver.wordpress.com](https://pihomeserver.wordpress.com/2013/02/07/astuce-sauvegarder-et-compresser-en-meme-temps-avec-dd-et-gzip/)

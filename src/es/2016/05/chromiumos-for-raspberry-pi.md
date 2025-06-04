@@ -8,9 +8,9 @@ date: 2016-05-05 10:00:00
 prev: /es/
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/2016/05/chromium_OS.png
 ---
 
@@ -18,8 +18,8 @@ image: /images/2016/05/chromium_OS.png
 
 ![ChromiumOS](/images/2016/05/chromium_OS.png)
 
-*Chromium OS* es un proyecto de código abierto que tiene como objetivo construir un sistema operativo que proporciona un sistema operativo simple y seguro para personas que pasan la mayor parte de su tiempo en la web.
+_Chromium OS_ es un proyecto de código abierto que tiene como objetivo construir un sistema operativo que proporciona un sistema operativo simple y seguro para personas que pasan la mayor parte de su tiempo en la web.
 
-*Dylan Callahan* nos trae la versión 0.5 de este proyecto que pretende cobrar vida en nuestra pequeña Raspberry Pi 2 ó 3. Según la release note, soporta GPU aunque con limitaciones según resolución, y nada de *WiFi* de la Pi 3 por ahora. Tampoco soporta aún *Netflix*.
+_Dylan Callahan_ nos trae la versión 0.5 de este proyecto que pretende cobrar vida en nuestra pequeña Raspberry Pi 2 ó 3. Según la release note, soporta GPU aunque con limitaciones según resolución, y nada de _WiFi_ de la Pi 3 por ahora. Tampoco soporta aún _Netflix_.
 
-Enlace: [chromiumosforsbc.org/](http://www.chromiumosforsbc.org/)
+Enlace: [chromiumosforsbc.org/](https://www.chromiumosforsbc.org/)

@@ -8,9 +8,9 @@ date: 2014-01-17 08:48:39
 prev: /
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/2014/01/stats.jpg
 ---
 
@@ -18,9 +18,9 @@ image: /images/2014/01/stats.jpg
 
 ![stats](/images/2014/01/stats.jpg)
 
-I feel like *Dicaprio*. Several [reddit.com](http://reddit.com) users have linked an article on my blog [here](http://www.reddit.com/r/Games/duplicates/1vd7l6/streaming_pc_games_to_raspberry_pi_nvidia/) and the num. of visitors has grown as you can see in the graph. I'm still freaking out!. Thanks!
+I feel like _Dicaprio_. Several [reddit.com](https://reddit.com) users have linked an article on my blog [here](https://www.reddit.com/r/Games/duplicates/1vd7l6/streaming_pc_games_to_raspberry_pi_nvidia/) and the num. of visitors has grown as you can see in the graph. I'm still freaking out!. Thanks!
 
-Clearly that will not be repeated again, but has encouraged me to make an article that many people have asked me by e-mail: Review of the [RetroPie guide](/post.php?id=109) I published in March last year and possibly the article with more visits I've achieved since I started the blog. 
+Clearly that will not be repeated again, but has encouraged me to make an article that many people have asked me by e-mail: Review of the [RetroPie guide](/post.php?id=109) I published in March last year and possibly the article with more visits I've achieved since I started the blog.
 
 So keep an eye this weekend...
 

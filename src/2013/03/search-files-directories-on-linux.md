@@ -8,11 +8,11 @@ date: 2013-03-19 12:35:00
 prev: /
 next: false
 category:
-  - Raspberry PI
-  - Linux
+    - Raspberry PI
+    - Linux
 tag:
-  - Raspberry PI
-  - Linux
+    - Raspberry PI
+    - Linux
 image: /images/Terminal_01.jpg
 ---
 
@@ -22,8 +22,9 @@ image: /images/Terminal_01.jpg
 
 Today we will learn how to search files and directories filtered with various parameters.
 
-- - -
-The command we use is *find.* Consider a few examples:
+---
+
+The command we use is _find._ Consider a few examples:
 
 ```bash
 
@@ -33,15 +34,15 @@ The command we use is *find.* Consider a few examples:
 
 search:
 
-* The complete system (/)
+-   The complete system (/)
 
-* All files or directories containing *hta* ('*hta*')
+-   All files or directories containing _hta_ ('_hta_')
 
-* Ignoring case (-iname)
+-   Ignoring case (-iname)
 
-* With size larger than 100MB (-size +100 M)
+-   With size larger than 100MB (-size +100 M)
 
-* Files modified more than 3 days
+-   Files modified more than 3 days
 
 ```bash
 
@@ -59,6 +60,6 @@ As a final command, the following will search the folder sizes ordered from lowe
 
 ```
 
-Link: [BUSCANDO FICHEROS EN GNU/LINUX: COMANDO FIND](http://flossblog.wordpress.com/2012/11/30/buscando-ficheros-en-gnulinux-comando-find/)
+Link: [BUSCANDO FICHEROS EN GNU/LINUX: COMANDO FIND](https://flossblog.wordpress.com/2012/11/30/buscando-ficheros-en-gnulinux-comando-find/)
 
 Link: [Tamaño de las carpetas ordenado de menor a mayor](https://snipt.net/serialsito/tamano-de-las-carpetas-ordenado-de-menor-a-mayor/)

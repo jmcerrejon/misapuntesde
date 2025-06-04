@@ -8,9 +8,9 @@ date: 2013-09-12 10:45:00
 prev: /
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/speaker.jpg
 ---
 
@@ -18,11 +18,12 @@ image: /images/speaker.jpg
 
 ![speaker](/images/speaker.jpg)
 
-*Raspberry Pi* came with many purposes, but had never thought that a PCB with the size of a credit card provide to us the facilities it has.
+_Raspberry Pi_ came with many purposes, but had never thought that a PCB with the size of a credit card provide to us the facilities it has.
 
-- - -
-*Joan* show us on his blog a script that play with *mpg123* random songs and interspersed with spoken news from the portal *meneame.net* with *festival* in Spanish.
+---
 
-Thanks *Joan*.
+_Joan_ show us on his blog a script that play with _mpg123_ random songs and interspersed with spoken news from the portal _meneame.net_ with _festival_ in Spanish.
 
-Link: [jcatala.net > meneamepi-leyendo-noticias-y-escuchando-musica-desde-raspberry-pi](http://jcatala.net/categoria-gnulinux/meneamepi-leyendo-noticias-y-escuchando-musica-desde-raspberry-pi)
+Thanks _Joan_.
+
+Link: [jcatala.net > meneamepi-leyendo-noticias-y-escuchando-musica-desde-raspberry-pi](https://jcatala.net/categoria-gnulinux/meneamepi-leyendo-noticias-y-escuchando-musica-desde-raspberry-pi)

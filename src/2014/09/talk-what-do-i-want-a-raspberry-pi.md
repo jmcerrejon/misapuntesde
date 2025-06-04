@@ -8,9 +8,9 @@ date: 2014-09-02 05:40:00
 prev: /
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/2014/09/capture_bb.png
 ---
 
@@ -18,9 +18,9 @@ image: /images/2014/09/capture_bb.png
 
 ![Betabeer](/images/2014/09/capture_bb.png)
 
-As I mentioned in my last post, on *Friday* I gave a talk in my hometown about the Raspberry Pi and I've spent the last three days adding english subtitles. I leave the link to the video on *Youtube* and any comments, you know.
+As I mentioned in my last post, on _Friday_ I gave a talk in my hometown about the Raspberry Pi and I've spent the last three days adding english subtitles. I leave the link to the video on _Youtube_ and any comments, you know.
 
-I thank [raspipc.es](http://raspipc.es) for give us one Kit with a Raspberry Pi to gift in the event.
+I thank [raspipc.es](https://raspipc.es) for give us one Kit with a Raspberry Pi to gift in the event.
 
 ![smiling](/css/sm/happy_smiling.png)
 

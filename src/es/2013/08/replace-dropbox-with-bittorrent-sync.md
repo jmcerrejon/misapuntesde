@@ -8,9 +8,9 @@ date: 2013-08-27 08:00:00
 prev: /es/
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/bittorrent_sync.jpg
 ---
 
@@ -18,13 +18,14 @@ image: /images/bittorrent_sync.jpg
 
 ![bittorrent sync](/images/bittorrent_sync.jpg)
 
-He cambiado hace poco de servicio de almacenamiento en la nube. Los 7 GB que tenía disponibles en *Dropbox* se me han quedado pequeños. He pasado a [Box](https://app.box.com) y ahora sus 25 GB me sobran...
+He cambiado hace poco de servicio de almacenamiento en la nube. Los 7 GB que tenía disponibles en _Dropbox_ se me han quedado pequeños. He pasado a [Box](https://app.box.com) y ahora sus 25 GB me sobran...
 
-- - -
-Es curioso que no pensara en utilizar la *Raspberry Pi* para almacenar y tener sincronizados todos los ficheros que más uso en mis equipos, ya sean *PC (Windows, OSX, Linux)*, tablets o móviles.
+---
 
-*Jack Minardi* nos regala este tutorial para tener sincronizados los ficheros en todo momento haciendo a la *Raspberry Pi* como nodo principal. 
+Es curioso que no pensara en utilizar la _Raspberry Pi_ para almacenar y tener sincronizados todos los ficheros que más uso en mis equipos, ya sean _PC (Windows, OSX, Linux)_, tablets o móviles.
 
-Aviso que no tiene nada que ver con compartir tus ficheros en la gran red de *torrent* que hay en internet, sino en usar este protocolo para mantener online nuestros ficheros.
+_Jack Minardi_ nos regala este tutorial para tener sincronizados los ficheros en todo momento haciendo a la _Raspberry Pi_ como nodo principal.
 
-Enlace: [jack.minardi.org : Replace Dropbox with BitTorrent Sync and a Raspberry Pi](http://jack.minardi.org/raspberry_pi/replace-dropbox-with-bittorrent-sync-and-a-raspberry-pi/)
+Aviso que no tiene nada que ver con compartir tus ficheros en la gran red de _torrent_ que hay en internet, sino en usar este protocolo para mantener online nuestros ficheros.
+
+Enlace: [jack.minardi.org : Replace Dropbox with BitTorrent Sync and a Raspberry Pi](https://jack.minardi.org/raspberry_pi/replace-dropbox-with-bittorrent-sync-and-a-raspberry-pi/)

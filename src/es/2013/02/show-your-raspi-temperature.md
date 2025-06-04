@@ -8,9 +8,9 @@ date: 2013-02-25 14:15:00
 prev: /es/
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/RaspberryPiHot.png
 ---
 
@@ -20,7 +20,7 @@ image: /images/RaspberryPiHot.png
 
 Acabo de encontrar un script para mostrar la temperatura bajo terminal de tu RasPi. Si te interesa...
 
-- - -
+---
 
 ```bash
 #!/bin/bash
@@ -31,7 +31,7 @@ Acabo de encontrar un script para mostrar la temperatura bajo terminal de tu Ras
 #	40 grados o menos -> verde (32)
 #	Entre 41 y 54 -> amarillo (33)
 #	Superior o igual a 55 -> rojo (31)
-# http://belinuxmyfriend.blogspot.com
+# https://belinuxmyfriend.blogspot.com
 
 mgrados='cat /sys/class/thermal/thermal_zone0/temp'
 engrados='expr $mgrados / 1000'

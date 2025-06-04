@@ -8,9 +8,9 @@ date: 2013-02-26 08:50:00
 prev: /
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /css/images/raspi_icon.png
 ---
 
@@ -18,10 +18,10 @@ image: /css/images/raspi_icon.png
 
 ![Rpi](/css/images/raspi_icon.png)
 
-I see my *Google Docs' notes* has nearly the same success (or even more) that this blog :P
+I see my _Google Docs' notes_ has nearly the same success (or even more) that this blog :P
 
 I updated and ordered the next sections: blogs, forums, Other blogs
 
 It's in spanish, but links are mainly in english.
 
-Link: [G Docs](http://goo.gl/Iwhbq)
+Link: [G Docs](https://goo.gl/Iwhbq)

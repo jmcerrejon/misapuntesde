@@ -8,24 +8,25 @@ date: 2013-04-13 15:00:00
 prev: /
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 ---
 
 # PiMAME 0.4 Beta 4
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/xyj-a1OqA-w" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xyj-a1OqA-w" frameborder="0" allowfullscreen></iframe>
 
-New version of this distribution which now supports more emulators. From here we give *Shea Silverman* Congratulations on your marriage, because he has been married a few weeks ago.
+New version of this distribution which now supports more emulators. From here we give _Shea Silverman_ Congratulations on your marriage, because he has been married a few weeks ago.
 
-- - -
-Curious that this distribution called *PiMAME* and we all know, now support more emulators and somewhat neglected which gives it its name, as there is a speed problem in *AdvancedMAME.*
+---
+
+Curious that this distribution called _PiMAME_ and we all know, now support more emulators and somewhat neglected which gives it its name, as there is a speed problem in _AdvancedMAME._
 
 This release includes:
 
-* *Neo Geo* support with the *GNGeo* emulator!!! (Full Speed and Audio)
-* *Neo Geo* roms and bios are stored in the same Roms folder.
-* *Raspbian* upgraded and updated.
+-   _Neo Geo_ support with the _GNGeo_ emulator!!! (Full Speed and Audio)
+-   _Neo Geo_ roms and bios are stored in the same Roms folder.
+-   _Raspbian_ upgraded and updated.
 
-Download: [PiMAME](http://blog.sheasilverman.com/pimame-raspberry-pi-os-download/)
+Download: [PiMAME](https://blog.sheasilverman.com/pimame-raspberry-pi-os-download/)

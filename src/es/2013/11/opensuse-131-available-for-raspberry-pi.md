@@ -8,9 +8,9 @@ date: 2013-11-21 12:15:00
 prev: /es/
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/opensuse.png
 ---
 
@@ -18,27 +18,28 @@ image: /images/opensuse.png
 
 ![OpenSUSE](/images/opensuse.png)
 
-Tenemos disponible hace unos días la última versión para *OpenSUSE 13.1*, tanto para escritorio como para *Raspberry Pi*. Si quieres jugar un poco con esta distro en tu RasPi, vamos a ver algunas características para que la tengas en cuenta...
+Tenemos disponible hace unos días la última versión para _OpenSUSE 13.1_, tanto para escritorio como para _Raspberry Pi_. Si quieres jugar un poco con esta distro en tu RasPi, vamos a ver algunas características para que la tengas en cuenta...
 
-- - -
-* Minimalista.
+---
 
-* Es más fácil cambiar el tamaño de la partición porque ahora root es la última.
+-   Minimalista.
 
-* Imagen comprimida es mucho menor que la de antes.
+-   Es más fácil cambiar el tamaño de la partición porque ahora root es la última.
 
-* Fácil de personalizar.
+-   Imagen comprimida es mucho menor que la de antes.
 
-* Es ARMv6 con soporte de punto flotante (más rápida).
+-   Fácil de personalizar.
 
-* Cuenta con más de 5200 paquetes construidos con éxito de [openSUSE:Factory:ARM](http://download.opensuse.org/ports/armv6hl/factory/repo/oss/). Si quieres ver los cambios diarios en los paquetes tienen un [log](http://download.opensuse.org/ports/armv6hl/factory/repo/oss/ChangeLog) con todo lujo de detalles.
+-   Es ARMv6 con soporte de punto flotante (más rápida).
 
-* Así que por ejemplo se puede instalar un entorno gráfico minimalista con **zypper install xauth twm xinit xorg-x11-server** y arrancar con *startx*
+-   Cuenta con más de 5200 paquetes construidos con éxito de [openSUSE:Factory:ARM](https://download.opensuse.org/ports/armv6hl/factory/repo/oss/). Si quieres ver los cambios diarios en los paquetes tienen un [log](https://download.opensuse.org/ports/armv6hl/factory/repo/oss/ChangeLog) con todo lujo de detalles.
 
-Descarga: [raspberrypi-opensuse-20131110x.img.xz (104 MB)](http://www.zq1.de/~bernhard/linux/opensuse/raspberrypi-opensuse-20131110x.img.xz)
+-   Así que por ejemplo se puede instalar un entorno gráfico minimalista con **zypper install xauth twm xinit xorg-x11-server** y arrancar con _startx_
+
+Descarga: [raspberrypi-opensuse-20131110x.img.xz (104 MB)](https://www.zq1.de/~bernhard/linux/opensuse/raspberrypi-opensuse-20131110x.img.xz)
 
 HOWTO: [en.opensuse.org](https://en.opensuse.org/HCL:Raspberry_Pi)
 
-Enlace: [lizards.opensuse.org](http://lizards.opensuse.org/2013/09/07/new-raspberry-pi-image/)
+Enlace: [lizards.opensuse.org](https://lizards.opensuse.org/2013/09/07/new-raspberry-pi-image/)
 
 Enlace: [openSUSE on RaspberryPi with ownCloud](https://dragotin.wordpress.com/2013/11/19/opensuse-on-raspberrypi-with-owncloud)

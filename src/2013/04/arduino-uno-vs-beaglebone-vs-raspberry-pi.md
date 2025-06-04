@@ -8,9 +8,9 @@ date: 2013-04-16 10:00:00
 prev: /
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/ardubeagleraspi.jpg
 ---
 
@@ -18,8 +18,8 @@ image: /images/ardubeagleraspi.jpg
 
 ![ardubeagleraspi](/images/ardubeagleraspi.jpg)
 
-I have a few days between work extreme fighting with *MySQL* and leisure spending *PAL to NTSC* audio from *Mac* to put in a video. Let's see if I can tinker with Raspi, as I have prepared several tutorials that I hope you like them.
+I have a few days between work extreme fighting with _MySQL_ and leisure spending _PAL to NTSC_ audio from _Mac_ to put in a video. Let's see if I can tinker with Raspi, as I have prepared several tutorials that I hope you like them.
 
-I leave you with an article of those where we like to compare these three *monsters* of the digital age, they are the jewel of microcontrollers.
+I leave you with an article of those where we like to compare these three _monsters_ of the digital age, they are the jewel of microcontrollers.
 
-Link: [makezine blog](http://blog.makezine.com/2013/04/15/arduino-uno-vs-beaglebone-vs-raspberry-pi/)
+Link: [makezine blog](https://blog.makezine.com/2013/04/15/arduino-uno-vs-beaglebone-vs-raspberry-pi/)

@@ -8,9 +8,9 @@ date: 2013-09-12 10:45:00
 prev: /es/
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/speaker.jpg
 ---
 
@@ -18,11 +18,12 @@ image: /images/speaker.jpg
 
 ![speaker](/images/speaker.jpg)
 
-*Raspberry Pi* llegó con muchos propósitos, pero nunca habíamos pensado que una placa del tamaño de una tarjeta de crédito nos pudiera facilitar la vida de la manera que lo hace.
+_Raspberry Pi_ llegó con muchos propósitos, pero nunca habíamos pensado que una placa del tamaño de una tarjeta de crédito nos pudiera facilitar la vida de la manera que lo hace.
 
-- - -
-*Joan* lo tiene claro y lo demuestra en su blog: mediante *mpg123* ejecuta canciones de manera aleatoria y las intercala con noticias habladas del portal *meneame.net* mediante *festival* en castellano. ¿Se puede pedir más?.
+---
 
-Gracias *Joan*.
+_Joan_ lo tiene claro y lo demuestra en su blog: mediante _mpg123_ ejecuta canciones de manera aleatoria y las intercala con noticias habladas del portal _meneame.net_ mediante _festival_ en castellano. ¿Se puede pedir más?.
 
-Enlace: [jcatala.net > meneamepi-leyendo-noticias-y-escuchando-musica-desde-raspberry-pi](http://jcatala.net/categoria-gnulinux/meneamepi-leyendo-noticias-y-escuchando-musica-desde-raspberry-pi)
+Gracias _Joan_.
+
+Enlace: [jcatala.net > meneamepi-leyendo-noticias-y-escuchando-musica-desde-raspberry-pi](https://jcatala.net/categoria-gnulinux/meneamepi-leyendo-noticias-y-escuchando-musica-desde-raspberry-pi)

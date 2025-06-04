@@ -8,11 +8,11 @@ date: 2016-09-12 15:35:00
 prev: /es/
 next: false
 category:
-  - Apple
-  - Linux
+    - Apple
+    - Linux
 tag:
-  - Apple
-  - Linux
+    - Apple
+    - Linux
 image: /images/2016/08/Subtitles-64.png
 ---
 
@@ -20,9 +20,9 @@ image: /images/2016/08/Subtitles-64.png
 
 ![subtitles](/images/2016/08/Subtitles-64.png)
 
-Un consejo rápido para extraer subtítulos de un fichero *.mp4* a través de la línea de comandos con la herramienta para *OSX/Linux MP4Box*.
+Un consejo rápido para extraer subtítulos de un fichero _.mp4_ a través de la línea de comandos con la herramienta para _OSX/Linux MP4Box_.
 
-. En *OSX*, usaremos [brew](http://brew.sh/) para instalar *MP4Box* y una vez instalado, obtendremos información sobre el fichero de vídeo del que queramos extraer el subtítulo:
+. En _OSX_, usaremos [brew](https://brew.sh/) para instalar _MP4Box_ y una vez instalado, obtendremos información sobre el fichero de vídeo del que queramos extraer el subtítulo:
 
 ```bash
 MP4Box -info input.mp4
@@ -41,11 +41,9 @@ Alternate Group ID 2
 ...
 ```
 
-
-Ahora buscamos el *Track* que queremos extraer (Son de tipo **sbtl:tx3g**). Si hay varios, busca los *"samples"* que son las líneas de subtitulos que tiene el fichero. Si son cortos, generalmente se trata de subtítulos forzados e importantes como pueden ser nombres de lugares, otros idiomas... Ahora le pasamos el ID del track a la siguiente instrucción:
+Ahora buscamos el _Track_ que queremos extraer (Son de tipo **sbtl:tx3g**). Si hay varios, busca los _"samples"_ que son las líneas de subtitulos que tiene el fichero. Si son cortos, generalmente se trata de subtítulos forzados e importantes como pueden ser nombres de lugares, otros idiomas... Ahora le pasamos el ID del track a la siguiente instrucción:
 
 ```bash
-MP4Box -srt <Track_ID> Input.mp4 
+MP4Box -srt <Track_ID> Input.mp4
 MP4Box -srt 4 input.mp4 # Ejemplo con el track anterior
 ```
-

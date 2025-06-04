@@ -8,9 +8,9 @@ date: 2013-03-29 08:30:00
 prev: /
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/xbmc.jpg
 ---
 
@@ -18,8 +18,8 @@ image: /images/xbmc.jpg
 
 ![xbmc](/images/xbmc.jpg)
 
-A blog reader of your favourite blog (this, of course) has done us the favor to all Spanish speakers to translate an article from *Linux Format* Magazine. Try to record and broadcast TV channels with a *Raspberry Pi*.
+A blog reader of your favourite blog (this, of course) has done us the favor to all Spanish speakers to translate an article from _Linux Format_ Magazine. Try to record and broadcast TV channels with a _Raspberry Pi_.
 
-The ingredients: *TDT-USB* receiver, *XBMC* and the plugin *TVheadend.*
+The ingredients: _TDT-USB_ receiver, _XBMC_ and the plugin _TVheadend._
 
-Link: [blamarpa blog](http://blamarpa.blogspot.com.es/2013/03/rapberry-pi-grabar-y-emitir-tv.html)
+Link: [blamarpa blog](https://blamarpa.blogspot.com.es/2013/03/rapberry-pi-grabar-y-emitir-tv.html)

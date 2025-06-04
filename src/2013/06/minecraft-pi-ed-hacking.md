@@ -8,9 +8,9 @@ date: 2013-06-12 10:00:00
 prev: /
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/mcpi_hacking.jpg
 ---
 
@@ -20,7 +20,7 @@ image: /images/mcpi_hacking.jpg
 
 **UPDATE:** the link is dead.
 
-I'm not a fan of *Minecraft*. Long time ago I've spent hours in front of my [3D Construction Kit](http://en.wikipedia.org/wiki/3D_Construction_Kit) when I was a teen. But it has a great community of fans, and one of you has created a series of *"hacks"* decompiling the binary (Is it legal?) so you can do some things that are not covered.
+I'm not a fan of _Minecraft_. Long time ago I've spent hours in front of my [3D Construction Kit](https://en.wikipedia.org/wiki/3D_Construction_Kit) when I was a teen. But it has a great community of fans, and one of you has created a series of _"hacks"_ decompiling the binary (Is it legal?) so you can do some things that are not covered.
 
 The Howto is not ended, but updates coming soon.
 

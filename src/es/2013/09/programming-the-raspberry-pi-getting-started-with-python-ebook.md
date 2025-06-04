@@ -8,9 +8,9 @@ date: 2013-09-30 09:00:00
 prev: /es/
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/2013/09/pi_Python.jpg
 ---
 
@@ -18,27 +18,28 @@ image: /images/2013/09/pi_Python.jpg
 
 ![pi Python](/images/2013/09/pi_Python.jpg)
 
-*Crea programas innovadores y divertidos juegos en su pequeña pero potente Raspberry Pi. En este libro, el gurú Simon Monk explica los conceptos básicos de desarrollo de aplicaciones en Raspberry Pi, mientras que proporciona ejemplos prácticos y listos para usar scripts. Vea cómo configurar el hardware y el software, escribir y depurar aplicaciones, crear interfaces fáciles de usar, y controlar dispositivos electrónicos externos. Proyectos DIY ("hágalo usted mismo") que incluyen un juego del ahorcado, un reloj LED, y un robot mecha controlado por software.*
+_Crea programas innovadores y divertidos juegos en su pequeña pero potente Raspberry Pi. En este libro, el gurú Simon Monk explica los conceptos básicos de desarrollo de aplicaciones en Raspberry Pi, mientras que proporciona ejemplos prácticos y listos para usar scripts. Vea cómo configurar el hardware y el software, escribir y depurar aplicaciones, crear interfaces fáciles de usar, y controlar dispositivos electrónicos externos. Proyectos DIY ("hágalo usted mismo") que incluyen un juego del ahorcado, un reloj LED, y un robot mecha controlado por software._
 
-- - -
-* Arranque y configuración de la Raspberry Pi
+---
 
-* Navegar archivos, carpetas y menús
+-   Arranque y configuración de la Raspberry Pi
 
-* Crear programas en Python usando el editor de IDLE
+-   Navegar archivos, carpetas y menús
 
-* Trabajar con cadenas, listas y funciones
+-   Crear programas en Python usando el editor de IDLE
 
-* Usar y escribir sus propias librerías, módulos y clases
+-   Trabajar con cadenas, listas y funciones
 
-* Añade funciones Web a sus programas
+-   Usar y escribir sus propias librerías, módulos y clases
 
-* Desarrollar juegos interactivos con Pygame
+-   Añade funciones Web a sus programas
 
-* Interfaz con dispositivos a través del puerto GPIO
+-   Desarrollar juegos interactivos con Pygame
 
-* Construir un Raspberry Pi Robot y Reloj LED
+-   Interfaz con dispositivos a través del puerto GPIO
 
-* Construir interfaces gráficas de calidad profesional usando Tkinker
+-   Construir un Raspberry Pi Robot y Reloj LED
 
-Comprar: [Amazon](http://www.amazon.es/Programming-Raspberry-Pi-Getting-ebook/dp/B009XPYHHA)
+-   Construir interfaces gráficas de calidad profesional usando Tkinker
+
+Comprar: [Amazon](https://www.amazon.es/Programming-Raspberry-Pi-Getting-ebook/dp/B009XPYHHA)

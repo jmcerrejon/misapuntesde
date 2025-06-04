@@ -8,9 +8,9 @@ date: 2013-01-14 12:47:00
 prev: /
 next: false
 category:
-  - General
+    - General
 tag:
-  - General
+    - General
 image: /images/money.jpg
 ---
 
@@ -18,6 +18,6 @@ image: /images/money.jpg
 
 ![money](/images/money.jpg)
 
-Just one hour from the begining, and my blog has a value. Exactly ***8,95$*** LOL
+Just one hour from the begining, and my blog has a value. Exactly **_8,95$_** LOL
 
-Link: [http://thedomainstat.com](http://thedomainstat.com/www/misapuntesde.com)
+Link: [https://thedomainstat.com](https://thedomainstat.com/www/misapuntesde.com)

@@ -8,9 +8,9 @@ date: 2014-06-05 05:50:08
 prev: /
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/2014/06/Syncthing.jpg
 ---
 
@@ -18,28 +18,29 @@ image: /images/2014/06/Syncthing.jpg
 
 ![Syncthing](/images/2014/06/Syncthing.jpg)
 
-We all know [bittorrent Sync](http://www.bittorrent.com/intl/es/sync) and [I talked about](/post.php?id=247) this method to have the files on hand. 
+We all know [bittorrent Sync](https://www.bittorrent.com/intl/es/sync) and [I talked about](/post.php?id=247) this method to have the files on hand.
 
-*Syncthing* becomes the solution to these open source systems such as centralized storage like *Dropbox*...
+_Syncthing_ becomes the solution to these open source systems such as centralized storage like _Dropbox_...
 
-- - -
-With *Syncthing* you have a way to store your data and have it available whenever you want and wherever you wan, using the *P2P* protocol. 
+---
+
+With _Syncthing_ you have a way to store your data and have it available whenever you want and wherever you wan, using the _P2P_ protocol.
 
 Some of its features are:
 
-* synchronize as many folders as you need with different people
+-   synchronize as many folders as you need with different people
 
-* responsive web GUI;
+-   responsive web GUI;
 
-* cross-platform: Syncthing works on Linux, Mac OS X, Windows, FreeBSD and Solaris. There's also an unofficial Android port;
+-   cross-platform: Syncthing works on Linux, Mac OS X, Windows, FreeBSD and Solaris. There's also an unofficial Android port;
 
-* Syncthing doesn't require advanced configuration and it should work out of the box, both over LAN and over the Internet;
+-   Syncthing doesn't require advanced configuration and it should work out of the box, both over LAN and over the Internet;
 
-* secure & private: the data is only stored on your computers, without using a central server;
-all communication is secured using TLS;
+-   secure & private: the data is only stored on your computers, without using a central server;
+    all communication is secured using TLS;
 
-* every node is identified by a strong cryptographic certificate and only nodes you have explicitly allowed can connect to your cluster;
+-   every node is identified by a strong cryptographic certificate and only nodes you have explicitly allowed can connect to your cluster;
 
-* open source app, open protocol.
+-   open source app, open protocol.
 
-Links: [webupd8.org](http://www.webupd8.org/2014/06/syncthing-open-source-bittorrent-sync.html) | [syncthing > syncthing-linux-armv6-v0.8.13.tar.gz](https://github.com/calmh/syncthing/releases/latest)
+Links: [webupd8.org](https://www.webupd8.org/2014/06/syncthing-open-source-bittorrent-sync.html) | [syncthing > syncthing-linux-armv6-v0.8.13.tar.gz](https://github.com/calmh/syncthing/releases/latest)

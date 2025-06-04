@@ -8,9 +8,9 @@ date: 2016-07-19 11:00:00
 prev: /
 next: false
 category:
-  - General
+    - General
 tag:
-  - General
+    - General
 image: /images/2016/07/god-save-the-brexit.png
 ---
 
@@ -18,10 +18,10 @@ image: /images/2016/07/god-save-the-brexit.png
 
 ![god-save-the-brexit](/images/2016/07/god-save-the-brexit.png)
 
-*Intel* has missed the opportunity. With the arrival of *Brexit*, the transaction has saved *Softbank* a lot of money.
+_Intel_ has missed the opportunity. With the arrival of _Brexit_, the transaction has saved _Softbank_ a lot of money.
 
-*ARM* is a company founded in *Cambridge*  with 3k employees and one of the biggest companies in the *UK*. If you have a mobile, probably have a *ARM* processor.
+_ARM_ is a company founded in _Cambridge_ with 3k employees and one of the biggest companies in the _UK_. If you have a mobile, probably have a _ARM_ processor.
 
-Link: [bbc.com](http://www.bbc.com/news/business-36822806)
+Link: [bbc.com](https://www.bbc.com/news/business-36822806)
 
-Link: [wired.co.uk](http://www.wired.co.uk/article/arm-softbank-deal-price-brexit-bidding-war)
+Link: [wired.co.uk](https://www.wired.co.uk/article/arm-softbank-deal-price-brexit-bidding-war)

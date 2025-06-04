@@ -8,9 +8,9 @@ date: 2013-09-27 20:00:00
 prev: /
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/raspbian.jpg
 ---
 
@@ -18,31 +18,32 @@ image: /images/raspbian.jpg
 
 ![raspbian](/images/raspbian.jpg)
 
-I think I have not read the news, and it seems the *Raspbian* image has been updated with the following improvements...
+I think I have not read the news, and it seems the _Raspbian_ image has been updated with the following improvements...
 
-- - -
-* Update Scratch image for further performance improvements
+---
 
-* Include Oracle JDK
+-   Update Scratch image for further performance improvements
 
-* At least a 4GiB SD card is now required (see above)
+-   Include Oracle JDK
 
-* Include PyPy 2.1
+-   At least a 4GiB SD card is now required (see above)
 
-* Include base piface packages
+-   Include PyPy 2.1
 
-* Update raspi-config to include bugfix for inheriting language settings from NOOBS
+-   Include base piface packages
 
-* Updated to current top of tree firmware
+-   Update raspi-config to include bugfix for inheriting language settings from NOOBS
 
-* Update squeak-vm, including fastblit optimised for the Raspbery Pi
+-   Updated to current top of tree firmware
 
-* Include Sonic Pi and a fixed jackd2 package
+-   Update squeak-vm, including fastblit optimised for the Raspbery Pi
 
-* Support boot to Scratch
+-   Include Sonic Pi and a fixed jackd2 package
 
-* Inherit keyboard and language settings from NOOBS
+-   Support boot to Scratch
 
-Direct download: [2013-09-25-wheezy-raspbian.zip (605 MB)](http://downloads.raspberrypi.org/raspbian_latest)
+-   Inherit keyboard and language settings from NOOBS
 
-torrent download: [2013-09-25-wheezy-raspbian.zip.torrent](http://downloads.raspberrypi.org/raspbian_latest.torrent)
+Direct download: [2013-09-25-wheezy-raspbian.zip (605 MB)](https://downloads.raspberrypi.org/raspbian_latest)
+
+torrent download: [2013-09-25-wheezy-raspbian.zip.torrent](https://downloads.raspberrypi.org/raspbian_latest.torrent)

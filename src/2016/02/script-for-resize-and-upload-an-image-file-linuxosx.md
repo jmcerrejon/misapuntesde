@@ -8,9 +8,9 @@ date: 2016-02-14 13:00:00
 prev: /
 next: false
 category:
-  - Developer
+    - Developer
 tag:
-  - Developer
+    - Developer
 image: /images/2016/02/love_en.png
 ---
 
@@ -18,9 +18,9 @@ image: /images/2016/02/love_en.png
 
 ![love_en](/images/2016/02/love_en.png)
 
-Yes, I have a lovely woman who loves me and a wonderful daughter. **What do I do here?**. Well, I woke up wanting to improve an *script* that was pending for years with which: Resize a *png* image, optimize, upload to *ftp* and copy the result to the clipboard with *Markdown* format. The code runs on both *OSX and Linux*...
+Yes, I have a lovely woman who loves me and a wonderful daughter. **What do I do here?**. Well, I woke up wanting to improve an _script_ that was pending for years with which: Resize a _png_ image, optimize, upload to _ftp_ and copy the result to the clipboard with _Markdown_ format. The code runs on both _OSX and Linux_...
 
-- - -
+---
 
 ```bash
 #!/bin/bash
@@ -47,7 +47,7 @@ for f in "$@"
 do
     IMGNAME=${f##*/}
     IMGNOEXT=${IMGNAME%.png}
-    OUTPUT_MSG="![$IMGNOEXT](http://${FTP[2]}${FTP[3]}$IMGNAME)"
+    OUTPUT_MSG="![$IMGNOEXT](https://${FTP[2]}${FTP[3]}$IMGNAME)"
     # Resize to a temporal file
     convert -resize 512 "$f" "$IMGNOEXT"_res.png
     # Backup original file
@@ -61,12 +61,13 @@ do
     # Do the magic with ftp upload
     curl -T "$f" -u ${FTP[0]}:${FTP[1]} ftp://${FTP[2]}${FTP[3]}
     # Copy to clipboard on OSX
-    echo "$OUTPUT_MSG" | pbcopy 
+    echo "$OUTPUT_MSG" | pbcopy
     # On Debian, you can use the package xclip and uncomment the next two lines
     # echo "$OUTPUT_MSG" | xclip -selection clipboard
     # notify-send "Uploaded image copied to clipboard" --icon=mail-signed-verified
 done
 ```
-### ### Under license [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/)
+
+### ### Under license [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ![Kiss](/css/sm/kissing.png)

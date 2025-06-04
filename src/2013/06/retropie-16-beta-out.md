@@ -8,9 +8,9 @@ date: 2013-06-06 10:43:00
 prev: /
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/retromachine.jpg
 ---
 
@@ -20,23 +20,23 @@ image: /images/retromachine.jpg
 
 This week it goes to games. Do not blame me if you have not performance in class or at work :P
 
-He's out a few hours ago to test a new version of this compilation of *Raspbian* with various emulators. The list of changes and download below.
+He's out a few hours ago to test a new version of this compilation of _Raspbian_ with various emulators. The list of changes and download below.
 
-- - -
+---
+
 Version 1.6
 
-* Added emulator Basilisk II.
+-   Added emulator Basilisk II.
 
-* Added Dispmanx.
+-   Added Dispmanx.
 
-* Updated every installable component.
+-   Updated every installable component.
 
-* Enhanced script for switching between resolutions.
+-   Enhanced script for switching between resolutions.
 
+Download: [Retropie 1.6 Beta](https://blog.petrockblock.com/download/retropie-project-sd-card-image-v1-6-beta/)
 
-Download: [Retropie 1.6 Beta](http://blog.petrockblock.com/download/retropie-project-sd-card-image-v1-6-beta/)
-
-Forum: [RetroPie](http://blog.petrockblock.com/forums/forum/retropie-project-forum/emulators/)
+Forum: [RetroPie](https://blog.petrockblock.com/forums/forum/retropie-project-forum/emulators/)
 
 EXTRA!:
 

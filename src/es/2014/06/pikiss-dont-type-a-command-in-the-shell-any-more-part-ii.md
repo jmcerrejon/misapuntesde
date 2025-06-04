@@ -8,9 +8,9 @@ date: 2014-06-02 06:42:41
 prev: /es/
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/pikiss_black.png
 ---
 
@@ -21,98 +21,100 @@ image: /images/pikiss_black.png
 Hoy quería pasaros un listado de comandos automatizados que están reunidos en este proyecto llamado [PiKISS](/post.php?id=409), y los scripts que tengo previstos incluir próximamente...
 
 **NOTA:** La lista actualizada de lo que ya está incorporado sin descripción la tienes [aquí](https://raw.githubusercontent.com/jmcerrejon/PiKISS/master/CHANGELOG)
-- - -
-###  [ MENU CONFIGURE ]
 
-* *Joypad:* Configura controladores de *WII* y *XBOX 360.* | **Previsto:** Controladores genéricos.
+---
 
-* *Netcfg:* Configura tu red de cable o inalámbrica con una *IP* estática.
+### [ MENU CONFIGURE ]
 
-* **Previstos en esta sección:** *wlancfg-* Mostrar una lista de redes inalámbricas para configurar el punto de acceso (*SSID*).
+-   _Joypad:_ Configura controladores de _WII_ y _XBOX 360._ | **Previsto:** Controladores genéricos.
 
-###  [ MENU EMULATORS ]
+-   _Netcfg:_ Configura tu red de cable o inalámbrica con una _IP_ estática.
 
-* *Mame4all:* Emulador de máquinas recreativas | **Previsto:** Opción de instalar alguna *ROM* legal.
+-   **Previstos en esta sección:** _wlancfg-_ Mostrar una lista de redes inalámbricas para configurar el punto de acceso (_SSID_).
 
-* *Pifba:* Soporte de arcades tipo *CPS1/2/3, NeoGeo* entre otros.
+### [ MENU EMULATORS ]
 
-* *PiSNES:* Emulador de *Super Nintendo* | **Previsto:** Opción de instalar alguna *ROM* legal.
+-   _Mame4all:_ Emulador de máquinas recreativas | **Previsto:** Opción de instalar alguna _ROM_ legal.
 
-* *RPiX86:* Emulador de ordenadores *x86* | **Previsto:** Opción de instalar algún juego para probar.
+-   _Pifba:_ Soporte de arcades tipo _CPS1/2/3, NeoGeo_ entre otros.
 
-* *Speccy:* Emulador de *ZX-Spectrum* que instala un juego *freeware* llamado [Ninjajar!](http://www.mojontwins.com/juegos_mojonos/ninjajar/)
+-   _PiSNES:_ Emulador de _Super Nintendo_ | **Previsto:** Opción de instalar alguna _ROM_ legal.
 
-* **Previstos en esta sección:** *FSUAE*-emulador *Amiga* con soporte *OpenGL ES, 8086 emulator, MSX, PSX1, N64, Atari*. Aplicación para buscar y descargar *ROMs* de forma automática (Es decir, escribes el nombre de un juego y te da la opción de descargártelo sin pasar por *captchas* ni nada).
+-   _RPiX86:_ Emulador de ordenadores _x86_ | **Previsto:** Opción de instalar algún juego para probar.
 
-###  [ MENU GAMES ]
+-   _Speccy:_ Emulador de _ZX-Spectrum_ que instala un juego _freeware_ llamado [Ninjajar!](https://www.mojontwins.com/juegos_mojonos/ninjajar/)
 
-* *Crispy Doom:* Permite jugar a *Doom 1/2, Hexen, Heretic o Strife*. 
+-   **Previstos en esta sección:** _FSUAE_-emulador _Amiga_ con soporte _OpenGL ES, 8086 emulator, MSX, PSX1, N64, Atari_. Aplicación para buscar y descargar _ROMs_ de forma automática (Es decir, escribes el nombre de un juego y te da la opción de descargártelo sin pasar por _captchas_ ni nada).
 
-* *Quake2:* Juega a *Quake2* versión completa. | **Previsto:** *Quake 1 y 3*.
+### [ MENU GAMES ]
 
-* *Otros juegos: Dune2, MineCraft, Sqrxz4*.
+-   _Crispy Doom:_ Permite jugar a _Doom 1/2, Hexen, Heretic o Strife_.
 
-* **Previstos en esta sección:** Más juegos como Jedi Academy, Infinity Engine, Darkplace Quake Engine (se aceptan peticiones).
+-   _Quake2:_ Juega a _Quake2_ versión completa. | **Previsto:** _Quake 1 y 3_.
 
-###  [ MENU INTERNET ]
+-   _Otros juegos: Dune2, MineCraft, Sqrxz4_.
 
-* *Plowshare:* Descarga directa a traves de *hosters* como *uploaded o freakshare*, etc, desde la *Shell*.
+-   **Previstos en esta sección:** Más juegos como Jedi Academy, Infinity Engine, Darkplace Quake Engine (se aceptan peticiones).
 
-* *mp3 downloader:* Escribes el nombre de una canción o autor y te permite descargarla desde la red *GrooveShark* (no requiere registro).
+### [ MENU INTERNET ]
 
-* **Previstos en esta sección:** *Hotspot-*Convierte tu RPi en un punto de acceso a internet.
+-   _Plowshare:_ Descarga directa a traves de _hosters_ como _uploaded o freakshare_, etc, desde la _Shell_.
 
-###  [ MENU INFO ]
+-   _mp3 downloader:_ Escribes el nombre de una canción o autor y te permite descargarla desde la red _GrooveShark_ (no requiere registro).
 
-* *benchmark:* Testear tu RPi usando *nbench*.
+-   **Previstos en esta sección:** *Hotspot-*Convierte tu RPi en un punto de acceso a internet.
 
-* *Check imgs:* Comprueba cuando salió por última vez las imágenes de algunos sistemas operativos como pueden ser *RetroPie, pipaOS, OpenELEC o PiPlay(PiMAME)* entre otros...
+### [ MENU INFO ]
 
-* *CPU temp:* Para conocer la temperatura actual de la *CPU*.
+-   _benchmark:_ Testear tu RPi usando _nbench_.
 
-* *Weather:* Escribes el nombre de tu ciudad y te da el pronóstico para los próximos cinco días.
+-   _Check imgs:_ Comprueba cuando salió por última vez las imágenes de algunos sistemas operativos como pueden ser _RetroPie, pipaOS, OpenELEC o PiPlay(PiMAME)_ entre otros...
 
-* *Web Monitor:* Panel para monitorizar a través de un entorno web algunos datos como *CPU, RAM, espacio disponible...*
+-   _CPU temp:_ Para conocer la temperatura actual de la _CPU_.
 
-###  [ MENU MULTIMEDIA ]
+-   _Weather:_ Escribes el nombre de tu ciudad y te da el pronóstico para los próximos cinco días.
 
-* *Airplay:* Instala *rPlay* para hacer mirroring con tu *iPhone/iPad*. Necesitas una licencia que puedes conseguir en el foro oficial.
+-   _Web Monitor:_ Panel para monitorizar a través de un entorno web algunos datos como _CPU, RAM, espacio disponible..._
 
-* *Kiosk:* Pase de imágenes cada x segundos. | **Previsto:** Opción de cargar al inicio de sesión (boot).
+### [ MENU MULTIMEDIA ]
 
-* *XBMC:* Instala *XBMC* ver. 12 (Dic. 2013). | **Previsto:** Instalar la última versión.
+-   _Airplay:_ Instala _rPlay_ para hacer mirroring con tu _iPhone/iPad_. Necesitas una licencia que puedes conseguir en el foro oficial.
 
-* **Previstos en esta sección:** Reproductores mp3.
+-   _Kiosk:_ Pase de imágenes cada x segundos. | **Previsto:** Opción de cargar al inicio de sesión (boot).
 
-###   [ MENU SERVER ]
+-   _XBMC:_ Instala _XBMC_ ver. 12 (Dic. 2013). | **Previsto:** Instalar la última versión.
 
-* *db:* Instala *MySQL*. | **Previsto:** Optimizar instancia *MySQL*, otras *BD* como *MariaDB, MongoDB,*...
+-   **Previstos en esta sección:** Reproductores mp3.
 
-* *Printer:* Instala y configura *CUPS*.
+### [ MENU SERVER ]
 
-* *Web:* *Apache o Monkey HTTP Server*. | **Previsto:** Otros Servidores web como *Nginx, Cherokkee, Lighhttpd*. Optimizar servicio web instalado previamente.
+-   _db:_ Instala _MySQL_. | **Previsto:** Optimizar instancia _MySQL_, otras _BD_ como _MariaDB, MongoDB,_...
 
-* *Webdav para Apache:* Instalar *Webdav* que permite navegar vía web por un directorio de tu RPi. | **Previsto:** Implementar otros servidores web y certificado *SSL*.
+-   _Printer:_ Instala y configura _CUPS_.
 
-* **Previstos en esta sección:**  *Framework-* Instala *Wordpress* u otros, *VPN*,...
+-   _Web:_ _Apache o Monkey HTTP Server_. | **Previsto:** Otros Servidores web como _Nginx, Cherokkee, Lighhttpd_. Optimizar servicio web instalado previamente.
 
-###   [ MENU TWEAKS ]
+-   _Webdav para Apache:_ Instalar _Webdav_ que permite navegar vía web por un directorio de tu RPi. | **Previsto:** Implementar otros servidores web y certificado _SSL_.
 
-* *Autologin:* Inicio de sesión automático.
+-   **Previstos en esta sección:** _Framework-_ Instala _Wordpress_ u otros, _VPN_,...
 
-* *Others:* Tweaks varios para optimizar el sistema. | **Previsto:** Más opciones.
+### [ MENU TWEAKS ]
 
-* *Remove packages:* Elimina paquetes que no necesites. | **Previsto:** Más paquetes.
+-   _Autologin:_ Inicio de sesión automático.
 
-* *Disable services:* Desactiva servicios innecesarios. | **Previsto:** Más servicios.
+-   _Others:_ Tweaks varios para optimizar el sistema. | **Previsto:** Más opciones.
 
-###   [ MENU OTHERS ]
+-   _Remove packages:_ Elimina paquetes que no necesites. | **Previsto:** Más paquetes.
 
-* *Aircrack:* Instala *Aircrack-NG/Airoscript*. | **Previsto:** Lanzar aplicación para buscar redes inseguras.
+-   _Disable services:_ Desactiva servicios innecesarios. | **Previsto:** Más servicios.
 
-* *SDL2:* Compila la versión de *SDL2 (2.0.3)* | **Previsto:** Instalar la última versión disponible en la web.
+### [ MENU OTHERS ]
 
-* *WhatApp:* Configura el programa *yowsup* para enviar mensajes a través de esta red de comunicación.
+-   _Aircrack:_ Instala _Aircrack-NG/Airoscript_. | **Previsto:** Lanzar aplicación para buscar redes inseguras.
+
+-   _SDL2:_ Compila la versión de _SDL2 (2.0.3)_ | **Previsto:** Instalar la última versión disponible en la web.
+
+-   _WhatApp:_ Configura el programa _yowsup_ para enviar mensajes a través de esta red de comunicación.
 
 <br />
 Nada más. Si tenéis alguna idea o queréis que incorpore algún script, para eso están los comentarios. Espero que ahora quede un poco más claro el concepto de PiKISS ;)

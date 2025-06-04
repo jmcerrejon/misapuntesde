@@ -8,11 +8,11 @@ date: 2013-03-19 12:35:00
 prev: /es/
 next: false
 category:
-  - Raspberry PI
-  - Linux
+    - Raspberry PI
+    - Linux
 tag:
-  - Raspberry PI
-  - Linux
+    - Raspberry PI
+    - Linux
 image: /images/Terminal_01.jpg
 ---
 
@@ -22,8 +22,9 @@ image: /images/Terminal_01.jpg
 
 Hoy vamos a aprender a buscar ficheros y directorios según varios filtros.
 
-- - -
-El comando por excelencia suele ser *find.* Veamos unos cuantos ejemplos:
+---
+
+El comando por excelencia suele ser _find._ Veamos unos cuantos ejemplos:
 
 ```bash
 
@@ -33,15 +34,15 @@ El comando por excelencia suele ser *find.* Veamos unos cuantos ejemplos:
 
 Buscará:
 
-* En el sistema completo (/)
+-   En el sistema completo (/)
 
-* Todos los ficheros o directorios que contengan *hta* ('*hta*')
+-   Todos los ficheros o directorios que contengan _hta_ ('_hta_')
 
-* Ignorando mayúsculas y minúsculas (-iname)
+-   Ignorando mayúsculas y minúsculas (-iname)
 
-* Con un tamaño superior a 100MB (-size +100M)
+-   Con un tamaño superior a 100MB (-size +100M)
 
-* Ficheros modificados hace más de 3 días
+-   Ficheros modificados hace más de 3 días
 
 ```bash
 
@@ -59,6 +60,6 @@ Como comando final, el siguiente buscará el tamaño de las carpetas ordenado de
 
 ```
 
-Enlace: [BUSCANDO FICHEROS EN GNU/LINUX: COMANDO FIND](http://flossblog.wordpress.com/2012/11/30/buscando-ficheros-en-gnulinux-comando-find/)
+Enlace: [BUSCANDO FICHEROS EN GNU/LINUX: COMANDO FIND](https://flossblog.wordpress.com/2012/11/30/buscando-ficheros-en-gnulinux-comando-find/)
 
 Enlace: [Tamaño de las carpetas ordenado de menor a mayor](https://snipt.net/serialsito/tamano-de-las-carpetas-ordenado-de-menor-a-mayor/)

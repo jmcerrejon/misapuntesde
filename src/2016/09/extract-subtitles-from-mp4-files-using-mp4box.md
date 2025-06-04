@@ -8,11 +8,11 @@ date: 2016-09-12 15:35:00
 prev: /
 next: false
 category:
-  - Apple
-  - Linux
+    - Apple
+    - Linux
 tag:
-  - Apple
-  - Linux
+    - Apple
+    - Linux
 image: /images/2016/08/Subtitles-64.png
 ---
 
@@ -20,9 +20,9 @@ image: /images/2016/08/Subtitles-64.png
 
 ![subtitles](/images/2016/08/Subtitles-64.png)
 
-Quick tip to extract subtitles from mp4 with the tool *MP4Box* available on OSX/Linux
+Quick tip to extract subtitles from mp4 with the tool _MP4Box_ available on OSX/Linux
 
-. In *OSX*, we use [brew](http://brew.sh/) to install *MP4Box*.
+. In _OSX_, we use [brew](https://brew.sh/) to install _MP4Box_.
 
 When installed, type the next to get info from the video file:
 
@@ -43,11 +43,9 @@ Alternate Group ID 2
 ...
 ```
 
-
-Now we look for the *Track* we want to extract (with the type **sbtl:tx3g**). If there are several, look for *"samples"* which are the lines that has the subtitle file. If the sample number are short, you are generally forced subtitles with important content as names, other languages ... Now we pass the ID of the track to the next instruction:
+Now we look for the _Track_ we want to extract (with the type **sbtl:tx3g**). If there are several, look for _"samples"_ which are the lines that has the subtitle file. If the sample number are short, you are generally forced subtitles with important content as names, other languages ... Now we pass the ID of the track to the next instruction:
 
 ```bash
-MP4Box -srt <Track_ID> Input.mp4 
+MP4Box -srt <Track_ID> Input.mp4
 MP4Box -srt 4 input.mp4 # Example
 ```
-

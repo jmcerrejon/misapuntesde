@@ -8,9 +8,9 @@ date: 2014-08-14 10:30:00
 prev: /es/
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/Amiga-A500.jpg
 ---
 
@@ -18,9 +18,10 @@ image: /images/Amiga-A500.jpg
 
 ![Amiga 500](/images/Amiga-A500.jpg)
 
-Recién salido del horno nos trae el usuario *Chips* una nueva versión de este emulador de *Amiga*. Los detalle a continuación...
+Recién salido del horno nos trae el usuario _Chips_ una nueva versión de este emulador de _Amiga_. Los detalle a continuación...
 
-- - -
+---
+
 Tan sólo tiene dos dependencias que podréis instalar con:
 
 ```bash
@@ -31,16 +32,16 @@ Por ahora es el **mejor emulador de Amiga** que he encontrado de los 3 existente
 
 Nuevo en esta versión junto con la anterior:
 
-* Ahora el joystick puede ser usado para volver desde el emulador al menu pulsando desde éste cualquier bótón por encima del cuarto.
+-   Ahora el joystick puede ser usado para volver desde el emulador al menu pulsando desde éste cualquier bótón por encima del cuarto.
 
-* Amiga Vsync sincronizada con la Raspberry Pi. Emulación más suave. Como Amiga es PAL, asegúrate de poner la Pi a 50Hz (Si eres de *USA*).
+-   Amiga Vsync sincronizada con la Raspberry Pi. Emulación más suave. Como Amiga es PAL, asegúrate de poner la Pi a 50Hz (Si eres de _USA_).
 
-* Como el gestor de Vsync ha sido sobreescrito, Auto frame skip es menos efectivo que en la versión anterior. Sin embargo, es suficiente para la Pi (especialmente con el core *cyclone*).
+-   Como el gestor de Vsync ha sido sobreescrito, Auto frame skip es menos efectivo que en la versión anterior. Sin embargo, es suficiente para la Pi (especialmente con el core _cyclone_).
 
-* Mejorado *double buffering*: CPU ya no se bloquea cuando espera a Vsync.
+-   Mejorado _double buffering_: CPU ya no se bloquea cuando espera a Vsync.
 
-* Menu se puede controlar con un Joystick.
+-   Menu se puede controlar con un Joystick.
 
 Como siempre, lo podéis descargar con juego y la rom incluída, del proyecto [PiKISS](https://github.com/jmcerrejon/PiKISS)
 
-Foro: [raspberrypi.org > Full speed Amiga emulator ( UAE )](http://www.raspberrypi.org/forums/viewtopic.php?t=17928)
+Foro: [raspberrypi.org > Full speed Amiga emulator ( UAE )](https://www.raspberrypi.org/forums/viewtopic.php?t=17928)

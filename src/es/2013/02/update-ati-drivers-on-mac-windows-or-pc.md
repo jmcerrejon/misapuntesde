@@ -8,11 +8,11 @@ date: 2013-02-27 13:30:00
 prev: /es/
 next: false
 category:
-  - General
-  - Apple
+    - General
+    - Apple
 tag:
-  - General
-  - Apple
+    - General
+    - Apple
 image: /images/compo_misa_imac.jpg
 ---
 
@@ -20,23 +20,24 @@ image: /images/compo_misa_imac.jpg
 
 ![ati](/images/compo_misa_imac.jpg)
 
-En mi iMac tengo una partición con *Windows 8* (demonios). 
+En mi iMac tengo una partición con _Windows 8_ (demonios).
 
 Básicamente la uso para... nada, jugar a veces, y me cuesta una barbaridad conseguir unos drivers actualizados para probar un juego o benchmarks molón... hasta ahora.
 
 **NOTA:** Es válido también para equipos Windows 7 u 8, ya sean sobremesa o sobretodo portátiles, que son los que dan más problemas.
 
-- - -
-He encontrado unos drivers *ATI* que nos ofrece su instalación sin complicaciones. Encima te instala los de *Intel* si los tuviera tu equipo, que hoy día es lo habitual. Más no se puede pedir.
+---
 
-Algunas características de los drivers *UnifL* son:
- 
-* Drivers siempre actualizados.
-* Sin dependencia de tu proveedor oficial de driver.
-* Puede ser instalado en un sistema recién instalado desde cero sin problemas.
-* Solución automatizada y fiable para instalar controladores modificados - *DSE.*
-* Manual detallado, que abarca todo lo que necesita saber acerca de los conjuntos de controladores *Leshcat.*
+He encontrado unos drivers _ATI_ que nos ofrece su instalación sin complicaciones. Encima te instala los de _Intel_ si los tuviera tu equipo, que hoy día es lo habitual. Más no se puede pedir.
 
-Enlace: [Leshcat's Catalyst](http://leshcatlabs.net)
+Algunas características de los drivers _UnifL_ son:
 
-Enlace: [Manual UnifL](http://leshcatlabs.net/manual/) 
+-   Drivers siempre actualizados.
+-   Sin dependencia de tu proveedor oficial de driver.
+-   Puede ser instalado en un sistema recién instalado desde cero sin problemas.
+-   Solución automatizada y fiable para instalar controladores modificados - _DSE._
+-   Manual detallado, que abarca todo lo que necesita saber acerca de los conjuntos de controladores _Leshcat._
+
+Enlace: [Leshcat's Catalyst](https://leshcatlabs.net)
+
+Enlace: [Manual UnifL](https://leshcatlabs.net/manual/)

@@ -8,9 +8,9 @@ date: 2014-01-11 10:27:30
 prev: /es/
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/2014/01/nVidia_01.jpg
 ---
 
@@ -18,21 +18,22 @@ image: /images/2014/01/nVidia_01.jpg
 
 ![nVIDIA](/images/2014/01/nVidia_01.jpg)
 
-Los usuario de *PCs* con aceleradora gráfica *nVIDIA* están de enhorabuena. Si posees una *GPU* de la serie *GTX 600/700*, podrás enviar tus partidas por streaming y jugarlas a través de la *Raspberry Pi*…
+Los usuario de _PCs_ con aceleradora gráfica _nVIDIA_ están de enhorabuena. Si posees una _GPU_ de la serie _GTX 600/700_, podrás enviar tus partidas por streaming y jugarlas a través de la _Raspberry Pi_…
 
-- - -
+---
+
 ![nVIDIA](/images/2014/01/nVidia_02.jpg)
 
-*Limelight* es una implementación en *Java* de código abierto del *GameStream de NVIDIA*, pero construido para *Linux/OSX/Windows*.
+_Limelight_ es una implementación en _Java_ de código abierto del _GameStream de NVIDIA_, pero construido para _Linux/OSX/Windows_.
 
-**Limelight Pi** aún está en una fase muy temprana, pero permitirá transmitir vuestras partidas de *Steam* a vuestros televisores a través de la red, hacia la RasPi.
+**Limelight Pi** aún está en una fase muy temprana, pero permitirá transmitir vuestras partidas de _Steam_ a vuestros televisores a través de la red, hacia la RasPi.
 
-No será un *Steam Machine* killer, pero se acerca.
+No será un _Steam Machine_ killer, pero se acerca.
 
-**¡Actualización:** ¡Ya hay un usuario que lo ha probado y funciona!. Nos recomienda que instalemos para solventar problemas de audio y control la librería **libopus-dev**. ¡Gracias *Felix Piechaczyk*!.
+**¡Actualización:** ¡Ya hay un usuario que lo ha probado y funciona!. Nos recomienda que instalemos para solventar problemas de audio y control la librería **libopus-dev**. ¡Gracias _Felix Piechaczyk_!.
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/9KctGpv4lXw" frameborder="0" allowfullscreen></iframe>
 
 Descarga: [Limelight-pi v0.1 (Alpha)](https://github.com/irtimmer/limelight-pi/releases)
 
-Foro: [raspberrypi.org > Limelight Pi](http://www.raspberrypi.org/phpBB3/viewtopic.php?f=78&t=65878)
+Foro: [raspberrypi.org > Limelight Pi](https://www.raspberrypi.org/phpBB3/viewtopic.php?f=78&t=65878)

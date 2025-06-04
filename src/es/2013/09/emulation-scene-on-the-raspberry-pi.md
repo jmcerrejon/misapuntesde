@@ -8,9 +8,9 @@ date: 2013-09-02 14:00:00
 prev: /es/
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/pimame_case.jpg
 ---
 
@@ -18,10 +18,10 @@ image: /images/pimame_case.jpg
 
 ![pimame case](/images/pimame_case.jpg)
 
-Esta semana voy a estar un poco liado, así que tal vez no consiga manteneros muy informados de las noticias que encuentro. Lo sé, os tengo muy mal acostumbrados, pero fruto de esto vendrán dos objetivos para la *Raspberry Pi* que tengo planificados y espero sacarlos este mismo mes. Estoy seguro de que os gustarán, lo prometo.
+Esta semana voy a estar un poco liado, así que tal vez no consiga manteneros muy informados de las noticias que encuentro. Lo sé, os tengo muy mal acostumbrados, pero fruto de esto vendrán dos objetivos para la _Raspberry Pi_ que tengo planificados y espero sacarlos este mismo mes. Estoy seguro de que os gustarán, lo prometo.
 
-Os dejo ahora con un fantástico post de un usuario llamado *welshy* sobre la actual scene en el mundo de la emulación, en el que recopila **TODA** la información posible aunando tanto distribuciones dedicadas como formas de instalar un emulador en tu *Raspbian* o compilar a partir del código fuente.
+Os dejo ahora con un fantástico post de un usuario llamado _welshy_ sobre la actual scene en el mundo de la emulación, en el que recopila **TODA** la información posible aunando tanto distribuciones dedicadas como formas de instalar un emulador en tu _Raspbian_ o compilar a partir del código fuente.
 
 ¡Feliz lectura!.
 
-Foro: [raspberrypi.org > Emulation scene on the Raspberry Pi](http://www.raspberrypi.org/phpBB3/viewtopic.php?t=54357&p=414414)
+Foro: [raspberrypi.org > Emulation scene on the Raspberry Pi](https://www.raspberrypi.org/phpBB3/viewtopic.php?t=54357&p=414414)

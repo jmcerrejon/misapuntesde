@@ -8,9 +8,9 @@ date: 2013-07-31 10:15:00
 prev: /
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/2013/07/water_cooled_01.jpg
 ---
 
@@ -18,15 +18,16 @@ image: /images/2013/07/water_cooled_01.jpg
 
 ![water_cooled_01](/images/2013/07/water_cooled_01.jpg)
 
-Interesting mod developed by a user named *wthenshaw* on [overclock.net](http://www.overclock.net) forum.
+Interesting mod developed by a user named _wthenshaw_ on [overclock.net](https://www.overclock.net) forum.
 
 I have some details and captures after the jump ...
 
-- - -
-Previously we had seen a liquid cooling heatsink quite successful you can see in [Youtube](http://www.youtube.com/watch?v=xwc7Hs33cAk).
+---
+
+Previously we had seen a liquid cooling heatsink quite successful you can see in [Youtube](https://www.youtube.com/watch?v=xwc7Hs33cAk).
 
 Now another user ventures to create their own system with components purchased online. I'll keep reporting about this mod.No miss reading!.
 
 ![water_cooled_02](/images/2013/07/water_cooled_02.jpg)
 
-Link: [overclock.net> Raspberry Pi Water Cooled Mod / Build.](Http://www.overclock.net/t/1410604/build-log-water-cooled-raspberry-pi-mod-build)
+Link: [overclock.net> Raspberry Pi Water Cooled Mod / Build.](https://www.overclock.net/t/1410604/build-log-water-cooled-raspberry-pi-mod-build)

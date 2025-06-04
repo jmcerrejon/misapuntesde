@@ -8,9 +8,9 @@ date: 2013-03-25 12:35:00
 prev: /
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/raspxbmc.jpg
 ---
 
@@ -18,6 +18,6 @@ image: /images/raspxbmc.jpg
 
 ![xbmc](/images/raspxbmc.jpg)
 
-I just read a very interesting article from the plugin's creator *Pelis a la carta*. It explains how to install very easily *Raspbmc* distro and configure it to access their plugin. Do not miss it!.
+I just read a very interesting article from the plugin's creator _Pelis a la carta_. It explains how to install very easily _Raspbmc_ distro and configure it to access their plugin. Do not miss it!.
 
-Link: [blog.tvalacarta.info](http://blog.tvalacarta.info/2013/03/08/raspberry-pi-es-un-gran-media-center-la-instalacion/#more-7005)
+Link: [blog.tvalacarta.info](https://blog.tvalacarta.info/2013/03/08/raspberry-pi-es-un-gran-media-center-la-instalacion/#more-7005)

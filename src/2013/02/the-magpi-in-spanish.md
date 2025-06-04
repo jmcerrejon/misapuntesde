@@ -8,9 +8,9 @@ date: 2013-02-23 12:00:00
 prev: /
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/magpi.jpg
 ---
 
@@ -22,4 +22,4 @@ I missed the MagPi translated into Spanish. They are looking for translators, in
 
 I wish you lucky and much encouragement.
 
-Link: [The MagPi](http://www.themagpi.com/es/)
+Link: [The MagPi](https://www.themagpi.com/es/)

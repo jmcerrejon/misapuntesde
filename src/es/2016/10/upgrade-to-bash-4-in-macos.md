@@ -8,9 +8,9 @@ date: 2016-10-25 10:00:00
 prev: /es/
 next: false
 category:
-  - Apple
+    - Apple
 tag:
-  - Apple
+    - Apple
 image: /images/2016/10/bash4.png
 ---
 
@@ -20,9 +20,9 @@ image: /images/2016/10/bash4.png
 
 Lo sé. Siento la falta de actualizaciones. Estoy bastante ocupado desarrollando apps móviles entre otras cosas.
 
-He vuelto por aquí para dejar unas notas sobre **instalar Bash 4** y conseguir interesantes características de este *Shell*.
+He vuelto por aquí para dejar unas notas sobre **instalar Bash 4** y conseguir interesantes características de este _Shell_.
 
-- - -
+---
 
 Primero vamos a conseguir la versión actual de Bash de nuestro sistema. Si ya tienes la versión 4.X+, sáltate esta guía y disfruta tu vida :)
 
@@ -32,7 +32,7 @@ GNU bash, version 3.2.57(1)-release (x86_64-apple-darwin15)
 Copyright (C) 2007 Free Software Foundation, Inc.
 ```
 
-Usaremos el gran gestor de paquetes [Homebrew](http://brew.sh/) para instalarlo:
+Usaremos el gran gestor de paquetes [Homebrew](https://brew.sh/) para instalarlo:
 
 ```bash
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
@@ -53,4 +53,4 @@ sudo bash -c 'echo /usr/local/bin/bash >> /etc/shells'
 chsh -s /usr/local/bin/bash
 ```
 
-Enlace: [admon.org > New Features in Bash-4.0](http://www.admon.org/scripts/new-features-in-bash-4-0/)
+Enlace: [admon.org > New Features in Bash-4.0](https://www.admon.org/scripts/new-features-in-bash-4-0/)

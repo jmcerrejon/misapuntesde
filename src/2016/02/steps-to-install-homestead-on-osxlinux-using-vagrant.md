@@ -8,9 +8,9 @@ date: 2016-02-01 12:00:00
 prev: /
 next: false
 category:
-  - Developer
+    - Developer
 tag:
-  - Developer
+    - Developer
 image: /images/2016/01/vagrant.png
 ---
 
@@ -20,12 +20,13 @@ image: /images/2016/01/vagrant.png
 
 Today I get a little shaken the general theme of the blog to take some notes and remember the steps on something that is trivial for a developer.
 
-This month I have to pick a project based on [Laravel](https://laravel.com/) (A *PHP framework* for who does not know) and to be honest, do not touch the web development since last summer. So the first thing I'll do is to install *Vagrant* to avoid the use of *LAMP/MAMP* and generate unnecessary resources on my ancient *iMac*. Ready?...
+This month I have to pick a project based on [Laravel](https://laravel.com/) (A _PHP framework_ for who does not know) and to be honest, do not touch the web development since last summer. So the first thing I'll do is to install _Vagrant_ to avoid the use of _LAMP/MAMP_ and generate unnecessary resources on my ancient _iMac_. Ready?...
 
-- - -
-1) Install manually [vagrant](http://www.vagrantup.com/downloads.html) and [VirtualBox](https://www.virtualbox.org/wiki/Downloads).
+---
 
-2) Install [composer][(https://en.wikipedia.org/wiki/Composer_(software)) and type the next command to config the environment:
+1. Install manually [vagrant](https://www.vagrantup.com/downloads.html) and [VirtualBox](https://www.virtualbox.org/wiki/Downloads).
+
+2. Install [composer](https://en.wikipedia.org/wiki/Composer_(software)) and type the next command to config the environment:
 
 ```bash
 curl -sS https://getcomposer.org/installer | php
@@ -39,7 +40,7 @@ sudo nano /etc/hosts and add:
 192.168.10.10  homestead.app
 ```
 
-3) Open new terminal and download Homestead:
+3. Open new terminal and download Homestead:
 
 ```bash
 vagrant box add laravel/homestead
@@ -48,9 +49,9 @@ composer global require "laravel/homestead=~2.0"
 
 ![Homestead_config](/images/2016/01/Homestead_config.png)
 
-4) Open a new terminal and run: *homestead init* and *homestead edit* if you want to edit the configuration file (optional). For example, you would change the path on **folders - map: and sites: to:** with your project path.
+4. Open a new terminal and run: _homestead init_ and _homestead edit_ if you want to edit the configuration file (optional). For example, you would change the path on **folders - map: and sites: to:** with your project path.
 
-5) Now run **homestead up** and test openning your web browser: [http://homestead.app](http://homestead.app)
+5. Now run **homestead up** and test openning your web browser: [https://homestead.app](https://homestead.app)
 
 Some usefull commads:
 
@@ -86,3 +87,4 @@ Some usefull commads:
 Link: [laravel.com > homestead](https://laravel.com/docs/5.2/homestead)
 
 Link: [Vagrant](https://www.vagrantup.com/)
+```

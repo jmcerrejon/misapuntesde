@@ -8,9 +8,9 @@ date: 2016-02-09 09:00:00
 prev: /
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/2016/01/retropie.png
 ---
 
@@ -19,26 +19,27 @@ image: /images/2016/01/retropie.png
 ![RetroPie](/images/2016/01/retropie.png)
 
 We have available a new version of RetroPie, the retro operating system for gamers on the Pi, with the next features and improvements...
-- - -
 
-* Added new experimental modules, Lӧve 2D Game Engine, Colecovision (CoolCV).
+---
 
-* Debian usbmount package fixed up for systemd udev compatibility, making the USB ROM service work properly again without being killed after 30 seconds. Also added ntfs support by default.
+-   Added new experimental modules, Lӧve 2D Game Engine, Colecovision (CoolCV).
 
-* Added an arcade rom folder option where all arcade games can be placed.
+-   Debian usbmount package fixed up for systemd udev compatibility, making the USB ROM service work properly again without being killed after 30 seconds. Also added ntfs support by default.
 
-* Improvements to EmulationStation (Fix crash on rom delete, direct launch, symlink support, and other bug fixes).
+-   Added an arcade rom folder option where all arcade games can be placed.
 
-* Improvements to the Runcommand Launch Menu: Cleaner dialog on launch, ability to show game artwork on launch, ability to disable joystick support as well as the ability to disable the entire runcommand launch menu.
+-   Improvements to EmulationStation (Fix crash on rom delete, direct launch, symlink support, and other bug fixes).
 
-* PS3 Controller improvements - Add multiple gasia and shanwan controller support.
+-   Improvements to the Runcommand Launch Menu: Cleaner dialog on launch, ability to show game artwork on launch, ability to disable joystick support as well as the ability to disable the entire runcommand launch menu.
 
-* Updated lr-mgba emulator binaries (new upstream release of mgba 0.4.0)
+-   PS3 Controller improvements - Add multiple gasia and shanwan controller support.
 
-* Improvements on pre-built image - disabled screen blanking, quieter boot, and filesystem automatically expanded on first boot.
+-   Updated lr-mgba emulator binaries (new upstream release of mgba 0.4.0)
 
-* Various other bug fixes.
+-   Improvements on pre-built image - disabled screen blanking, quieter boot, and filesystem automatically expanded on first boot.
 
-Download: blog.petrockblock.com > [Pi1](http://blog.petrockblock.com/retropie/retropie-downloads/retropie-image-for-raspberry-pi-1/) | [Pi2](http://blog.petrockblock.com/retropie/retropie-downloads/retropie-sd-card-image-for-raspberry-pi-2-2/)
+-   Various other bug fixes.
+
+Download: blog.petrockblock.com > [Pi1](https://blog.petrockblock.com/retropie/retropie-downloads/retropie-image-for-raspberry-pi-1/) | [Pi2](https://blog.petrockblock.com/retropie/retropie-downloads/retropie-sd-card-image-for-raspberry-pi-2-2/)
 
 Link: [RetroPie > First Installation](https://github.com/retropie/RetroPie-Setup/wiki/First-Installation)

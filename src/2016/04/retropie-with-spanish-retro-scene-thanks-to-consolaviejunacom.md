@@ -8,9 +8,9 @@ date: 2016-04-20 10:00:00
 prev: /
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/2016/04/consolaviejuna.png
 ---
 
@@ -18,10 +18,11 @@ image: /images/2016/04/consolaviejuna.png
 
 ![ConsolaViejuna](/images/2016/04/consolaviejuna.png)
 
-I continue this week talking about emulators and games. This time with a curious project due its originality thanks to [@ConsolaViejuna](https://twitter.com/ConsolaViejuna/): **Script to set the current Spanish Retro Scene with RetroPie**. With this script, we can get *Spectrum, Amstrad emulators, Spanish Software* and so on, ready to play. Does it seem interesting initiative?. Well read on...
+I continue this week talking about emulators and games. This time with a curious project due its originality thanks to [@ConsolaViejuna](https://twitter.com/ConsolaViejuna/): **Script to set the current Spanish Retro Scene with RetroPie**. With this script, we can get _Spectrum, Amstrad emulators, Spanish Software_ and so on, ready to play. Does it seem interesting initiative?. Well read on...
 
-- - -
-Just install typing the next commands with *RetroPie*:
+---
+
+Just install typing the next commands with _RetroPie_:
 
 ```bash
 cd $HOME/pi
@@ -30,4 +31,4 @@ cd RetroPieScene
 sudo ./RetroPie-scene_setup.sh
 ```
 
-Link: [consolaviejuna.com](http://www.consolaviejuna.com/)
+Link: [consolaviejuna.com](https://www.consolaviejuna.com/)

@@ -8,9 +8,9 @@ date: 2013-10-13 06:15:00
 prev: /
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/2013/10/iPad.jpg
 ---
 
@@ -18,6 +18,6 @@ image: /images/2013/10/iPad.jpg
 
 ![ipad](/images/2013/10/iPad.jpg)
 
-*Diverteka* brings again a tutorial to *iPad* owners: View *TV* channels with the Pi (streaming server) and receiving video signal on *iPad* thanks to *AirPlay*.
+_Diverteka_ brings again a tutorial to _iPad_ owners: View _TV_ channels with the Pi (streaming server) and receiving video signal on _iPad_ thanks to _AirPlay_.
 
-Link: [diverteka.com > Raspberry emite TV en iPad](http://translate.google.com/translate?sl=es&tl=en&js=n&prev=_t&hl=es&ie=UTF-8&u=http%3A%2F%2Fwww.diverteka.com%2F%3Fp%3D1930)
+Link: [diverteka.com > Raspberry emite TV en iPad](https://translate.google.com/translate?sl=es&tl=en&js=n&prev=_t&hl=es&ie=UTF-8&u=http%3A%2F%2Fwww.diverteka.com%2F%3Fp%3D1930)

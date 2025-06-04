@@ -8,35 +8,36 @@ date: 2013-06-22 22:00:00
 prev: /es/
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
-image: http://www.misapuntesde.com/images/practicalRpi.jpeg
+    - Raspberry PI
+image: https://www.misapuntesde.com/images/practicalRpi.jpeg
 ---
 
 # Practical Raspberry Pi (Ebook)
 
-![practical](http://www.misapuntesde.com/images/practicalRpi.jpeg)
+![practical](https://www.misapuntesde.com/images/practicalRpi.jpeg)
 
-*Practical Raspberry Pi te lleva rápidamente a través del hardware y software básicos de la Raspberry Pi. Su autor Brendan Horan le ayudará a comenzar en una serie de divertidos y prácticos proyectos, incluyendo un simple sensor de temperatura, un centro multimedia, un reloj en tiempo real, e incluso un dispositivo de vigilancia de seguridad, todo lo cual requiere una mínima experiencia en programación.*
+_Practical Raspberry Pi te lleva rápidamente a través del hardware y software básicos de la Raspberry Pi. Su autor Brendan Horan le ayudará a comenzar en una serie de divertidos y prácticos proyectos, incluyendo un simple sensor de temperatura, un centro multimedia, un reloj en tiempo real, e incluso un dispositivo de vigilancia de seguridad, todo lo cual requiere una mínima experiencia en programación._
 
-- - -
-*Junto con estos proyectos, usted aprenderá todo sobre el hardware Raspberry Pi, incluyendo cómo puede ser tan poderoso y a la vez tan pequeño y barato, por eso es tan práctico como un reproductor de vídeo, y se puede personalizar para diferentes tareas, incluyendo ejecutar diferentes sistemas operativos sobre el mismo, incluyendo Android y RISC OS.*
+---
 
-*Lo que aprenderá:*
+_Junto con estos proyectos, usted aprenderá todo sobre el hardware Raspberry Pi, incluyendo cómo puede ser tan poderoso y a la vez tan pequeño y barato, por eso es tan práctico como un reproductor de vídeo, y se puede personalizar para diferentes tareas, incluyendo ejecutar diferentes sistemas operativos sobre el mismo, incluyendo Android y RISC OS._
 
-* Una visión general del hardware de la Raspberry Pi
+_Lo que aprenderá:_
 
-* Cómo poner en marcha su RasPi con Linux
+-   Una visión general del hardware de la Raspberry Pi
 
-* Cómo utilizar la RasPi para detectar la temperatura y la conducción de un simple LCD de caracteres
+-   Cómo poner en marcha su RasPi con Linux
 
-* Cómo crear un reproductor de medios con la Raspberry Pi
+-   Cómo utilizar la RasPi para detectar la temperatura y la conducción de un simple LCD de caracteres
 
-* Cómo utilizarla como un servidor de consola serie
+-   Cómo crear un reproductor de medios con la Raspberry Pi
 
-* Cómo configurarla como un dispositivo de control de la seguridad
+-   Cómo utilizarla como un servidor de consola serie
 
-* Otros sistemas operativos para su RasPi, incluyendo Gentoo, Android y RISC OS
+-   Cómo configurarla como un dispositivo de control de la seguridad
 
-Comprar: [Amazon](http://www.amazon.es/dp/1430249714)
+-   Otros sistemas operativos para su RasPi, incluyendo Gentoo, Android y RISC OS
+
+Comprar: [Amazon](https://www.amazon.es/dp/1430249714)

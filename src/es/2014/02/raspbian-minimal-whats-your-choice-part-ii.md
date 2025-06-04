@@ -8,9 +8,9 @@ date: 2014-02-10 12:05:09
 prev: /es/
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/2014/02/startrek.jpg
 ---
 
@@ -20,16 +20,17 @@ image: /images/2014/02/startrek.jpg
 
 Continuamos explorando nuevas distros, nuevos sabores, hasta alcanzar lugares donde nadie ha podido llegar...
 
-- - -
-Recuerda que ya escribí la primera parte que puedes leer en [este artículo](/post.php?id=349). Ahora es el turno de dos nuevos sistemas operativos muy interesantes: *pipaOS* and *PiBang Linux*.
+---
 
-###  pipaOS es una distribución *Debian* basada en *Raspian* para la *Raspberry Pi*.
+Recuerda que ya escribí la primera parte que puedes leer en [este artículo](/post.php?id=349). Ahora es el turno de dos nuevos sistemas operativos muy interesantes: _pipaOS_ and _PiBang Linux_.
 
-**Descarga pipaOS:** [512MB](http://pipaos.mitako.eu/download/pipaos-2.6-tiny500mb.img.gz) | [1GB](http://pipaos.mitako.eu/download/pipaos-2.6-small1gb.img.gz)
+###  pipaOS es una distribución _Debian_ basada en _Raspian_ para la _Raspberry Pi_.
+
+**Descarga pipaOS:** [512MB](https://pipaos.mitako.eu/download/pipaos-2.6-tiny500mb.img.gz) | [1GB](https://pipaos.mitako.eu/download/pipaos-2.6-small1gb.img.gz)
 
 **Último fichero actualizado en Mayo, 2014.**
 
-**Login:** *sysop* | **Password:** *posys*
+**Login:** _sysop_ | **Password:** _posys_
 
 <a title="Algunos comandos útiles" rel="lightbox" href="/images/2014/02/pipaOS.jpg">
 <img width="324" src="/images/2014/02/pipaOS_min.jpg">
@@ -37,47 +38,47 @@ Recuerda que ya escribí la primera parte que puedes leer en [este artículo](/p
 
 **Info:**
 
-* Sistema basado en la distro Raspbian ArmHF completamente funcionar
+-   Sistema basado en la distro Raspbian ArmHF completamente funcionar
 
-* Kernel version 3.12.18
+-   Kernel version 3.12.18
 
-* Tamaño compacto para tarjetas SD de 512MB/1GB
+-   Tamaño compacto para tarjetas SD de 512MB/1GB
 
-* Soporte de los dongles usb WIFI más populares
+-   Soporte de los dongles usb WIFI más populares
 
-* Rápido: Pantalla de login en 10 segundos y 20 para la asociación wireless
+-   Rápido: Pantalla de login en 10 segundos y 20 para la asociación wireless
 
-* Sincronización de la hora con servidores NTP
+-   Sincronización de la hora con servidores NTP
 
-* Sistema personalizado: Conecta la tarjeta SD y edita los ficheros de configuración
+-   Sistema personalizado: Conecta la tarjeta SD y edita los ficheros de configuración
 
-* Administradores pueden hacer chroot desde un sistema Linux, emulador QEMU incluído
+-   Administradores pueden hacer chroot desde un sistema Linux, emulador QEMU incluído
 
-* Tolerancia a fallos: Usa ext4 sin journal
+-   Tolerancia a fallos: Usa ext4 sin journal
 
-* Asociación automática de redes inalámbricas abiertas
+-   Asociación automática de redes inalámbricas abiertas
 
-* SSH activado: sysop con privilegios de root
+-   SSH activado: sysop con privilegios de root
 
-* USB tethering: Conecta un móvil Android/iPhone a través de pipaOS
+-   USB tethering: Conecta un móvil Android/iPhone a través de pipaOS
 
-* Soporte de tranmisión FM
+-   Soporte de tranmisión FM
 
-* Python 2.7.3
+-   Python 2.7.3
 
-* Librerías Python GPIO 
+-   Librerías Python GPIO
 
-* HostAP Listo para convertir tu RaspberryPI en un punto de acceso inalámbrico
+-   HostAP Listo para convertir tu RaspberryPI en un punto de acceso inalámbrico
 
-* Viene con dnsmask para obtener un servidor DHCP ligero
+-   Viene con dnsmask para obtener un servidor DHCP ligero
 
-**Notas:** Ya escribí un artículo de pipaOS que puedes leer [aquí](/post.php?id=289). Sin entorno de escritorio. *raspistill* y *raspivid* listo para usar. Falta *raspi-config*. Es muy rápida. SSH activado por defecto. **RECOMENDADO**.
+**Notas:** Ya escribí un artículo de pipaOS que puedes leer [aquí](/post.php?id=289). Sin entorno de escritorio. _raspistill_ y _raspivid_ listo para usar. Falta _raspi-config_. Es muy rápida. SSH activado por defecto. **RECOMENDADO**.
 
-###  PiBang Linux. Openbox Linux distro for the Raspberry Pi
+### PiBang Linux. Openbox Linux distro for the Raspberry Pi
 
-**Descarga:** [sourceforge.net](http://sourceforge.net/projects/pibang/files/?source=navbar)
+**Descarga:** [sourceforge.net](https://sourceforge.net/projects/pibang/files/?source=navbar)
 
-**Último fichero actualizado:** *pibang-server-systemd-20131119.img.zip (557.9 MB)*
+**Último fichero actualizado:** _pibang-server-systemd-20131119.img.zip (557.9 MB)_
 
 **Login:** Debes crearlo con **raspi-setup**
 
@@ -87,13 +88,13 @@ Recuerda que ya escribí la primera parte que puedes leer en [este artículo](/p
 
 **Info:**
 
-* No especificada en la web. Lee las notas.
+-   No especificada en la web. Lee las notas.
 
-**Notas:** Inspirada en *Crunchbang Linux*. El autor tiene tres versiones: server, openbox e [i3](http://i3wm.org). Hace tiempo que no se actualiza. Usa SystemD. Tiene su propio repositorio independiente y un [foro](http://pibanglinux.org/forums) donde participar.
+**Notas:** Inspirada en _Crunchbang Linux_. El autor tiene tres versiones: server, openbox e [i3](https://i3wm.org). Hace tiempo que no se actualiza. Usa SystemD. Tiene su propio repositorio independiente y un [foro](https://pibanglinux.org/forums) donde participar.
 
-###  Conclusión
+### Conclusión
 
-Estas cuatro distribuciones son para mí a día de hoy las mejores para conseguir una versión de Raspbian con un mínimo de paquetes disponibles instalados. Como he dicho, me gusta *pipaOS* porque es la más ligera que he testeado y bastante rápida.
+Estas cuatro distribuciones son para mí a día de hoy las mejores para conseguir una versión de Raspbian con un mínimo de paquetes disponibles instalados. Como he dicho, me gusta _pipaOS_ porque es la más ligera que he testeado y bastante rápida.
 
 Espero que os haya gustado esta serie de artículos.
 

@@ -8,9 +8,9 @@ date: 2013-08-16 07:00:00
 prev: /es/
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/pi_whatsapp.png
 ---
 
@@ -18,15 +18,16 @@ image: /images/pi_whatsapp.png
 
 ![pi whatsapp](/images/pi_whatsapp.png)
 
-Interesante lo que he encontrado buscando por la red. Se trata de notificar cualquier evento desde tu RasPi hacia la aplicación *WhatsApp*.
+Interesante lo que he encontrado buscando por la red. Se trata de notificar cualquier evento desde tu RasPi hacia la aplicación _WhatsApp_.
 
-- - -
-Aún no había publicado ningún enlace sobre esta posibilidad que tenemos de mantenernos informados sobre algo que queramos conocer de nuestra *Raspberry Pi*.
+---
 
-Los tutoriales están hecho para ser utilizados en España con la compañía [FonYou](http://www.fonyou.es), pero no creo que sea difícil conseguir el mismo resultado con otros operadores.
+Aún no había publicado ningún enlace sobre esta posibilidad que tenemos de mantenernos informados sobre algo que queramos conocer de nuestra _Raspberry Pi_.
 
-Enlace: [portallinux.es > Notificación de la temperatura de la CPU por WhatsApp](http://portallinux.es/raspberry-pi-notificacion-de-la-temperatura-de-la-cpu-por-whatsapp/)
+Los tutoriales están hecho para ser utilizados en España con la compañía [FonYou](https://www.fonyou.es), pero no creo que sea difícil conseguir el mismo resultado con otros operadores.
 
-Enlace: [rsppi > Uso de WhatsApp para el envio de notificaciones](http://rsppi.blogspot.com.es/2012/10/uso-de-whatsapp-para-el-envio-de.html)
+Enlace: [portallinux.es > Notificación de la temperatura de la CPU por WhatsApp](https://portallinux.es/raspberry-pi-notificacion-de-la-temperatura-de-la-cpu-por-whatsapp/)
 
-Enlace: [myworldraspberrypi > My raspberry Pi sending whatsapps](http://myworldraspberrypi.blogspot.com.es/2013/02/my-raspberry-pi-sending-whatsapps.html)
+Enlace: [rsppi > Uso de WhatsApp para el envio de notificaciones](https://rsppi.blogspot.com.es/2012/10/uso-de-whatsapp-para-el-envio-de.html)
+
+Enlace: [myworldraspberrypi > My raspberry Pi sending whatsapps](https://myworldraspberrypi.blogspot.com.es/2013/02/my-raspberry-pi-sending-whatsapps.html)

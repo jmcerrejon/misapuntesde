@@ -8,9 +8,9 @@ date: 2013-05-23 08:00:00
 prev: /
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/fastdosbox.jpg
 ---
 
@@ -18,25 +18,26 @@ image: /images/fastdosbox.jpg
 
 ![fastdosbox](/images/fastdosbox.jpg)
 
-Like their creator said: *Fastdosbox is a fork of dosbox, based on the sources of dosbox SVN. It brings to Raspbian the dynrec x86 emulation.
-In other words a boost of 250% over the official version.*
+Like their creator said: _Fastdosbox is a fork of dosbox, based on the sources of dosbox SVN. It brings to Raspbian the dynrec x86 emulation.
+In other words a boost of 250% over the official version._
 
-- - -
+---
+
 Features:
 
-*Speed of a 386DX @ 25Mhz thanks to dynrec x86 emulation.
+\*Speed of a 386DX @ 25Mhz thanks to dynrec x86 emulation.
 
-*Splendid upscaling using dispmanx.
+\*Splendid upscaling using dispmanx.
 
-*Based on the sources Dosbox SVN and Dosbox 0.74.
+\*Based on the sources Dosbox SVN and Dosbox 0.74.
 
-*Between 200% to 250% the speed of Raspbian dosbox v 0.74.
+\*Between 200% to 250% the speed of Raspbian dosbox v 0.74.
 
-*Console only, no support for X11.
+\*Console only, no support for X11.
 
-To make it work once installed, go into the game directory and write ***dosbox exec*** where exec is the name of the executable, which is usually a *.EXE*, *.COM* or *.BAT*
+To make it work once installed, go into the game directory and write **_dosbox exec_** where exec is the name of the executable, which is usually a _.EXE_, _.COM_ or _.BAT_
 
-The have available for 2.49 euros in the [PiStore](http://store.raspberrypi.com/projects/fastdosbox), which I recommend, or you can download the compiled free version compiled by myself (steps to compile apps was mentioned in [another post](/post.php?id=162)) from this [link](/res/fastdosbox_1.5-1_armhf.deb).
+The have available for 2.49 euros in the [PiStore](https://store.raspberrypi.com/projects/fastdosbox), which I recommend, or you can download the compiled free version compiled by myself (steps to compile apps was mentioned in [another post](/post.php?id=162)) from this [link](/res/fastdosbox_1.5-1_armhf.deb).
 
 EXTRA!:
 

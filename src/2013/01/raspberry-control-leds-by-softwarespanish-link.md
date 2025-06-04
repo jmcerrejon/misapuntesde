@@ -8,15 +8,15 @@ date: 2013-01-19 07:00:00
 prev: /
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 ---
 
 # Raspberry, control LEDs by software(Spanish link)
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/pAgIc4kmamE" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/pAgIc4kmamE" frameborder="0" allowfullscreen></iframe>
 
-The *ACT* LED, indicating that it is using the *SD* memory, can be controlled by software. Let's see how to do it from the /sys on *Linux* from a *C* program.
+The _ACT_ LED, indicating that it is using the _SD_ memory, can be controlled by software. Let's see how to do it from the /sys on _Linux_ from a _C_ program.
 
-Link: [systemadmin.es](http://systemadmin.es/2013/01/raspberry-controlar-el-led-de-lectura-de-la-sd-por-software)
+Link: [systemadmin.es](https://systemadmin.es/2013/01/raspberry-controlar-el-led-de-lectura-de-la-sd-por-software)

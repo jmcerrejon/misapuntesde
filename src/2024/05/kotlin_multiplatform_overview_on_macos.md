@@ -136,4 +136,4 @@ I hope this overview helps you to get a vision of how to start with Kotlin Multi
 
 -   [Compose Multiplatform tutorials](https://github.com/JetBrains/compose-multiplatform/blob/master/tutorials/README.md)
 
--   [Kotlin Slack](http://kotlinlang.slack.com/)
+-   [Kotlin Slack](https://kotlinlang.slack.com/)

@@ -8,9 +8,9 @@ date: 2013-09-22 07:00:00
 prev: /
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 ---
 
 # Having Fun with Superhydrophobic Coatings and a Raspberry Pi (Youtube)
@@ -19,8 +19,8 @@ tag:
 
 The video that you see on these lines I found most curious. I had never seen act this way a water droplet with a spray.
 
-*hydrophobic* is the fear to water, and in this case from what I understood, the repellent is because the angle of a water droplet exceeds 150 grades and with this compound the surface would have an angle much less.
+_hydrophobic_ is the fear to water, and in this case from what I understood, the repellent is because the angle of a water droplet exceeds 150 grades and with this compound the surface would have an angle much less.
 
 I wonder what would happen if you cast it in the hair...
 
-More info: [en.wikipedia.org > Superhydrophobe](http://en.wikipedia.org/wiki/Superhydrophobe)
+More info: [en.wikipedia.org > Superhydrophobe](https://en.wikipedia.org/wiki/Superhydrophobe)

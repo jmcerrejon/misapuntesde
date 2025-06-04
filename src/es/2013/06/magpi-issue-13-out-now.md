@@ -8,9 +8,9 @@ date: 2013-06-03 07:00:00
 prev: /es/
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/magpi13.jpg
 ---
 
@@ -18,6 +18,6 @@ image: /images/magpi13.jpg
 
 ![magpi](/images/magpi13.jpg)
 
-Tenemos hace unos días el nuevo ejemplar de la revista ***The MagPi***. Por lo que he podido ojear, hay una competición para que te toque una *Raspberry Pi*. También tenemos un artículo sobre la creación de música con la aplicación *Schism*, *Elite* para *RiscOS*, seguimos con la programación con *Scratch* y también continúan con el curso de *Python*. 
+Tenemos hace unos días el nuevo ejemplar de la revista **_The MagPi_**. Por lo que he podido ojear, hay una competición para que te toque una _Raspberry Pi_. También tenemos un artículo sobre la creación de música con la aplicación _Schism_, _Elite_ para _RiscOS_, seguimos con la programación con _Scratch_ y también continúan con el curso de _Python_.
 
-Enlace: [The MagPi](http://www.themagpi.com/en/issue/13) 
+Enlace: [The MagPi](https://www.themagpi.com/en/issue/13)

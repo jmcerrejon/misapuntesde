@@ -8,9 +8,9 @@ date: 2014-10-06 09:20:00
 prev: /es/
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/2014/10/scoutbot.png
 ---
 
@@ -18,42 +18,42 @@ image: /images/2014/10/scoutbot.png
 
 ![ScoutBot](/images/2014/10/scoutbot.png)
 
-*ScoutBot es una aplicación imprescindible para los *penetration testers que están buscando una manera fácil y discreta de recopilar información en una red.*
+*ScoutBot es una aplicación imprescindible para los *penetration testers que están buscando una manera fácil y discreta de recopilar información en una red.\*
 
-- - -
-*Construido para la Raspberry Pi, este script potente automatiza las tareas de reconocimiento de red complejas. Mientras disfruta de una taza de café, ScoutBot podría escanear la red o husmear todo el tráfico que pasa por ella. Todo ello sin la necesidad de un teclado o monitor.*
+---
 
+_Construido para la Raspberry Pi, este script potente automatiza las tareas de reconocimiento de red complejas. Mientras disfruta de una taza de café, ScoutBot podría escanear la red o husmear todo el tráfico que pasa por ella. Todo ello sin la necesidad de un teclado o monitor._
 
 Aquí están algunas de sus características:
 
-* Escanea la red de destino para los puertos abiertos
+-   Escanea la red de destino para los puertos abiertos
 
-* Identifica los entornos Windows
+-   Identifica los entornos Windows
 
-* Identifica los protocolos de enrutamiento dinámico
+-   Identifica los protocolos de enrutamiento dinámico
 
-* Identifica los dispositivos en los escaneos con SNMP
+-   Identifica los dispositivos en los escaneos con SNMP
 
-* Identifica los servidores DHCP
+-   Identifica los servidores DHCP
 
-* Comprueba filtrado de salida
+-   Comprueba filtrado de salida
 
-* Identifica la dirección IP fuera de la red
+-   Identifica la dirección IP fuera de la red
 
-* Realiza un WHOIS para identificar ISP
+-   Realiza un WHOIS para identificar ISP
 
-* Realiza un traceroute hacia el exterior
+-   Realiza un traceroute hacia el exterior
 
-* Acepta direcciones IP estáticas
+-   Acepta direcciones IP estáticas
 
-* Acepta DHCP
+-   Acepta DHCP
 
-* Pre-configurado para un ataque completamente automatizado
+-   Pre-configurado para un ataque completamente automatizado
 
-* Funciona en cualquier Raspberry Pi. Ninguna configuración adicional necesaria
+-   Funciona en cualquier Raspberry Pi. Ninguna configuración adicional necesaria
 
-Básicamente, se pre-configura un scan y luego sólo tiene que conectar la Raspberry Pi en la red de destino. Esta herramienta viene como una imagen *IMG* precargada y lista para usar.
+Básicamente, se pre-configura un scan y luego sólo tiene que conectar la Raspberry Pi en la red de destino. Esta herramienta viene como una imagen _IMG_ precargada y lista para usar.
 
-Descarga .img: [sourceforge.net > scoutbot](http://sourceforge.net/projects/scoutbot/)
+Descarga .img: [sourceforge.net > scoutbot](https://sourceforge.net/projects/scoutbot/)
 
-Enlace: [lansec.net > scoutbot](http://lansec.net/project/scoutbot/)
+Enlace: [lansec.net > scoutbot](https://lansec.net/project/scoutbot/)

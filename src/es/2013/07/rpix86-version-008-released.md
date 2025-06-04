@@ -8,9 +8,9 @@ date: 2013-07-01 11:00:00
 prev: /es/
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/rpix86_logo.jpg
 ---
 
@@ -18,34 +18,35 @@ image: /images/rpix86_logo.jpg
 
 ![rpix86](/images/rpix86_logo.jpg)
 
-Hacía tiempo que no sabíamos nada de este emulador de sistemas *x86*. Mi sueño es que emule algún día el *StoneKeep*. Todo se andará.
+Hacía tiempo que no sabíamos nada de este emulador de sistemas _x86_. Mi sueño es que emule algún día el _StoneKeep_. Todo se andará.
 
 Os dejo con las características de esta release:
 
-- - -
-* Corregido el modo cursor de texto que a veces deja imágenes adicionales del cursor.
+---
 
-* El aumento de la velocidad de movimiento del cursor por 4x.
+-   Corregido el modo cursor de texto que a veces deja imágenes adicionales del cursor.
 
-* Se ha añadido un código de operación de manejo especial JPO para NHL 94.
+-   El aumento de la velocidad de movimiento del cursor por 4x.
 
-* Se ha añadido STOSB especial STD versión REP Modo-X para NHL 94.
+-   Se ha añadido un código de operación de manejo especial JPO para NHL 94.
 
-* Se ha corregido restablecer la página de pantalla activa en el cambio de modo gráfico.
+-   Se ha añadido STOSB especial STD versión REP Modo-X para NHL 94.
 
-* Texto fijo problema paleta de modo (pantalla en negro) en QBASIC.EXE.
+-   Se ha corregido restablecer la página de pantalla activa en el cambio de modo gráfico.
 
-* Se ha corregido un problema clave de la tabla de traducción con teclas Mayúsculas + T Shift + Q, W, E, R y.
+-   Texto fijo problema paleta de modo (pantalla en negro) en QBASIC.EXE.
 
-* Implementación de tecla almohadilla en teclados del Reino Unido cuando se ejecuta en X Window.
+-   Se ha corregido un problema clave de la tabla de traducción con teclas Mayúsculas + T Shift + Q, W, E, R y.
 
-* Mejora de la precision temporizador AdLib para un mejor comportamiento de la detección AdLib.
+-   Implementación de tecla almohadilla en teclados del Reino Unido cuando se ejecuta en X Window.
+
+-   Mejora de la precision temporizador AdLib para un mejor comportamiento de la detección AdLib.
 
 Como siempre, lo tenéis disponible en:
 
-Enlace: [Pi Store](http://rpix86.patrickaalto.com/rdown.html)
+Enlace: [Pi Store](https://rpix86.patrickaalto.com/rdown.html)
 
-Descarga: [rpix86 ver 0.8](http://rpix86.patrickaalto.com/rpix86.zip)
+Descarga: [rpix86 ver 0.8](https://rpix86.patrickaalto.com/rpix86.zip)
 
 ¡EXTRA!:
 

@@ -8,9 +8,9 @@ date: 2016-07-20 13:00:00
 prev: /es/
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/2016/06/ros.png
 ---
 
@@ -22,8 +22,8 @@ Nuestro compañero y formador [Bernardo Ronquillo](https://www.linkedin.com/in/b
 
 **ESCUELA EUROPEA DE ROBÓTICA**
 
-Lanzamos nuestra actividad en Sevilla con el **CURSO-PROYECTO de Robótica Open Source** de **9 semanas** (29-septiembre a 24-noviembre). Construirás y controlarás tu propio robot inteligente basado en *Raspberry Pi.* 
+Lanzamos nuestra actividad en Sevilla con el **CURSO-PROYECTO de Robótica Open Source** de **9 semanas** (29-septiembre a 24-noviembre). Construirás y controlarás tu propio robot inteligente basado en _Raspberry Pi._
 
 **¡¡¡Reserva antes del 31 DE JULIO y consigue un excepcional descuento!!!**
 
-Enlace: [roboticaeuropa.org](http://roboticaeuropa.org/curso-1/robots-ros-raspberry-pi)
+Enlace: [roboticaeuropa.org](https://roboticaeuropa.org/curso-1/robots-ros-raspberry-pi)

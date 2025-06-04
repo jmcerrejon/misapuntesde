@@ -8,9 +8,9 @@ date: 2016-05-09 09:00:00
 prev: /
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/2016/05/raspimax.png
 ---
 
@@ -18,10 +18,10 @@ image: /images/2016/05/raspimax.png
 
 ![raspimax](/images/2016/05/raspimax.png)
 
-**RaspiMax** is a *Ubuntu MATE16.04 Raspberry Pi distribution* based on a desktop distro with the name **MAX**, but adapted to the Pi thanks to *Fernando Asanza Fernaud*. It works on the *Raspberry Pi 2 and 3*. It comes in Spanish with two flavors: Oriented to education (with applications and need at least 16 GB SD card) or or without it.
+**RaspiMax** is a _Ubuntu MATE16.04 Raspberry Pi distribution_ based on a desktop distro with the name **MAX**, but adapted to the Pi thanks to _Fernando Asanza Fernaud_. It works on the _Raspberry Pi 2 and 3_. It comes in Spanish with two flavors: Oriented to education (with applications and need at least 16 GB SD card) or or without it.
 
 I let you with the link and a blog from their author Fernando dedicated to the world of SBC with some other interesting project and captures.
 
-Link: [raspimax.es](http://raspimax.es)
+Link: [raspimax.es](https://raspimax.es)
 
-Link: [minimaxpc.es/](http://minimaxpc.es/)
+Link: [minimaxpc.es/](https://minimaxpc.es/)

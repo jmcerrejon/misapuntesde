@@ -8,9 +8,9 @@ date: 2017-02-15 12:10:00
 prev: /
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/2017/02/casePi.png
 ---
 
@@ -18,10 +18,10 @@ image: /images/2017/02/casePi.png
 
 ![casePi](/images/2017/02/casePi.png)
 
-Recently the guys from the *Raspberry Pi Foundation* officially commented that we should be careful with the imitations they sell in the Chinese stores of the case for the Pi, since they are imitations... The response of these websites has been **reduce the price of these boxes by 57%**.
+Recently the guys from the _Raspberry Pi Foundation_ officially commented that we should be careful with the imitations they sell in the Chinese stores of the case for the Pi, since they are imitations... The response of these websites has been **reduce the price of these boxes by 57%**.
 
-Link: [Gearbest](http://www.gearbest.com/raspberry-pi/pp_391810.html?wid=21)
+Link: [Gearbest](https://www.gearbest.com/raspberry-pi/pp_391810.html?wid=21)
 
 Link: [Alibaba](https://www.alibaba.com/product-detail/official-raspberry-pi-3-case-pi_60460460173.html)
 
-Link: [Dealextreme](http://www.dx.com/es/p/raspberry-pi-abs-case-for-raspberry-pi-3-model-b-only-white-red-428359)
+Link: [Dealextreme](https://www.dx.com/es/p/raspberry-pi-abs-case-for-raspberry-pi-3-model-b-only-white-red-428359)

@@ -8,9 +8,9 @@ date: 2013-01-14 13:42:00
 prev: /es/
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/retropieprojectlogofinish.jpg
 ---
 
@@ -18,6 +18,6 @@ image: /images/retropieprojectlogofinish.jpg
 
 ![retro-pie](/images/retropieprojectlogofinish.jpg)
 
-Fantástico tutorial para instalar Retro-Pie, el emulador all-in-one que te permitirá jugar a casi cualquier emulador con *"soltura"* ejem!
+Fantástico tutorial para instalar Retro-Pie, el emulador all-in-one que te permitirá jugar a casi cualquier emulador con _"soltura"_ ejem!
 
-Enlace: [Edoyle.net](http://www.edoyle.net/emuladores-retro-para-raspberry-con-retropie-setup-nes-snes-megadrive-gbc-gba-psx-mame-neo-geo/)
+Enlace: [Edoyle.net](https://www.edoyle.net/emuladores-retro-para-raspberry-con-retropie-setup-nes-snes-megadrive-gbc-gba-psx-mame-neo-geo/)

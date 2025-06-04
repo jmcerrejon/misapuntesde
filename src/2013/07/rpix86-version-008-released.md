@@ -8,9 +8,9 @@ date: 2013-07-01 11:00:00
 prev: /
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/rpix86_logo.jpg
 ---
 
@@ -18,32 +18,33 @@ image: /images/rpix86_logo.jpg
 
 ![rpix86](/images/rpix86_logo.jpg)
 
-Some time ago withouth info about this *x86* emulator. My dream is that someday emulate *Stonekeep*. Everything will come.
+Some time ago withouth info about this _x86_ emulator. My dream is that someday emulate _Stonekeep_. Everything will come.
 
 I leave you with the features of this release:
 
-- - -
-* Fixed text mode cursor handling that sometimes left extra cursor images.
+---
 
-* Increased mouse cursor movement speed by 4x.
+-   Fixed text mode cursor handling that sometimes left extra cursor images.
 
-* Added a JPO opcode special handling for NHL '94.
+-   Increased mouse cursor movement speed by 4x.
 
-* Added special REP STOSB STD Mode-X version for NHL '94.
+-   Added a JPO opcode special handling for NHL '94.
 
-* Fixed resetting the active screen page at graphics mode change.
+-   Added special REP STOSB STD Mode-X version for NHL '94.
 
-* Fixed text mode palette problem (black screen) in QBASIC.EXE.
+-   Fixed resetting the active screen page at graphics mode change.
 
-* Fixed a key translation table problem with Caps+Shift+Q,W,E,R and T keys.
+-   Fixed text mode palette problem (black screen) in QBASIC.EXE.
 
-* Implemented UK keyboard hash key mapping when running under X Window.
+-   Fixed a key translation table problem with Caps+Shift+Q,W,E,R and T keys.
 
-* Improved AdLib timer precission for better AdLib detection behaviour.
+-   Implemented UK keyboard hash key mapping when running under X Window.
 
-Link: [Pi Store](http://rpix86.patrickaalto.com/rdown.html)
+-   Improved AdLib timer precission for better AdLib detection behaviour.
 
-Download: [rpix86 ver 0.8](http://rpix86.patrickaalto.com/rpix86.zip)
+Link: [Pi Store](https://rpix86.patrickaalto.com/rdown.html)
+
+Download: [rpix86 ver 0.8](https://rpix86.patrickaalto.com/rpix86.zip)
 
 EXTRA!:
 

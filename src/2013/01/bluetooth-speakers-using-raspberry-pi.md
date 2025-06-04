@@ -8,9 +8,9 @@ date: 2013-01-29 18:50:00
 prev: /
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/bluetooth-speaker.jpg
 ---
 
@@ -18,6 +18,6 @@ image: /images/bluetooth-speaker.jpg
 
 ![bluetooth-speaker](/images/bluetooth-speaker.jpg)
 
-At home I have an useless *USB Bluetooth* dongle. This article is perfect to recycle an old speakers and the *Bluetooth* dongle.
+At home I have an useless _USB Bluetooth_ dongle. This article is perfect to recycle an old speakers and the _Bluetooth_ dongle.
 
-Link: [instructables](http://www.instructables.com/id/Bluetooth-Speakers-using-Raspberry-Pi/)
+Link: [instructables](https://www.instructables.com/id/Bluetooth-Speakers-using-Raspberry-Pi/)

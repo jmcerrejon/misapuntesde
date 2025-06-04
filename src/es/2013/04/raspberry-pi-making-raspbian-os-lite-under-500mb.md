@@ -8,9 +8,9 @@ date: 2013-04-25 09:40:00
 prev: /es/
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/raspflash.jpg
 ---
 
@@ -18,8 +18,8 @@ image: /images/raspflash.jpg
 
 ![raspFlash](/images/raspflash.jpg)
 
-Hoy es uno de esos días que me emociona. Primero porque aunque tenga sentimientos encontrados con *Ubuntu*, cada vez que tenemos nueva release espero con impaciencia como un chiquillo que salga para probarlo en mi *iMac*. Así que hoy no me molestéis, jeje.
+Hoy es uno de esos días que me emociona. Primero porque aunque tenga sentimientos encontrados con _Ubuntu_, cada vez que tenemos nueva release espero con impaciencia como un chiquillo que salga para probarlo en mi _iMac_. Así que hoy no me molestéis, jeje.
 
-Segundo porque el tutorial que hoy he encontrado es sobre adelgazar la distribución *Raspbian* para todos aquellos que no entramos en *LXDE* para nada, y tenemos conectados por cable *Ethernet* nuestra RasPi. Son pasos sencillos, y no pierdes nada en probar el script que han puesto en el foro de *Element14*.
+Segundo porque el tutorial que hoy he encontrado es sobre adelgazar la distribución _Raspbian_ para todos aquellos que no entramos en _LXDE_ para nada, y tenemos conectados por cable _Ethernet_ nuestra RasPi. Son pasos sencillos, y no pierdes nada en probar el script que han puesto en el foro de _Element14_.
 
-Enlace: [Element14](http://www.element14.com/community/blogs/mirandasoft/2013/04/20/raspberry-pi-making-raspbian-os-lite-under-500mb)
+Enlace: [Element14](https://www.element14.com/community/blogs/mirandasoft/2013/04/20/raspberry-pi-making-raspbian-os-lite-under-500mb)

@@ -8,11 +8,11 @@ date: 2014-11-12 09:00:00
 prev: /es/
 next: false
 category:
-  - Raspberry PI
-  - Banana Pi
+    - Raspberry PI
+    - Banana Pi
 tag:
-  - Raspberry PI
-  - Banana Pi
+    - Raspberry PI
+    - Banana Pi
 image: /images/2014/11/lakka.png
 ---
 
@@ -20,64 +20,64 @@ image: /images/2014/11/lakka.png
 
 ![Lakka](/images/2014/11/lakka.png)
 
-Tras la fiebre inicial de la noticia sobre una nueva *Raspberry Pi A+*, se me ha ocurrido ya algo para poder usarla: Emuladores.
+Tras la fiebre inicial de la noticia sobre una nueva _Raspberry Pi A+_, se me ha ocurrido ya algo para poder usarla: Emuladores.
 
-Curiosamente he encontrado esta distro en foros de la *Banana Pi* y aunque ofrece soporte experimental para ésta, el que tiene para la *Raspberry Pi* es completo y estable. 
+Curiosamente he encontrado esta distro en foros de la _Banana Pi_ y aunque ofrece soporte experimental para ésta, el que tiene para la _Raspberry Pi_ es completo y estable.
 
-¿Pero qué nos ofrece esta distro que no lo hagan ya otras como *RetroPie o PiPlay*?. ¡Vamos a verlo!...
+¿Pero qué nos ofrece esta distro que no lo hagan ya otras como _RetroPie o PiPlay_?. ¡Vamos a verlo!...
 
-- - -
+---
+
 <iframe width="560" height="315" src="//www.youtube.com/embed/bnJQa1J_v5s" frameborder="0" allowfullscreen></iframe>
 
-Como he mencionado, su autor ha cogido el *core* de *OpenELEC* sin la parte de *Media Center* y ha creado un menú muy elegante para *RetroArch* muy parecido a los de la *PS3* como podéis ver en el vídeo arriba.
+Como he mencionado, su autor ha cogido el _core_ de _OpenELEC_ sin la parte de _Media Center_ y ha creado un menú muy elegante para _RetroArch_ muy parecido a los de la _PS3_ como podéis ver en el vídeo arriba.
 
-Al estar basado en *RetroArch* podremos jugar a emuladores de *NES, SNES, Sega Genesis o PSX* entre otros, pero su desarrollador promete un sistema rápido con las siguientes características:
+Al estar basado en _RetroArch_ podremos jugar a emuladores de _NES, SNES, Sega Genesis o PSX_ entre otros, pero su desarrollador promete un sistema rápido con las siguientes características:
 
-* Basado en RetroArch y OpenELEC
+-   Basado en RetroArch y OpenELEC
 
-* Distro en 85 Mb con acceso de sólo lectura
+-   Distro en 85 Mb con acceso de sólo lectura
 
-* Sistema de actualización no basado en paquete, sino en todo el sistema de ficheros y Kernel.
+-   Sistema de actualización no basado en paquete, sino en todo el sistema de ficheros y Kernel.
 
-* Open source
+-   Open source
 
-* Menú amigable
+-   Menú amigable
 
-* Rebobinado de partida, hotplug hoypad, video streaming, capturas de pantalla, pausar juegos, guardar partidas,...
+-   Rebobinado de partida, hotplug hoypad, video streaming, capturas de pantalla, pausar juegos, guardar partidas,...
 
-Actualmente está depurando el *front-end* y no solo estará disponible para la *Raspberry Pi*, sino que dará soporte a *Banana Pi, Cubix-i o Cubietruck entre otros*.
+Actualmente está depurando el _front-end_ y no solo estará disponible para la _Raspberry Pi_, sino que dará soporte a _Banana Pi, Cubix-i o Cubietruck entre otros_.
 
-Si quires puedes probar una estable, pero dispones de las versiones diarias para distintos dispositivos en el enlace que dejo al final del post. 
+Si quires puedes probar una estable, pero dispones de las versiones diarias para distintos dispositivos en el enlace que dejo al final del post.
 
 ### [ Log de pruebas iniciales]
 
-* He testeado una versión de desarrollo que puedes descargar [aquí](http://sources.lakka.tv/nightly/Lakka-RPi.arm-devel-20141105152307-r19688-g50ca5b9.img.gz).
+-   He testeado una versión de desarrollo que puedes descargar [aquí](https://sources.lakka.tv/nightly/Lakka-RPi.arm-devel-20141105152307-r19688-g50ca5b9.img.gz).
 
-* Overclock *High* pero me da que va a funcionar bien sin tocar este parámetro en el *config.txt*
+-   Overclock _High_ pero me da que va a funcionar bien sin tocar este parámetro en el _config.txt_
 
-* En el primer arranque, redimensiona la SD para aprovechar la máxima capacidad.
+-   En el primer arranque, redimensiona la SD para aprovechar la máxima capacidad.
 
-* Tarda unos **13 segundos en arrancar**.
+-   Tarda unos **13 segundos en arrancar**.
 
-* El menú se mueve con suavidad.
+-   El menú se mueve con suavidad.
 
-* Viene con *SSH* activado por defecto (root@root).
+-   Viene con _SSH_ activado por defecto (root@root).
 
-* Añadido al *config.txt, hdmi_drive=2* para conseguir audio a través del *HDMI*.
+-   Añadido al _config.txt, hdmi_drive=2_ para conseguir audio a través del _HDMI_.
 
-* Para copiar las *ROMS* utiliza *Samba*, por lo que tendrás que echar mano de otro equipo en la red. Los he copiado todos sin subdirectorios y se ordenan solos según la extensión de la *ROM* (*.nes* aparece bajo el menú de  *Nintendo*, etc...)
+-   Para copiar las _ROMS_ utiliza _Samba_, por lo que tendrás que echar mano de otro equipo en la red. Los he copiado todos sin subdirectorios y se ordenan solos según la extensión de la _ROM_ (_.nes_ aparece bajo el menú de _Nintendo_, etc...)
 
-* He conectado un mando cableado de la *XBox-360* y me la ha reconocido sin problemas en apenas **2 segundos**.
+-   He conectado un mando cableado de la _XBox-360_ y me la ha reconocido sin problemas en apenas **2 segundos**.
 
-* Emuladores probados y funcionando a la perfección: FBA (Cadillac & Dinnosaurs), SNES (Kirby Superstar audio regular pero es uno de los pesos pesados de la *Famicon*, Super Mario Bros perfecto), Genesis (Sonic 3), NES (Super Mario Bros 3).
-
+-   Emuladores probados y funcionando a la perfección: FBA (Cadillac & Dinnosaurs), SNES (Kirby Superstar audio regular pero es uno de los pesos pesados de la _Famicon_, Super Mario Bros perfecto), Genesis (Sonic 3), NES (Super Mario Bros 3).
 
 ¡A jugar!
 
-Enlace: [lakka.tv](http://www.lakka.tv/doc/Home/)
+Enlace: [lakka.tv](https://www.lakka.tv/doc/Home/)
 
 Enlace: [GitHub.com > lakkatvyou](https://github.com/lakkatv/Lakka)
 
 FAQ: [GitHub.com > FAQ](https://github.com/lakkatv/Lakka/wiki/FAQ)
 
-Nightly builds: [sources.lakka.tv](http://sources.lakka.tv/nightly/?C=M;O=D)
+Nightly builds: [sources.lakka.tv](https://sources.lakka.tv/nightly/?C=M;O=D)

@@ -8,9 +8,9 @@ date: 2015-09-21 12:00:00
 prev: /
 next: false
 category:
-  - ODROID
+    - ODROID
 tag:
-  - ODROID
+    - ODROID
 image: /images/emulationstation.png
 ---
 
@@ -18,11 +18,12 @@ image: /images/emulationstation.png
 
 ![EmulationStation](/images/emulationstation.png)
 
-*ARM* has released new drivers *r6p0* with *DMA Buffer* and *VSync* support. It is not yet available in the official *repositories*, but users who compiled it have reached...**450fps!** (From *20fps* achieved with the previous driver *r5p1*). Want to see how it moves the Soul Calibur to *60fps* on a *ODROID XU4*?...
+_ARM_ has released new drivers _r6p0_ with _DMA Buffer_ and _VSync_ support. It is not yet available in the official _repositories_, but users who compiled it have reached...**450fps!** (From _20fps_ achieved with the previous driver _r5p1_). Want to see how it moves the Soul Calibur to _60fps_ on a _ODROID XU4_?...
 
-- - -
-For now there is not support for *Wayland* and *X11*. Enabling *VSync* we get *60fps* on *Emulation Station*.
+---
+
+For now there is not support for _Wayland_ and _X11_. Enabling _VSync_ we get _60fps_ on _Emulation Station_.
 
 Link: [youtube.com > ppsspp odroid xu4](https://www.youtube.com/watch?v=iVkMdObkTKg)
 
-Forum: [forum.odroid.com > XU3/4 Mali GPU driver for FBDEV with DMA-BUF & VSYNC by ARM](http://forum.odroid.com/viewtopic.php?f=29&t=16272)
+Forum: [forum.odroid.com > XU3/4 Mali GPU driver for FBDEV with DMA-BUF & VSYNC by ARM](https://forum.odroid.com/viewtopic.php?f=29&t=16272)

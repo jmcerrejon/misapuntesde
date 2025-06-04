@@ -8,9 +8,9 @@ date: 2013-01-20 10:00:00
 prev: /
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/mame.jpg
 ---
 
@@ -18,7 +18,7 @@ image: /images/mame.jpg
 
 ![mame](/images/mame.jpg)
 
-Download from the *Shea Silverman's* [website](http://blog.sheasilverman.com/2013/01/friday-post-advance-debs/) & install with:
+Download from the _Shea Silverman's_ [website](https://blog.sheasilverman.com/2013/01/friday-post-advance-debs/) & install with:
 
 ```bash
 

@@ -8,9 +8,9 @@ date: 2013-09-19 10:00:00
 prev: /
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/browser_fight.jpg
 ---
 
@@ -18,8 +18,8 @@ image: /images/browser_fight.jpg
 
 ![browser fight](/images/browser_fight.jpg)
 
-I often tell people that the *Raspberry Pi* is not good for use a web browser. For me it was frustrating and the truth is I have not retested.
+I often tell people that the _Raspberry Pi_ is not good for use a web browser. For me it was frustrating and the truth is I have not retested.
 
-*Christian Cawley* from *makeuseof.com* gives us some ideas for our navigation with the *Raspberry Pi* more enjoyable than other things.
+_Christian Cawley_ from _makeuseof.com_ gives us some ideas for our navigation with the _Raspberry Pi_ more enjoyable than other things.
 
-Link: [makeuseof.com: How to Choose and Optimise Your Raspberry Pi Browser](http://www.makeuseof.com/tag/how-to-choose-and-optimise-your-raspberry-pi-browser/)
+Link: [makeuseof.com: How to Choose and Optimise Your Raspberry Pi Browser](https://www.makeuseof.com/tag/how-to-choose-and-optimise-your-raspberry-pi-browser/)

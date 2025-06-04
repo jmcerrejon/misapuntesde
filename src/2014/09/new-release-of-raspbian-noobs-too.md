@@ -8,9 +8,9 @@ date: 2014-09-15 07:30:00
 prev: /
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/raspbian.jpg
 ---
 
@@ -18,20 +18,21 @@ image: /images/raspbian.jpg
 
 ![Raspbian](/images/raspbian.jpg)
 
-A few days ago The RPi Foundation upload a new version of the official OS *Raspbian* and the OS installer *NOOBS*. If you want to know what's new on this release, you can read the full post.
+A few days ago The RPi Foundation upload a new version of the official OS _Raspbian_ and the OS installer _NOOBS_. If you want to know what's new on this release, you can read the full post.
 
-- - -
-For those who are looking forward to change repos from *Wheezy* to *Jessie*, we will have to wait a little longer.
+---
 
-* Epiphany browser
+For those who are looking forward to change repos from _Wheezy_ to _Jessie_, we will have to wait a little longer.
 
-* Switch to Java 8 from Java 7
+-   Epiphany browser
 
-* New firmware
+-   Switch to Java 8 from Java 7
 
-* Minecraft Pi pre-installed
+-   New firmware
 
-* Sonic Pi upgraded to 2.0
+-   Minecraft Pi pre-installed
+
+-   Sonic Pi upgraded to 2.0
 
 If you want to upgrade your actual Raspbian distro:
 
@@ -39,4 +40,4 @@ If you want to upgrade your actual Raspbian distro:
 	sudo apt-get update && sudo apt-get dist-upgrade -y
 ```
 
-Download: [raspberrypi.org](http://www.raspberrypi.org/downloads/)
+Download: [raspberrypi.org](https://www.raspberrypi.org/downloads/)

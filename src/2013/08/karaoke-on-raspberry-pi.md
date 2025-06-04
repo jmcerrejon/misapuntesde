@@ -8,9 +8,9 @@ date: 2013-08-21 08:00:00
 prev: /
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/karaoke.jpg
 ---
 
@@ -18,11 +18,12 @@ image: /images/karaoke.jpg
 
 ![karaoke](/images/karaoke.jpg)
 
-One of the biggest frustrations I've had with the Pi is to be able to use it as *karaoke machine*. I have tried several methods but the guys from *Pi-Fun* seem to have discovered a way to make it work, but the method is somewhat complex...
+One of the biggest frustrations I've had with the Pi is to be able to use it as _karaoke machine_. I have tried several methods but the guys from _Pi-Fun_ seem to have discovered a way to make it work, but the method is somewhat complex...
 
-- - -
-The basic problem is to hear the microphone through the *TV* and play the .kar at the same time. The system failed but now has been updated the sound drivers on *Raspbian* and seems now it works.
+---
 
-The method requires two *SSH* connections and install a few packages. Fun is guaranteed.
+The basic problem is to hear the microphone through the _TV_ and play the .kar at the same time. The system failed but now has been updated the sound drivers on _Raspbian_ and seems now it works.
 
-Link: [Pi-Fun](http://www.pi-fun.com/index.php/blog/dextrusblogs/karaoke-revisited/)
+The method requires two _SSH_ connections and install a few packages. Fun is guaranteed.
+
+Link: [Pi-Fun](https://www.pi-fun.com/index.php/blog/dextrusblogs/karaoke-revisited/)

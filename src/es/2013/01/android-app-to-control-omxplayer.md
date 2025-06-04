@@ -8,9 +8,9 @@ date: 2013-01-22 13:50:00
 prev: /es/
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/rpi-remote.jpg
 ---
 
@@ -18,6 +18,6 @@ image: /images/rpi-remote.jpg
 
 ![rpi-remote](/images/rpi-remote.jpg)
 
-Esta aplicación llamada *Raspberry Pi Control Remoto*, con versión gratis y de pago, te permitirá controlar vía *SSH* las películas que cargues con *omxplayer*. En sí la aplicación no es nada del otro mundo, pero funciona :)
+Esta aplicación llamada _Raspberry Pi Control Remoto_, con versión gratis y de pago, te permitirá controlar vía _SSH_ las películas que cargues con _omxplayer_. En sí la aplicación no es nada del otro mundo, pero funciona :)
 
-Enlace: [androidpit.es](http://www.androidpit.es/es/android/market/aplicaciones/aplicacion/com.raspberry.remote/Raspberry-Pi-Control-Remoto)
+Enlace: [androidpit.es](https://www.androidpit.es/es/android/market/aplicaciones/aplicacion/com.raspberry.remote/Raspberry-Pi-Control-Remoto)

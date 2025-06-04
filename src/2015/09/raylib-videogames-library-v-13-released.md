@@ -8,11 +8,11 @@ date: 2015-09-07 11:35:00
 prev: /
 next: false
 category:
-  - Developer
-  - Raspberry PI
+    - Developer
+    - Raspberry PI
 tag:
-  - Developer
-  - Raspberry PI
+    - Developer
+    - Raspberry PI
 image: /images/2015/01/raylib_logo.png
 ---
 
@@ -20,27 +20,28 @@ image: /images/2015/01/raylib_logo.png
 
 ![Raylib](/images/2015/01/raylib_logo.png)
 
-I [commented](/post.php?id=507) this *open-source library* created by a teacher to his students. It will help you easily create video games in C.
+I [commented](/post.php?id=507) this _open-source library_ created by a teacher to his students. It will help you easily create video games in C.
 
 I am glad to know that continue its development quite actively, and with some new features on the new version 1.3:
 
-- - -
-* Now with raylib you can code your games in C and compile for Windows, Linux, OSX, Android, RaspberryPi and HTML5.
+---
 
-* Shaders support for easy shaders loading and use. Loaded shaders can be attached to 3d models or used as fullscreen postrocessing effects. A bunch of postprocessing shaders are also included in this release, check raylib/shaders folder.
+-   Now with raylib you can code your games in C and compile for Windows, Linux, OSX, Android, RaspberryPi and HTML5.
 
-* Textures module has grown to support most of the internal texture formats available in OpenGL (RGB565, RGB888, RGBA5551, RGBA4444, etc.), including compressed texture formats (DXT, ETC1, ETC2, ASTC, PVRT); raylib 1.3 can load .dds, .pkm, .ktx, .astc and .pvr files.
+-   Shaders support for easy shaders loading and use. Loaded shaders can be attached to 3d models or used as fullscreen postrocessing effects. A bunch of postprocessing shaders are also included in this release, check raylib/shaders folder.
 
-* New camera module offers to the user multiple preconfigured ready-to-use camera systems (free camera, 1st person, 3rd person). Camera modes are very easy to use, just check examples: core_3d_camera_free.c and core_3d_camera_first_person.c.
+-   Textures module has grown to support most of the internal texture formats available in OpenGL (RGB565, RGB888, RGBA5551, RGBA4444, etc.), including compressed texture formats (DXT, ETC1, ETC2, ASTC, PVRT); raylib 1.3 can load .dds, .pkm, .ktx, .astc and .pvr files.
 
-* New gestures module simplifies gestures detection on Android and HTML5 programs.
+-   New camera module offers to the user multiple preconfigured ready-to-use camera systems (free camera, 1st person, 3rd person). Camera modes are very easy to use, just check examples: core_3d_camera_free.c and core_3d_camera_first_person.c.
 
-* raygui, the new IMGUI (Immediate Mode GUI) module offers a set of functions to create simple user interfaces, primary intended for tools development. It's still in experimental state but already fully functional.
+-   New gestures module simplifies gestures detection on Android and HTML5 programs.
 
-Link: [raylib.com](http://www.raylib.com)
+-   raygui, the new IMGUI (Immediate Mode GUI) module offers a set of functions to create simple user interfaces, primary intended for tools development. It's still in experimental state but already fully functional.
 
-Link: [raylib.com > Example](http://www.raylib.com/examples.htm)
+Link: [raylib.com](https://www.raylib.com)
 
-Forum: [raylib.com/forum](http://www.raylib.com/forum/index.php?p=/categories)
+Link: [raylib.com > Example](https://www.raylib.com/examples.htm)
 
-Link: [Cheatsheet](http://www.raylib.com/cheatsheet.html)
+Forum: [raylib.com/forum](https://www.raylib.com/forum/index.php?p=/categories)
+
+Link: [Cheatsheet](https://www.raylib.com/cheatsheet.html)

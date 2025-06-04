@@ -8,9 +8,9 @@ date: 2013-08-20 08:40:00
 prev: /
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/download1.png
 ---
 
@@ -20,26 +20,27 @@ image: /images/download1.png
 
 **Updated July, 2017**
 
-Best of *Raspberry Pi* for me is saving resources on tasks that require some time to process: Modify massively thousands of files or download *torrents* are some of them.
+Best of _Raspberry Pi_ for me is saving resources on tasks that require some time to process: Modify massively thousands of files or download _torrents_ are some of them.
 
-Today we are going to download/upload files from sharing sites such as *MEGA, 4shared or Mediafire* in *Raspbian* or *Debian* based with *plowshare*.
+Today we are going to download/upload files from sharing sites such as _MEGA, 4shared or Mediafire_ in _Raspbian_ or _Debian_ based with _plowshare_.
 
-- - -
-###  What is plowshare?
+---
 
-*Plowshare* is a command line tool (CLI) to upload/download files from sharing websites such as *MEGA, Uploaded or FreakShare*.
+### What is plowshare?
+
+_Plowshare_ is a command line tool (CLI) to upload/download files from sharing websites such as _MEGA, Uploaded or FreakShare_.
 
 Features:
 
-* *Plowshare* supports around 44+ different hosters.
+-   _Plowshare_ supports around 44+ different hosters.
 
-* A small footprint (few shell scripts). **No java, no python!** Run fast on embedded devices!
+-   A small footprint (few shell scripts). **No java, no python!** Run fast on embedded devices!
 
-* Few dependencies and portable. **bash and curl** are enough for most hosters.
+-   Few dependencies and portable. **bash and curl** are enough for most hosters.
 
-* Support for automatic online captcha solver services.
+-   Support for automatic online captcha solver services.
 
-###  [Installation]
+### [Installation]
 
 First, install the dependencies:
 
@@ -47,9 +48,9 @@ First, install the dependencies:
 sudo apt-get update && sudo apt-get install recode spidermonkey-bin sxiv
 ```
 
-**NOTE:** If you have premium account, do not install *sxiv* package.
+**NOTE:** If you have premium account, do not install _sxiv_ package.
 
-It is necessary for some hosting the next to solve *Captcha*, but do not install it if you do not ask:
+It is necessary for some hosting the next to solve _Captcha_, but do not install it if you do not ask:
 
 ```bash
 sudo apt-get install libhtml-parser-perl rhino
@@ -63,17 +64,17 @@ sudo make install
 plowmod --install
 ```
 
-*plowmod* enable some hosters by default (Uploaded, Mega,...)
+_plowmod_ enable some hosters by default (Uploaded, Mega,...)
 
-###  [Use]
+### [Use]
 
-The command to download is called **plowdown**. To use, simply write *plowdown* followed the download link from *X-Windows*:
+The command to download is called **plowdown**. To use, simply write _plowdown_ followed the download link from _X-Windows_:
 
 ```bash
-plowdown http://url_to_download
+plowdown https://url_to_download
 ```
 
-You need the *X* because *Captcha* show you a picture. There are packages that convert the image in *ASCII* format to be used directly from the terminal such as *aview*, but I have not managed to resolve none with this method.
+You need the _X_ because _Captcha_ show you a picture. There are packages that convert the image in _ASCII_ format to be used directly from the terminal such as _aview_, but I have not managed to resolve none with this method.
 
 ![Plowdown](/images/2013/08/plowdown.jpg)
 
@@ -82,10 +83,10 @@ If you have premium account you don't need enter into the desktop. You can downl
 To do this, you must add the parameter **-a 'user:password'**. Example:
 
 ```bash
-plowdown -a 'user34:1234' http://uploaded.net/file/40s4x2sx
+plowdown -a 'user34:1234' https://uploaded.net/file/40s4x2sx
 ```
 
-We can also create a *.txt* file with all the links you want to download and invoke it as follows:
+We can also create a _.txt_ file with all the links you want to download and invoke it as follows:
 
 ```bash
 plowdown -m downloads.txt

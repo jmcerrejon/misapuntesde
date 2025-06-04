@@ -8,9 +8,9 @@ date: 2017-04-12 09:00:00
 prev: /
 next: false
 category:
-  - Orange Pi
+    - Orange Pi
 tag:
-  - Orange Pi
+    - Orange Pi
 image: /images/2017/04/orange2g.png
 ---
 
@@ -18,10 +18,10 @@ image: /images/2017/04/orange2g.png
 
 ![orange2g](/images/2017/04/orange2g.png)
 
-New board to compete with low-cost ones like the *Pi Zero W*. These plates are proliferating because of their price and performance.
+New board to compete with low-cost ones like the _Pi Zero W_. These plates are proliferating because of their price and performance.
 
-In this case, we find an *ARM Cortex-A5 32 bit - 1GHz with 256MB RAM*. The interesting thing is its connectivity: *WiFi, FM Radio*, **GSM / GPRS**, *GPIO* compatible with RPi, *Bluetooth*... **All for 10 bucks**. What do you think?. As always, the community is the one that has to manifest and we will see if it supports it in its first steps of life.
+In this case, we find an _ARM Cortex-A5 32 bit - 1GHz with 256MB RAM_. The interesting thing is its connectivity: _WiFi, FM Radio_, **GSM / GPRS**, _GPIO_ compatible with RPi, _Bluetooth_... **All for 10 bucks**. What do you think?. As always, the community is the one that has to manifest and we will see if it supports it in its first steps of life.
 
-Link: [cnx-software.com](http://www.cnx-software.com/2017/03/30/orange-pi-2g-iot-arm-linux-development-board-with-2ggsm-support-is-up-for-sale-for-9-90/)
+Link: [cnx-software.com](https://www.cnx-software.com/2017/03/30/orange-pi-2g-iot-arm-linux-development-board-with-2ggsm-support-is-up-for-sale-for-9-90/)
 
-Link: [geeky-gadgets.com](http://www.geeky-gadgets.com/orange-pi-2g-iot-cellular-mini-pc-31-03-2017/)
+Link: [geeky-gadgets.com](https://www.geeky-gadgets.com/orange-pi-2g-iot-cellular-mini-pc-31-03-2017/)

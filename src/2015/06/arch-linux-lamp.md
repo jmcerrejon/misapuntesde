@@ -8,9 +8,9 @@ date: 2015-06-16 08:00:00
 prev: /
 next: false
 category:
-  - Linux
+    - Linux
 tag:
-  - Linux
+    - Linux
 image: /images/2015/06/lamp.png
 ---
 
@@ -18,7 +18,7 @@ image: /images/2015/06/lamp.png
 
 ![lamp](/images/2015/06/lamp.png)
 
-Lately I suffer [distrohopper](http://es.urbandictionary.com/define.php?term=distrohopper). This has force me to install [Manjaro](https://manjaro.github.io/), based on *Arch Linux* and leave a little aside to *Debian*, with whom I was delighted, but with *Manjaro* was love at first sight. I did not think that an operating system could be as fast on a computer that is already 4 years.
+Lately I suffer [distrohopper](https://es.urbandictionary.com/define.php?term=distrohopper). This has force me to install [Manjaro](https://manjaro.github.io/), based on _Arch Linux_ and leave a little aside to _Debian_, with whom I was delighted, but with _Manjaro_ was love at first sight. I did not think that an operating system could be as fast on a computer that is already 4 years.
 
 So back again and configure everything from scratch. This time **I've installed Apache+PHP+MariaDB**, the trouble is I did not know I was going to give so many headaches.
 
@@ -26,16 +26,17 @@ For this reason, I decided to leave here some notes to configure and have a refe
 
 Here we go.
 
-- - -
-First you must to install the required packages: 
+---
+
+First you must to install the required packages:
 
 ```bash
 sudo pacman -S apache php php-apache php-mcrypt mod_fcgid openssl mariadb mariadb-clients
 ```
 
-I tried to avoid the *AUR* repositories to improve system stability.
+I tried to avoid the _AUR_ repositories to improve system stability.
 
-We configure *MariaDB*. No matter if your databases are in *MySQL* or your connections are to this database. It's compatible.
+We configure _MariaDB_. No matter if your databases are in _MySQL_ or your connections are to this database. It's compatible.
 
 ```bash
 mysql_install_db --user=mysql --basedir=/usr --datadir=/var/lib/mysql
@@ -43,7 +44,7 @@ mysqladmin -u root password 'mypassword'
 systemctl start mysqld
 ```
 
-Now modify the file */etc/httpd/conf/httpd.conf* (Here it's the majority of problems). I recommend making a copy of the file:
+Now modify the file _/etc/httpd/conf/httpd.conf_ (Here it's the majority of problems). I recommend making a copy of the file:
 
 ```bash
 Add # at the beginning of the next line:
@@ -82,7 +83,7 @@ Include conf/extra/httpd-ssl.conf
 
 ```
 
-Modify the file*/etc/php/php.ini*, deleting ; in the next lines: 
+Modify the file*/etc/php/php.ini*, deleting ; in the next lines:
 
 ```bash
 extension=mcrypt.so
@@ -100,5 +101,4 @@ systemctl restart httpd
 systemctl restart mysqld
 ```
 
-If you have problems with *Apache or PHP*, check your log: */var/log/httpd/error_log*
-
+If you have problems with _Apache or PHP_, check your log: _/var/log/httpd/error_log_

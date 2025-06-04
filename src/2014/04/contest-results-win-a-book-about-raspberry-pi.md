@@ -8,9 +8,9 @@ date: 2014-04-23 09:15:58
 prev: /
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/2014/01/rpi_cookbook.jpg
 ---
 
@@ -18,9 +18,9 @@ image: /images/2014/01/rpi_cookbook.jpg
 
 ![cookbook](/images/2014/01/rpi_cookbook.jpg)
 
-Today is the [World Book Day](http://en.wikipedia.org/wiki/World_Book_Day) and I wanted to resolve the contest [I announced](/post.php?id=381) a few weeks ago.
+Today is the [World Book Day](https://en.wikipedia.org/wiki/World_Book_Day) and I wanted to resolve the contest [I announced](/post.php?id=381) a few weeks ago.
 
-The winner is [@sdeancos](https://twitter.com/sdeancos) and the chosen book [Raspberry Pi Cookbook](/post.php?id=350). I've already been in contact with him and the book will arrive this Friday via [Amazon](http://www.amazon.com/Raspberry-Pi-Cookbook-Simon-Monk-ebook/dp/B00H8B64FE/).
+The winner is [@sdeancos](https://twitter.com/sdeancos) and the chosen book [Raspberry Pi Cookbook](/post.php?id=350). I've already been in contact with him and the book will arrive this Friday via [Amazon](https://www.amazon.com/Raspberry-Pi-Cookbook-Simon-Monk-ebook/dp/B00H8B64FE/).
 
 Congratulation!
 

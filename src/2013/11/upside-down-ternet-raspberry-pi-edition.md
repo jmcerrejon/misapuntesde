@@ -8,9 +8,9 @@ date: 2013-11-10 10:15:00
 prev: /
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/2013/11/01_RaspberryPi.jpg
 ---
 
@@ -18,4 +18,4 @@ image: /images/2013/11/01_RaspberryPi.jpg
 
 ![rpi](/images/2013/11/01_RaspberryPi.jpg)
 
-Info directly in [compexperience.blogspot.com.es](http://compexperience.blogspot.com.es/2013/11/upside-down-ternet-raspberry-pi-edition.html)
+Info directly in [compexperience.blogspot.com.es](https://compexperience.blogspot.com.es/2013/11/upside-down-ternet-raspberry-pi-edition.html)

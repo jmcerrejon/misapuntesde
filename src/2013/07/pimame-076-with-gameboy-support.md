@@ -8,9 +8,9 @@ date: 2013-07-13 12:00:00
 prev: /
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/mame.jpg
 ---
 
@@ -18,18 +18,19 @@ image: /images/mame.jpg
 
 ![PiMAME](/images/mame.jpg)
 
-Nothing better than spending a weekend with emulators, or like [Steve Ballmer](http://www.youtube.com/watch?v=8To-6VIJZRE) said: emulators, emulators, emulators!
+Nothing better than spending a weekend with emulators, or like [Steve Ballmer](https://www.youtube.com/watch?v=8To-6VIJZRE) said: emulators, emulators, emulators!
 
-- - -
+---
+
 New in this version:
 
-* gpsp - Gameboy Advance Emulator. If you need: [gba_bios.bin](/res/gba_bios.bin).
+-   gpsp - Gameboy Advance Emulator. If you need: [gba_bios.bin](/res/gba_bios.bin).
 
-* Gearboy - Gameboy and Gameboy Color emulator.
+-   Gearboy - Gameboy and Gameboy Color emulator.
 
-* ScummVM - A point and click adventure game engine.
+-   ScummVM - A point and click adventure game engine.
 
-Link: [sourceforge.net - PiMAME 0.7.6.](http://sourceforge.net/projects/pimame/files/pimame-0.7.6.img.zip/download)
+Link: [sourceforge.net - PiMAME 0.7.6.](https://sourceforge.net/projects/pimame/files/pimame-0.7.6.img.zip/download)
 
 EXTRA!:
 

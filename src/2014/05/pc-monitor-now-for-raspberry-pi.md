@@ -8,9 +8,9 @@ date: 2014-05-20 07:28:37
 prev: /
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/2014/05/pcmonitor.png
 ---
 
@@ -18,25 +18,26 @@ image: /images/2014/05/pcmonitor.png
 
 ![pc monitor](/images/2014/05/pcmonitor.png)
 
-*PC Monitor gives you complete control of your computers and applications from anywhere, at any time. You can monitor and control Windows, Linux and Mac, as well as .NET and Java applications or Raspberry Pi PCB...*
+_PC Monitor gives you complete control of your computers and applications from anywhere, at any time. You can monitor and control Windows, Linux and Mac, as well as .NET and Java applications or Raspberry Pi PCB..._
 
-- - -
-You must create an account [here](https://www.mobilepcmonitor.com/account/register) and generate a configuration file in */etc/pcmonitor* (in the same directory you have an example). You have a mobile app to monitor any device and need to install the program in Raspberry that collect the data. The free version allows you to monitor up to 5 devices.
+---
+
+You must create an account [here](https://www.mobilepcmonitor.com/account/register) and generate a configuration file in _/etc/pcmonitor_ (in the same directory you have an example). You have a mobile app to monitor any device and need to install the program in Raspberry that collect the data. The free version allows you to monitor up to 5 devices.
 
 The functions include information about:
 
-* CPU usage, available memory
+-   CPU usage, available memory
 
-* Internal/external IP (Internet location on Google Maps)
+-   Internal/external IP (Internet location on Google Maps)
 
-* Ports
+-   Ports
 
-* Free space on SD card
+-   Free space on SD card
 
-* Running Processes
+-   Running Processes
 
-* You can send commands via a terminal
+-   You can send commands via a terminal
 
-* Send commands to Restart/Shut Down the Pi
+-   Send commands to Restart/Shut Down the Pi
 
-Download: [mobilepcmonitor.com](http://www.mobilepcmonitor.com/downloads)
+Download: [mobilepcmonitor.com](https://www.mobilepcmonitor.com/downloads)

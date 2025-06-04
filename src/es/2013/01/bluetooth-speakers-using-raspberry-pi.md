@@ -8,9 +8,9 @@ date: 2013-01-29 18:50:00
 prev: /es/
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/bluetooth-speaker.jpg
 ---
 
@@ -18,6 +18,6 @@ image: /images/bluetooth-speaker.jpg
 
 ![bluetooth-speaker](/images/bluetooth-speaker.jpg)
 
-En casa tengo un pendrive *Bluetooth*, y no se que hacer con él. Este artículo me viene fenomenal para aprovechar unos altavoces antiguos que tengo, y el dongle *Bluetooth*.
+En casa tengo un pendrive _Bluetooth_, y no se que hacer con él. Este artículo me viene fenomenal para aprovechar unos altavoces antiguos que tengo, y el dongle _Bluetooth_.
 
-Enlace: [instructables](http://www.instructables.com/id/Bluetooth-Speakers-using-Raspberry-Pi/)
+Enlace: [instructables](https://www.instructables.com/id/Bluetooth-Speakers-using-Raspberry-Pi/)

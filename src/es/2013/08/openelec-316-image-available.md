@@ -8,9 +8,9 @@ date: 2013-08-24 09:00:00
 prev: /es/
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/xbmc.jpg
 ---
 
@@ -20,17 +20,18 @@ image: /images/xbmc.jpg
 
 Salió hace unos días pero ha tardado en tener disponible su imagen. Antes del paso a lo que será la versión 3.2 de este estupendo Media Center, recomiendo a todos los seguidores de esta distribución que actualicen. Os paso a detallar los motivos...
 
-- - -
-* Lo primero, velocidad de arranque. Llevaban años con un problema que hacía lento su arranque, y ahora queda completamente reparado.
+---
 
-* La carga de fanart y thumbnails se ha acelerado.
+-   Lo primero, velocidad de arranque. Llevaban años con un problema que hacía lento su arranque, y ahora queda completamente reparado.
 
-* Caché de red.
+-   La carga de fanart y thumbnails se ha acelerado.
 
-* Optimizaciones del entorno.
+-   Caché de red.
 
-* Mejoras y correcciones en Avahi/Zeroconf y Samba.
+-   Optimizaciones del entorno.
 
-* Soporte del protocolo OBEX (bluetooth) para transferencia de ficheros. 
+-   Mejoras y correcciones en Avahi/Zeroconf y Samba.
 
-Descarga: [OpenELEC-RPi.arm-3.1.6.img.zip](http://resources.pichimney.com/OpenELEC/test_images/OpenELEC-RPi.arm-3.1.6.img.zip)
+-   Soporte del protocolo OBEX (bluetooth) para transferencia de ficheros.
+
+Descarga: [OpenELEC-RPi.arm-3.1.6.img.zip](https://resources.pichimney.com/OpenELEC/test_images/OpenELEC-RPi.arm-3.1.6.img.zip)

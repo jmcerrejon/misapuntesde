@@ -8,9 +8,9 @@ date: 2013-03-21 18:00:00
 prev: /
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/Linux_Format_UK_2013-04.jpg
 ---
 
@@ -18,8 +18,8 @@ image: /images/Linux_Format_UK_2013-04.jpg
 
 ![Linux format UK](/images/Linux_Format_UK_2013-04.jpg)
 
-In this magazine we teach various tricks, apps and how to stream and record TV channels through our *Raspberry Pi*. It also teaches several distros to choose the ones you like.
+In this magazine we teach various tricks, apps and how to stream and record TV channels through our _Raspberry Pi_. It also teaches several distros to choose the ones you like.
 
-***PS:*** I encourage people to buy the magazine or subscribe to it better.
+**_PS:_** I encourage people to buy the magazine or subscribe to it better.
 
-Subscription: [Linux Format UK](http://www.myfavouritemagazines.co.uk/content/lp/linuxformat/)
+Subscription: [Linux Format UK](https://www.myfavouritemagazines.co.uk/content/lp/linuxformat/)

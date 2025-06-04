@@ -8,9 +8,9 @@ date: 2013-06-04 10:00:00
 prev: /es/
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/retropieprojectlogofinish.jpg
 ---
 
@@ -18,6 +18,6 @@ image: /images/retropieprojectlogofinish.jpg
 
 ![retropie](/images/retropieprojectlogofinish.jpg)
 
-¿Alguno de vosotros usa *Arch Linux*?, ¿Os gustaría usar este conjunto de emuladores llamado *RetroPie* en esta distribución?. Pues un usuario del foro de *raspberrypi.org* con el nick *r4_*, ha posteado una guía para poder instalarla sin mayor complicación en esta distribución inspirada en [CRUX](https://es.wikipedia.org/wiki/CRUX).
+¿Alguno de vosotros usa _Arch Linux_?, ¿Os gustaría usar este conjunto de emuladores llamado _RetroPie_ en esta distribución?. Pues un usuario del foro de _raspberrypi.org_ con el nick _r4\__, ha posteado una guía para poder instalarla sin mayor complicación en esta distribución inspirada en [CRUX](https://es.wikipedia.org/wiki/CRUX).
 
-Enlace: [raspberrypi.org - Retropie: An Arch Linux Guide!](http://www.raspberrypi.org/phpBB3/viewtopic.php?f=78&t=46013) 
+Enlace: [raspberrypi.org - Retropie: An Arch Linux Guide!](https://www.raspberrypi.org/phpBB3/viewtopic.php?f=78&t=46013)

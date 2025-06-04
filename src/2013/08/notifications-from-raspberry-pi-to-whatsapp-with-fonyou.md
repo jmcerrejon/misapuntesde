@@ -8,9 +8,9 @@ date: 2013-08-16 07:00:00
 prev: /
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/pi_whatsapp.png
 ---
 
@@ -18,13 +18,14 @@ image: /images/pi_whatsapp.png
 
 ![pi whatsapp](/images/pi_whatsapp.png)
 
-Interesting what I found searching the net. This is a system to notify any event from your Raspi to *WhatsApp*.
+Interesting what I found searching the net. This is a system to notify any event from your Raspi to _WhatsApp_.
 
-- - -
-The tutorials are made to be used with the [FonYou](http://www.fonyou.es) company, but I think it's not difficult to get the same result with other operators.
+---
 
-Link: [myworldraspberrypi > My raspberry Pi sending whatsapps](http://myworldraspberrypi.blogspot.com.es/2013/02/my-raspberry-pi-sending-whatsapps.html)
+The tutorials are made to be used with the [FonYou](https://www.fonyou.es) company, but I think it's not difficult to get the same result with other operators.
 
-Spanish Link: [portallinux.es > Notificaci&oacute;n de la temperatura de la CPU por WhatsApp](http://portallinux.es/raspberry-pi-notificacion-de-la-temperatura-de-la-cpu-por-whatsapp/)
+Link: [myworldraspberrypi > My raspberry Pi sending whatsapps](https://myworldraspberrypi.blogspot.com.es/2013/02/my-raspberry-pi-sending-whatsapps.html)
 
-Spanish Link: [rsppi > Uso de WhatsApp para el envio de notificaciones](http://rsppi.blogspot.com.es/2012/10/uso-de-whatsapp-para-el-envio-de.html)
+Spanish Link: [portallinux.es > Notificaci&oacute;n de la temperatura de la CPU por WhatsApp](https://portallinux.es/raspberry-pi-notificacion-de-la-temperatura-de-la-cpu-por-whatsapp/)
+
+Spanish Link: [rsppi > Uso de WhatsApp para el envio de notificaciones](https://rsppi.blogspot.com.es/2012/10/uso-de-whatsapp-para-el-envio-de.html)

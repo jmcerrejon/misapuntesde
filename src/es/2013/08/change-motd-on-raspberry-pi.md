@@ -8,9 +8,9 @@ date: 2013-08-17 10:05:00
 prev: /es/
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/2013/08/motd.jpg
 ---
 
@@ -18,8 +18,8 @@ image: /images/2013/08/motd.jpg
 
 ![MOTD](/images/2013/08/motd.jpg)
 
-Cuando inicias sesión en un sistema *Linux*, aparece un mensaje con información relevante al *Kernel*, *IP* con la que estás conectada, etc, que va a depender del sistema operativo en concreto. Este mensaje es llamado *MOTD (Message of the Day, Mensaje del día)*. 
+Cuando inicias sesión en un sistema _Linux_, aparece un mensaje con información relevante al _Kernel_, _IP_ con la que estás conectada, etc, que va a depender del sistema operativo en concreto. Este mensaje es llamado _MOTD (Message of the Day, Mensaje del día)_.
 
-Vamos a ver como cambiarlo con este interesante tutorial gracias a los chicos de *infognu.com.ar*.
+Vamos a ver como cambiarlo con este interesante tutorial gracias a los chicos de _infognu.com.ar_.
 
-Enlace: [infognu.com.ar](http://www.infognu.com.ar/2013/08/raspberry-pi-increible-motd.html)
+Enlace: [infognu.com.ar](https://www.infognu.com.ar/2013/08/raspberry-pi-increible-motd.html)

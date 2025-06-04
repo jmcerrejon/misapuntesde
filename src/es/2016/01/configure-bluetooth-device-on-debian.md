@@ -8,9 +8,9 @@ date: 2016-01-18 14:00:00
 prev: /es/
 next: false
 category:
-  - Linux
+    - Linux
 tag:
-  - Linux
+    - Linux
 image: /images/bluetooth.jpg
 ---
 
@@ -18,12 +18,13 @@ image: /images/bluetooth.jpg
 
 ![BT](/images/bluetooth.jpg)
 
-La semana pasada estuve enfermo, pero hoy me he levantado más recuperado. Las unidades [C.H.I.P.](/post.php?id=559) van llegando, y la semana pasada recibí la mía con la que espero haceros una review tan buena como [ésta](http://simplelab.org/web/c-h-i-p-el-primer-ordenador-del-mundo-que-cuesta-solo-9/) de mi compañero [@jvlob](http://twitter.com/jvlob).
+La semana pasada estuve enfermo, pero hoy me he levantado más recuperado. Las unidades [C.H.I.P.](/post.php?id=559) van llegando, y la semana pasada recibí la mía con la que espero haceros una review tan buena como [ésta](https://simplelab.org/web/c-h-i-p-el-primer-ordenador-del-mundo-que-cuesta-solo-9/) de mi compañero [@jvlob](https://twitter.com/jvlob).
 
-Mientras, me han comentado por correo varias veces sobre emparejar dispositivos *bluetooth* con *Linux*. Os dejo unos pasos sencillos a continuación para aquellos que no dan con la manera de hacerlo. Atentos:
+Mientras, me han comentado por correo varias veces sobre emparejar dispositivos _bluetooth_ con _Linux_. Os dejo unos pasos sencillos a continuación para aquellos que no dan con la manera de hacerlo. Atentos:
 
-- - -
-Vamos a intentar configurar un teclado *bluetooth*. Obviamente, primero intenta usar un teclado cableado por USB, jeje.
+---
+
+Vamos a intentar configurar un teclado _bluetooth_. Obviamente, primero intenta usar un teclado cableado por USB, jeje.
 
 Antes de emparejar tu teclado (o cualquier dispositivo), necesitarás instalar algunos paquetes para conseguir que todo funcione. Abre la terminal y escribe lo siguiente:
 
@@ -34,7 +35,7 @@ sudo apt-get install bluetooth bluez-utils blueman
 
 Es mejor reiniciar ahora y luego conectar el adaptador Bluetooth.
 
-Ahora, debes encontrar la dirección *MAC* de tu teclado. Asegúrate de que está encendido y en modo de sincronización pulsando el botón de emparejamiento en la parte inferior del teclado. En el terminal, escribe lo siguiente:
+Ahora, debes encontrar la dirección _MAC_ de tu teclado. Asegúrate de que está encendido y en modo de sincronización pulsando el botón de emparejamiento en la parte inferior del teclado. En el terminal, escribe lo siguiente:
 
 ```bash
 hcitool scan
@@ -44,13 +45,13 @@ Deberías ver algo como ésto:
 11:22:33:44:55:66       Bluetooth keyboard
 ```
 
-Copia la dirección *MAC (11:22:33:44:55:66)* que la necesitarás para la siguiente parte. Ahora escribe (recordando cambiar la dirección *MAC*):
+Copia la dirección _MAC (11:22:33:44:55:66)_ que la necesitarás para la siguiente parte. Ahora escribe (recordando cambiar la dirección _MAC_):
 
 ```bash
 bluez-simple-agent hci0 11:22:33:44:55:66
 ```
 
-Te pedirá un **código PIN**. Sólo tienes que introducir algo así como **0000**, por primera vez en la terminal y luego en el propio teclado. Tendrás que añadir el teclado como dispositivo de confianza, escribe lo siguiente (de nuevo, con tu propia dirección *MAC*):
+Te pedirá un **código PIN**. Sólo tienes que introducir algo así como **0000**, por primera vez en la terminal y luego en el propio teclado. Tendrás que añadir el teclado como dispositivo de confianza, escribe lo siguiente (de nuevo, con tu propia dirección _MAC_):
 
 ```bash
 bluez-test-device trusted 11:22:33:44:55:66 yes

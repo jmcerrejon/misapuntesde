@@ -8,9 +8,9 @@ date: 2013-01-14 11:33:00
 prev: /es/
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/minecraft.jpg
 ---
 
@@ -18,6 +18,6 @@ image: /images/minecraft.jpg
 
 ![MineCraft](/images/minecraft.jpg)
 
-Hace poco salió una pre-release de *Minecraft* para la *Raspberry Pi*. Ahora tienes un tutorial para aprender su API.
+Hace poco salió una pre-release de _Minecraft_ para la _Raspberry Pi_. Ahora tienes un tutorial para aprender su API.
 
-Enlace: [stuffaboutcode.com](http://www.stuffaboutcode.com/2013/01/raspberry-pi-minecraft-api-basics.html)
+Enlace: [stuffaboutcode.com](https://www.stuffaboutcode.com/2013/01/raspberry-pi-minecraft-api-basics.html)

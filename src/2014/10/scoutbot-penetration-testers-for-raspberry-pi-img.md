@@ -8,9 +8,9 @@ date: 2014-10-06 09:20:00
 prev: /
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/2014/10/scoutbot.png
 ---
 
@@ -18,43 +18,44 @@ image: /images/2014/10/scoutbot.png
 
 ![ScoutBot](/images/2014/10/scoutbot.png)
 
-*ScoutBot is a must have application for penetration testers who are looking for an easy and inconspicuous way of gathering info on a target's network.*
+_ScoutBot is a must have application for penetration testers who are looking for an easy and inconspicuous way of gathering info on a target's network._
 
-- - -
-*Built for the Raspberry Pi, this powerful script automates complex footprinting and reconnaissance tasks. While you enjoy a cup of coffee sitting next to that open Ethernet port ScoutBot could be scanning the network or sniffing the traffic, all without the need for a keyboard or monitor.*
+---
+
+_Built for the Raspberry Pi, this powerful script automates complex footprinting and reconnaissance tasks. While you enjoy a cup of coffee sitting next to that open Ethernet port ScoutBot could be scanning the network or sniffing the traffic, all without the need for a keyboard or monitor._
 
 Here are some of the features:
 
-* Scans the target network for open ports
+-   Scans the target network for open ports
 
-* Identifies Windows environments
+-   Identifies Windows environments
 
-* Identifies dynamic routing protocols
+-   Identifies dynamic routing protocols
 
-* Identifies devices by scanning with SNMP
+-   Identifies devices by scanning with SNMP
 
-* Identifies DHCP servers and their advertised scopes
+-   Identifies DHCP servers and their advertised scopes
 
-* Checks egress filtering
+-   Checks egress filtering
 
-* Identifies the network's outside IP address
+-   Identifies the network's outside IP address
 
-* Performs a WHOIS to identify ISP
+-   Performs a WHOIS to identify ISP
 
-* Performs a traceroute to the outside
+-   Performs a traceroute to the outside
 
-* Accepts static IP addresses
+-   Accepts static IP addresses
 
-* Accepts DHCP
+-   Accepts DHCP
 
-* Pre-configure for a completely automated attack
+-   Pre-configure for a completely automated attack
 
-* Works on any Raspberry Pi, no setup necessary
+-   Works on any Raspberry Pi, no setup necessary
 
-* Free
+-   Free
 
 Basically, you pre-configure the scan and then just plug the Raspberry Pi into the target network. This tool comes as a preloaded IMG which is ready to use.
 
-Download .img: [sourceforge.net > scoutbot](http://sourceforge.net/projects/scoutbot/)
+Download .img: [sourceforge.net > scoutbot](https://sourceforge.net/projects/scoutbot/)
 
-Link: [lansec.net > scoutbot](http://lansec.net/project/scoutbot/)
+Link: [lansec.net > scoutbot](https://lansec.net/project/scoutbot/)

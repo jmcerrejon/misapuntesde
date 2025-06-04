@@ -8,9 +8,9 @@ date: 2013-01-15 16:55:00
 prev: /es/
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/cloud.jpg
 ---
 
@@ -18,6 +18,6 @@ image: /images/cloud.jpg
 
 ![cloud](/images/cloud.jpg)
 
-El contenido de calidad en español se afianza cada vez más. El usuario [@danielSanRiv](http://twitter.com/danielSanRiv) sigue con este tutorial de conseguir nuestra propia nube y olvidarnos de *Dropbox* o similar.
+El contenido de calidad en español se afianza cada vez más. El usuario [@danielSanRiv](https://twitter.com/danielSanRiv) sigue con este tutorial de conseguir nuestra propia nube y olvidarnos de _Dropbox_ o similar.
 
-Enlace: [cocoaosx.com](http://www.cocoaosx.com/2013/01/14/nuestro-propio-cloud-con-raspberry-pi-y-time-capsule-v-por-danielsanriv/)
+Enlace: [cocoaosx.com](https://www.cocoaosx.com/2013/01/14/nuestro-propio-cloud-con-raspberry-pi-y-time-capsule-v-por-danielsanriv/)

@@ -8,13 +8,13 @@ date: 2015-06-16 17:30:00
 prev: /es/
 next: false
 category:
-  - Linux
-  - Raspberry PI
-  - ODROID
+    - Linux
+    - Raspberry PI
+    - ODROID
 tag:
-  - Linux
-  - Raspberry PI
-  - ODROID
+    - Linux
+    - Raspberry PI
+    - ODROID
 image: /images/2015/06/ExaGear_Desktop_tr.png
 ---
 
@@ -22,9 +22,10 @@ image: /images/2015/06/ExaGear_Desktop_tr.png
 
 ![Exagear](/images/2015/06/ExaGear_Desktop_tr.png)
 
-Ya tenemos la lista de los 10 ganadores para el producto [Exagear Desktop v.1.1](http://eltechs.com/product/exagear-desktop/?utm_source=misapuntesde&utm_medium=post_part1&utm_campaign=ED_May2015_release) de la compañía [Eltechs](http://eltechs.com/?utm_source=misapuntesde&utm_medium=post_part1&utm_campaign=ED_May2015_release). Gracias a todos por participar. Tras el salto, los afortunados...
+Ya tenemos la lista de los 10 ganadores para el producto [Exagear Desktop v.1.1](https://eltechs.com/product/exagear-desktop/?utm_source=misapuntesde&utm_medium=post_part1&utm_campaign=ED_May2015_release) de la compañía [Eltechs](https://eltechs.com/?utm_source=misapuntesde&utm_medium=post_part1&utm_campaign=ED_May2015_release). Gracias a todos por participar. Tras el salto, los afortunados...
 
-- - -
+---
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4GUP27TJ5w4" frameborder="0" allowfullscreen></iframe>
 
 [@FalbertoCorteh](https://twitter.com/FalbertoCorteh/status/607804083295166464?s=09)
@@ -46,6 +47,5 @@ Ya tenemos la lista de los 10 ganadores para el producto [Exagear Desktop v.1.1]
 [+Youri Ulbrich](https://plus.google.com/107134342712859022383/posts/1uH2uko3Siu)
 
 [@Miguel Angel Benítez](https://twitter.com/manbenitez/status/608655561320755200)
-
 
 Enhorabuena chicos, sobretodo a mis seguidores. Para los demás, hay previsto otro concurso pronto por si no habéis podido participar en éste.

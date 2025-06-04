@@ -8,9 +8,9 @@ date: 2015-03-19 11:25:00
 prev: /
 next: false
 category:
-  - ODROID
+    - ODROID
 tag:
-  - ODROID
+    - ODROID
 image: /images/2015/03/odroid_magazine_march.jpg
 ---
 
@@ -18,12 +18,12 @@ image: /images/2015/03/odroid_magazine_march.jpg
 
 ![Odroid Magazine March](/images/2015/03/odroid_magazine_march.jpg)
 
-This week comes with the monthly edition of this wonderful magazine for *Odroiders* enthusiastic.
+This week comes with the monthly edition of this wonderful magazine for _Odroiders_ enthusiastic.
 
-The surprise I've taken when I start reading the first article and... **It belongs to this blog!**. It is the article about *Android ver. 4.4.* That I [published](/post.php?id=511) in January of this year.
+The surprise I've taken when I start reading the first article and... **It belongs to this blog!**. It is the article about _Android ver. 4.4._ That I [published](/post.php?id=511) in January of this year.
 
 Thanks to the team that makes this magazine, and of course to you.
 
 ![Happy](/css/sm/happy.png)
 
-Link: [Odroid Magazine](http://magazine.odroid.com)
+Link: [Odroid Magazine](https://magazine.odroid.com)

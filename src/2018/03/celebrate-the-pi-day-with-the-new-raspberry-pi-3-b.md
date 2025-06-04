@@ -8,9 +8,9 @@ date: 2018-03-14 09:30:00
 prev: /
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/2018/03/rpi3bp.jpg
 ---
 
@@ -18,27 +18,27 @@ image: /images/2018/03/rpi3bp.jpg
 
 ![rpi3bp](/images/2018/03/rpi3bp.jpg)
 
-I didn't believe it when I woke up this morning with a Twit from *raspipc.es*: **New Raspberry Pi 3 B+**! Same price, new enhanced features commented below:
+I didn't believe it when I woke up this morning with a Twit from _raspipc.es_: **New Raspberry Pi 3 B+**! Same price, new enhanced features commented below:
 
-- - -
+---
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i62xdD4QKtA?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 We already have a good review thanks to the guys from [hackaday.com](https://hackaday.com/2018/03/14/raspberry-pi-gets-faster-cpu-and-better-networking-in-the-new-model-3-b/). The most remarkable features:
 
-* A 1.4GHz 64-bit quad-core ARM Cortex-A53 CPU.
+-   A 1.4GHz 64-bit quad-core ARM Cortex-A53 CPU.
 
-* Dual-band 802.11ac wireless LAN and Bluetooth 4.2.
+-   Dual-band 802.11ac wireless LAN and Bluetooth 4.2.
 
-* Faster Ethernet (Gigabit Ethernet over USB 2.0).
+-   Faster Ethernet (Gigabit Ethernet over USB 2.0).
 
-* Power-over-Ethernet support (with separate PoE HAT).
+-   Power-over-Ethernet support (with separate PoE HAT).
 
-* Improved PXE network and USB mass-storage booting.
+-   Improved PXE network and USB mass-storage booting.
 
-* Improved thermal management.
+-   Improved thermal management.
 
-As we can read, we have a **64-bit architecture** with a new *SoC Broadcom* exclusive and improved 16% over the previous version. We can power the board through the *Ethernet* port, which is appreciated by those of us who still use this technology. Compatibility is total with their sister boards, so don't worry, just like the accessories and HATs on the market. The wireless chipset has also improved, and apparently gets 1300mbps compared to the 600 we had and dual band with 2.4Ghz and 5Ghz. For the wired network there are also enhancements (yes!) and we get more speed thanks to the *Gigabit Ethernet* with a new *LAN7515 microchip*. The processor speed will remain at 1.4 Ghz if the temperature is below 70°C. Otherwise, the speed will be 1.2 Ghz. We will also need at least 2.5A power supply. About the graphic, we continue with the same *VideoCore IV 3D*, which I hope get more performance soon.
-
+As we can read, we have a **64-bit architecture** with a new _SoC Broadcom_ exclusive and improved 16% over the previous version. We can power the board through the _Ethernet_ port, which is appreciated by those of us who still use this technology. Compatibility is total with their sister boards, so don't worry, just like the accessories and HATs on the market. The wireless chipset has also improved, and apparently gets 1300mbps compared to the 600 we had and dual band with 2.4Ghz and 5Ghz. For the wired network there are also enhancements (yes!) and we get more speed thanks to the _Gigabit Ethernet_ with a new _LAN7515 microchip_. The processor speed will remain at 1.4 Ghz if the temperature is below 70°C. Otherwise, the speed will be 1.2 Ghz. We will also need at least 2.5A power supply. About the graphic, we continue with the same _VideoCore IV 3D_, which I hope get more performance soon.
 
 I'm looking forward to having it very soon and being able to squeeze it out to advise you if it's worth acquiring in case you already own the 3. I'll stay informed, so.... Keep in contact!....
 
@@ -50,7 +50,7 @@ Link: [youtube.com > NEW Raspberry Pi 3 B+ - Quad-Core 1.4GHz and Gigabit Ethern
 
 Link: [hackaday.com > Raspberry Pi gets faster CPU and better networking in the new model 3 B+](https://hackaday.com/2018/03/14/raspberry-pi-gets-faster-cpu-and-better-networking-in-the-new-model-3-b/)
 
-Link: [raspi.tv > New Raspberry Pi model 3B+ 1.4 GHz, 330Mbit Ethernet, 802.11ac, PoE](http://raspi.tv/2018/new-raspberry-pi-model-3b-1-4-ghz-330mbit-ethernet-802-11ac-poe)
+Link: [raspi.tv > New Raspberry Pi model 3B+ 1.4 GHz, 330Mbit Ethernet, 802.11ac, PoE](https://raspi.tv/2018/new-raspberry-pi-model-3b-1-4-ghz-330mbit-ethernet-802-11ac-poe)
 
 Link: [raspberrypi-spy.co.uk > Introducing the Raspberry Pi 3 B+ Single Board Computer](https://www.raspberrypi-spy.co.uk/2018/03/introducing-raspberry-pi-3-b-plus-computer/)
 
@@ -58,7 +58,7 @@ Link: [phoronix.com > Raspberry Pi 3B+ Launches With Faster CPU, Dual-Band 802.1
 
 Link: [cyberciti.biz > Raspberry PI 3 model B+ Released: Complete specs and pricing](https://www.cyberciti.biz/hardware/raspberry-pi-3-model-b-released-specs-pricing/)
 
-Link: [zdnet.com > Raspberry Pi 3 Model B+ arrives: Faster CPU, Wi-Fi, 300Mbps Ethernet](http://www.zdnet.com/article/raspberry-pi-3-model-b-arrives-faster-cpu-wi-fi-300mbps-ethernet/)
+Link: [zdnet.com > Raspberry Pi 3 Model B+ arrives: Faster CPU, Wi-Fi, 300Mbps Ethernet](https://www.zdnet.com/article/raspberry-pi-3-model-b-arrives-faster-cpu-wi-fi-300mbps-ethernet/)
 
 Link: [engadget.com > Upgraded Raspberry Pi 3 delivers more power and faster networking](https://www.engadget.com/2018/03/14/raspberry-pi-3-model-b-plus/)
 

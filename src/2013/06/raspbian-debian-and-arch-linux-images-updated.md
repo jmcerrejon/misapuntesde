@@ -8,9 +8,9 @@ date: 2013-06-01 17:34:00
 prev: /
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/osupdate.jpg
 ---
 
@@ -18,25 +18,26 @@ image: /images/osupdate.jpg
 
 ![os upgrade](/images/osupdate.jpg)
 
-A few hours ago the *Raspberry Pi Foundation* has published a new *Raspbian, Debian and Arch Linux* images. No list of changes, improvements or notes on these updates, unless included the latest firmwares and kernels, improvements and optimizations.
+A few hours ago the _Raspberry Pi Foundation_ has published a new _Raspbian, Debian and Arch Linux_ images. No list of changes, improvements or notes on these updates, unless included the latest firmwares and kernels, improvements and optimizations.
 
-- - -
-As read in the comments, could contain the new *Wayland* protocol that we [talked](/post.php?id=167) recently.
+---
+
+As read in the comments, could contain the new _Wayland_ protocol that we [talked](/post.php?id=167) recently.
 
 Raspbian updates:
 
-* Updated Scratch image (significant performance improvements).
+-   Updated Scratch image (significant performance improvements).
 
-* Updated armv6-optimised Pixman library.
+-   Updated armv6-optimised Pixman library.
 
-* Updated armv6-optimised memxxx() functions.
+-   Updated armv6-optimised memxxx() functions.
 
-* Updated raspi-config with new layout, and new functionality (setting hostname and enabling camera support).
+-   Updated raspi-config with new layout, and new functionality (setting hostname and enabling camera support).
 
-* Native mmap support in the bcm2835 ALSA driver, and numerous other firmware changes; see commits to [github](http://github.com/raspberrypi/firmware).
+-   Native mmap support in the bcm2835 ALSA driver, and numerous other firmware changes; see commits to [github](https://github.com/raspberrypi/firmware).
 
-* The boot partition now has the label "boot".
+-   The boot partition now has the label "boot".
 
-* The Wayland/Weston preview from Collabora is installed and their apt repository is included as an apt source.
+-   The Wayland/Weston preview from Collabora is installed and their apt repository is included as an apt source.
 
-Downloads: [raspberrypi.org](http://www.raspberrypi.org/downloads)
+Downloads: [raspberrypi.org](https://www.raspberrypi.org/downloads)

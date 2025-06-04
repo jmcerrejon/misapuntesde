@@ -8,9 +8,9 @@ date: 2013-09-27 20:00:00
 prev: /es/
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/raspbian.jpg
 ---
 
@@ -18,31 +18,32 @@ image: /images/raspbian.jpg
 
 ![raspbian](/images/raspbian.jpg)
 
-Parece ser que la imagen de *Raspbian* se ha actualizado. Cada vez es más completa (y más pesada) y ahora necesitarás una SD con 4 GB. Trae las siguientes mejoras...
+Parece ser que la imagen de _Raspbian_ se ha actualizado. Cada vez es más completa (y más pesada) y ahora necesitarás una SD con 4 GB. Trae las siguientes mejoras...
 
-- - -
-* Actualización de Scratch con nuevas mejoras de rendimiento
+---
 
-* Oracle JDK incluído
+-   Actualización de Scratch con nuevas mejoras de rendimiento
 
-* Necesita por lo menos una tarjeta SD de 4 GB
+-   Oracle JDK incluído
 
-* Incluye PyPy 2.1
+-   Necesita por lo menos una tarjeta SD de 4 GB
 
-* Incluye paquetes piface bases
+-   Incluye PyPy 2.1
 
-* Actualización Raspi-config para incluir corrección de errores para heredar la configuración de idioma de NOOBS
+-   Incluye paquetes piface bases
 
-* Actualizado la rama del firmware a la más actual
+-   Actualización Raspi-config para incluir corrección de errores para heredar la configuración de idioma de NOOBS
 
-* Actualización squeak-vm, incluyendo fastblit optimizado para la Raspbery Pi
+-   Actualizado la rama del firmware a la más actual
 
-* Incluya sonic Pi y un paquete jackd2 corregido
+-   Actualización squeak-vm, incluyendo fastblit optimizado para la Raspbery Pi
 
-* Soporte de arranque en Scratch
+-   Incluya sonic Pi y un paquete jackd2 corregido
 
-* Hereda configuración de idioma del teclado desde NOOBS
+-   Soporte de arranque en Scratch
 
-Descarga directa: [2013-09-25-wheezy-raspbian.zip (605 MB)](http://downloads.raspberrypi.org/raspbian_latest)
+-   Hereda configuración de idioma del teclado desde NOOBS
 
-Descarga torrent: [2013-09-25-wheezy-raspbian.zip.torrent](http://downloads.raspberrypi.org/raspbian_latest.torrent)
+Descarga directa: [2013-09-25-wheezy-raspbian.zip (605 MB)](https://downloads.raspberrypi.org/raspbian_latest)
+
+Descarga torrent: [2013-09-25-wheezy-raspbian.zip.torrent](https://downloads.raspberrypi.org/raspbian_latest.torrent)

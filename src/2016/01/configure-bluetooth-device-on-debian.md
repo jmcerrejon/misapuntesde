@@ -8,9 +8,9 @@ date: 2016-01-18 14:00:00
 prev: /
 next: false
 category:
-  - Linux
+    - Linux
 tag:
-  - Linux
+    - Linux
 image: /images/bluetooth.jpg
 ---
 
@@ -18,11 +18,12 @@ image: /images/bluetooth.jpg
 
 ![BT](/images/bluetooth.jpg)
 
-Last week I've been sick, but today I woke up more recovered. [C.H.I.P.](/post.php?id=559) units are arriving, and last week received mine with which I hope to make it as good as reviewed by [jvlob](http://twitter.com/jvlob) [here](http://simplelab.org/web/c-h-i-p-el-primer-ordenador-del-mundo-que-cuesta-solo-9/) (spanish post).
+Last week I've been sick, but today I woke up more recovered. [C.H.I.P.](/post.php?id=559) units are arriving, and last week received mine with which I hope to make it as good as reviewed by [jvlob](https://twitter.com/jvlob) [here](https://simplelab.org/web/c-h-i-p-el-primer-ordenador-del-mundo-que-cuesta-solo-9/) (spanish post).
 
-Some people mail me about config *bluetooth* devices on *Linux*. I leave here a few simple steps to those who do not give the way to do it.
+Some people mail me about config _bluetooth_ devices on _Linux_. I leave here a few simple steps to those who do not give the way to do it.
 
-- - -
+---
+
 Obviously, you'll need to do all of the following with a wired USB keyboard.
 
 Before pairing your keyboard, you'll need to install some software to get everything working. Open up a terminal, and type the following:
@@ -43,7 +44,6 @@ You should see something like:
 
 11:22:33:44:55:66       Bluetooth keyboard
 ```
-
 
 Copy that MAC address (the 11:22:33:44:55:66 bit), as you'll need it for the next part. Now type (remembering to change the MAC address):
 

@@ -8,9 +8,9 @@ date: 2013-02-23 12:00:00
 prev: /es/
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/magpi.jpg
 ---
 
@@ -22,4 +22,4 @@ No me había dado cuenta de que han traducido el número 7 de Noviembre en Espa�
 
 Les deseo suerte y muchos ánimos.
 
-Enlace: [The MagPi](http://www.themagpi.com/es/)
+Enlace: [The MagPi](https://www.themagpi.com/es/)

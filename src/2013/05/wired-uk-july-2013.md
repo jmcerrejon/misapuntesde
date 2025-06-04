@@ -8,9 +8,9 @@ date: 2013-05-31 09:30:00
 prev: /
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/wired_july13.jpg
 ---
 
@@ -18,11 +18,12 @@ image: /images/wired_july13.jpg
 
 ![wired](/images/wired_july13.jpg)
 
-*Wired UK* takes a look at *Raspberry Pi* and how has conquered the world.
+_Wired UK_ takes a look at _Raspberry Pi_ and how has conquered the world.
 
-- - -
-Link: [raspberrypi.org](http://www.raspberrypi.org/archives/4103)
+---
 
-Magazine: [Wired Magazine](http://www.wired.co.uk/magazine)
+Link: [raspberrypi.org](https://www.raspberrypi.org/archives/4103)
+
+Magazine: [Wired Magazine](https://www.wired.co.uk/magazine)
 
 Subscription: [Wired UK](https://www.circules.com/subscribe/wired-uk/123055)

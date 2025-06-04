@@ -8,9 +8,9 @@ date: 2013-10-28 13:25:00
 prev: /
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/sd_corrupt.jpg
 ---
 
@@ -18,4 +18,4 @@ image: /images/sd_corrupt.jpg
 
 ![sd corrupt](/images/sd_corrupt.jpg)
 
-Link: [ideaheap.com > Stopping SD Card Corruption on Raspberry Pi’s Raspbian](http://www.ideaheap.com/2013/07/stopping-sd-card-corruption-on-a-raspberry-pi/)
+Link: [ideaheap.com > Stopping SD Card Corruption on Raspberry Pi’s Raspbian](https://www.ideaheap.com/2013/07/stopping-sd-card-corruption-on-a-raspberry-pi/)

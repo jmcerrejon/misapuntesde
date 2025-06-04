@@ -8,9 +8,9 @@ date: 2013-05-12 08:00:00
 prev: /es/
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/PiMAME.jpg
 ---
 
@@ -18,14 +18,15 @@ image: /images/PiMAME.jpg
 
 ![PiMAME](/images/PiMAME.jpg)
 
-Este chico está sacando tantas betas que casi pierdo la cuenta. Esta en especial es relevante ya que incorpora *MAME4All*, *AdvanceMAME* y soporte a la *SuperNES* gracias al port de *SNES9X* llamado *PiSNES*.
+Este chico está sacando tantas betas que casi pierdo la cuenta. Esta en especial es relevante ya que incorpora _MAME4All_, _AdvanceMAME_ y soporte a la _SuperNES_ gracias al port de _SNES9X_ llamado _PiSNES_.
 
 Enlace de descarga y extra a continuación...
 
-- - -
-Descarga: [PiMAME 0.7 Beta 1](http://sourceforge.net/projects/pimame/files/pimame-0.7-beta1.img.zip/download)
+---
 
-Enlace: [Foro](http://pimame.org/forum/)
+Descarga: [PiMAME 0.7 Beta 1](https://sourceforge.net/projects/pimame/files/pimame-0.7-beta1.img.zip/download)
+
+Enlace: [Foro](https://pimame.org/forum/)
 
 ¡EXTRA!:
 

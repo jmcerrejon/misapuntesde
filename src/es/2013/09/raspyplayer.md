@@ -8,9 +8,9 @@ date: 2013-09-20 08:00:00
 prev: /es/
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/2013/09/raspiplayer.jpg
 ---
 
@@ -18,8 +18,8 @@ image: /images/2013/09/raspiplayer.jpg
 
 ![raspyplayer](/images/2013/09/raspiplayer.jpg)
 
-El otro día buscando reproductores mp3 para la consola, me encontré con este *front-end* escrito en *Python* para reproducir películas, streaming y música, que no está mal para tener algo sencillo.
+El otro día buscando reproductores mp3 para la consola, me encontré con este _front-end_ escrito en _Python_ para reproducir películas, streaming y música, que no está mal para tener algo sencillo.
 
-Como reproductor utiliza **omxplayer** y tiene paquetes tanto para *Raspbian* como para *Arch Linux*.
+Como reproductor utiliza **omxplayer** y tiene paquetes tanto para _Raspbian_ como para _Arch Linux_.
 
-Enlace: [raspyplayer.org](http://raspyplayer.org)
+Enlace: [raspyplayer.org](https://raspyplayer.org)

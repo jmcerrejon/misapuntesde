@@ -8,15 +8,15 @@ date: 2013-01-21 08:00:00
 prev: /es/
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 ---
 
 # Video consola MAME portátil con una RasPi
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/zHf1zekGfaE" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/zHf1zekGfaE" frameborder="0" allowfullscreen></iframe>
 
-Un usuario llamado *Jason Birch* ha creado un prototipo documentado para obtener una videoconsola *MAME* portátil. Es un proyecto realmente simple, pero que cualquiera puede adaptar a sus necesidades, y el costo total no llega a 48€. Todos los detalles en el siguiente enlace.
+Un usuario llamado _Jason Birch_ ha creado un prototipo documentado para obtener una videoconsola _MAME_ portátil. Es un proyecto realmente simple, pero que cualquiera puede adaptar a sus necesidades, y el costo total no llega a 48€. Todos los detalles en el siguiente enlace.
 
-Enlace: [newsdownload.co.uk](http://www.newsdownload.co.uk/pages/RPiMameHandHeld.html)
+Enlace: [newsdownload.co.uk](https://www.newsdownload.co.uk/pages/RPiMameHandHeld.html)

@@ -8,9 +8,9 @@ date: 2013-10-04 09:20:00
 prev: /
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/N64.jpg
 ---
 
@@ -18,12 +18,13 @@ image: /images/N64.jpg
 
 ![Nintendo 64](/images/N64.jpg)
 
-Not long ago we discussed the possibility of emulating the *Nintendo 64* in our *Raspberry Pi*.
+Not long ago we discussed the possibility of emulating the _Nintendo 64_ in our _Raspberry Pi_.
 
-Many thought it was not possible, but a user began to rewrite the code to be executed on the *GPU* directly thanks to *OpenGL ES 2.0* and now we can see ourselves the result...
+Many thought it was not possible, but a user began to rewrite the code to be executed on the _GPU_ directly thanks to _OpenGL ES 2.0_ and now we can see ourselves the result...
 
-- - -
-We have a repository on *Github* with *Mupen64Plus* emulator source code. If you want to try before you will have to solve the following dependencies:
+---
+
+We have a repository on _Github_ with _Mupen64Plus_ emulator source code. If you want to try before you will have to solve the following dependencies:
 
 ```bash
 sudo apt-get install libsdl1.2-dev
@@ -41,12 +42,12 @@ With the compiled binary, we search a ROM and put it in the Pi and run: **./mupe
 
 If you are interested in binaries, You can access an alpha released [here](/post.php?id=297)
 
-Forum: [Raspberrypi.org - Mupen64Plus - N64 Emulator for the Pi](http://www.raspberrypi.org/phpBB3/viewtopic.php?f=78&t=6761)
+Forum: [Raspberrypi.org - Mupen64Plus - N64 Emulator for the Pi](https://www.raspberrypi.org/phpBB3/viewtopic.php?f=78&t=6761)
 
-Help: [raspberrypi.org > WIP: Playable Nintendo 64 Emulator Available](http://www.raspberrypi.org/phpBB3/viewtopic.php?f=78&t=58395)
+Help: [raspberrypi.org > WIP: Playable Nintendo 64 Emulator Available](https://www.raspberrypi.org/phpBB3/viewtopic.php?f=78&t=58395)
 
 **UPDATE**: The sound is choppy at 32000 Hz, and the speed is usually between 25-50 fps. Honestly impressed.
 
 EXTRA!:
 
-<a href="http://www.romnation.net/srv/download/rom/58836/n64/Super-Mario-64.html">![SuperMario 64](/images/2013/10/SuperMario64.jpg "Download and play Super Mario 64!")</a>
+<a href="https://www.romnation.net/srv/download/rom/58836/n64/Super-Mario-64.html">![SuperMario 64](/images/2013/10/SuperMario64.jpg "Download and play Super Mario 64!")</a>

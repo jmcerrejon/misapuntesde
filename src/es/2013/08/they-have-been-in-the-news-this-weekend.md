@@ -8,9 +8,9 @@ date: 2013-08-05 14:30:00
 prev: /es/
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/01_RaspberryPi.jpg
 ---
 
@@ -20,26 +20,26 @@ image: /images/01_RaspberryPi.jpg
 
 Varios días AFTK, esto es lo que me he encontrado a mi vuelta...
 
-- - -
+---
 
-###  The MagPi
+### The MagPi
 
 Nuevo número. Esta vez dedicado a lo que más nos gusta, los emuladores y las máquinas recreativas...
 
-Enlace: [TheMagPi](http://www.themagpi.com/en/issue/15)
+Enlace: [TheMagPi](https://www.themagpi.com/en/issue/15)
 
-###  Primeros pasos en Python en IDLE
+### Primeros pasos en Python en IDLE
 
-Algo básico pero muy bien explicado. Nos lo enseña los chicos de [hardware-hackingmx.com](http://hardware-hackingmx.com/2013/07/29/leccion-6-raspberry-pi-primeros-pasos-con-python-en-idle/)
+Algo básico pero muy bien explicado. Nos lo enseña los chicos de [hardware-hackingmx.com](https://hardware-hackingmx.com/2013/07/29/leccion-6-raspberry-pi-primeros-pasos-con-python-en-idle/)
 
-###  Cómo crear un servidor de impresión
+### Cómo crear un servidor de impresión
 
-*En este tutorial vamos a aprender a crear un servidor de impresión en nuestra placa Raspberry Pi.*
+_En este tutorial vamos a aprender a crear un servidor de impresión en nuestra placa Raspberry Pi._
 
-Enlace: [geekytheory.com](http://www.geekytheory.com/tutorial-raspberry-pi-12-como-crear-un-servidor-de-impresion/)
+Enlace: [geekytheory.com](https://www.geekytheory.com/tutorial-raspberry-pi-12-como-crear-un-servidor-de-impresion/)
 
-###  PiMAME 0.7.7
+### PiMAME 0.7.7
 
 Raspbian actualizado (7/26/2013), Final Burn Alpha, VICE (Commodore 64 emulation), xboxdrv instalado en el arranque entre otros.
 
-Enlace: [PiMAME 0.7.7](http://sourceforge.net/projects/pimame/files/?source=navbar)
+Enlace: [PiMAME 0.7.7](https://sourceforge.net/projects/pimame/files/?source=navbar)

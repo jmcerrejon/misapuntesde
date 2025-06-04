@@ -8,9 +8,9 @@ date: 2013-01-18 09:47:00
 prev: /es/
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/superpi.jpg
 ---
 
@@ -20,8 +20,8 @@ image: /images/superpi.jpg
 
 Seguro que estás contento con la tuya y ni le das permiso al gato para que se acerque. Aunque tal vez la tengas colgando de un cable que va a la tele, y de vez en cuando tu madre le limpia el polvo.
 
-¿Qué harías con más de una RasPi? Aparte de dominar el mundo, lo que puedes hacer es conectarlas para crear una granja de ordenadores para aumentar la potencia de cálculo. 
+¿Qué harías con más de una RasPi? Aparte de dominar el mundo, lo que puedes hacer es conectarlas para crear una granja de ordenadores para aumentar la potencia de cálculo.
 
 Van actualizando poco a poco el manual para crear tu Supercomputadora. Os pasamos el enlace a la web para que veas los progresos.
 
-Enlace: [southampton.ac.uk](http://www.southampton.ac.uk/~sjc/raspberrypi/)
+Enlace: [southampton.ac.uk](https://www.southampton.ac.uk/~sjc/raspberrypi/)

@@ -8,9 +8,9 @@ date: 2013-01-31 12:00:00
 prev: /
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/mame.jpg
 ---
 
@@ -18,8 +18,8 @@ image: /images/mame.jpg
 
 ![mame](/images/mame.jpg)
 
-Someone did a great post about *Chameleon*.
+Someone did a great post about _Chameleon_.
 
-As you know, *Chameleon* is a cool *Raspbian* remix compiled by *Carles Oriol* aimed at providing *Raspberry Pi* users a solid platform for emulators.
+As you know, _Chameleon_ is a cool _Raspbian_ remix compiled by _Carles Oriol_ aimed at providing _Raspberry Pi_ users a solid platform for emulators.
 
-Link: [stefanopaganini.com](http://www.stefanopaganini.com/raspberry-pi-chameleon-overview-and-tutorial/)
+Link: [stefanopaganini.com](https://www.stefanopaganini.com/raspberry-pi-chameleon-overview-and-tutorial/)

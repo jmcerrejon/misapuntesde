@@ -8,9 +8,9 @@ date: 2013-02-23 12:15:00
 prev: /
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/c64.jpg
 ---
 
@@ -18,12 +18,12 @@ image: /images/c64.jpg
 
 ![c64](/images/c64.jpg)
 
-On this image You will find the famous *Commodore 64* emulator *VICE*. 
+On this image You will find the famous _Commodore 64_ emulator _VICE_.
 
 When powering on the RPi there is an automatic login with the user c64 (password c64) and then the emulator is started.
 
-There are some files already installed in the */home/c64/c64* folder, split by disk images, tape images and other. 
+There are some files already installed in the _/home/c64/c64_ folder, split by disk images, tape images and other.
 
-Link: [C64 Emulator](http://www.mascal.it/rpi64_e.html)
+Link: [C64 Emulator](https://www.mascal.it/rpi64_e.html)
 
-Games: [Search .sid files](http://www.c64.com/games/games.php)
+Games: [Search .sid files](https://www.c64.com/games/games.php)

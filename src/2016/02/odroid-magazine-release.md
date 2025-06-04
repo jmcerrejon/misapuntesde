@@ -8,9 +8,9 @@ date: 2016-02-14 13:00:00
 prev: /
 next: false
 category:
-  - ODROID
+    - ODROID
 tag:
-  - ODROID
+    - ODROID
 image: /images/2016/02/ODROID-Magazine-201602-221x300.png
 ---
 
@@ -18,6 +18,6 @@ image: /images/2016/02/ODROID-Magazine-201602-221x300.png
 
 ![ODROID-Magazine-201602-221x300](/images/2016/02/ODROID-Magazine-201602-221x300.png)
 
-We have available the latest issue of *ODROID Magazine* talking about the new *ODROID-C0* replacing *ODROID-W* by popular demand. Also they discussed in an article how to run *Windows 2000 with QEMU* and the power of *Cyanogenmod* as an alternative to *Android*.
+We have available the latest issue of _ODROID Magazine_ talking about the new _ODROID-C0_ replacing _ODROID-W_ by popular demand. Also they discussed in an article how to run _Windows 2000 with QEMU_ and the power of _Cyanogenmod_ as an alternative to _Android_.
 
-Link: [magazine.odroid.com](http://magazine.odroid.com/201602)
+Link: [magazine.odroid.com](https://magazine.odroid.com/201602)

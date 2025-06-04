@@ -8,9 +8,9 @@ date: 2013-03-06 13:52:00
 prev: /es/
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/mame.jpg
 ---
 
@@ -18,14 +18,15 @@ image: /images/mame.jpg
 
 ![mame4all](/images/mame.jpg)
 
-A veces pienso que lo único que me interesa de la RasPi son los emuladores, pero es que veo el *Frogger* en la *Raspberry* y me entra una nostálgia :_)
+A veces pienso que lo único que me interesa de la RasPi son los emuladores, pero es que veo el _Frogger_ en la _Raspberry_ y me entra una nostálgia :\_)
 
-- - -
-Esta vez tenemos una versión antigua, la v0.37b5, pero los juegos corren al 100% según comenta. Optimizada para la RasPi, utiliza *gráficos dispmanx, dispositivos de entrada con SDL y sonido ALSA.* Funciona en el entorno gráfico y en consola (línea de comandos).
+---
+
+Esta vez tenemos una versión antigua, la v0.37b5, pero los juegos corren al 100% según comenta. Optimizada para la RasPi, utiliza _gráficos dispmanx, dispositivos de entrada con SDL y sonido ALSA._ Funciona en el entorno gráfico y en consola (línea de comandos).
 
 Aún no tiene soporte para Joystick, pero está en ello.
 
-Su desarrollador recomienda la siguiente configuración en el fichero *config.txt* (testeado en un modelo B de 512 MB)
+Su desarrollador recomienda la siguiente configuración en el fichero _config.txt_ (testeado en un modelo B de 512 MB)
 
 ```bash
 
@@ -36,10 +37,10 @@ gpu_mem=64
 
 ```
 
-Enlace: [Descarga desde la Pi Store](http://store.raspberrypi.com/projects/mame4all_pi)
+Enlace: [Descarga desde la Pi Store](https://store.raspberrypi.com/projects/mame4all_pi)
 
 Enlace: [Noticias, configuración, información sobre el emula](https://code.google.com/p/mame4all-pi/)
 
-Enlace: [Útil hilo sobre errores con AdvMAME](http://www.raspberrypi.org/phpBB3/viewtopic.php?f=78&t=14645)
+Enlace: [Útil hilo sobre errores con AdvMAME](https://www.raspberrypi.org/phpBB3/viewtopic.php?f=78&t=14645)
 
-Enlace: [ROMS-que-debes-borrar-en-24-horas](http://www.romnation.net)
+Enlace: [ROMS-que-debes-borrar-en-24-horas](https://www.romnation.net)

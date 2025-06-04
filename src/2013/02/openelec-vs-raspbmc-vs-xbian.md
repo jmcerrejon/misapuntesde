@@ -8,9 +8,9 @@ date: 2013-02-21 10:45:00
 prev: /
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/xbmc.jpg
 ---
 
@@ -26,4 +26,4 @@ This first post, I leave an updated link comparing these three distributions bas
 
 What is your favorite?
 
-Link: [goshawknest](http://goshawknest.wordpress.com/2013/02/19/openelec-vs-raspbmc-vs-xbian/)
+Link: [goshawknest](https://goshawknest.wordpress.com/2013/02/19/openelec-vs-raspbmc-vs-xbian/)

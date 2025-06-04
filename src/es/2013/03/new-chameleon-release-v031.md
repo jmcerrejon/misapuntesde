@@ -8,19 +8,19 @@ date: 2013-03-28 18:25:00
 prev: /es/
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 ---
 
 # Nuevo chameleon v.0.3.1
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/1zWJDMxCT1I" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1zWJDMxCT1I" frameborder="0" allowfullscreen></iframe>
 
-Nueva versión de *Chameleon* dedicado a los emuladores, sobretodo de ordenadores.
+Nueva versión de _Chameleon_ dedicado a los emuladores, sobretodo de ordenadores.
 
-Se han parcheado varios bugs, eliminado el modo de texto de selector de rom y todas las opciones del menú están en modo gráfico (excepto las de *Raspbian*).
+Se han parcheado varios bugs, eliminado el modo de texto de selector de rom y todas las opciones del menú están en modo gráfico (excepto las de _Raspbian_).
 
 La verdad es que es digno de elogio el entorno gráfico tan currado que han preparado. ¿Lo vais a probar? ;)
 
-Descargas: [Torrent](http://chameleon.enging.com/?q=download) | [Descarga directa](http://chameleon.enging.com/chameleon.v031.img.bz2)
+Descargas: [Torrent](https://chameleon.enging.com/?q=download) | [Descarga directa](https://chameleon.enging.com/chameleon.v031.img.bz2)

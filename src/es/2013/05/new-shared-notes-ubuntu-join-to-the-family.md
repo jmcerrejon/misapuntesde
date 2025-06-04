@@ -8,9 +8,9 @@ date: 2013-05-10 14:00:00
 prev: /es/
 next: false
 category:
-  - Linux
+    - Linux
 tag:
-  - Linux
+    - Linux
 image: /images/ubu_logo.jpg
 ---
 
@@ -18,15 +18,16 @@ image: /images/ubu_logo.jpg
 
 ![ubu_logo](/images/ubu_logo.jpg)
 
-Me gusta *Ubuntu*, me siento cómodo con el en casi todos sus sabores menos *KDE* ([¡Flame wars!](https://es.wikipedia.org/wiki/Flame)). Es por eso que a partir de ahora tenéis a vuestra disposición mi más querido y mimado script para este sabor actualizado en la barra lateral.
+Me gusta _Ubuntu_, me siento cómodo con el en casi todos sus sabores menos _KDE_ ([¡Flame wars!](https://es.wikipedia.org/wiki/Flame)). Es por eso que a partir de ahora tenéis a vuestra disposición mi más querido y mimado script para este sabor actualizado en la barra lateral.
 
-- - -
-Realmente son apuntes que intento que algún día sea un script. Mi objetivo es poder ejecutarlo tranquilamente y sin miedo cuando recién instalas tu *Ubuntu*, irte a tomar un café, y cuando vuelvas ya tendrás tu sistema operativo super vitaminado. Por ahora mejor no hacerlo y editarlo según tus preferencias.
+---
+
+Realmente son apuntes que intento que algún día sea un script. Mi objetivo es poder ejecutarlo tranquilamente y sin miedo cuando recién instalas tu _Ubuntu_, irte a tomar un café, y cuando vuelvas ya tendrás tu sistema operativo super vitaminado. Por ahora mejor no hacerlo y editarlo según tus preferencias.
 
 Antes lo tenía compartido para un grupo de personas, y viendo que gustaba, pues oye, ya estaba tardando en tenerlo disponible para mis seguidores. Así que aquí lo tenéis.
 
-Ahora podréis pasar de tener un *Ubuntu* lento, pesado, que se arrastra y que os ocupe una vez iniciado más de 600 MB en memoria, a ésto:
+Ahora podréis pasar de tener un _Ubuntu_ lento, pesado, que se arrastra y que os ocupe una vez iniciado más de 600 MB en memoria, a ésto:
 
 ![ubu_freemem](/images/Ubuntu_freemem.jpg)
 
-Enlace: [Google Docs - Mis apuntes de Ubuntu](http://goo.gl/63X0p)
+Enlace: [Google Docs - Mis apuntes de Ubuntu](https://goo.gl/63X0p)

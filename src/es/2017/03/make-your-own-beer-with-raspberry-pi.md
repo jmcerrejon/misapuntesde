@@ -8,9 +8,9 @@ date: 2017-03-22 12:00:00
 prev: /es/
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/2017/03/craftbeerpi.png
 ---
 
@@ -22,6 +22,6 @@ No soy muy amante de la cerveza, pero me he encontrado un par de proyectos rebus
 
 Los dos proyectos más interesantes que he encontrado son:
 
-Enlace: [web.craftbeerpi.com](http://web.craftbeerpi.com/)
+Enlace: [web.craftbeerpi.com](https://web.craftbeerpi.com/)
 
 Enlace: [brewpi.com](https://www.brewpi.com/)

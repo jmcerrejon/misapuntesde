@@ -8,9 +8,9 @@ date: 2013-09-05 06:10:00
 prev: /
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/RetroPie_02.jpg
 ---
 
@@ -20,14 +20,15 @@ image: /images/RetroPie_02.jpg
 
 Great news for the RetroPie followers. New version available with the next updates...
 
-- - -
-* Added (Libretro based) Genesis emulator Picodrive
+---
 
-* Added emulator PiFBA
+-   Added (Libretro based) Genesis emulator Picodrive
 
-* Updated Emulation Station, x86 emulator, and RetroArch to latest release
+-   Added emulator PiFBA
 
-Download: [SD Card image (1.3 GB)](http://blog.petrockblock.com/?wpdmdl=17) | [Script](http://blog.petrockblock.com/2012/07/22/retropie-setup-an-initialization-script-for-retroarch-on-the-raspberry-pi/)
+-   Updated Emulation Station, x86 emulator, and RetroArch to latest release
+
+Download: [SD Card image (1.3 GB)](https://blog.petrockblock.com/?wpdmdl=17) | [Script](https://blog.petrockblock.com/2012/07/22/retropie-setup-an-initialization-script-for-retroarch-on-the-raspberry-pi/)
 
 EXTRA!:
 

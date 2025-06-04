@@ -8,9 +8,9 @@ date: 2014-09-15 07:30:00
 prev: /es/
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/raspbian.jpg
 ---
 
@@ -18,20 +18,21 @@ image: /images/raspbian.jpg
 
 ![Raspbian](/images/raspbian.jpg)
 
-Tenemos nuevas versiones desde hace unos días. Si sueles tener versionitis ya estás tardando en actualizar...¿Qué podemos encontrar en la nueva versión de *Raspbian*? Lo vemos tras el salto...
+Tenemos nuevas versiones desde hace unos días. Si sueles tener versionitis ya estás tardando en actualizar...¿Qué podemos encontrar en la nueva versión de _Raspbian_? Lo vemos tras el salto...
 
-- - -
-Para los que estamos deseando que cambien ya los repos de *Wheezy* a *Jessie*, tendremos que esperar un poco más.
+---
 
-* Epiphany browser
+Para los que estamos deseando que cambien ya los repos de _Wheezy_ a _Jessie_, tendremos que esperar un poco más.
 
-* Switch to Java 8 from Java 7
+-   Epiphany browser
 
-* New firmware
+-   Switch to Java 8 from Java 7
 
-* Minecraft Pi pre-installed
+-   New firmware
 
-* Sonic Pi upgraded to 2.0
+-   Minecraft Pi pre-installed
+
+-   Sonic Pi upgraded to 2.0
 
 Para los que quieran actualizar su distribución:
 
@@ -39,4 +40,4 @@ Para los que quieran actualizar su distribución:
 	sudo apt-get update && sudo apt-get dist-upgrade -y
 ```
 
-Descarga: [raspberrypi.org](http://www.raspberrypi.org/downloads/)
+Descarga: [raspberrypi.org](https://www.raspberrypi.org/downloads/)

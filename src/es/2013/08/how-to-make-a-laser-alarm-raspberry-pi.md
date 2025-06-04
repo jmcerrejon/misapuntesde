@@ -8,9 +8,9 @@ date: 2013-08-08 12:25:00
 prev: /es/
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/2013/08/ir.jpg
 ---
 
@@ -18,8 +18,8 @@ image: /images/2013/08/ir.jpg
 
 ![ir sensor](/images/2013/08/ir.jpg)
 
-La web *Fresy Metal* nos presenta otro tutorial. Esta vez sobre hacer una alarma con láser, ya que no encontró ninguno que le funcionara adecuadamente.
+La web _Fresy Metal_ nos presenta otro tutorial. Esta vez sobre hacer una alarma con láser, ya que no encontró ninguno que le funcionara adecuadamente.
 
 Como siempre, en su web.
 
-Enlace: [fresymetal.com](http://www.fresymetal.com/como-hacer-una-alarma-laser-con-raspberry/)
+Enlace: [fresymetal.com](https://www.fresymetal.com/como-hacer-una-alarma-laser-con-raspberry/)

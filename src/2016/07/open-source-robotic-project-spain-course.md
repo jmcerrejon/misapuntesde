@@ -8,9 +8,9 @@ date: 2016-07-20 13:00:00
 prev: /
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/2016/06/ros.png
 ---
 
@@ -18,6 +18,6 @@ image: /images/2016/06/ros.png
 
 ![ROS](/images/2016/06/ros.png)
 
-A great course in *Seville (Spain)* to learn the amazing world of Robotic science with *ROS*.
+A great course in _Seville (Spain)_ to learn the amazing world of Robotic science with _ROS_.
 
-Link (spanish): [roboticaeuropa.org](http://roboticaeuropa.org/curso-1/robots-ros-raspberry-pi)
+Link (spanish): [roboticaeuropa.org](https://roboticaeuropa.org/curso-1/robots-ros-raspberry-pi)

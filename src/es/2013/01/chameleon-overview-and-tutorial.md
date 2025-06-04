@@ -8,9 +8,9 @@ date: 2013-01-31 12:00:00
 prev: /es/
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/mame.jpg
 ---
 
@@ -18,8 +18,8 @@ image: /images/mame.jpg
 
 ![mame](/images/mame.jpg)
 
-Han hecho un magnífico post sobre *Chameleon*.
+Han hecho un magnífico post sobre _Chameleon_.
 
-Como ya sabéis, *Chameleon* es un genial distro basada en *Raspbian* que nos provee de una sólida plataforma para los emuladores.
+Como ya sabéis, _Chameleon_ es un genial distro basada en _Raspbian_ que nos provee de una sólida plataforma para los emuladores.
 
-Enlace: [stefanopaganini.com](http://www.stefanopaganini.com/raspberry-pi-chameleon-overview-and-tutorial/)
+Enlace: [stefanopaganini.com](https://www.stefanopaganini.com/raspberry-pi-chameleon-overview-and-tutorial/)

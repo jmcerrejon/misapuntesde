@@ -138,7 +138,7 @@ Espero que este resumen le ayude a obtener una visión de cómo comenzar con Kot
 
 -   [Compose Multiplatform tutorials](https://github.com/JetBrains/compose-multiplatform/blob/master/tutorials/README.md)
 
--   [Kotlin Slack](http://kotlinlang.slack.com/)
+-   [Kotlin Slack](https://kotlinlang.slack.com/)
 
 -   [Youtube > MoureDev TV > Crea una APP iOS y Android con KOTLIN MULTIPLATFORM](https://www.youtube.com/watch?v=hvgO8oZanQQ)
 

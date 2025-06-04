@@ -8,9 +8,9 @@ date: 2013-01-23 10:35:00
 prev: /
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/cherokee.png
 ---
 
@@ -20,8 +20,8 @@ image: /images/cherokee.png
 
 I've always thought about having my own web server and serve dynamic for a blog, hosting on a RasPi.
 
-*Francois Dion* has made several test and unfortunately for a blog does not have enough power, but for static web...
+_Francois Dion_ has made several test and unfortunately for a blog does not have enough power, but for static web...
 
-Can anyone tell us your experience about host a blog on a *Raspberry Pi*?
+Can anyone tell us your experience about host a blog on a _Raspberry Pi_?
 
-Link: [Raspberry Pi Python Adventures](http://raspberry-python.blogspot.com.es/2013/01/raspberrypi-como-servidor-web.html)
+Link: [Raspberry Pi Python Adventures](https://raspberry-python.blogspot.com.es/2013/01/raspberrypi-como-servidor-web.html)

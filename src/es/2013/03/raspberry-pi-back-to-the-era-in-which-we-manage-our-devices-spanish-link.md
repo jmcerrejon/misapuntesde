@@ -8,9 +8,9 @@ date: 2013-03-27 11:00:00
 prev: /es/
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/xakatahome.jpg
 ---
 
@@ -18,8 +18,8 @@ image: /images/xakatahome.jpg
 
 ![xataka](/images/xakatahome.jpg)
 
-*¿cómo es la experiencia desde el usuario?, ¿Es complicado utilizarla?, ¿Merece la pena una Raspberry Pi?, ¿Cómo es eso de volver a los orígenes y administrar nuestros dispositivos, muchas veces desde un terminal?*
+_¿cómo es la experiencia desde el usuario?, ¿Es complicado utilizarla?, ¿Merece la pena una Raspberry Pi?, ¿Cómo es eso de volver a los orígenes y administrar nuestros dispositivos, muchas veces desde un terminal?_
 
-Todas estas preguntas con sus respectivas respuestas en un fabuloso post realizado por *Fernando Dotuel* para *Xataka*, que todo *Raspberriano* debería leer.
+Todas estas preguntas con sus respectivas respuestas en un fabuloso post realizado por _Fernando Dotuel_ para _Xataka_, que todo _Raspberriano_ debería leer.
 
-Enlace: [Xataka](http://www.xataka.com/componentes-de-pc/raspberry-pi-regreso-a-la-era-en-que-administrabamos-nuestros-dispositivos)
+Enlace: [Xataka](https://www.xataka.com/componentes-de-pc/raspberry-pi-regreso-a-la-era-en-que-administrabamos-nuestros-dispositivos)

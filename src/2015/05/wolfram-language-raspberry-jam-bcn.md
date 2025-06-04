@@ -8,9 +8,9 @@ date: 2015-05-06 08:09:00
 prev: /
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/2015/05/wolfram.jpg
 ---
 
@@ -18,6 +18,6 @@ image: /images/2015/05/wolfram.jpg
 
 ![Wolfram](/images/2015/05/wolfram.jpg)
 
-Again, a must-see event in Barcelona, where *Bernat Espigul&eacute;* from the *Wolfram Team* speaks in this *meetup* about how to take advantage of this great *engine*.
+Again, a must-see event in Barcelona, where _Bernat Espigul&eacute;_ from the _Wolfram Team_ speaks in this _meetup_ about how to take advantage of this great _engine_.
 
-More Info: [meetup.com](http://www.meetup.com/WolframBCN/events/221446822/)
+More Info: [meetup.com](https://www.meetup.com/WolframBCN/events/221446822/)

@@ -8,9 +8,9 @@ date: 2013-04-01 20:50:00
 prev: /
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/bodhy_linux.jpg
 ---
 
@@ -18,13 +18,14 @@ image: /images/bodhy_linux.jpg
 
 ![Bodhi Linux](/images/bodhy_linux.jpg)
 
-Atention! I just [read](https://plus.google.com/100130971560879475093/posts/aroZf63DNPL) and I don't believe it. *Bodhi Linux*, an *Ubuntu* based distro, has been ported to *Raspberry Pi*.
+Atention! I just [read](https://plus.google.com/100130971560879475093/posts/aroZf63DNPL) and I don't believe it. _Bodhi Linux_, an _Ubuntu_ based distro, has been ported to _Raspberry Pi_.
 
-- - -
-I honestly do not believe me just yet (especially being the *April fool's day*). As discussed is quite stable, and completely moving environment with *OpenGL*, so the speed must be amazing.
+---
 
-I think *Raspbian* now has a serious competitor if all the talk about this is true.
+I honestly do not believe me just yet (especially being the _April fool's day_). As discussed is quite stable, and completely moving environment with _OpenGL_, so the speed must be amazing.
+
+I think _Raspbian_ now has a serious competitor if all the talk about this is true.
 
 Keep you informed about this great operating system over the week.
 
-Download: [Bodhi Linux](http://www.bodhilinux.com/downloads_mobile.php)
+Download: [Bodhi Linux](https://www.bodhilinux.com/downloads_mobile.php)

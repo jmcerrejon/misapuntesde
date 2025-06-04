@@ -8,9 +8,9 @@ date: 2014-01-29 14:00:20
 prev: /es/
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/2014/01/picast.jpg
 ---
 
@@ -18,11 +18,12 @@ image: /images/2014/01/picast.jpg
 
 ![picast](/images/2014/01/picast.jpg)
 
-*Chromecast* lleva tiempo con nosotros. Es una tecnología que ha gustado, pero no se ha implantado todo lo que le hubiera gustado a *Google*.
+_Chromecast_ lleva tiempo con nosotros. Es una tecnología que ha gustado, pero no se ha implantado todo lo que le hubiera gustado a _Google_.
 
-*PiCAST* es una alternativa a este dispositivo (o eso pretende), pero era difícil de configurar y aunque recibió subvención por parte de varios usuarios, no llegó a posicionarse. Su creador saca ahora la versión 2.0 para enmendar errores del pasado.
+_PiCAST_ es una alternativa a este dispositivo (o eso pretende), pero era difícil de configurar y aunque recibió subvención por parte de varios usuarios, no llegó a posicionarse. Su creador saca ahora la versión 2.0 para enmendar errores del pasado.
 
-- - -
+---
+
 Ahora tenemos la oportunidad de bajarnos el **installer** con la siguiente sentencia:
 
 ```bash
@@ -33,8 +34,8 @@ chmod +x ./installer.sh
 
 Presumiblemente podremos escuchar música, tener un navegador web y ver vídeos con este sistema. No lo he probado y si alguien lo hace, me gustaría que lo comentara abajo.
 
-Youtube: [PiCAST 2.0 (Chromecast-like project)](http://www.youtube.com/watch?v=Wwr201XHDME)
+Youtube: [PiCAST 2.0 (Chromecast-like project)](https://www.youtube.com/watch?v=Wwr201XHDME)
 
-Enlace: [github.com > PiCAST](https://github.com/lanceseidman/PiCAST) 
+Enlace: [github.com > PiCAST](https://github.com/lanceseidman/PiCAST)
 
-Enlace: [geek.com > PiCast: The open source, Raspberry Pi Chromecast alternative](http://www.geek.com/android/picast-the-open-source-raspberry-pi-chromecast-alternative-1564550/)
+Enlace: [geek.com > PiCast: The open source, Raspberry Pi Chromecast alternative](https://www.geek.com/android/picast-the-open-source-raspberry-pi-chromecast-alternative-1564550/)

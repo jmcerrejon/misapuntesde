@@ -8,9 +8,9 @@ date: 2015-02-10 14:00:00
 prev: /
 next: false
 category:
-  - Developer
+    - Developer
 tag:
-  - Developer
+    - Developer
 image: /images/2015/02/mysql.png
 ---
 
@@ -20,14 +20,15 @@ image: /images/2015/02/mysql.png
 
 This is just a reminder to a great sql code I needed these days.
 
-- - -
+---
+
 ```sql
 SET GLOBAL log_bin_trust_function_creators=1;
 DROP FUNCTION IF EXISTS fnRemoveHtml;
 DELIMITER |
 CREATE FUNCTION fnRemoveHtml( Dirty varchar(4000) )
 RETURNS varchar(4000)
-DETERMINISTIC 
+DETERMINISTIC
 BEGIN
   DECLARE iStart, iEnd, iLength int;
     WHILE Locate( '<', Dirty ) > 0 And Locate( '>', Dirty, Locate( '<', Dirty )) > 0 DO
@@ -47,4 +48,4 @@ END;
 DELIMITER ;
 ```
 
-Link: [forums.mysql.com](http://forums.mysql.com/read.php?52,177343,177985)
+Link: [forums.mysql.com](https://forums.mysql.com/read.php?52,177343,177985)

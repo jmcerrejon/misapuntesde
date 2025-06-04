@@ -8,9 +8,9 @@ date: 2013-01-15 11:45:00
 prev: /es/
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/ssh-tunnel.jpg
 ---
 
@@ -20,4 +20,4 @@ image: /images/ssh-tunnel.jpg
 
 Nuestro amigo Gonzalo nos enseña algunas técnicas para conectarnos desde cualquier lugar a nuestra querida amiga RasPi. Muy útil.
 
-Enlace: [cuadernodelviaje.blogspot.com.es](http://cuadernodelviaje.blogspot.com.es/2013/01/acceder-desde-internet-tu-raspberry-pi.html)
+Enlace: [cuadernodelviaje.blogspot.com.es](https://cuadernodelviaje.blogspot.com.es/2013/01/acceder-desde-internet-tu-raspberry-pi.html)

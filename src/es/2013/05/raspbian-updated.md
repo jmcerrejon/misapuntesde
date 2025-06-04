@@ -8,9 +8,9 @@ date: 2013-05-13 09:35:00
 prev: /es/
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 ---
 
 # Actualización de Raspbian
@@ -21,17 +21,14 @@ Acabo de leer la noticia de que actualizando la distribución
 sudo apt-get update && sudo apt-get upgrade
 ```
 
-tendremos una nueva tanda de paquetes actualizados, entre los que destaca el soporte para la nueva cámara que sacarán en breve los creadores de la RasPi, y nueva opción en el script *raspi-config*.
+tendremos una nueva tanda de paquetes actualizados, entre los que destaca el soporte para la nueva cámara que sacarán en breve los creadores de la RasPi, y nueva opción en el script _raspi-config_.
 
-###  Kernel 3.8.12+
+### Kernel 3.8.12+
 
-También hay actualización de kernel. La manera más fácil que tenemos es ejecutando el script del conocido *Hexxeh*. Las instrucciones para instalar y actualizar el kernel a continuación:
+También hay actualización de kernel. La manera más fácil que tenemos es ejecutando el script del conocido _Hexxeh_. Las instrucciones para instalar y actualizar el kernel a continuación:
 
 ```bash
 sudo apt-get install git-core
-sudo wget http://goo.gl/1BOfJ -O /usr/bin/rpi-update && sudo chmod +x /usr/bin/rpi-update
+sudo wget https://goo.gl/1BOfJ -O /usr/bin/rpi-update && sudo chmod +x /usr/bin/rpi-update
 sudo rpi-update
 ```
-
-
-

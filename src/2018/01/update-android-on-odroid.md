@@ -8,9 +8,9 @@ date: 2018-01-22 10:15:00
 prev: /
 next: false
 category:
-  - ODROID
+    - ODROID
 tag:
-  - ODROID
+    - ODROID
 image: /images/2017/11/android.png
 ---
 
@@ -20,30 +20,30 @@ image: /images/2017/11/android.png
 
 In simpler than it looks, but I couldn't find it. I leave it as a reference...
 
-- - -
+---
 
-* Open the *ODROID Utility* application.
+-   Open the _ODROID Utility_ application.
 
-* Press the three point icon at the top right.
+-   Press the three point icon at the top right.
 
-* Press *Check online update*.
+-   Press _Check online update_.
 
-* Wait for it to download and a message will appear. Click *Proceed* to restart and install the update.
+-   Wait for it to download and a message will appear. Click _Proceed_ to restart and install the update.
 
 ### [ Install GAPPS]
 
-* Access from your Android browser to http://opengapps.org.
+-   Access from your Android browser to https://opengapps.org.
 
-* Select ARM for ODROID C1/C2, the version of Android you have (in my case, 6.0) and the micro or pico version. I always choose the one that occupies the least and install less components.
+-   Select ARM for ODROID C1/C2, the version of Android you have (in my case, 6.0) and the micro or pico version. I always choose the one that occupies the least and install less components.
 
-* Once downloaded, we go back to *ODROID Utility*.
+-   Once downloaded, we go back to _ODROID Utility_.
 
-* Press the three point icon at the top right.
+-   Press the three point icon at the top right.
 
-* Press *Package install from storage*.
+-   Press _Package install from storage_.
 
-* Now choose the file that was previously downloaded from the browser.
+-   Now choose the file that was previously downloaded from the browser.
 
-* Press *Proceed* and wait for it to restart, install and that's it.
+-   Press _Proceed_ and wait for it to restart, install and that's it.
 
 Link: [codewalkerster.blogspot.com.es > How to install Google Play Store on ODROID](https://codewalkerster.blogspot.com.es/2016/06/how-to-install-google-play-store-on.html)

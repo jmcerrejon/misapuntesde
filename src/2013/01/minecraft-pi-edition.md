@@ -8,9 +8,9 @@ date: 2013-01-15 10:30:00
 prev: /
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/minecraft.jpg
 ---
 
@@ -18,7 +18,7 @@ image: /images/minecraft.jpg
 
 ![MineCraft](/images/minecraft.jpg)
 
-It is rumored that the release of version of *Minecraft* for *Raspberry Pi* is imminent. It has created a website to keep you updated information.
+It is rumored that the release of version of _Minecraft_ for _Raspberry Pi_ is imminent. It has created a website to keep you updated information.
 I'll keep you inform when you when get out.
 
-Link: [Minecraft Pi Edition](http://pi.minecraft.net)
+Link: [Minecraft Pi Edition](https://pi.minecraft.net)

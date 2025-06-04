@@ -8,9 +8,9 @@ date: 2013-06-30 08:00:00
 prev: /es/
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/chameleon.jpg
 ---
 
@@ -18,16 +18,17 @@ image: /images/chameleon.jpg
 
 ![chameleon](/images/chameleon.jpg)
 
-*Aquí estamos de nuevo con una sorprendente, increíble, gloriosa, fantástica nueva versión ChameleonPI v.0.3.2 - SUMMER MANIA*
+_Aquí estamos de nuevo con una sorprendente, increíble, gloriosa, fantástica nueva versión ChameleonPI v.0.3.2 - SUMMER MANIA_
 
-Por si no lo recordáis, *ChameleonPi* es un fork de *Raspbian* listo para emular equipos y consolas al estilo de *RetroPie* o *PiMAME*, aunque más orientado a emular ordenadores antiguos.
+Por si no lo recordáis, _ChameleonPi_ es un fork de _Raspbian_ listo para emular equipos y consolas al estilo de _RetroPie_ o _PiMAME_, aunque más orientado a emular ordenadores antiguos.
 
-- - -
-* Hemos reparado una parte de los bugs.
+---
 
-* Actualización de código Raspbian por lo que funciona con todos los modelos de Raspberry Pi.
+-   Hemos reparado una parte de los bugs.
 
-* Actualizado de c64 (desarrollado por AreaScout aka Daniel Mehrwald (Austria)
-gracias a Olli Raatikainen).
+-   Actualización de código Raspbian por lo que funciona con todos los modelos de Raspberry Pi.
 
-Descarga: [chameleon.v032.img.bz2](http://download.chameleon.enging.com/chameleon.v032.img.bz2)
+-   Actualizado de c64 (desarrollado por AreaScout aka Daniel Mehrwald (Austria)
+    gracias a Olli Raatikainen).
+
+Descarga: [chameleon.v032.img.bz2](https://download.chameleon.enging.com/chameleon.v032.img.bz2)

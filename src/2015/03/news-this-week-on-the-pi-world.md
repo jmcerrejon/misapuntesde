@@ -8,13 +8,13 @@ date: 2015-03-27 08:45:00
 prev: /
 next: false
 category:
-  - Raspberry PI
-  - Banana Pi
-  - ODROID
+    - Raspberry PI
+    - Banana Pi
+    - ODROID
 tag:
-  - Raspberry PI
-  - Banana Pi
-  - ODROID
+    - Raspberry PI
+    - Banana Pi
+    - ODROID
 image: /images/2015/03/chips.jpg
 ---
 
@@ -26,21 +26,22 @@ This week has been busy, which is good for me. I disconnected a bit of everythin
 
 Here we go!
 
-- - -
+---
+
 <iframe width="400" height="225" src="https://www.youtube.com/embed/xyF93pwTTPE?rel=0" frameborder="0" allowfullscreen></iframe>
 
-* **Moebius back to life** | [sourceforge.net > moebiuslinux](http://sourceforge.net/projects/moebiuslinux/)
+-   **Moebius back to life** | [sourceforge.net > moebiuslinux](https://sourceforge.net/projects/moebiuslinux/)
 
-* **14.04.2 LTS (v1.4) para ODROID-C1** | [mirror.golddroid.com](http://mirror.golddroid.com)
+-   **14.04.2 LTS (v1.4) para ODROID-C1** | [mirror.golddroid.com](https://mirror.golddroid.com)
 
 ![Plex Media Server](/images/2015/03/banana-pi-plex-media-server.png)
 
-* **Install Plex Media Server on Banana Pi with Bananian** | [htpcguides.com > Install Plex Media Server on Banana Pi with Bananian](http://www.htpcguides.com/install-plex-media-server-on-banana-pi-with-bananian/)
+-   **Install Plex Media Server on Banana Pi with Bananian** | [htpcguides.com > Install Plex Media Server on Banana Pi with Bananian](https://www.htpcguides.com/install-plex-media-server-on-banana-pi-with-bananian/)
 
-* **The Raspberry Pi camera guide** | [intorobotics.com](http://www.intorobotics.com/raspberry-pi-camera-guide/)
+-   **The Raspberry Pi camera guide** | [intorobotics.com](https://www.intorobotics.com/raspberry-pi-camera-guide/)
 
-* **DoorCam & surveillance Kit** | [instructables.com > Old PC Accessories + Raspberry PI = DoorCam & surveillance Kit](http://www.instructables.com/id/Old-PC-Accessories-Raspberry-PI-DoorCam-surveillan/?ALLSTEPS)
+-   **DoorCam & surveillance Kit** | [instructables.com > Old PC Accessories + Raspberry PI = DoorCam & surveillance Kit](https://www.instructables.com/id/Old-PC-Accessories-Raspberry-PI-DoorCam-surveillan/?ALLSTEPS)
 
-* **Lakka released official version for ODROID-C1** | [lakka.tv](http://www.lakka.tv/get/linux/odroidc1/)
+-   **Lakka released official version for ODROID-C1** | [lakka.tv](https://www.lakka.tv/get/linux/odroidc1/)
 
 Happy weekend!

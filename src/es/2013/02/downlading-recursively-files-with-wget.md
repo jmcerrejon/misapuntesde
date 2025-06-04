@@ -8,16 +8,16 @@ date: 2013-02-21 18:30:00
 prev: /es/
 next: false
 category:
-  - Linux
+    - Linux
 tag:
-  - Linux
+    - Linux
 ---
 
 # Descargar recursivamente archivos con wget
 
 ```bash
 
-> wget --no-parent --recursive --level=1 --no-directories --user=login --password=pass http://myftpsite.com/
+> wget --no-parent --recursive --level=1 --no-directories --user=login --password=pass https://myftpsite.com/
 
 ```
 

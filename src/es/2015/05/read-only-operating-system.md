@@ -8,17 +8,17 @@ date: 2015-05-11 10:40:00
 prev: /es/
 next: false
 category:
-  - Linux
-  - Raspberry PI
-  - Banana Pi
-  - ODROID
-  - Banana Pi
+    - Linux
+    - Raspberry PI
+    - Banana Pi
+    - ODROID
+    - Banana Pi
 tag:
-  - Linux
-  - Raspberry PI
-  - Banana Pi
-  - ODROID
-  - Banana Pi
+    - Linux
+    - Raspberry PI
+    - Banana Pi
+    - ODROID
+    - Banana Pi
 image: /images/2015/05/SDHC_Lock.jpg
 ---
 
@@ -26,12 +26,13 @@ image: /images/2015/05/SDHC_Lock.jpg
 
 ![SD Lock](/images/2015/05/SDHC_Lock.jpg)
 
-Tengo un problema: He de montar un proyecto donde en cualquier momento se puede ir la luz o apagarse bruscamente el equipo (léase *Raspberry Pi/ODROID/PC*). Lo bueno es que no necesito escribir en el sistema, así que hoy voy a montar un sistema operativo de sólo lectura para evitar corromper la tarjeta SD.
+Tengo un problema: He de montar un proyecto donde en cualquier momento se puede ir la luz o apagarse bruscamente el equipo (léase _Raspberry Pi/ODROID/PC_). Lo bueno es que no necesito escribir en el sistema, así que hoy voy a montar un sistema operativo de sólo lectura para evitar corromper la tarjeta SD.
 
-- - -
-Lo que sigue a continuación es casi una traducción del artículo [blog.pi3g.com > Make Raspbian System Read-Only](http://blog.pi3g.com/2014/04/make-raspbian-system-read-only/).
+---
 
-Voy a partir de una distribución liviana. Me he decantado por [Diet Pi](https://github.com/Fourdee/DietPi), pero puedes usar *Raspbian* u otra. Todos los comandos serán ejecutados como *root*.
+Lo que sigue a continuación es casi una traducción del artículo [blog.pi3g.com > Make Raspbian System Read-Only](https://blog.pi3g.com/2014/04/make-raspbian-system-read-only/).
+
+Voy a partir de una distribución liviana. Me he decantado por [Diet Pi](https://github.com/Fourdee/DietPi), pero puedes usar _Raspbian_ u otra. Todos los comandos serán ejecutados como _root_.
 
 Desactivar swap:
 
@@ -41,13 +42,13 @@ dphys-swapfile uninstall
 update-rc.d dphys-swapfile disable
 ```
 
-Instalar *UnionFS*, que nos va a permitir crear sistemas de ficheros en la *RAM* (Como en los *Live-CD*):
+Instalar _UnionFS_, que nos va a permitir crear sistemas de ficheros en la _RAM_ (Como en los _Live-CD_):
 
 ```bash
 apt-get install -y unionfs-fuse
 ```
 
-Vamos a crear un script que se encargará de montar en un sistema de ficheros unionfs los directorios */etc* y */var*. Creamos el fichero con **nano /usr/local/bin/mount_unionfs** y copiamos el siguiente código:
+Vamos a crear un script que se encargará de montar en un sistema de ficheros unionfs los directorios _/etc_ y _/var_. Creamos el fichero con **nano /usr/local/bin/mount_unionfs** y copiamos el siguiente código:
 
 ```bash
 #!/bin/sh

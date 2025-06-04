@@ -8,9 +8,9 @@ date: 2013-04-21 17:30:00
 prev: /
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/rpix86_logo.jpg
 ---
 
@@ -22,26 +22,27 @@ rpix86 version 0.06 released!
 
 This version contains the following fixes and improvements:
 
-- - -
-* Added serial port emulation support (use the new -sNUM parameter).
+---
 
-* Changed the -h and -w parameters to not force 4:3 aspect ratio.
+-   Added serial port emulation support (use the new -sNUM parameter).
 
-* Added 4DOS.COM download question dialog when starting in X Window.
+-   Changed the -h and -w parameters to not force 4:3 aspect ratio.
 
-* Added an icon to rpix86 when running under X Window environment.
+-   Added 4DOS.COM download question dialog when starting in X Window.
 
-* X Window title bar shows now also the version number of rpix86.
+-   Added an icon to rpix86 when running under X Window environment.
 
-* Keyboard and mouse reading is slightly more efficient than before.
+-   X Window title bar shows now also the version number of rpix86.
 
-More info: [blog de Patrick](http://rpix86.patrickaalto.com/rblog.html)
+-   Keyboard and mouse reading is slightly more efficient than before.
 
-Download: [PiStore](http://store.raspberrypi.com/projects/rpix86) | [rpix86 blog](http://rpix86.patrickaalto.com/rdown.html)
+More info: [blog de Patrick](https://rpix86.patrickaalto.com/rblog.html)
 
-Link: [forum](http://www.raspberrypi.org/phpBB3/viewtopic.php?f=78&t=32934)
+Download: [PiStore](https://store.raspberrypi.com/projects/rpix86) | [rpix86 blog](https://rpix86.patrickaalto.com/rdown.html)
 
-Link: [dsx86 compatibility list](http://dsx86compatibility.pbworks.com/w/page/26738915/Compatibility%20List)
+Link: [forum](https://www.raspberrypi.org/phpBB3/viewtopic.php?f=78&t=32934)
+
+Link: [dsx86 compatibility list](https://dsx86compatibility.pbworks.com/w/page/26738915/Compatibility%20List)
 
 ENTRA!:
 

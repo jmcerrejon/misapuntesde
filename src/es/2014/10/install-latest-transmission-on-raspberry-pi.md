@@ -8,9 +8,9 @@ date: 2014-10-29 10:00:00
 prev: /es/
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/torrent.png
 ---
 
@@ -18,8 +18,8 @@ image: /images/torrent.png
 
 ![torrent](/images/torrent.png)
 
-Me he encontrado un fantástico tutorial que quería compartir con vosotros para tener a la última el cliente de torrent más famoso para la *Raspberry PI: Transmission*.
+Me he encontrado un fantástico tutorial que quería compartir con vosotros para tener a la última el cliente de torrent más famoso para la _Raspberry PI: Transmission_.
 
-Para instalarlo se vale de los paquetes en el repositorio *Jessie de Debian*, a los que espero que tengamos acceso de forma oficial pronto en nuestra distro favorita.
+Para instalarlo se vale de los paquetes en el repositorio _Jessie de Debian_, a los que espero que tengamos acceso de forma oficial pronto en nuestra distro favorita.
 
-Enlace: [htpcguides.com](http://www.htpcguides.com/install-transmission-raspberry-pi-latest-version-raspbian/)
+Enlace: [htpcguides.com](https://www.htpcguides.com/install-transmission-raspberry-pi-latest-version-raspbian/)

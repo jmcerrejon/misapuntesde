@@ -8,9 +8,9 @@ date: 2014-08-29 15:00:00
 prev: /
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/kali.jpg
 ---
 
@@ -20,8 +20,8 @@ image: /images/kali.jpg
 
 No time for anything, but I like this week...
 
-* **Kali Linux 1.0.9:** [offensive-security.com > Kali Linux Downloads](http://www.offensive-security.com/kali-linux-vmware-arm-image-download/)
+-   **Kali Linux 1.0.9:** [offensive-security.com > Kali Linux Downloads](https://www.offensive-security.com/kali-linux-vmware-arm-image-download/)
 
-* **Raspberry Pi radio player with touchscreen:** [learn.adafruit.com > Raspberry Pi radio player with touchscreen](https://learn.adafruit.com/raspberry-pi-radio-player-with-touchscreen?view=all)
+-   **Raspberry Pi radio player with touchscreen:** [learn.adafruit.com > Raspberry Pi radio player with touchscreen](https://learn.adafruit.com/raspberry-pi-radio-player-with-touchscreen?view=all)
 
 Happy Weekend!

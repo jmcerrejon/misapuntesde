@@ -8,9 +8,9 @@ date: 2013-01-15 12:00:00
 prev: /
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/iwebiop.jpg
 ---
 
@@ -18,6 +18,6 @@ image: /images/iwebiop.jpg
 
 ![iwebgpio](/images/iwebiop.jpg)
 
-The current personal project is *WebIOPi*, a *REST* framework and webapp to control the *Raspberry Pi* and its *GPIO* through the web.
+The current personal project is _WebIOPi_, a _REST_ framework and webapp to control the _Raspberry Pi_ and its _GPIO_ through the web.
 
-Link: [http://trouch.com](http://trouch.com/category/webiopi/)
+Link: [https://trouch.com](https://trouch.com/category/webiopi/)

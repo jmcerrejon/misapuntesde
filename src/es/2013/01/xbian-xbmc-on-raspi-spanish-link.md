@@ -8,9 +8,9 @@ date: 2013-01-14 13:54:00
 prev: /es/
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/xakatahome.jpg
 ---
 
@@ -18,6 +18,6 @@ image: /images/xakatahome.jpg
 
 ![Xakata Home](/images/xakatahome.jpg)
 
-De la mano de una de mis webs favoritas, llega este enlace para instalar desde cero *Xbian*, sistema operativo que hace de media center y competencia directa de [OpenELEC](http://openelec.tv/).
+De la mano de una de mis webs favoritas, llega este enlace para instalar desde cero _Xbian_, sistema operativo que hace de media center y competencia directa de [OpenELEC](https://openelec.tv/).
 
-Enlace: [xatakahome](http://www.xatakahome.com/centro-multimedia/xbmc-y-tu-raspberry-pi-xbian)
+Enlace: [xatakahome](https://www.xatakahome.com/centro-multimedia/xbmc-y-tu-raspberry-pi-xbian)

@@ -8,9 +8,9 @@ date: 2016-04-19 20:45:00
 prev: /
 next: false
 category:
-  - Developer
+    - Developer
 tag:
-  - Developer
+    - Developer
 image: /images/2016/04/git-ftp.png
 ---
 
@@ -18,14 +18,15 @@ image: /images/2016/04/git-ftp.png
 
 ![git-ftp](/images/2016/04/git-ftp.png)
 
-Not always will be lords and masters of a *VPS* with *SSH* connection to upload into production our projects. Sometimes we'll find servers where the only option for upload your code will be using the *FTP* protocol, which is a bummer when one or more do deploys in a day. If you work with *Git*, I'll teach you my method to upload the commits to a *ftp* server without changing the technology.
+Not always will be lords and masters of a _VPS_ with _SSH_ connection to upload into production our projects. Sometimes we'll find servers where the only option for upload your code will be using the _FTP_ protocol, which is a bummer when one or more do deploys in a day. If you work with _Git_, I'll teach you my method to upload the commits to a _ftp_ server without changing the technology.
 
-- - -
+---
+
 ![ftp](/images/2016/04/ftp.jpg)
 
 ### [ Installation and setup ]
 
-The instructions are pretty clear for all platforms as you can see [here](https://github.com/git-ftp/git-ftp/blob/develop/INSTALL.md). I use [brew](http://brew.sh/) with *OSX*:
+The instructions are pretty clear for all platforms as you can see [here](https://github.com/git-ftp/git-ftp/blob/develop/INSTALL.md). I use [brew](https://brew.sh/) with _OSX_:
 
 ```bash
 brew install curl --with-ssl --with-libssh2
@@ -44,7 +45,7 @@ Now upload all files with **git ftp init** or if the files is already on the ser
 
 ### [ Use ]
 
-Not much mystery. Use *git* to commit your repo as you do normally, but when you want to upload the changes to *ftp*, use the command **git ftp push**. An example:
+Not much mystery. Use _git_ to commit your repo as you do normally, but when you want to upload the changes to _ftp_, use the command **git ftp push**. An example:
 
 ```bash
 echo "new content" >> index.txt

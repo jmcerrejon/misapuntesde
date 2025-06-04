@@ -8,9 +8,9 @@ date: 2015-06-29 10:30:00
 prev: /es/
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/rpix86_logo.jpg
 ---
 
@@ -18,16 +18,16 @@ image: /images/rpix86_logo.jpg
 
 ![rpix86](/images/rpix86_logo.jpg)
 
-He tenido una de esas mañanas productivas buscando nuevas ideas para el blog, que os comentaré más adelante, y he recopilado también mucha información para futuros post. 
+He tenido una de esas mañanas productivas buscando nuevas ideas para el blog, que os comentaré más adelante, y he recopilado también mucha información para futuros post.
 
-Hoy os comento brevemente los cambios en una nueva versión de este emulador de *MS-DOS* para *Raspberry Pi.*
+Hoy os comento brevemente los cambios en una nueva versión de este emulador de _MS-DOS_ para _Raspberry Pi._
 
-- - -
+---
 
-* Implementado FPU opcodes desaparecidos (TradeWars 2002).
+-   Implementado FPU opcodes desaparecidos (TradeWars 2002).
 
-* Implementado JPE/JPO opcode hacks para TradeWars 2002.
+-   Implementado JPE/JPO opcode hacks para TradeWars 2002.
 
-* Arreglado problema con DMA off-by-1 (Tyrian 2000).
+-   Arreglado problema con DMA off-by-1 (Tyrian 2000).
 
-Descarga: [rpix86.patrickaalto.com](http://rpix86.patrickaalto.com/rdown.html)
+Descarga: [rpix86.patrickaalto.com](https://rpix86.patrickaalto.com/rdown.html)

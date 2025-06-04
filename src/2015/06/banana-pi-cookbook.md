@@ -8,9 +8,9 @@ date: 2015-06-24 12:00:00
 prev: /
 next: false
 category:
-  - Banana Pi
+    - Banana Pi
 tag:
-  - Banana Pi
+    - Banana Pi
 image: /images/2015/06/bananapi_cover.jpg
 ---
 
@@ -24,33 +24,34 @@ I've participated in the elaboration of each chapter of this book, and I can ass
 
 After the jump, I tell you what it's about.
 
-- - -
+---
+
 What You Will Learn:
 
-* Discover how to configure and maintain your Banana Pi device
+-   Discover how to configure and maintain your Banana Pi device
 
-* Install Android and a Linux-based distribution onto the Banana Pi
+-   Install Android and a Linux-based distribution onto the Banana Pi
 
-* Attach external drives to your Banana Pi by using the USB or SATA interfaces
+-   Attach external drives to your Banana Pi by using the USB or SATA interfaces
 
-* Install and configure common server applications and multimedia applications on Linux
+-   Install and configure common server applications and multimedia applications on Linux
 
-* Share files between your Banana Pi and other devices either in your internal network or over the Internet
+-   Share files between your Banana Pi and other devices either in your internal network or over the Internet
 
-* Set up a secure web stack and run blogging software on your device
+-   Set up a secure web stack and run blogging software on your device
 
-* Connect remotely to your Banana Pi using SSH and VNC
+-   Connect remotely to your Banana Pi using SSH and VNC
 
-* Build simple electrical circuits and connect simple hardware elements such as LEDs, resistors, buttons to the GPIO pins
+-   Build simple electrical circuits and connect simple hardware elements such as LEDs, resistors, buttons to the GPIO pins
 
-* Configure a multimedia centre that is able to play high definition content
+-   Configure a multimedia centre that is able to play high definition content
 
-Its author is called *Ryad El-Dajani* and I think that is among the first to achieve great progress when set within the major operating systems available, features such as graphics acceleration, *XBMC* or create one of the best *Arch Linux* distributions on this board.
+Its author is called _Ryad El-Dajani_ and I think that is among the first to achieve great progress when set within the major operating systems available, features such as graphics acceleration, _XBMC_ or create one of the best _Arch Linux_ distributions on this board.
 
 From here I wish luck to the author, it has been a pleasure working with you.
 
-Link: [packtpub.com](http://www.packtpub.com/hardware-and-creative/banana-pi-cookbook)
+Link: [packtpub.com](https://www.packtpub.com/hardware-and-creative/banana-pi-cookbook)
 
-Link: [blog.eldajani.net](http://blog.eldajani.net/banana-pi-cookbook/)
+Link: [blog.eldajani.net](https://blog.eldajani.net/banana-pi-cookbook/)
 
 Link: [Acerca de los autores (pdf)](/res/B04622_FM_ForProof_MJ.pdf)

@@ -8,9 +8,9 @@ date: 2013-05-02 13:45:00
 prev: /
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/shairport.jpg
 ---
 
@@ -20,10 +20,10 @@ image: /images/shairport.jpg
 
 Sometimes compiling an application by ourselves can even cause more of a headache. Perhaps it is the case that we do not have much time, and we seek the simplest solution.
 
-In this case, a user has created a *Raspbian* version of this music server using *AirPlay V 1.0* protocol running like an *AirPort Express* station. You can have your entire music collection on a desktop computer, *iGatgets* or *Android* and play from *Raspberry Pi*.
+In this case, a user has created a _Raspbian_ version of this music server using _AirPlay V 1.0_ protocol running like an _AirPort Express_ station. You can have your entire music collection on a desktop computer, _iGatgets_ or _Android_ and play from _Raspberry Pi_.
 
-It has been tested with [Airfoil (PC/Mac)](http://rogueamoeba.com/airfoil/) and [Honey Player (Android)](https://play.google.com/store/apps/details?id=de.rah.airstream&feature=search_result).
+It has been tested with [Airfoil (PC/Mac)](https://rogueamoeba.com/airfoil/) and [Honey Player (Android)](https://play.google.com/store/apps/details?id=de.rah.airstream&feature=search_result).
 
-Link: [snippets.khromov.se](http://snippets.khromov.se/preconfigured-airplay-speaker-shairport-downloadable-raspberry-pi-image/)
+Link: [snippets.khromov.se](https://snippets.khromov.se/preconfigured-airplay-speaker-shairport-downloadable-raspberry-pi-image/)
 
-Download: [1.73 GB image file](http://snippets.khromov.se/files/shairport-configured-latest.tar.gz)
+Download: [1.73 GB image file](https://snippets.khromov.se/files/shairport-configured-latest.tar.gz)

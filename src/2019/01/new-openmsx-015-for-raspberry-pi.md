@@ -8,9 +8,9 @@ date: 2019-01-16 20:20:00
 prev: /
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/2019/01/openmsx_015.jpg
 ---
 
@@ -18,28 +18,29 @@ image: /images/2019/01/openmsx_015.jpg
 
 ![OpenMSX 0.15](/images/2019/01/openmsx_015.jpg "OpenMSX 0.15")
 
-The best *MSX* emulator is already here loaded with new features! If you're a fan of this emulator or the *MSX* of the last century, come in and I've prepared a *.deb* package for you to enjoy along with the recommendation of a game to have fun.
+The best _MSX_ emulator is already here loaded with new features! If you're a fan of this emulator or the _MSX_ of the last century, come in and I've prepared a _.deb_ package for you to enjoy along with the recommendation of a game to have fun.
 
-- - -
-###  [ Changelog ]
+---
 
-I've compiled it for *Raspbian Stretch*. You have the news [here](https://raw.githubusercontent.com/openMSX/openMSX/RELEASE_0_15_0/doc/release-notes.txt). I'll summarize some of them for you:
+### [ Changelog ]
 
-* Support for ColecoVision, Musical Memory Mapper and Carnivore 2
+I've compiled it for _Raspbian Stretch_. You have the news [here](https://raw.githubusercontent.com/openMSX/openMSX/RELEASE_0_15_0/doc/release-notes.txt). I'll summarize some of them for you:
 
-* Fixed 16 year old bug regarding sprites behaviour
+-   Support for ColecoVision, Musical Memory Mapper and Carnivore 2
 
-* Performance improvements: several fixes to improve start-up time
+-   Fixed 16 year old bug regarding sprites behaviour
 
-* Fixed crash in hq/hqlite scalers in interlace modes
+-   Performance improvements: several fixes to improve start-up time
 
-* Upgraded C-BIOS to release 0.29a
+-   Fixed crash in hq/hqlite scalers in interlace modes
 
-###  [ Install ]
+-   Upgraded C-BIOS to release 0.29a
+
+### [ Install ]
 
 ![Phantomas](/images/2019/01/Infinity2.png)
 
-The *.deb* file is available at the end of the article for *Raspbian*. To install it, download and execute the following:
+The _.deb_ file is available at the end of the article for _Raspbian_. To install it, download and execute the following:
 
 ```bash
 sudo dpkg -i openmsx_0.15.0_armhf.deb
@@ -47,14 +48,14 @@ sudo dpkg -i openmsx_0.15.0_armhf.deb
 
 If you want to extend the information a little more and that the emulator has a better performance, you can follow the article I published long time ago about the previous version of the emulator [here](/post.php?id=843).
 
-###  [ Extra ]
+### [ Extra ]
 
 ![Phantomas](/images/2019/01/Infinity.jpg)
 
-I let you with the link to a website where games are collected from many 8-bit computers. The recommendation this time is *Phantomas saga infinity* that does not need presentation, and if you do not know it, you are already taking time to visit the web.
+I let you with the link to a website where games are collected from many 8-bit computers. The recommendation this time is _Phantomas saga infinity_ that does not need presentation, and if you do not know it, you are already taking time to visit the web.
 
 Download: [misapuntesde.com > openmsx_0.15.0-1_armhf.deb](/res/openmsx_0.15.0-1_armhf.deb)
 
-Download ROM-BIOS: [msxarchive.nl > systemroms.zip](http://www.msxarchive.nl/pub/msx/emulator/openMSX/systemroms.zip)
+Download ROM-BIOS: [msxarchive.nl > systemroms.zip](https://www.msxarchive.nl/pub/msx/emulator/openMSX/systemroms.zip)
 
-Info & download: [computeremuzone.com > PHANTOMAS SAGA: INFINITY](http://computeremuzone.com/ficha.php?id=10&l=en)
+Info & download: [computeremuzone.com > PHANTOMAS SAGA: INFINITY](https://computeremuzone.com/ficha.php?id=10&l=en)

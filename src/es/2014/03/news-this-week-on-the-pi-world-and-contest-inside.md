@@ -8,9 +8,9 @@ date: 2014-03-28 10:57:47
 prev: /es/
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/2014/03/armiga.jpg
 ---
 
@@ -18,14 +18,15 @@ image: /images/2014/03/armiga.jpg
 
 ![armiga](/images/2014/03/armiga.jpg)
 
-Finalizamos el mes de *Marzo* con nuevos y apasionantes temas a tratar que, aunque algunos no están directamente relacionados con la RasPi, os pueden ayudar. Además, ¿Qué tal un **CONCURSO** con el que poder ganar un **libro sobre la Raspberry Pi**?. ¡Vamos allá!
+Finalizamos el mes de _Marzo_ con nuevos y apasionantes temas a tratar que, aunque algunos no están directamente relacionados con la RasPi, os pueden ayudar. Además, ¿Qué tal un **CONCURSO** con el que poder ganar un **libro sobre la Raspberry Pi**?. ¡Vamos allá!
 
-- - -
-* **Armiga: Amiga con corazón de Raspberry Pi:** Una nueva campaña de *Crowdfunding* de unos chicos españoles para sacarnos los cuartos que he visto en [gizmologia.com](http://gizmologia.com/imagen-del-dia/armiga-raspberry-pi). Se trata de una *RasPi + tarjeta de expansión + disquetera* para leer discos de Amiga entre otras cosas. Podréis obetener más información en [indiegogo.com](http://www.indiegogo.com/projects/armiga-project) 
+---
 
-* **7 juegos que te pueden ayudar a ser mejor programador:** No está directamente relacionado, pero me ha parecido una iniciativa interesante recopilar eso que llaman hoy día la [gamificación](http://es.wikipedia.org/wiki/Ludificación) para aprender un lenguaje de programación jugando. Detalles en [genbetadev.com](http://www.genbetadev.com/trabajar-como-desarrollador/aprende-jugando-siete-juegos-que-te-pueden-ayudar-a-ser-mejor-programador)
+-   **Armiga: Amiga con corazón de Raspberry Pi:** Una nueva campaña de _Crowdfunding_ de unos chicos españoles para sacarnos los cuartos que he visto en [gizmologia.com](https://gizmologia.com/imagen-del-dia/armiga-raspberry-pi). Se trata de una _RasPi + tarjeta de expansión + disquetera_ para leer discos de Amiga entre otras cosas. Podréis obetener más información en [indiegogo.com](https://www.indiegogo.com/projects/armiga-project)
 
-* **Linux Commands Cheat Sheet:** Algunos de vosotros recordaréis el [CuboPuntes](/post.php?id=125). Me encantan las chuletas donde se recopilan comandos y siempre es bueno tenerlas a mano. En [Linoxide.com](http://linoxide.com/linux-command/linux-commands-cheat-sheet/) hay una que os será muy útil con comandos de *Linux*.
+-   **7 juegos que te pueden ayudar a ser mejor programador:** No está directamente relacionado, pero me ha parecido una iniciativa interesante recopilar eso que llaman hoy día la [gamificación](https://es.wikipedia.org/wiki/Ludificación) para aprender un lenguaje de programación jugando. Detalles en [genbetadev.com](https://www.genbetadev.com/trabajar-como-desarrollador/aprende-jugando-siete-juegos-que-te-pueden-ayudar-a-ser-mejor-programador)
+
+-   **Linux Commands Cheat Sheet:** Algunos de vosotros recordaréis el [CuboPuntes](/post.php?id=125). Me encantan las chuletas donde se recopilan comandos y siempre es bueno tenerlas a mano. En [Linoxide.com](https://linoxide.com/linux-command/linux-commands-cheat-sheet/) hay una que os será muy útil con comandos de _Linux_.
 
 Para finalizar, siento haber retrasado tanto el concurso. Ya sabéis el cambio que he tenido en el ámbito laboral y ahora estoy atando cabos y buscando trabajo.
 
@@ -35,43 +36,43 @@ Sinceramente no me he puesto a buscar patrocinador y el concurso lo hago porque 
 
 ![rpi books](/images/rpi_books.jpg)
 
-He pensado que un buen regalo puede ser uno de los libros en papel que se han escrito sobre *Raspberry Pi* y que más de uno he comentado en el blog. Os detallo una relación de alguno de ellos, pero sois libres de elegir el que queráis siempre que esté relacionado con la *Raspberry Pi*:
+He pensado que un buen regalo puede ser uno de los libros en papel que se han escrito sobre _Raspberry Pi_ y que más de uno he comentado en el blog. Os detallo una relación de alguno de ellos, pero sois libres de elegir el que queráis siempre que esté relacionado con la _Raspberry Pi_:
 
-* Beginning Sensor Networks with Arduino and Raspberry Pi 
+-   Beginning Sensor Networks with Arduino and Raspberry Pi
 
-* Getting Started with ownCloud 
+-   Getting Started with ownCloud
 
-* Hacking Raspberry Pi 
+-   Hacking Raspberry Pi
 
-* Programming the Raspberry Pi: Getting Started with Python 
+-   Programming the Raspberry Pi: Getting Started with Python
 
-* Raspberry Pi for Secret Agents 
+-   Raspberry Pi for Secret Agents
 
-* Raspberry Pi Home Automation with Arduino 
+-   Raspberry Pi Home Automation with Arduino
 
-* Smart Home Automation with Linux and Raspberry Pi, 2ª Edición 
+-   Smart Home Automation with Linux and Raspberry Pi, 2ª Edición
 
-* Super Scratch Programming Adventure! (Covers Version 2): Learn to Program by Making 
+-   Super Scratch Programming Adventure! (Covers Version 2): Learn to Program by Making
 
-* Cool Games, 2nd Edition 
+-   Cool Games, 2nd Edition
 
-* Practical Raspberry Pi 
+-   Practical Raspberry Pi
 
-* Raspberry Pi Home Automation with Arduino 
+-   Raspberry Pi Home Automation with Arduino
 
-* Learn Raspberry Pi with Linux 
+-   Learn Raspberry Pi with Linux
 
-* Raspberry Pi Hacks
+-   Raspberry Pi Hacks
 
-* Raspberry Pi Cookbook 
+-   Raspberry Pi Cookbook
 
-* [Otros desde Amazon](http://www.amazon.com/gp/search/ref=sr_nr_p_n_feature_browse-b_mrr_0?rh=n%3A283155%2Ck%3Araspberry+pi%2Cp_n_feature_browse-bin%3A2656022011&keywords=raspberry+pi&ie=UTF8&qid=1395922837&rnid=618072011)
+-   [Otros desde Amazon](https://www.amazon.com/gp/search/ref=sr_nr_p_n_feature_browse-b_mrr_0?rh=n%3A283155%2Ck%3Araspberry+pi%2Cp_n_feature_browse-bin%3A2656022011&keywords=raspberry+pi&ie=UTF8&qid=1395922837&rnid=618072011)
 
 **El concurso será internacional**, por lo que podrá participar cualquier persona de este mundo sin importar edad.
 
 ¿Qué tenéis que hacer?. Simple: **Realizar los dos pasos siguientes**:
 
-1.- Twittear lo siguiente: **¡CONCURSO: Regalan el libro que quieras sobre #Raspberry_Pi en misapuntesde.com! +info:http://bit.ly/1pgNLef RT! @ulysess10**
+1.- Twittear lo siguiente: **¡CONCURSO: Regalan el libro que quieras sobre #Raspberry_Pi en misapuntesde.com! +info:https://bit.ly/1pgNLef RT! @ulysess10**
 
 2.- Escribir un comentario con vuestro usuario de twitter, nacionalidad y libro que queréis conseguir. Como he dicho, no importa que no esté listado.
 

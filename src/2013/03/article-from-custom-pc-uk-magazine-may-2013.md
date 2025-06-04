@@ -8,9 +8,9 @@ date: 2013-03-19 17:05:00
 prev: /
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/PCUK_0513.jpg
 ---
 
@@ -18,20 +18,20 @@ image: /images/PCUK_0513.jpg
 
 ![Custom PC](/images/PCUK_0513.jpg)
 
-What a coincidence!. I found online an article about *Raspberry Pi* of the British publication called *Custom PC UK.* Apparently is from May, 2013 (WTF!).
+What a coincidence!. I found online an article about _Raspberry Pi_ of the British publication called _Custom PC UK._ Apparently is from May, 2013 (WTF!).
 
-- - -
+---
 
 You can read about the following:
 
-* How to create a case
+-   How to create a case
 
-* Overclock to 1.1 Ghz
+-   Overclock to 1.1 Ghz
 
-* Configure a video streaming
+-   Configure a video streaming
 
 Happy reading!
 
-***PS:*** If you can I encourage people to buy the magazine or subscribe to it better.
+**_PS:_** If you can I encourage people to buy the magazine or subscribe to it better.
 
-Subscription: [Custom PC](http://gb.zinio.com/browse/publications/index.jsp?productId=500602138&sch=true)
+Subscription: [Custom PC](https://gb.zinio.com/browse/publications/index.jsp?productId=500602138&sch=true)

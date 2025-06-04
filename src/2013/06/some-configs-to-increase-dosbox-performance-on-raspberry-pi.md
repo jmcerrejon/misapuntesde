@@ -8,9 +8,9 @@ date: 2013-06-28 09:00:00
 prev: /
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/fastdosbox.jpg
 ---
 
@@ -18,8 +18,8 @@ image: /images/fastdosbox.jpg
 
 ![fastdosbox](/images/fastdosbox.jpg)
 
-Over the weekend I like to enjoy some emulators and test/compile some programs (still trying to get some decent karaoke player for the *Pi*).
+Over the weekend I like to enjoy some emulators and test/compile some programs (still trying to get some decent karaoke player for the _Pi_).
 
-I always try to get the best performance for an application, and in this case has appeared in my * Twitter timeline* an article to optimize *dosbox or fastdosbox* and play *Dune 2* natively. Enjoy it.
+I always try to get the best performance for an application, and in this case has appeared in my _ Twitter timeline_ an article to optimize _dosbox or fastdosbox_ and play _Dune 2_ natively. Enjoy it.
 
-Link: [codingepiphany.com](http://www.codingepiphany.com/2013/06/27/some-configs-to-increase-dosbox-performance-on-raspberry-pi/)
+Link: [codingepiphany.com](https://www.codingepiphany.com/2013/06/27/some-configs-to-increase-dosbox-performance-on-raspberry-pi/)

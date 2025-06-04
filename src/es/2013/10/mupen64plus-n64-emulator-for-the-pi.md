@@ -8,9 +8,9 @@ date: 2013-10-04 09:20:00
 prev: /es/
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/N64.jpg
 ---
 
@@ -18,12 +18,13 @@ image: /images/N64.jpg
 
 ![Nintendo 64](/images/N64.jpg)
 
-No hace mucho comentábamos la posibilidad de emular la *Nintendo 64* en nuestra *Raspberry Pi*. 
+No hace mucho comentábamos la posibilidad de emular la _Nintendo 64_ en nuestra _Raspberry Pi_.
 
-Muchos pensaban que no era posible, pero se comenzó a reescribir el código para que se ejecutara directamenten en la *GPU* gracias a *OpenGL ES 2.0* y ya podemos ver los avances nosotros mismos...
+Muchos pensaban que no era posible, pero se comenzó a reescribir el código para que se ejecutara directamenten en la _GPU_ gracias a _OpenGL ES 2.0_ y ya podemos ver los avances nosotros mismos...
 
-- - -
-Tenemos un repositorio en Github con el código fuente del emulador *Mupen64Plus*. Si queréis probarlo antes tendréis que resolver las siguientes dependencias:
+---
+
+Tenemos un repositorio en Github con el código fuente del emulador _Mupen64Plus_. Si queréis probarlo antes tendréis que resolver las siguientes dependencias:
 
 ```bash
 sudo apt-get install libsdl1.2-dev
@@ -43,12 +44,12 @@ Si le interesa los binarios a alguien, puedes acceder a una alpha pulsando [aqui
 
 Aunque el sonido es entrecortado a 32000 Hz y la velocidad suele oscilar entre 25-50 fps, no deja de impresionar.
 
-Foro: [Raspberrypi.org - Mupen64Plus - N64 Emulator for the Pi](http://www.raspberrypi.org/phpBB3/viewtopic.php?f=78&t=6761)
+Foro: [Raspberrypi.org - Mupen64Plus - N64 Emulator for the Pi](https://www.raspberrypi.org/phpBB3/viewtopic.php?f=78&t=6761)
 
-Ayuda: [raspberrypi.org > WIP: Playable Nintendo 64 Emulator Available](http://www.raspberrypi.org/phpBB3/viewtopic.php?f=78&t=58395)
+Ayuda: [raspberrypi.org > WIP: Playable Nintendo 64 Emulator Available](https://www.raspberrypi.org/phpBB3/viewtopic.php?f=78&t=58395)
 
 ¡EXTRA!:
 
-<a href="http://www.romnation.net/srv/download/rom/58836/n64/Super-Mario-64.html">![SuperMario 64](/images/2013/10/SuperMario64.jpg "¡Descarga y juega Super Mario 64!")</a>
+<a href="https://www.romnation.net/srv/download/rom/58836/n64/Super-Mario-64.html">![SuperMario 64](/images/2013/10/SuperMario64.jpg "¡Descarga y juega Super Mario 64!")</a>
 
 ![mario]()

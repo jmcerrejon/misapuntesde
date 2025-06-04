@@ -8,9 +8,9 @@ date: 2014-01-16 15:09:51
 prev: /
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/2014/01/rpi_cookbook.jpg
 ---
 
@@ -18,32 +18,33 @@ image: /images/2014/01/rpi_cookbook.jpg
 
 ![rpi_cookbook](/images/2014/01/rpi_cookbook.jpg)
 
-The world of *Raspberry Pi* is evolving quickly, with many new interface boards and software libraries becoming available all the time. In this cookbook, prolific hacker and author *Simon Monk* provides more than 200 practical recipes for running this tiny low-cost computer with *Linux*, programming it with *Python*, and hooking up sensors, motors, and other hardware-including *Arduino*.
+The world of _Raspberry Pi_ is evolving quickly, with many new interface boards and software libraries becoming available all the time. In this cookbook, prolific hacker and author _Simon Monk_ provides more than 200 practical recipes for running this tiny low-cost computer with _Linux_, programming it with _Python_, and hooking up sensors, motors, and other hardware-including _Arduino_.
 
-- - -
-You'll also learn basic principles to help you use new technologies with *Raspberry Pi* as its ecosystem develops. *Python* and other code examples from the book are available on *GitHub*. This cookbook is ideal for programmers and hobbyists familiar with the Pi through resources such as *Getting Started with Raspberry Pi (O'Reilly)*.
+---
 
-* Set up and manage your *Raspberry Pi*
+You'll also learn basic principles to help you use new technologies with _Raspberry Pi_ as its ecosystem develops. _Python_ and other code examples from the book are available on _GitHub_. This cookbook is ideal for programmers and hobbyists familiar with the Pi through resources such as _Getting Started with Raspberry Pi (O'Reilly)_.
 
-* Connect the Pi to a network
+-   Set up and manage your _Raspberry Pi_
 
-* Work with its Linux-based operating system
+-   Connect the Pi to a network
 
-* Use the Pi's ready-made software
+-   Work with its Linux-based operating system
 
-* Program *Raspberry Pi with Python*
+-   Use the Pi's ready-made software
 
-* Control hardware through the *GPIO* connector
+-   Program _Raspberry Pi with Python_
 
-* Use *Raspberry Pi* to run different types of motors
+-   Control hardware through the _GPIO_ connector
 
-* Work with switches, keypads, and other digital inputs
+-   Use _Raspberry Pi_ to run different types of motors
 
-* Hook up sensors for taking various measurements
+-   Work with switches, keypads, and other digital inputs
 
-* Attach different displays, such as an *LED* matrix
+-   Hook up sensors for taking various measurements
 
-* Create dynamic projects with *Raspberry Pi* and *Arduino*
+-   Attach different displays, such as an _LED_ matrix
+
+-   Create dynamic projects with _Raspberry Pi_ and _Arduino_
 
 **Table of Contents**
 
@@ -77,4 +78,4 @@ Chapter 14. Arduino and Raspberry Pi
 
 Appendix A. Parts and Suppliers
 
-Purchase: [Amazon](http://www.amazon.es/Raspberry-Pi-Cookbook-Simon-Monk/dp/1449365221)
+Purchase: [Amazon](https://www.amazon.es/Raspberry-Pi-Cookbook-Simon-Monk/dp/1449365221)

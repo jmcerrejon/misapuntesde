@@ -8,9 +8,9 @@ date: 2013-05-17 08:45:00
 prev: /es/
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/picamera.jpg
 ---
 
@@ -18,6 +18,6 @@ image: /images/picamera.jpg
 
 ![picamera](/images/picamera.jpg)
 
-Lo acabo de leer en *Twitter* y no me lo creo. Los chicos de [raspipc.es](http://raspipc.es) tienen la ansiada cámara para tus proyectos. ¡Corre que vuelan!
+Lo acabo de leer en _Twitter_ y no me lo creo. Los chicos de [raspipc.es](https://raspipc.es) tienen la ansiada cámara para tus proyectos. ¡Corre que vuelan!
 
-Enlace tienda: [raspipc.es - Raspberry PI camera module](http://raspipc.es/tienda.php?ver=articulo&id=1081)
+Enlace tienda: [raspipc.es - Raspberry PI camera module](https://raspipc.es/tienda.php?ver=articulo&id=1081)

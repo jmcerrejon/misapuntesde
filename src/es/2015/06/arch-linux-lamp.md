@@ -8,9 +8,9 @@ date: 2015-06-16 08:00:00
 prev: /es/
 next: false
 category:
-  - Linux
+    - Linux
 tag:
-  - Linux
+    - Linux
 image: /images/2015/06/lamp.png
 ---
 
@@ -18,24 +18,25 @@ image: /images/2015/06/lamp.png
 
 ![lamp](/images/2015/06/lamp.png)
 
-Últimamente sufro bastante de [distrohopper](http://es.urbandictionary.com/define.php?term=distrohopper), es decir, cambiar en tu *PC* la distribución de *Linux* buscando la perfección. Esto me ha llevado a instalar [Manjaro](https://manjaro.github.io/) basada en *Arch Linux* y dejar un poco de lado a *Debian*, con la que estaba encantado, pero con *Manjaro* ha sido amor a primera vista. No pensaba que un sistema operativo pudiera ser tan rápido en un ordenador que tiene ya 4 años. 
+Últimamente sufro bastante de [distrohopper](https://es.urbandictionary.com/define.php?term=distrohopper), es decir, cambiar en tu _PC_ la distribución de _Linux_ buscando la perfección. Esto me ha llevado a instalar [Manjaro](https://manjaro.github.io/) basada en _Arch Linux_ y dejar un poco de lado a _Debian_, con la que estaba encantado, pero con _Manjaro_ ha sido amor a primera vista. No pensaba que un sistema operativo pudiera ser tan rápido en un ordenador que tiene ya 4 años.
 
-Así que vuelta a empezar y configurar todo desde el principio. Esta vez he pasado de usar [Docker](https://www.docker.com/) para mis proyectos en [Laravel](http://laravel.com/) e **instalar directamente PHP+MariaDB**, lo malo es que no sabía que me iba a dar tantos dolores de cabeza. 
+Así que vuelta a empezar y configurar todo desde el principio. Esta vez he pasado de usar [Docker](https://www.docker.com/) para mis proyectos en [Laravel](https://laravel.com/) e **instalar directamente PHP+MariaDB**, lo malo es que no sabía que me iba a dar tantos dolores de cabeza.
 
 Por eso mismo, he decidido dejar aquí unos apuntes para configurarlo y tenerlo de referencia para el futuro, ya que varias guías que he seguido, no me han servido de mucho.
 
 Vamos allá.
 
-- - -
-Primero instalar los paquetes necesarios: 
+---
+
+Primero instalar los paquetes necesarios:
 
 ```bash
 sudo pacman -S apache php php-apache php-mcrypt mod_fcgid openssl mariadb mariadb-clients
 ```
 
-He intentado evitar los repositorios *AUR* para mejorar la estabilidad del sistema.
+He intentado evitar los repositorios _AUR_ para mejorar la estabilidad del sistema.
 
-Configuramos *MariaDB*. No importa si tus bases de datos están en *MySQL* o tus conexiones son hacia ésta base de datos, ya que es compatible.
+Configuramos _MariaDB_. No importa si tus bases de datos están en _MySQL_ o tus conexiones son hacia ésta base de datos, ya que es compatible.
 
 ```bash
 mysql_install_db --user=mysql --basedir=/usr --datadir=/var/lib/mysql
@@ -43,7 +44,7 @@ mysqladmin -u root password ‘mypassword’
 systemctl start mysqld
 ```
 
-Ahora modificamos el archivo */etc/httpd/conf/httpd.conf* (Aquí es donde radica la mayoría de problemas). Recomiendo hacer una copia del fichero:
+Ahora modificamos el archivo _/etc/httpd/conf/httpd.conf_ (Aquí es donde radica la mayoría de problemas). Recomiendo hacer una copia del fichero:
 
 ```bash
 Añadir # al comienzo de la siguiente línea:
@@ -82,7 +83,7 @@ Include conf/extra/httpd-ssl.conf
 
 ```
 
-En */etc/php/php.ini*, necesitamos eliminar ; en: 
+En _/etc/php/php.ini_, necesitamos eliminar ; en:
 
 ```bash
 extension=mcrypt.so
@@ -100,5 +101,4 @@ systemctl restart httpd
 systemctl restart mysqld
 ```
 
-Si tienes problemas con *Apache o PHP*, revisa su log: */var/log/httpd/error_log*
-
+Si tienes problemas con _Apache o PHP_, revisa su log: _/var/log/httpd/error_log_

@@ -8,9 +8,9 @@ date: 2013-01-24 07:55:00
 prev: /
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/xakatahome.jpg
 ---
 
@@ -18,8 +18,8 @@ image: /images/xakatahome.jpg
 
 ![xataka](/images/xakatahome.jpg)
 
-The guys at *Xataka* want to get a laptop seems like a *RasPi-Laptop*. They used an *Atrix Lapdock*, which is a device that converts a Motorola Atrix phone on a computer.
+The guys at _Xataka_ want to get a laptop seems like a _RasPi-Laptop_. They used an _Atrix Lapdock_, which is a device that converts a Motorola Atrix phone on a computer.
 
-Link: [Xataka Home](http://www.xatakahome.com/trucos-y-bricolaje-smart/mi-proyecto-de-portatil-con-una-raspberry-pi-parte-1)
+Link: [Xataka Home](https://www.xatakahome.com/trucos-y-bricolaje-smart/mi-proyecto-de-portatil-con-una-raspberry-pi-parte-1)
 
-Ebay: [Atrix Lapdock search](http://www.ebay.com/sch/i.html?rt=nc&_nkw=atrix%20laptop&_fln=1&_sc=1&_sop=15&_trksid=p3286.c0.m283)
+Ebay: [Atrix Lapdock search](https://www.ebay.com/sch/i.html?rt=nc&_nkw=atrix%20laptop&_fln=1&_sc=1&_sop=15&_trksid=p3286.c0.m283)

@@ -8,9 +8,9 @@ date: 2014-03-20 07:09:39
 prev: /
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/java.jpg
 ---
 
@@ -18,11 +18,12 @@ image: /images/java.jpg
 
 ![java](/images/java.jpg)
 
-Next *Sunday, March 31* begins a free course about development in *Java* using a *Raspberry Pi*. If you are interested...
+Next _Sunday, March 31_ begins a free course about development in _Java_ using a _Raspberry Pi_. If you are interested...
 
-- - -
-It will last for *5 weeks* and teach reading *GPIO port* data, temperature and pressure through the *I2C* device, *GPS* devices and more. You will have to work an average of *5 hours* per week, which is right for an online course in this genre. 
+---
 
-*Java* skills is required. In addition, you also need to buy a [Kit](http://www.adafruit.com/products/1634)  with all the necessary components for about *$89*. For more info, follow the link below.
+It will last for _5 weeks_ and teach reading _GPIO port_ data, temperature and pressure through the _I2C_ device, _GPS_ devices and more. You will have to work an average of _5 hours_ per week, which is right for an online course in this genre.
 
-Link: [oracle.com > Oracle Massive Open Online Course: Develop Java Embedded Applications Using a Raspberry Pi](http://apex.oracle.com/pls/apex/f?p=44785:145:0::::P145_EVENT_ID,P145_PREV_PAGE:861,143)
+_Java_ skills is required. In addition, you also need to buy a [Kit](https://www.adafruit.com/products/1634) with all the necessary components for about _$89_. For more info, follow the link below.
+
+Link: [oracle.com > Oracle Massive Open Online Course: Develop Java Embedded Applications Using a Raspberry Pi](https://apex.oracle.com/pls/apex/f?p=44785:145:0::::P145_EVENT_ID,P145_PREV_PAGE:861,143)

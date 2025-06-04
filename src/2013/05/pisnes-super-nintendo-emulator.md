@@ -8,9 +8,9 @@ date: 2013-05-28 08:46:00
 prev: /
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/snes9x.jpg
 ---
 
@@ -18,20 +18,21 @@ image: /images/snes9x.jpg
 
 ![pisnes](/images/snes9x.jpg)
 
-Port based on *SNES9X 1.39*.
+Port based on _SNES9X 1.39_.
 
-This is an old version of *SNES9X* but was chosen as it runs, mostly, at full speed on the *Raspberry Pi* unlike the more recent versions of *SNES9X*. Game support is therefore not as good as the newer *SNES9X* versions and graphics & sound is not as accurate but it plays most popular games very well.
+This is an old version of _SNES9X_ but was chosen as it runs, mostly, at full speed on the _Raspberry Pi_ unlike the more recent versions of _SNES9X_. Game support is therefore not as good as the newer _SNES9X_ versions and graphics & sound is not as accurate but it plays most popular games very well.
 
-- - -
-Checkout the *readme.txt* for more detailed instructions.
+---
 
-The keyboard and joystick can be configured by editing the file ***pisnes/Full/snes9x.cfg***
+Checkout the _readme.txt_ for more detailed instructions.
+
+The keyboard and joystick can be configured by editing the file **_pisnes/Full/snes9x.cfg_**
 
 Games that will not work, for example, are Yoshi's Island, Street Fighter Alpha 2, Star Fox, Super Mario RPG.
 
-Link: [PiSNES](http://code.google.com/p/pisnes/)
+Link: [PiSNES](https://code.google.com/p/pisnes/)
 
-Link: [PiSNES on PiStore](http://store.raspberrypi.com/projects/pisnes)
+Link: [PiSNES on PiStore](https://store.raspberrypi.com/projects/pisnes)
 
 EXTRA!:
 

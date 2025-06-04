@@ -8,9 +8,9 @@ date: 2013-01-17 08:20:00
 prev: /
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/geogebra.jpg
 ---
 
@@ -18,10 +18,12 @@ image: /images/geogebra.jpg
 
 ![geogebra](/images/geogebra.jpg)
 
-*Geogebra* is a mathematical analysis software with a very simple interface. Allows operations of arithmetic, geometry, algebra, calculus and analysis.
-- - -
+_Geogebra_ is a mathematical analysis software with a very simple interface. Allows operations of arithmetic, geometry, algebra, calculus and analysis.
+
+---
+
 User sends us the link where he get run this application.
 
-Obrigado *Ruan*!
+Obrigado _Ruan_!
 
-Enlace: [randrade.tk](http://www.randrade.tk/index.php/2013/01/how-to-run-geogebra-4-0-on-your-raspberry-pi/)
+Enlace: [randrade.tk](https://www.randrade.tk/index.php/2013/01/how-to-run-geogebra-4-0-on-your-raspberry-pi/)

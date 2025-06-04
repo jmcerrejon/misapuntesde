@@ -8,11 +8,11 @@ date: 2013-01-16 14:45:00
 prev: /
 next: false
 category:
-  - Raspberry PI
-  - Developer
+    - Raspberry PI
+    - Developer
 tag:
-  - Raspberry PI
-  - Developer
+    - Raspberry PI
+    - Developer
 image: /images/kidsruby.jpg
 ---
 
@@ -26,6 +26,6 @@ These initiatives are those that lead to the founding creator of the Raspberry P
 
 Kidsruby is a programming environment for kids. It is available in several languages (including Spanish) and a version for our beloved Raspi is available now.
 
-Link: [Kidsruby about](http://kidsruby.com/about)
+Link: [Kidsruby about](https://kidsruby.com/about)
 
 Package: [.deb](https://s3.amazonaws.com/kidsruby/raspbian/kidsruby-1.3.2-armv6l.deb)

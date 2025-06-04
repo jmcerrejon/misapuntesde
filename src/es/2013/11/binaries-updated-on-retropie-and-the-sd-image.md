@@ -8,9 +8,9 @@ date: 2013-11-06 10:00:00
 prev: /es/
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/RetroPie_07.jpg
 ---
 
@@ -18,14 +18,14 @@ image: /images/RetroPie_07.jpg
 
 ![Retropie](/images/RetroPie_07.jpg)
 
-*Petrockblog*, el creador de *RetroPie*, nos avisa mediante *Twitter* que ha actualizado los binarios de su instalación base. 
+_Petrockblog_, el creador de _RetroPie_, nos avisa mediante _Twitter_ que ha actualizado los binarios de su instalación base.
 
-Destaca la introducción de *Mame4All-Pi*, nueva funcionalidad para generar log y corrección del fichero de configuración para *Mupen64plus-rpi*.
+Destaca la introducción de _Mame4All-Pi_, nueva funcionalidad para generar log y corrección del fichero de configuración para _Mupen64plus-rpi_.
 
-Descarga: [Imagen SD ver. 1.9 (1.6 GB)](http://blog.petrockblock.com/?wpdmdl=17)
+Descarga: [Imagen SD ver. 1.9 (1.6 GB)](https://blog.petrockblock.com/?wpdmdl=17)
 
-Enlace: [RetroPie-Setup: An initialization script for RetroArch on the Raspberry Pi](http://blog.petrockblock.com/2012/07/22/retropie-setup-an-initialization-script-for-retroarch-on-the-raspberry-pi/)
+Enlace: [RetroPie-Setup: An initialization script for RetroArch on the Raspberry Pi](https://blog.petrockblock.com/2012/07/22/retropie-setup-an-initialization-script-for-retroarch-on-the-raspberry-pi/)
 
-Enlace: [RetroPie Project SD card Image](http://blog.petrockblock.com/download/retropie-project-image/)
+Enlace: [RetroPie Project SD card Image](https://blog.petrockblock.com/download/retropie-project-image/)
 
 Enlace: [misapuntesde.com > RetroPie Project: ¡Guía Definitiva!](/post.php?id=109)

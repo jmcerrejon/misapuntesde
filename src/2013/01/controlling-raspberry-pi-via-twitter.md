@@ -8,9 +8,9 @@ date: 2013-01-20 10:05:00
 prev: /
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/twitter.jpg
 ---
 
@@ -18,7 +18,6 @@ image: /images/twitter.jpg
 
 ![twitter](/images/twitter.jpg)
 
-*"Yesterday I was trying to write a small python script to track tweets about traffic here in my country, and I was thinking that it would be really interesting to control the Raspberry PI using my twitter status."*
+_"Yesterday I was trying to write a small python script to track tweets about traffic here in my country, and I was thinking that it would be really interesting to control the Raspberry PI using my twitter status."_
 
-Link: [fuenteabierta](http://fuenteabierta.teubi.co/2013/01/controlling-raspberry-pi-via-twitter.html)
-
+Link: [fuenteabierta](https://fuenteabierta.teubi.co/2013/01/controlling-raspberry-pi-via-twitter.html)

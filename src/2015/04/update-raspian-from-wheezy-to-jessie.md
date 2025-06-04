@@ -8,9 +8,9 @@ date: 2015-04-29 10:15:00
 prev: /
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/raspbian.png
 ---
 
@@ -18,14 +18,15 @@ image: /images/raspbian.png
 
 ![Raspbian](/images/raspbian.png)
 
-I've been all this time dealing with *Debian Jessie* on my *Mac* and I am delighted. *Jessie* now supports *ARM* processors, so it is very easy also upgrade our *Raspbian* distribution with little effort.
+I've been all this time dealing with _Debian Jessie_ on my _Mac_ and I am delighted. _Jessie_ now supports _ARM_ processors, so it is very easy also upgrade our _Raspbian_ distribution with little effort.
 
 After the jump I'll teach you how...
 
-- - -
-By the way, if you want a *script* to help you when installing *Jessie* on your *PC/Mac*, I'm developing one [here](https://github.com/jmcerrejon/scripts/blob/master/debian_8_post_install.sh). You will find everything you need to install **Chrome, Steam, Docker,...** and adjust your computer so that you feel comfortable (bye bye *OSX*, at least for a while).
+---
 
-In the case of *Raspbian*, run the following commands as *root*:
+By the way, if you want a _script_ to help you when installing _Jessie_ on your _PC/Mac_, I'm developing one [here](https://github.com/jmcerrejon/scripts/blob/master/debian_8_post_install.sh). You will find everything you need to install **Chrome, Steam, Docker,...** and adjust your computer so that you feel comfortable (bye bye _OSX_, at least for a while).
+
+In the case of _Raspbian_, run the following commands as _root_:
 
 ```bash
 apt-get update && apt-get upgrade && apt-get dist-upgrade -y
@@ -36,4 +37,4 @@ reboot
 
 Now to make sure everything works, run **hostnamectl**
 
-Thanks to [linuxconfig.org](http://linuxconfig.org/raspbian-gnu-linux-upgrade-from-wheezy-to-raspbian-jessie-8) for the post.
+Thanks to [linuxconfig.org](https://linuxconfig.org/raspbian-gnu-linux-upgrade-from-wheezy-to-raspbian-jessie-8) for the post.

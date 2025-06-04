@@ -8,9 +8,9 @@ date: 2013-01-14 12:47:00
 prev: /es/
 next: false
 category:
-  - General
+    - General
 tag:
-  - General
+    - General
 image: /images/money.jpg
 ---
 
@@ -18,6 +18,6 @@ image: /images/money.jpg
 
 ![money](/images/money.jpg)
 
-Tan sólo una hora después, mi web ya vale dinero!: Ahora mismo exactamente ***8,95$*** xD
+Tan sólo una hora después, mi web ya vale dinero!: Ahora mismo exactamente **_8,95$_** xD
 
-Enlace: [http://thedomainstat.com](http://thedomainstat.com/www/misapuntesde.com)
+Enlace: [https://thedomainstat.com](https://thedomainstat.com/www/misapuntesde.com)

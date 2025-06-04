@@ -8,9 +8,9 @@ date: 2016-07-24 09:20:00
 prev: /
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/2016/07/rpi2_server.jpg
 ---
 
@@ -18,50 +18,51 @@ image: /images/2016/07/rpi2_server.jpg
 
 ![rpi2_server](/images/2016/07/rpi2_server.jpg)
 
-I don't know if I mentioned that I go on vacation to Girona (near Barcelona) soon and probably do not have *WiFi* wherever I go. I need a server with the following features:
+I don't know if I mentioned that I go on vacation to Girona (near Barcelona) soon and probably do not have _WiFi_ wherever I go. I need a server with the following features:
 
-* *Media Center* to connect to the TV via *HDMI/RGB*.
+-   _Media Center_ to connect to the TV via _HDMI/RGB_.
 
-* *Hotspot* to connect remotely to the Pi from my *iDevices (iPad, iPhone)*.
+-   _Hotspot_ to connect remotely to the Pi from my _iDevices (iPad, iPhone)_.
 
-* *DLNA* if I want to watch from my *iPad* some video through *streaming*.
+-   _DLNA_ if I want to watch from my _iPad_ some video through _streaming_.
 
-* *Samba* to download books or share from a *HD*.
+-   _Samba_ to download books or share from a _HD_.
 
-* To develop: *Git, web server, MySQL and some other Framework*.
+-   To develop: _Git, web server, MySQL and some other Framework_.
 
-I tell you my experience of how I've prepared a *Raspberry Pi 2* using all the necessary software using as operating system *DietPi*. Everything in the next post.
+I tell you my experience of how I've prepared a _Raspberry Pi 2_ using all the necessary software using as operating system _DietPi_. Everything in the next post.
 
-- - -
+---
+
 ![htop on DietPi](/images/2016/07/dietpi_htop.png "htop on DietPi")
 
 ### [ Ingredients ]
 
 Speaking of hardware, the least I'll need this holiday to mount my own decentralized server is:
 
-* Raspberry Pi 2 Model B
+-   Raspberry Pi 2 Model B
 
-* HD 1TB + USB powered HUB
+-   HD 1TB + USB powered HUB
 
-* Wireless USB device (rt3750)
+-   Wireless USB device (rt3750)
 
-What operating system can I use to install and configure all the software with little effort?. As I said, *DietPi* is the right choice because it consumes very little resources and just install what you need.
+What operating system can I use to install and configure all the software with little effort?. As I said, _DietPi_ is the right choice because it consumes very little resources and just install what you need.
 
-I have many stacked boards in my house. I opted for the *Raspberry Pi 2* because I need maximum compatibility with the operating system.
+I have many stacked boards in my house. I opted for the _Raspberry Pi 2_ because I need maximum compatibility with the operating system.
 
-Now the software I'll need (The full list of packages you can install it can be found at [fuzon.co.uk](http://fuzon.co.uk/phpbb/viewtopic.php?f=8&t=5)): 
+Now the software I'll need (The full list of packages you can install it can be found at [fuzon.co.uk](https://fuzon.co.uk/phpbb/viewtopic.php?f=8&t=5)):
 
-* Kodi
+-   Kodi
 
-* MiniDLNA
+-   MiniDLNA
 
-* Samba
+-   Samba
 
-* LEMP: Nginx/(MySql)/PHP + Phpmyadmin
+-   LEMP: Nginx/(MySql)/PHP + Phpmyadmin
 
-* ALSA sound
+-   ALSA sound
 
-* Hotspot
+-   Hotspot
 
 I'll skip the part of the image burned on a microSD and run the software installation because it's quite easy. Let's look at the possible incidents that I have found in each case when using different programs.
 
@@ -69,7 +70,7 @@ I'll skip the part of the image burned on a microSD and run the software install
 
 Well, this is a previous configuration more than anything to not have to authenticate in the system at each restart.
 
-We create the file */etc/systemd/system/getty@tty1.service.d/autologin.conf* and add:
+We create the file _/etc/systemd/system/getty@tty1.service.d/autologin.conf_ and add:
 
 ```bash
 [Service]
@@ -83,17 +84,17 @@ Now run **systemctl enable getty@tty1.service** and when restart, you don't have
 
 ![xbmc](/images/xbmc.jpg)
 
-When I want to see some multimedia content, simply write **Kodi** and, although it is the *15.2* version, it works perfectly. You can make boot directly from options *dietpi-config > Autostart Options*.
+When I want to see some multimedia content, simply write **Kodi** and, although it is the _15.2_ version, it works perfectly. You can make boot directly from options _dietpi-config > Autostart Options_.
 
-When you choose Exit from Kodi, the screen stays black. You must return to the first terminal typing *ctrl+alt+F1*
+When you choose Exit from Kodi, the screen stays black. You must return to the first terminal typing _ctrl+alt+F1_
 
 ### [ MiniDLNA ]
 
 ![MiniDLNA](/images/2014/06/minidlna.png)
 
-With *Samba* we'll not be able to play multimedia content with large size. To remotely view my tutorials/movies/tv shows I need *DLNA* support. *MiniDLNA* is the right choice and I have already used [before](/post.php?id=423), so it's just what I need.
+With _Samba_ we'll not be able to play multimedia content with large size. To remotely view my tutorials/movies/tv shows I need _DLNA_ support. _MiniDLNA_ is the right choice and I have already used [before](/post.php?id=423), so it's just what I need.
 
-We must copy the content we want to play in the folder that *DietPi* created in */mnt/dietpi_userdata* (*Videos, Pictures and Music*). You can modify it in the file */etc/minidlna.conf*. If the content you see on your device is outdated, you need to refresh the database server. Simply run the following:
+We must copy the content we want to play in the folder that _DietPi_ created in _/mnt/dietpi_userdata_ (_Videos, Pictures and Music_). You can modify it in the file _/etc/minidlna.conf_. If the content you see on your device is outdated, you need to refresh the database server. Simply run the following:
 
 ```bash
 minidlnad -R
@@ -102,9 +103,9 @@ service minidlna restart
 
 ### [ Share files across the network ]
 
-Nothing special. the user is **root** and password **dietpi** (is the same in almost all installed software). To access from my *iDevices*, I use the app *File Hub* or in the case of Android *ES File Explorer*. For multimedia files, my choice is *VLC*.
+Nothing special. the user is **root** and password **dietpi** (is the same in almost all installed software). To access from my _iDevices_, I use the app _File Hub_ or in the case of Android _ES File Explorer_. For multimedia files, my choice is _VLC_.
 
-As bonus, I added at the end of the configuration file in *Samba*, which is located in */etc/samba/smb.conf*, the following to access the folder where I store web developments:
+As bonus, I added at the end of the configuration file in _Samba_, which is located in _/etc/samba/smb.conf_, the following to access the folder where I store web developments:
 
 ```bash
 [www]
@@ -124,9 +125,9 @@ To activate the changes: **systemctl stop samba-ad-dc.service && systemctl start
 
 ### [ Web development with LEMP ]
 
-I've installed *LEMP (Nginx, MySQL, PHP)*. If you go to the url of your *RPI*, you will see that you get a very basic version of a html document sited in */var/www/html*.
+I've installed _LEMP (Nginx, MySQL, PHP)_. If you go to the url of your _RPI_, you will see that you get a very basic version of a html document sited in _/var/www/html_.
 
-To edit databases, I use *phpmyadmin*.
+To edit databases, I use _phpmyadmin_.
 
 ### [ Hotspot en DietPi ]
 

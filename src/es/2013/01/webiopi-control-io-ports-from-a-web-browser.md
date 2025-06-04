@@ -8,9 +8,9 @@ date: 2013-01-15 12:00:00
 prev: /es/
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/iwebiop.jpg
 ---
 
@@ -18,6 +18,6 @@ image: /images/iwebiop.jpg
 
 ![iwebgpio](/images/iwebiop.jpg)
 
-El proyecto personal de Eric es *WebIOPi*, un framework basado en peticiones *REST* para controlar los puertos *GPIO* de la *Raspberry Pi* a través de un entorno web.
+El proyecto personal de Eric es _WebIOPi_, un framework basado en peticiones _REST_ para controlar los puertos _GPIO_ de la _Raspberry Pi_ a través de un entorno web.
 
-Enlace: [http://trouch.com](http://trouch.com/category/webiopi/)
+Enlace: [https://trouch.com](https://trouch.com/category/webiopi/)

@@ -8,26 +8,27 @@ date: 2013-05-24 09:00:00
 prev: /
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 ---
 
 # Wayland to speed up the desktop
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/0UkUal_hHx8" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0UkUal_hHx8" frameborder="0" allowfullscreen></iframe>
 
-First, thank to all of you... ***40,000 visitors!***. The blog is unstoppable. I received daily several emails thanking to me for the blog and I try to answer the questions from you. The [Google Docs](http://goo.gl/Iwhbq) has increasingly followers and next week we have our ***first contest!***, So pay attention.
+First, thank to all of you... **_40,000 visitors!_**. The blog is unstoppable. I received daily several emails thanking to me for the blog and I try to answer the questions from you. The [Google Docs](https://goo.gl/Iwhbq) has increasingly followers and next week we have our **_first contest!_**, So pay attention.
 
-As you know, the desktop can be a bit slower to move around than you're used to on your Pi. This is because all the processing is made by the the *CPU*...
+As you know, the desktop can be a bit slower to move around than you're used to on your Pi. This is because all the processing is made by the the _CPU_...
 
-- - -
-The desktop system is not optimized to use the graphic core *BCM2835* on the *Raspberry Pi*. The *Raspberry Pi Foundation* and a company called [Collabora](http://www.collabora.com/services/case-studies/raspberrypi) will remedy this.
+---
 
-If you've seen the video that heads this article, you will see the preview they are riding based on [Wayland](http://wayland.freedesktop.org/), a new system that will handle composition specifications coexisting with the *X* for a new generation that will build the full potential of graphics chips and not just the Raspi. We will look at other platforms and distributions (except in *Ubuntu*, who have decided to create their own solution).
+The desktop system is not optimized to use the graphic core _BCM2835_ on the _Raspberry Pi_. The _Raspberry Pi Foundation_ and a company called [Collabora](https://www.collabora.com/services/case-studies/raspberrypi) will remedy this.
 
-*Wayland* core running on the video as we mentioned, but in parallel to *OpenGL ES*, so we can continue using both *3D* renderings, freeing the *ARM CPU* to handle other tasks.
+If you've seen the video that heads this article, you will see the preview they are riding based on [Wayland](https://wayland.freedesktop.org/), a new system that will handle composition specifications coexisting with the _X_ for a new generation that will build the full potential of graphics chips and not just the Raspi. We will look at other platforms and distributions (except in _Ubuntu_, who have decided to create their own solution).
 
-This will be implemented before the end of year, and we will be able to *"play"* with it in the next version of Raspbian before launch the final release.
+_Wayland_ core running on the video as we mentioned, but in parallel to _OpenGL ES_, so we can continue using both _3D_ renderings, freeing the _ARM CPU_ to handle other tasks.
 
-Link: [raspberrypi.org](http://www.raspberrypi.org/archives/4053)
+This will be implemented before the end of year, and we will be able to _"play"_ with it in the next version of Raspbian before launch the final release.
+
+Link: [raspberrypi.org](https://www.raspberrypi.org/archives/4053)

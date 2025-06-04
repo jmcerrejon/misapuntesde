@@ -8,9 +8,9 @@ date: 2014-04-28 09:49:19
 prev: /es/
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/2014/04/rpisimplemonitor.jpg
 ---
 
@@ -18,14 +18,15 @@ image: /images/2014/04/rpisimplemonitor.jpg
 
 ![rpi simple monitor](/images/2014/04/rpisimplemonitor.jpg)
 
-Desde la cuenta de [@raspipc](http://twitter.com/raspipc) me entero de una nueva aplicación para monitorizar el estado de nuestra Raspberry Pi a través de Android. Su nombre: **RPi-Simple Monitor**...
+Desde la cuenta de [@raspipc](https://twitter.com/raspipc) me entero de una nueva aplicación para monitorizar el estado de nuestra Raspberry Pi a través de Android. Su nombre: **RPi-Simple Monitor**...
 
-- - -
-La aplicación muestra información de la *CPU*, la memoria *RAM* o la temperatura a través de una interfaz muy elegante.
+---
 
-Necesitarás instalar un programa servidor en la *Raspberry*.
+La aplicación muestra información de la _CPU_, la memoria _RAM_ o la temperatura a través de una interfaz muy elegante.
 
-Os animo a todos a probarla y seguro que su desarrollador agradecerá el feedback a través de su cuenta de *Twitter* [@laux_es](https://twitter.com/laux_es) o en el Google Play.
+Necesitarás instalar un programa servidor en la _Raspberry_.
+
+Os animo a todos a probarla y seguro que su desarrollador agradecerá el feedback a través de su cuenta de _Twitter_ [@laux_es](https://twitter.com/laux_es) o en el Google Play.
 
 Descarga: [Google Play - Raspberry Simple Monitor Early](https://play.google.com/store/apps/details?id=com.rpimonitor.app)
 

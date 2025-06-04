@@ -8,9 +8,9 @@ date: 2013-07-13 10:44:00
 prev: /es/
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/2013/07/ardipi.jpg
 ---
 
@@ -18,6 +18,6 @@ image: /images/2013/07/ardipi.jpg
 
 ![ardipi](/images/2013/07/ardipi.jpg)
 
-Lo llaman la *ArdiPi* y es el último invento de los chicos de instructables, que nos detallan paso a paso como crear este "juguete" para niños y mayores. Muy educativo.
+Lo llaman la _ArdiPi_ y es el último invento de los chicos de instructables, que nos detallan paso a paso como crear este "juguete" para niños y mayores. Muy educativo.
 
-Enlace: [instructables.com](http://www.instructables.com/id/ArdiPi-The-Wireless-Arduino-and-Raspberry-Pi-Rov/?ALLSTEPS)
+Enlace: [instructables.com](https://www.instructables.com/id/ArdiPi-The-Wireless-Arduino-and-Raspberry-Pi-Rov/?ALLSTEPS)

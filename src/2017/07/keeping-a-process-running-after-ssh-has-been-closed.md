@@ -8,9 +8,9 @@ date: 2017-07-24 10:00:00
 prev: /
 next: false
 category:
-  - Linux
+    - Linux
 tag:
-  - Linux
+    - Linux
 image: /images/2017/07/bash.png
 ---
 
@@ -18,7 +18,7 @@ image: /images/2017/07/bash.png
 
 ![bash](/images/2017/07/bash.png)
 
-It is a question that has been asked by a guy in a *Slack* channel and piqued my curiosity. Thanks to [DuckDuckGo](https://duckduckgo.com/) the answer came alone:
+It is a question that has been asked by a guy in a _Slack_ channel and piqued my curiosity. Thanks to [DuckDuckGo](https://duckduckgo.com/) the answer came alone:
 
 ```bash
 # Instead of running a process as,
@@ -27,4 +27,4 @@ $ proc &
 $ nohup proc &
 ```
 
-The nohup will prevent the process from being terminated when the terminal disconect. Another solution is using the *screen* command. You have some examples at [thegeekstuff.com](http://www.thegeekstuff.com/2010/07/screen-command-examples).
+The nohup will prevent the process from being terminated when the terminal disconect. Another solution is using the _screen_ command. You have some examples at [thegeekstuff.com](https://www.thegeekstuff.com/2010/07/screen-command-examples).

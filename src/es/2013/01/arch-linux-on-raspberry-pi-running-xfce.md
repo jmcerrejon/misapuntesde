@@ -8,9 +8,9 @@ date: 2013-01-15 11:35:00
 prev: /es/
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/rage-arch.jpg
 ---
 
@@ -18,8 +18,8 @@ image: /images/rage-arch.jpg
 
 ![archfffUU](/images/rage-arch.jpg)
 
-Cuando instalas la distribución *Arch Linux* en vez de *Raspbian*, muchos usuarios se encuentran con que no tienen un entorno gráfico instalado. *Arch* es muy potente,pero necesitas unos conocimientos un poco mas avanzado que con otra distribución. 
+Cuando instalas la distribución _Arch Linux_ en vez de _Raspbian_, muchos usuarios se encuentran con que no tienen un entorno gráfico instalado. _Arch_ es muy potente,pero necesitas unos conocimientos un poco mas avanzado que con otra distribución.
 
-En esta guía, te enseñan afortunadamente a instalar *XFCE*, un escritorio liviano (casi tanto como *LXDE* de *Raspbian*) y estable.
+En esta guía, te enseñan afortunadamente a instalar _XFCE_, un escritorio liviano (casi tanto como _LXDE_ de _Raspbian_) y estable.
 
-Enlace: [blog.adityapatawari.com](http://blog.adityapatawari.com/2013/01/arch-linux-on-raspberry-pi.html)
+Enlace: [blog.adityapatawari.com](https://blog.adityapatawari.com/2013/01/arch-linux-on-raspberry-pi.html)

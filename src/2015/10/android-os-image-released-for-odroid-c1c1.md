@@ -8,9 +8,9 @@ date: 2015-10-20 09:45:00
 prev: /
 next: false
 category:
-  - ODROID
+    - ODROID
 tag:
-  - ODROID
+    - ODROID
 image: /images/odroid_android.png
 ---
 
@@ -18,27 +18,28 @@ image: /images/odroid_android.png
 
 ![Android](/images/odroid_android.png)
 
-We have new release of *Android OS* for *ODROID C1/C1+* with the next features:
+We have new release of _Android OS_ for _ODROID C1/C1+_ with the next features:
 
-- - -
-* Fix to play MJPEG streams for much USB camera preview
+---
 
-* Preinstalled Kodi is upgraded to 15.1.1
+-   Fix to play MJPEG streams for much USB camera preview
 
-* Android OTA upgrade is supported
+-   Preinstalled Kodi is upgraded to 15.1.1
 
-* Fix AMVIDEOCAP freeze issue
+-   Android OTA upgrade is supported
 
-* PL2303 driver is included
+-   Fix AMVIDEOCAP freeze issue
 
-* 7-inch HDMI Touch screen support
+-   PL2303 driver is included
 
-* Multi touch support is enhanced
+-   7-inch HDMI Touch screen support
 
-* HDMI PLL is updated for particular resolution (480P/I, 576P/I, 1600x900P60HZ)
+-   Multi touch support is enhanced
 
-* SPI driver is enhanced for stability
+-   HDMI PLL is updated for particular resolution (480P/I, 576P/I, 1600x900P60HZ)
 
-* Fix to support UHS-I on soft reset (ODROID-C1+ only)
+-   SPI driver is enhanced for stability
 
-Download: [odroid.com](http://odroid.com/dokuwiki/doku.php?id=en:c1_android_release_note_v2.0)
+-   Fix to support UHS-I on soft reset (ODROID-C1+ only)
+
+Download: [odroid.com](https://odroid.com/dokuwiki/doku.php?id=en:c1_android_release_note_v2.0)

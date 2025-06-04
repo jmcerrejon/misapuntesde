@@ -8,9 +8,9 @@ date: 2013-03-05 08:35:00
 prev: /
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/domotica_01.jpg
 ---
 
@@ -20,10 +20,10 @@ image: /images/domotica_01.jpg
 
 I found a pretty curious post about home automation project that I want to show you. Nothing better than the words from the author about this project to know it:
 
-> *I recently presented a project with the Raspberry Pi in college where I study Computer Science.*
+> _I recently presented a project with the Raspberry Pi in college where I study Computer Science._
 >
-> *The goal was pretty generic and was used GPIO pin header that brings the Raspberry Pi and to control the I/O from a mobile device.*
+> _The goal was pretty generic and was used GPIO pin header that brings the Raspberry Pi and to control the I/O from a mobile device._
 >
-> *So for this project I thought of making a model of a home and simulate home automation.*
+> _So for this project I thought of making a model of a home and simulate home automation._
 
-Link: [Mis experiencias con la Raspberry Pi](http://muyraspi.blogspot.com.es/2013/03/domotica-con-la-raspberry-pi.html)
+Link: [Mis experiencias con la Raspberry Pi](https://muyraspi.blogspot.com.es/2013/03/domotica-con-la-raspberry-pi.html)

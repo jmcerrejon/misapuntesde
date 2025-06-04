@@ -8,9 +8,9 @@ date: 2014-01-13 14:18:31
 prev: /es/
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/2014/01/rpihacks.jpg
 ---
 
@@ -18,24 +18,25 @@ image: /images/2014/01/rpihacks.jpg
 
 ![Rpi Hacks](/images/2014/01/rpihacks.jpg)
 
-Con más de 60 trucos prácticos y creativos, este libro le ayuda a convertir su *Raspberry Pi* en la pieza central de algunos proyectos de electrónica. ¿Quieres crear un controlador para una cámara o un robot? Configure las distribuciones de Linux para media centers o sistemas de telefonía PBX. Eso es sólo el comienzo de lo que encontrará en el interior de *Raspberry Pi Hacks*.
+Con más de 60 trucos prácticos y creativos, este libro le ayuda a convertir su _Raspberry Pi_ en la pieza central de algunos proyectos de electrónica. ¿Quieres crear un controlador para una cámara o un robot? Configure las distribuciones de Linux para media centers o sistemas de telefonía PBX. Eso es sólo el comienzo de lo que encontrará en el interior de _Raspberry Pi Hacks_.
 
-- - -
-Si usted está buscando la manera de construir un programa o proyecto de hardware con más potencia de cálculo que un Arduino le pueda proporcionar, *Raspberry Pi* es sólo el billete. Los hacks en este libro le dará un montón de grandes ideas.
+---
 
-* Utilice hacks de configuración para obtener más provecho de su Pi
+Si usted está buscando la manera de construir un programa o proyecto de hardware con más potencia de cálculo que un Arduino le pueda proporcionar, _Raspberry Pi_ es sólo el billete. Los hacks en este libro le dará un montón de grandes ideas.
 
-* Construye tu propio servidor web o servidor de impresión remoto
+-   Utilice hacks de configuración para obtener más provecho de su Pi
 
-* Úsela al aire libre para monitorear su jardín o controlar las luces navideñas
+-   Construye tu propio servidor web o servidor de impresión remoto
 
-* Conéctate con *SETI*, o la construcción de un impresionante disfraz de Halloween Hack del Pi
+-   Úsela al aire libre para monitorear su jardín o controlar las luces navideñas
 
-* SO Linux para apoyar los proyectos más complejos
+-   Conéctate con _SETI_, o la construcción de un impresionante disfraz de Halloween Hack del Pi
 
-* Decodificar los formatos de audio/vídeo o hacer su propio reproductor de música 
+-   SO Linux para apoyar los proyectos más complejos
 
-* Construir un cluster de ordenadores Pi o un laboratorio de energía solar
+-   Decodificar los formatos de audio/vídeo o hacer su propio reproductor de música
+
+-   Construir un cluster de ordenadores Pi o un laboratorio de energía solar
 
 **Tabla de contenidos**
 
@@ -51,4 +52,4 @@ Capítulo 5 . Multimedia Hacks
 
 Capítulo 6 . Amplíe su Pi
 
-Compra: [Amazon > Raspberry Pi Hacks](http://www.amazon.com/Raspberry-Pi-Hacks-Inexpensive-Computer/dp/1449362346)
+Compra: [Amazon > Raspberry Pi Hacks](https://www.amazon.com/Raspberry-Pi-Hacks-Inexpensive-Computer/dp/1449362346)

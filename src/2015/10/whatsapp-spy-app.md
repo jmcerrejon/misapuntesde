@@ -8,9 +8,9 @@ date: 2015-10-05 17:25:00
 prev: /
 next: false
 category:
-  - General
+    - General
 tag:
-  - General
+    - General
 image: /images/2015/10/10.png
 ---
 
@@ -20,9 +20,10 @@ image: /images/2015/10/10.png
 
 ### How Using WhatsApp Spying App Can Be a Smart Parenting Decision
 
-The thing about WhatsApp is that kids don't seem to stop using it. While other apps have come and gone, this is the one that seems to have the most staying power. One of the biggest reasons for that is that out of all other apps, this is the one gives them the most convenience. You can text and make calls for free. Why wouldn't they use something that is being given to them for free? However, this gives you all the more reason to monitor it with a hawk's eye. That's when [WhatsApp spying app](http://xnspy.com/features/whats-app.html) is helpful.
+The thing about WhatsApp is that kids don't seem to stop using it. While other apps have come and gone, this is the one that seems to have the most staying power. One of the biggest reasons for that is that out of all other apps, this is the one gives them the most convenience. You can text and make calls for free. Why wouldn't they use something that is being given to them for free? However, this gives you all the more reason to monitor it with a hawk's eye. That's when [WhatsApp spying app](https://xnspy.com/features/whats-app.html) is helpful.
 
-- - -
+---
+
 ![xNSPy I)](/images/2015/10/09.png)
 
 ### WhatsApp Addiction Takes Over
@@ -31,21 +32,21 @@ One thing you'll notice a lot in kids these days is that they seem to be distrac
 
 ### How XNSPY for WhatsApp Spying Works
 
-One such app that is working toward giving parents the power of monitoring at least when it comes to WhatsApp is XNSPY. It is what one would consider a parental control; but it has many more functions than a simple control would. 
+One such app that is working toward giving parents the power of monitoring at least when it comes to WhatsApp is XNSPY. It is what one would consider a parental control; but it has many more functions than a simple control would.
 
 First of all, you need to buy this app off the website. Second of all, it takes all of 5 minutes to install, during which time, you need to have access to your child's device. After that, all your WhatsApp spying will be remote. How?
 
-All you are going to need are login details (these are emailed to you when you [purchase XNSPY](http://xnspy.com/buy-now.html)!) and you can log onto the web Control Panel. This is where all the data recoded from your child's WhatsApp is stored. This includes:
+All you are going to need are login details (these are emailed to you when you [purchase XNSPY](https://xnspy.com/buy-now.html)!) and you can log onto the web Control Panel. This is where all the data recoded from your child's WhatsApp is stored. This includes:
 
-* Their list of contacts. Find out who they are talking to on WhatsApp. Are they friends? Acquaintances? Strangers? Predators?
+-   Their list of contacts. Find out who they are talking to on WhatsApp. Are they friends? Acquaintances? Strangers? Predators?
 
-* Their actual messages. You can read all the messages they send and receive in all their different chats.
+-   Their actual messages. You can read all the messages they send and receive in all their different chats.
 
-* Their time and date stamps. You can find out exactly when a person was contacted or when a certain message was sent.
+-   Their time and date stamps. You can find out exactly when a person was contacted or when a certain message was sent.
 
-* Their call logs. You'll have complete information on who they have called on any given day.
+-   Their call logs. You'll have complete information on who they have called on any given day.
 
-* Their shared multimedia. Have a look at all photos and videos they exchange on WhatsApp.
+-   Their shared multimedia. Have a look at all photos and videos they exchange on WhatsApp.
 
-* Marking Watchlist contacts and words. Suspicious on something on this app? Mark certain contacts or words on the Watchlist. Get alerts whenever they are used.
-All in all, a WhatsApp spying app keeps you on top of things when it comes to your child's phone activities. Which makes it a smart parenting decision in my book.
+-   Marking Watchlist contacts and words. Suspicious on something on this app? Mark certain contacts or words on the Watchlist. Get alerts whenever they are used.
+    All in all, a WhatsApp spying app keeps you on top of things when it comes to your child's phone activities. Which makes it a smart parenting decision in my book.

@@ -8,11 +8,11 @@ date: 2013-01-16 14:45:00
 prev: /es/
 next: false
 category:
-  - Raspberry PI
-  - Developer
+    - Raspberry PI
+    - Developer
 tag:
-  - Raspberry PI
-  - Developer
+    - Raspberry PI
+    - Developer
 image: /images/kidsruby.jpg
 ---
 
@@ -26,6 +26,6 @@ Estas iniciativas son las que motivaron a la fundación creadora de la Raspberry
 
 Kidsruby es un entorno para Ruby, pero orientado a los más pequeños. Está disponible en varios idiomas (entre ellos español) y acaba de salir una versión para nuestra querida RasPi.
 
-Enlace: [Kidsruby about](http://kidsruby.com/about)
+Enlace: [Kidsruby about](https://kidsruby.com/about)
 
 Paquete: [.deb](https://s3.amazonaws.com/kidsruby/raspbian/kidsruby-1.3.2-armv6l.deb)

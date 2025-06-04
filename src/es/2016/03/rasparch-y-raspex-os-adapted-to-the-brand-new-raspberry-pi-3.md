@@ -8,9 +8,9 @@ date: 2016-03-14 11:40:00
 prev: /es/
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/2016/03/rasparch-logo.png
 ---
 
@@ -18,11 +18,12 @@ image: /images/2016/03/rasparch-logo.png
 
 ![RaspArch](/images/2016/03/rasparch-logo.png)
 
-Creo que salvo en [una ocasión](/post.php?id=547), nunca he comentado los sistemas operativos que se está encargando de compilar *Exton*. Entre ellos se encuentran para la *Raspberry Pi 2/3* las basadas en *Debian+Ubuntu(RaspEx)* y *ArchLinux(RaspArch)*.
+Creo que salvo en [una ocasión](/post.php?id=547), nunca he comentado los sistemas operativos que se está encargando de compilar _Exton_. Entre ellos se encuentran para la _Raspberry Pi 2/3_ las basadas en _Debian+Ubuntu(RaspEx)_ y _ArchLinux(RaspArch)_.
 
-- - -
-*RaspArch* viene preinstalado con *LXDE, Firefox y GIMP* ya configurado, lo cual es de agradecer para los que no tienen ganas de pelearse con una distro como *Arch Linux*, para mí de las más potentes y rápidas que existen a día de hoy. Como gestor de paquetes, viene con *Pacman*.
+---
 
-*RaspEX* es un sistema operativo para *Raspberry Pi* basado tanto en *Debian (8.3) como en Ubuntu (15.10)*. Comparte escritorio con su hermano *RaspArch* y aplicaciones instaladas. Viene con *Kernel 4.1.18*.
+_RaspArch_ viene preinstalado con _LXDE, Firefox y GIMP_ ya configurado, lo cual es de agradecer para los que no tienen ganas de pelearse con una distro como _Arch Linux_, para mí de las más potentes y rápidas que existen a día de hoy. Como gestor de paquetes, viene con _Pacman_.
 
-Descarga: [raspex.exton.se](http://raspex.exton.se/?page_id=25)
+_RaspEX_ es un sistema operativo para _Raspberry Pi_ basado tanto en _Debian (8.3) como en Ubuntu (15.10)_. Comparte escritorio con su hermano _RaspArch_ y aplicaciones instaladas. Viene con _Kernel 4.1.18_.
+
+Descarga: [raspex.exton.se](https://raspex.exton.se/?page_id=25)

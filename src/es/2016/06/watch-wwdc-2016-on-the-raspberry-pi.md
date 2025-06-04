@@ -8,9 +8,9 @@ date: 2016-06-13 10:00:00
 prev: /es/
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/2016/06/wwdc1606.png
 ---
 
@@ -20,13 +20,14 @@ image: /images/2016/06/wwdc1606.png
 
 Ejecuta el siguiente script...
 
-- - -
+---
+
 ```bash
 \#!/bin/bash
 clear
 echo -e "WWDC 2016 streaming...\nPress [ENTER] to continue"
 sudo sh -c "TERM=linux setterm -foreground black -clear >/dev/tty0"
-omxplayer --audio_queue=10 --video_queue=40 http://p.events-delivery.apple.com.edgesuite.net/15pijbnaefvpoijbaefvpihb06/m3u8/atv_mvp.m3u8
+omxplayer --audio_queue=10 --video_queue=40 https://p.events-delivery.apple.com.edgesuite.net/15pijbnaefvpoijbaefvpihb06/m3u8/atv_mvp.m3u8
 clear
 echo "I hope you enjoyed the show :)"
 ```

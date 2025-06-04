@@ -8,9 +8,9 @@ date: 2014-09-17 08:00:00
 prev: /es/
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/2014/09/Synergy_Logo.png
 ---
 
@@ -20,26 +20,27 @@ image: /images/2014/09/Synergy_Logo.png
 
 Hace un año más o menos hablé de un software que te permitía compartir teclado y ratón con varios equipos. Intenté usarlo pero no me funcionó. Hoy os he hecho un videotutorial para ver como funciona y lo cómodo que es...
 
-- - -
+---
+
 <iframe width="560" height="315" src="//www.youtube.com/embed/xYPwMmjf4mA" frameborder="0" allowfullscreen></iframe>
 
-Yo he hecho las pruebas con *Ubuntu* como servidor, pero sirve *Mac o Windows.*
+Yo he hecho las pruebas con _Ubuntu_ como servidor, pero sirve _Mac o Windows._
 
-Como véis, los pasos son sencillos: 
+Como véis, los pasos son sencillos:
 
-* Instalar el programa en servidor (equipo con el teclado y ratón) y cliente.
+-   Instalar el programa en servidor (equipo con el teclado y ratón) y cliente.
 
-* Configurar el servidor con la interfaz gráfica.
+-   Configurar el servidor con la interfaz gráfica.
 
-* Ejecutar en la *Raspberry Pi*: **synergyc --daemon ip_servidor**
+-   Ejecutar en la _Raspberry Pi_: **synergyc --daemon ip_servidor**
 
-Me he dado cuenta que solo funciona con el entorno gráfico, así que tendréis que teclear previamente en la *Raspberry Pi*: **startx**
+Me he dado cuenta que solo funciona con el entorno gráfico, así que tendréis que teclear previamente en la _Raspberry Pi_: **startx**
 
 Para los perezosos, he creado para [PiKISS](/post.php?id=409) un script que te lo instala, te permite elegir el servidor y ejecutarlo en el arranque.
 
-**NOTA:** El autor cobra ahora por el programa aunque sigue siendo libre, pero las nighty builds son gratuitas para todas las plataformas. Te dejo el enlace a continuación, aunque yo en *Ubuntu y Raspberry Pi* las he instalado desde el repositorio:
+**NOTA:** El autor cobra ahora por el programa aunque sigue siendo libre, pero las nighty builds son gratuitas para todas las plataformas. Te dejo el enlace a continuación, aunque yo en _Ubuntu y Raspberry Pi_ las he instalado desde el repositorio:
 
-Descarga: [synergy-project.org](http://synergy-project.org/nightly/)
+Descarga: [synergy-project.org](https://synergy-project.org/nightly/)
 
 Enlace: [misapuntesde.com > Synergy: Un teclado y ratón para gobernarlos a todos](/post.php?id=322)
 

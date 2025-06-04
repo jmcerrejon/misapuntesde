@@ -8,9 +8,9 @@ date: 2014-04-19 13:37:27
 prev: /es/
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/sd%20pile.png
 ---
 
@@ -22,8 +22,9 @@ Esta semana estoy algo distraído con asuntos personales y las fiestas, pero rec
 
 Hoy os traigo un enlace para aquellos que teneis pensado montar un servidor en vuestra Raspberry Pi, desde el punto de vista del hardware y optimización del sistema operativo.
 
-- - -
-*Guido Stepken* es un profesional en *Berlín* que ha estado revisando la importancia de un buen sistema de almacenamiento. En el caso que ocupa la *Raspberry Pi*, la *SD* aunque la empleamos para casi todo, tiene unos tiempos de acceso bastante bajos y lo mejor es conseguir una buena tarjeta *SD* y utilizar un buen sistema de ficheros como el inventado por *Samsung* llamado [F2FS](http://es.wikipedia.org/wiki/F2FS).
+---
+
+_Guido Stepken_ es un profesional en _Berlín_ que ha estado revisando la importancia de un buen sistema de almacenamiento. En el caso que ocupa la _Raspberry Pi_, la _SD_ aunque la empleamos para casi todo, tiene unos tiempos de acceso bastante bajos y lo mejor es conseguir una buena tarjeta _SD_ y utilizar un buen sistema de ficheros como el inventado por _Samsung_ llamado [F2FS](https://es.wikipedia.org/wiki/F2FS).
 
 No os perdáis este interesante artículo si queréis sacar el máximo provecho de vuestra tarjeta.
 

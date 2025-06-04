@@ -8,11 +8,11 @@ date: 2015-07-20 09:40:00
 prev: /
 next: false
 category:
-  - Raspberry PI
-  - ODROID
+    - Raspberry PI
+    - ODROID
 tag:
-  - Raspberry PI
-  - ODROID
+    - Raspberry PI
+    - ODROID
 image: /images/2015/07/ODROID-Magazine-201507.png
 ---
 
@@ -20,21 +20,22 @@ image: /images/2015/07/ODROID-Magazine-201507.png
 
 ![ODROID-Magazine-201507.png](/images/2015/07/ODROID-Magazine-201507.png)
 
-The July issue of the best magazine by far of all boards flooding the market is now available. The good thing is that it does not matter if have a *Raspberry, Banana Pi or BEAGLEBONE*. There are posts that you are able to reproduce in yours. It also includes **an article by myself** where I teach you to use the game engine for *AmstradCPC CPCelera*. What are you waiting for to download?. The details after the jump...
+The July issue of the best magazine by far of all boards flooding the market is now available. The good thing is that it does not matter if have a _Raspberry, Banana Pi or BEAGLEBONE_. There are posts that you are able to reproduce in yours. It also includes **an article by myself** where I teach you to use the game engine for _AmstradCPC CPCelera_. What are you waiting for to download?. The details after the jump...
 
-- - -
+---
+
 ![cpclerra.png](/images/2015/07/cpclerra.png)
 
-* Making videogames for Amstrad CPC with ODROID
+-   Making videogames for Amstrad CPC with ODROID
 
-* Linux Kernel Built script: Tweak your kernel to Infinity!
+-   Linux Kernel Built script: Tweak your kernel to Infinity!
 
-* Kung Fury: Street Rage
+-   Kung Fury: Street Rage
 
-* JODRO: Java Library to control the GPIO Pins
+-   JODRO: Java Library to control the GPIO Pins
 
-* Diet-Pi for ODROID-C1
+-   Diet-Pi for ODROID-C1
 
-* Popcorn time for ODROID
+-   Popcorn time for ODROID
 
-Download: [magazine.odroid.com (pdf)](http://magazine.odroid.com/)
+Download: [magazine.odroid.com (pdf)](https://magazine.odroid.com/)

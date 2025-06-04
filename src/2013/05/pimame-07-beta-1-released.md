@@ -8,9 +8,9 @@ date: 2013-05-12 08:00:00
 prev: /
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/PiMAME.jpg
 ---
 
@@ -18,14 +18,15 @@ image: /images/PiMAME.jpg
 
 ![PiMAME](/images/PiMAME.jpg)
 
-This guy is taking so many betas I almost lost count. This is especially relevant because include *MAME4All*, *AdvanceMAME* and *SNES* support from *PiSNES*.
+This guy is taking so many betas I almost lost count. This is especially relevant because include _MAME4All_, _AdvanceMAME_ and _SNES_ support from _PiSNES_.
 
 Download link and extra if you click below...
 
-- - -
-Download: [PiMAME 0.7 Beta 1](http://sourceforge.net/projects/pimame/files/pimame-0.7-beta1.img.zip/download)
+---
 
-Enlace: [Forum](http://pimame.org/forum/)
+Download: [PiMAME 0.7 Beta 1](https://sourceforge.net/projects/pimame/files/pimame-0.7-beta1.img.zip/download)
+
+Enlace: [Forum](https://pimame.org/forum/)
 
 EXTRA!:
 

@@ -8,9 +8,9 @@ date: 2013-03-21 18:00:00
 prev: /es/
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/Linux_Format_UK_2013-04.jpg
 ---
 
@@ -18,8 +18,8 @@ image: /images/Linux_Format_UK_2013-04.jpg
 
 ![Linux format UK](/images/Linux_Format_UK_2013-04.jpg)
 
-En esta revista nos enseñan varios trucos, aplicaciones y como hacer stream y grabar canales de TV a través de nuestra *Raspberry Pi*. También nos enseña varias distribuciones para elegir la que más nos guste.
+En esta revista nos enseñan varios trucos, aplicaciones y como hacer stream y grabar canales de TV a través de nuestra _Raspberry Pi_. También nos enseña varias distribuciones para elegir la que más nos guste.
 
-***PD:*** Animo a la gente que pueda, compre la revista o mejor se suscriba a ella.
+**_PD:_** Animo a la gente que pueda, compre la revista o mejor se suscriba a ella.
 
-Suscripción: [Linux Format UK](http://www.myfavouritemagazines.co.uk/content/lp/linuxformat/)
+Suscripción: [Linux Format UK](https://www.myfavouritemagazines.co.uk/content/lp/linuxformat/)

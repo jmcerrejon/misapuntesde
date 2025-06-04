@@ -8,9 +8,9 @@ date: 2013-03-01 17:30:00
 prev: /es/
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/raspxbmc.jpg
 ---
 
@@ -18,16 +18,17 @@ image: /images/raspxbmc.jpg
 
 ![raspxbmc](/images/raspxbmc.jpg)
 
-El truco consiste en guardar tu perfil en *RAM*. Para ello se usa el tipo de sistema de ficheros *tmpfs.*
+El truco consiste en guardar tu perfil en _RAM_. Para ello se usa el tipo de sistema de ficheros _tmpfs._
 
-- - -
+---
+
 Los beneficios como suponemos, serían en menos escritura dentro de la tarjeta SD, y aumento de rendimiento (aseguran en la web del script que por encima del 50%), sobretodo en los plugins.
 
 Para ello, nada más fácil que ejecutar estos tres comandos en la consola:
 
 ```bash
 
-sudo wget http://aaxbmc.link.ba/raspbmc/install
+sudo wget https://aaxbmc.link.ba/raspbmc/install
 sudo chmod +x install
 sudo ./install
 
@@ -35,4 +36,4 @@ sudo ./install
 
 Para donaciones y más información, visitad la siguiente web.
 
-Enlace: [aaxbmc](http://aaxbmc.link.ba)
+Enlace: [aaxbmc](https://aaxbmc.link.ba)

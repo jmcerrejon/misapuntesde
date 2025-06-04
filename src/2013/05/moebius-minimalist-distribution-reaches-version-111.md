@@ -8,9 +8,9 @@ date: 2013-05-18 10:35:00
 prev: /
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/moebius.jpg
 ---
 
@@ -18,21 +18,22 @@ image: /images/moebius.jpg
 
 ![moebius](/images/moebius.jpg)
 
-*Moebius* is a distribution based on *Raspbian* but trimmed to the maximum. We have version 1.1.1 that fixes a failure to expand the SD card. If you want to know more about this distro ...
+_Moebius_ is a distribution based on _Raspbian_ but trimmed to the maximum. We have version 1.1.1 that fixes a failure to expand the SD card. If you want to know more about this distro ...
 
-- - -
+---
+
 Its basic features are:
 
-* Removed *XOrg* and *LXDE desktop*, utilities, programming tools, libraries, virtual consoles, *OpenSSHd*, *ntpd*, heavy shells, *IPV6 support*...
+-   Removed _XOrg_ and _LXDE desktop_, utilities, programming tools, libraries, virtual consoles, _OpenSSHd_, _ntpd_, heavy shells, _IPV6 support_...
 
-* Optimized to save memory for services and space (600Mb used disk).
+-   Optimized to save memory for services and space (600Mb used disk).
 
-* Ideal for busybox, ntp client, web server...
+-   Ideal for busybox, ntp client, web server...
 
-* user is ***root***, and password is ***raspi***. Setup with *moebius.config*
+-   user is **_root_**, and password is **_raspi_**. Setup with _moebius.config_
 
 ![moebius2](/images/moebius2.jpg)
 
-Link: [Target Audience for Moebius Linux](http://moebiuslinux.sourceforge.net/release/target-audience-for-moebius-linux/)
+Link: [Target Audience for Moebius Linux](https://moebiuslinux.sourceforge.net/release/target-audience-for-moebius-linux/)
 
-Download: [Moebius 1.1.1](http://sourceforge.net/projects/moebiuslinux/files/raspberry.stable/)
+Download: [Moebius 1.1.1](https://sourceforge.net/projects/moebiuslinux/files/raspberry.stable/)

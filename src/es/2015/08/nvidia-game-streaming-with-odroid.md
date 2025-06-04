@@ -8,9 +8,9 @@ date: 2015-08-10 10:00:00
 prev: /es/
 next: false
 category:
-  - ODROID
+    - ODROID
 tag:
-  - ODROID
+    - ODROID
 image: /images/2015/08/nvidia.png
 ---
 
@@ -18,9 +18,10 @@ image: /images/2015/08/nvidia.png
 
 ![nvidia.png](/images/2015/08/nvidia.png)
 
-Para poder jugar cómodamente en la pantalla de 50" de tu salón necesitas llevarte el PC hacia allá, o tener una *ODROID XU3/4* y seguir estos sencillo pasos para enviar por streaming la señal desde tu equipo. Aviso que tienes una limitación por ahora de *720p/30fps*, pero es suficiente para jugar de forma decente. Lo único que necesitas es una *nVIDIA* de la serie *GTX 600/700/900*
+Para poder jugar cómodamente en la pantalla de 50" de tu salón necesitas llevarte el PC hacia allá, o tener una _ODROID XU3/4_ y seguir estos sencillo pasos para enviar por streaming la señal desde tu equipo. Aviso que tienes una limitación por ahora de _720p/30fps_, pero es suficiente para jugar de forma decente. Lo único que necesitas es una _nVIDIA_ de la serie _GTX 600/700/900_
 
-- - -
+---
+
 Los prerequisitos son los siguientes:
 
 ```bash
@@ -37,12 +38,12 @@ cmake . -DODROID=ON -DFFMPEG=ON
 make -j5
 ```
 
-Emparejamos con *nVIDIA Game Streaming: ./moonlight pair PC-IP* donde *PC-IP* es la *IP* donde tengas la tarjeta.
+Emparejamos con _nVIDIA Game Streaming: ./moonlight pair PC-IP_ donde _PC-IP_ es la _IP_ donde tengas la tarjeta.
 
-Una vez hayas introducido el *PIN* que te ha dado en tu PC, puedes añadir en *nVIDIA Experience* un nombre corto al juego que quieras dentro de *Settings > Shield* y escribir en tu *ODROID* lo siguiente para empezar a jugar:
+Una vez hayas introducido el _PIN_ que te ha dado en tu PC, puedes añadir en _nVIDIA Experience_ un nombre corto al juego que quieras dentro de _Settings > Shield_ y escribir en tu _ODROID_ lo siguiente para empezar a jugar:
 
 ```bash
 DISPLAY=:0.0 ./moonlight stream xxx.xxx.xxx.xxx -app "short name"
 ```
 
-Enlace: [forum.odroid.com > NVIDIA Game Streaming with ODROID](http://forum.odroid.com/viewtopic.php?f=91&t=15456)
+Enlace: [forum.odroid.com > NVIDIA Game Streaming with ODROID](https://forum.odroid.com/viewtopic.php?f=91&t=15456)

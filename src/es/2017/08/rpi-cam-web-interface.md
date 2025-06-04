@@ -8,9 +8,9 @@ date: 2017-08-24 12:20:00
 prev: /es/
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/2017/08/surveilance.jpg
 ---
 
@@ -18,15 +18,15 @@ image: /images/2017/08/surveilance.jpg
 
 ![surveillance](/images/2017/08/surveilance.jpg)
 
-Muy buen proyecto para los que tengan la *Raspi-Cam* y no quieran quebraderos de cabeza a la hora de mostrarla en una interface web. A mí me ha servido como sistema de vigilancia durante unos días. Tiene muchas opciones para hacer timelapse, motion capture, etc...
+Muy buen proyecto para los que tengan la _Raspi-Cam_ y no quieran quebraderos de cabeza a la hora de mostrarla en una interface web. A mí me ha servido como sistema de vigilancia durante unos días. Tiene muchas opciones para hacer timelapse, motion capture, etc...
 
-Una observación. Para elimiar el led rojo, edita el fichero */boot/config.txt* y añade al final:
+Una observación. Para elimiar el led rojo, edita el fichero _/boot/config.txt_ y añade al final:
 
 ```bash
 disable_camera_led=1
 ```
 
-Enlace: [elinux.org](http://elinux.org/RPi-Cam-Web-Interface)
+Enlace: [elinux.org](https://elinux.org/RPi-Cam-Web-Interface)
 
 Enlace: [github.com > silvanmelchior/RPi_Cam_Web_Interface](https://github.com/silvanmelchior/RPi_Cam_Web_Interface)
 

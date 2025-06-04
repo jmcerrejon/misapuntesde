@@ -8,9 +8,9 @@ date: 2013-08-10 08:45:00
 prev: /es/
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/pi_hack.jpg
 ---
 
@@ -24,13 +24,14 @@ Si os digo la verdad, creo que soy el único informático que no ha intentado nu
 
 Hoy presentamos **wifite**, una herramienta para crackear redes WEP, WPA o WPS de manera fácil...
 
-- - -
-Esta herramienta ha sido desarrollada en *Python* para funcionar en *Linux* junto a distribuciones como *Backtrack 5, BlackBuntu, BackBox, o Pentoo!*. Se trata de una herramienta de auditoría calificada como *"set it and forget it"* (algo así como configúrala y olvídate de ella).
+---
 
-Para instalarla en la *Raspberry Pi*, sigue los pasos que nos indica *Borja Lanseros* en su blog.
+Esta herramienta ha sido desarrollada en _Python_ para funcionar en _Linux_ junto a distribuciones como _Backtrack 5, BlackBuntu, BackBox, o Pentoo!_. Se trata de una herramienta de auditoría calificada como _"set it and forget it"_ (algo así como configúrala y olvídate de ella).
+
+Para instalarla en la _Raspberry Pi_, sigue los pasos que nos indica _Borja Lanseros_ en su blog.
 
 ¿Habéis utilizado vosotros vuestra RasPi para "recuperar" la contraseña del vecino por si se le pierde alguna vez?
 
-Enlace: [imasdfriki.blogspot.com.es](http://imasdfriki.blogspot.com.es/2013/08/wifitepy-running-on-raspberry-pi-raspian.html)
+Enlace: [imasdfriki.blogspot.com.es](https://imasdfriki.blogspot.com.es/2013/08/wifitepy-running-on-raspberry-pi-raspian.html)
 
 Enlace: [code.google.com > wifite](https://code.google.com/p/wifite)

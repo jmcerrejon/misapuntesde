@@ -8,9 +8,9 @@ date: 2013-03-15 10:40:00
 prev: /
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/retropieprojectlogofinish.jpg
 ---
 
@@ -22,43 +22,44 @@ This is an SD-card image with a ready-to-go installation of the RetroPie Setup S
 
 If you want to know what systems are supported...
 
-- - -
+---
+
 This project have support for the following systems/emulators:
 
-* Atari 2600 - Stella
+-   Atari 2600 - Stella
 
-* Doom - prboom
+-   Doom - prboom
 
-* Duke Nukem 3D - eDuke32
+-   Duke Nukem 3D - eDuke32
 
-* Gameboy Advance - vba-next
+-   Gameboy Advance - vba-next
 
-* Gameboy Color - gambatte
+-   Gameboy Color - gambatte
 
-* Sega Game Gear - osmose
+-   Sega Game Gear - osmose
 
-* IntelliVision - jzintv
+-   IntelliVision - jzintv
 
-* MAME - imame4all
+-   MAME - imame4all
 
-* ScummVM
+-   ScummVM
 
-* Sega Master System - osmose-0.8.1
+-   Sega Master System - osmose-0.8.1
 
-* Sega Mega Drive / Genesis - dgen
+-   Sega Mega Drive / Genesis - dgen
 
-* NeoGeo - gngeo
+-   NeoGeo - gngeo
 
-* Nintendo Entertainment System - fceu-next
+-   Nintendo Entertainment System - fceu-next
 
-* PC Engine/TurboGrafx 16 - mednafen
+-   PC Engine/TurboGrafx 16 - mednafen
 
-* Sony Playstation 1 - pcsx
+-   Sony Playstation 1 - pcsx
 
-* Super Nintendo - pocketsnes
+-   Super Nintendo - pocketsnes
 
-Link: [Direct download](http://blog.petrockblock.com/?wpdmdl=9) | [torrent](http://blog.petrockblock.com/?wpdmdl=12)
+Link: [Direct download](https://blog.petrockblock.com/?wpdmdl=9) | [torrent](https://blog.petrockblock.com/?wpdmdl=12)
 
 Link: [Wiki](https://github.com/petrockblog/RetroPie-Setup/wiki)
 
-Link: [Thread at Raspberrypi.org](http://www.raspberrypi.org/phpBB3/viewtopic.php?f=78&t=13600)
+Link: [Thread at Raspberrypi.org](https://www.raspberrypi.org/phpBB3/viewtopic.php?f=78&t=13600)

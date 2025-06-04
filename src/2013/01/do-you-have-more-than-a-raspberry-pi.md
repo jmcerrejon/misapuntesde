@@ -8,9 +8,9 @@ date: 2013-01-18 09:47:00
 prev: /
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/superpi.jpg
 ---
 
@@ -24,4 +24,4 @@ What would you do with more than one Raspi? World domination! of course, but wha
 
 Here is the manual to create a supercomputer.
 
-Link: [southampton.ac.uk](http://www.southampton.ac.uk/~sjc/raspberrypi/)
+Link: [southampton.ac.uk](https://www.southampton.ac.uk/~sjc/raspberrypi/)

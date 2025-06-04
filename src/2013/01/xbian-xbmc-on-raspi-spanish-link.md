@@ -8,9 +8,9 @@ date: 2013-01-14 13:54:00
 prev: /
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/xakatahome.jpg
 ---
 
@@ -18,6 +18,6 @@ image: /images/xakatahome.jpg
 
 ![Xakata Home](/images/xakatahome.jpg)
 
-From one of my favorite sites, comes this link to install from scratch *Xbian*, OS media center and direct competence from [OpenELEC]
+From one of my favorite sites, comes this link to install from scratch _Xbian_, OS media center and direct competence from [OpenELEC]
 
-Link: [xatakahome](http://www.xatakahome.com/centro-multimedia/xbmc-y-tu-raspberry-pi-xbian)
+Link: [xatakahome](https://www.xatakahome.com/centro-multimedia/xbmc-y-tu-raspberry-pi-xbian)

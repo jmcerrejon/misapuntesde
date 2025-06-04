@@ -32,7 +32,7 @@ No uso _Time Machine_ para nada. Soy de la vieja escuela y me gusta controlar al
 
 Lo primero va a ser hacernos con una copia de _Yosemite_. Tan sencillo como abrir la [App Store](https://itunes.apple.com/es/app/os-x-yosemite/id915041082?mt=12) y en la sección de actualizaciones tendremos la opción de descargarlo. Lo mejor es pasarlo a un pendrive. A mi me ha ayudado el siguiente enlace. Toma nota:
 
--   **[lifehacker.com > Cómo crear un USB para instalar OS X Yosemite en un Pendrive](http://lifehacker.com/how-to-burn-os-x-yosemite-to-a-usb-flash-drive-1647137212)**
+-   **[lifehacker.com > Cómo crear un USB para instalar OS X Yosemite en un Pendrive](https://lifehacker.com/how-to-burn-os-x-yosemite-to-a-usb-flash-drive-1647137212)**
 
 Es hora de ponernos manos a la obra y repasar todo lo que tenemos almacenado en nuestro disco duro. Para recordarlo todo, vamos a dividir este tutorial en secciones, aunque lo primero va a ser entrar en la _Terminal_ y escribir los siguientes comandos:
 
@@ -72,7 +72,7 @@ Antes os indiqué un comando para hacer visible la carpeta _Librería_. Esta car
 
 -   Si tienes backups de tus _iDevices (iPad, iPhone,...)_, nos vamos en _iTunes_ a _Preferencias > Dispositivos > Copias de seguridad del dispositivo_. Pulsamos con el botón derecho sobre la copia que queremos guardar y elegimos _Mostrar en el Finder_.
 
--   En las _Preferencias del sistema_, anota si tienes alguna extensión que no venga predeterminada en el sistema para luego volver a descargarla. En mi caso suelo usar [TVShows](http://tvshowsapp.com).
+-   En las _Preferencias del sistema_, anota si tienes alguna extensión que no venga predeterminada en el sistema para luego volver a descargarla. En mi caso suelo usar [TVShows](https://tvshowsapp.com).
 
 -   Ya que estamos en _Preferencias del sistema_, en _Usuarios y grupos_ pulsa sobre cada usuario del sistema y en la pestaña _Arranque_, veremos aplicaciones que también querremos tener en nuestro nuevo sistema y podemos haber pasado por alto.
 

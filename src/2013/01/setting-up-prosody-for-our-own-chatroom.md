@@ -8,11 +8,11 @@ date: 2013-01-20 09:30:00
 prev: /
 next: false
 category:
-  - Linux
-  - Raspberry PI
+    - Linux
+    - Raspberry PI
 tag:
-  - Linux
-  - Raspberry PI
+    - Linux
+    - Raspberry PI
 image: /images/prosody.jpg
 ---
 
@@ -20,8 +20,8 @@ image: /images/prosody.jpg
 
 ![prosody](/images/prosody.jpg)
 
-*Prosody* is a server to create chat rooms based on the *XMPP (Jabber)* protocol. It's used by *Google Talk* for example, and with these simple steps, we will be able to have our own chat room. Quite useful for clubs, websites or private meetings.
+_Prosody_ is a server to create chat rooms based on the _XMPP (Jabber)_ protocol. It's used by _Google Talk_ for example, and with these simple steps, we will be able to have our own chat room. Quite useful for clubs, websites or private meetings.
 
-Link: [russelldavis.org](http://russelldavis.org/2013/01/18/setting-up-prosody-on-the-raspberry-pi-for-house-apartment-secret-club-house-wide-chatroom/)
+Link: [russelldavis.org](https://russelldavis.org/2013/01/18/setting-up-prosody-on-the-raspberry-pi-for-house-apartment-secret-club-house-wide-chatroom/)
 
-Extended Info.: [Install and configure Prosody XMPP server on Debian/Ubuntu ](http://www.techytalk.info/install-configure-prosody-xmpp-jabber-server-on-debian-ubuntu-linux/)
+Extended Info.: [Install and configure Prosody XMPP server on Debian/Ubuntu ](https://www.techytalk.info/install-configure-prosody-xmpp-jabber-server-on-debian-ubuntu-linux/)

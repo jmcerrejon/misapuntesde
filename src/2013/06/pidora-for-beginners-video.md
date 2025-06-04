@@ -8,9 +8,9 @@ date: 2013-06-26 07:40:00
 prev: /
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/pidora.jpg
 ---
 
@@ -18,19 +18,20 @@ image: /images/pidora.jpg
 
 ![pidora](/images/pidora.jpg)
 
-A forum user called *Biblioman* leaves a good video tutorial about *Pidora*, *Fedora Remix* based distro and optimized for the *Raspberry Pi*. I leave you with information about it after the jump...
+A forum user called _Biblioman_ leaves a good video tutorial about _Pidora_, _Fedora Remix_ based distro and optimized for the _Raspberry Pi_. I leave you with information about it after the jump...
 
-- - -
+---
+
 Described in the (more or less) the following:
 
-* Installing the operating system using NOOBS.
+-   Installing the operating system using NOOBS.
 
-* Initial system configuration.
+-   Initial system configuration.
 
-* Description (brief) XFCE desktop which is installed by default.
+-   Description (brief) XFCE desktop which is installed by default.
 
-* Installation and uninstallation of programs and a graphical console with Yum Extender.
+-   Installation and uninstallation of programs and a graphical console with Yum Extender.
 
-* Remote Access for Console Operating System (SSH) and remote desktop through windows terminal server.
+-   Remote Access for Console Operating System (SSH) and remote desktop through windows terminal server.
 
-Link: [Youtube - spanish audio](http://www.youtube.com/watch?v=EEH-isPNZr0)
+Link: [Youtube - spanish audio](https://www.youtube.com/watch?v=EEH-isPNZr0)

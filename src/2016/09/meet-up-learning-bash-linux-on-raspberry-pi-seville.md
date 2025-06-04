@@ -8,9 +8,9 @@ date: 2016-09-07 08:20:00
 prev: /
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/pikiss_400px_nobg.png
 ---
 
@@ -18,6 +18,6 @@ image: /images/pikiss_400px_nobg.png
 
 ![PiKISS](/images/pikiss_400px_nobg.png)
 
-The next **Wednesday, 14 September** you have an appointment in the *Meet up*  at *Psykia Social Technology*. I'll give you a talk about [PiKISS](https://github.com/jmcerrejon/PiKISS) used to automate the installation of software.
+The next **Wednesday, 14 September** you have an appointment in the _Meet up_ at _Psykia Social Technology_. I'll give you a talk about [PiKISS](https://github.com/jmcerrejon/PiKISS) used to automate the installation of software.
 
-Link: [meetup.com](http://www.meetup.com/RaspberryPi-Hackers-Spain/events/233912821/#)
+Link: [meetup.com](https://www.meetup.com/RaspberryPi-Hackers-Spain/events/233912821/#)

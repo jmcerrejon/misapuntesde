@@ -8,9 +8,9 @@ date: 2014-06-11 10:11:24
 prev: /es/
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/2014/06/sonic_pi.png
 ---
 
@@ -18,9 +18,10 @@ image: /images/2014/06/sonic_pi.png
 
 ![Sonic Pi](/images/2014/06/sonic_pi.png)
 
-Curioso que por más que busco en mi blog, no encuentro ningún post donde haya mencionado *Sonic Pi*, y pronto veremos la versión 2.0 de este programa que permite un desarrollo gratuito para enseñar programación a través de la música...
+Curioso que por más que busco en mi blog, no encuentro ningún post donde haya mencionado _Sonic Pi_, y pronto veremos la versión 2.0 de este programa que permite un desarrollo gratuito para enseñar programación a través de la música...
 
-- - -
+---
+
 Con Sonic Pi vas a poder enseñar algunos concepto de programación a través de un entorno de programación sencillo, ideal para que empiecen desde la más temprana edad.
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/RTInHfmZXZY" frameborder="0" allowfullscreen></iframe>
@@ -29,7 +30,7 @@ Aquí tenéis un ejemplo sencillo para que os hagáis una idea:
 
 ```bash
 # flight of the bumblebee RasPi.TV style (or lack thereof)
-# http://raspi.tv/?p=5216
+# https://raspi.tv/?p=5216
 
 # first some rythms
 speed = 0.45  #set overall speed
@@ -43,8 +44,8 @@ demi = 0.125 * speed
 hemi = 0.0625 * speed
 ```
 
-Aún desconozco qué nuevas "features" tendrá esta nueva versión, pero en el artículo de la revista digital  [Mag Pi](http://www.themagpi.com/issue/issue-23/) del mes pasado tienes un artículo bastante completo.
+Aún desconozco qué nuevas "features" tendrá esta nueva versión, pero en el artículo de la revista digital [Mag Pi](https://www.themagpi.com/issue/issue-23/) del mes pasado tienes un artículo bastante completo.
 
-Enlace: [sonic-pi.net prerelease](http://sonic-pi.net/get-v2.0)
+Enlace: [sonic-pi.net prerelease](https://sonic-pi.net/get-v2.0)
 
-Enlace: [cl.cam.ac.uk > Sonic Pi](http://www.cl.cam.ac.uk/projects/raspberrypi/sonicpi/index.html)
+Enlace: [cl.cam.ac.uk > Sonic Pi](https://www.cl.cam.ac.uk/projects/raspberrypi/sonicpi/index.html)

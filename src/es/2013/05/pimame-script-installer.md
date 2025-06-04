@@ -8,21 +8,22 @@ date: 2013-05-01 13:21:00
 prev: /es/
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 ---
 
 # PiMAME script de instalación
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/xyj-a1OqA-w" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xyj-a1OqA-w" frameborder="0" allowfullscreen></iframe>
 
 Ante todo daros las gracias por las 30.000 visitas únicas de este vuestro blog que ya hemos pasado viviendo experiencias juntos con nuestra Raspberry Pi. ¡Hurraa!.
 
-Nuestro amigo *Shea Silverman* ha tenido la amabilidad de disponer para todos nosotros el script de instalación de su distribución *PiMAME*, con lo que vamos a poder disfrutar de sus compilaciones en cualquier sistema operativo que queramos. Vamos a ver cómo instalarlo.
+Nuestro amigo _Shea Silverman_ ha tenido la amabilidad de disponer para todos nosotros el script de instalación de su distribución _PiMAME_, con lo que vamos a poder disfrutar de sus compilaciones en cualquier sistema operativo que queramos. Vamos a ver cómo instalarlo.
 
-- - -
-El script instalará todo lo que necesitamos para ejecutar *PiMAME*, incluyendo *Web Frontend*, *servidor FTP*, etc...
+---
+
+El script instalará todo lo que necesitamos para ejecutar _PiMAME_, incluyendo _Web Frontend_, _servidor FTP_, etc...
 
 Vamos a instalarla. Entramos en nuestra distribución favorita y tecleamos:
 
@@ -43,7 +44,7 @@ sudo ./update.sh
 
 ```
 
-Para desinstalar *PiMAME*, nada más sencillo que teclear lo siguiente:
+Para desinstalar _PiMAME_, nada más sencillo que teclear lo siguiente:
 
 ```bash
 

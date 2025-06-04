@@ -8,9 +8,9 @@ date: 2016-02-01 12:00:00
 prev: /es/
 next: false
 category:
-  - Developer
+    - Developer
 tag:
-  - Developer
+    - Developer
 image: /images/2016/01/vagrant.png
 ---
 
@@ -20,17 +20,17 @@ image: /images/2016/01/vagrant.png
 
 Hoy me salgo un poco de la temática general del blog para tomar unos apuntes y recordar los pasos sobre algo que es trivial para un desarrollador.
 
-Este mes tengo que retomar un proyecto en [Laravel](https://laravel.com/) (un *framework PHP* para el que no lo conozca) y siendo sinceros, no toco el desarrollo web desde el verano pasado. Así que lo primero que voy a hacer es montar en mi equipo *Vagrant* para no tener que usar *LAMP* o *MAMP* y generar recursos innecesarios en mi ya vetusto *iMAC*. Vamos allá.
+Este mes tengo que retomar un proyecto en [Laravel](https://laravel.com/) (un _framework PHP_ para el que no lo conozca) y siendo sinceros, no toco el desarrollo web desde el verano pasado. Así que lo primero que voy a hacer es montar en mi equipo _Vagrant_ para no tener que usar _LAMP_ o _MAMP_ y generar recursos innecesarios en mi ya vetusto _iMAC_. Vamos allá.
 
-- - -
+---
 
 ![VagrantVsDocker](/images/2016/01/vagrantVsDocker.jpeg)
 
-Me ha costado un poco decidir montar un entorno *Docker* o *Vagrant*, pero me he decantado por el segundo para dedicarle algo más de tiempo a *Docker* más adelante. Para el que no lo conozca y de forma muy resumida, son contenedores que replican un sistema operativo (*Vagrant*) o un conjunto de aplicaciones (*Docker*), generalmente para hacer las funciones de servidor. Pasos a continuación:
+Me ha costado un poco decidir montar un entorno _Docker_ o _Vagrant_, pero me he decantado por el segundo para dedicarle algo más de tiempo a _Docker_ más adelante. Para el que no lo conozca y de forma muy resumida, son contenedores que replican un sistema operativo (_Vagrant_) o un conjunto de aplicaciones (_Docker_), generalmente para hacer las funciones de servidor. Pasos a continuación:
 
-1) Instalar manualmente [vagrant](http://www.vagrantup.com/downloads.html) y [VirtualBox](https://www.virtualbox.org/wiki/Downloads).
+1. Instalar manualmente [vagrant](https://www.vagrantup.com/downloads.html) y [VirtualBox](https://www.virtualbox.org/wiki/Downloads).
 
-2) Instalamos [composer](https://getcomposer.org/) y ejecutamos algunos comandos para configurar el sistema:
+2. Instalamos [composer](https://getcomposer.org/) y ejecutamos algunos comandos para configurar el sistema:
 
 ```bash
 curl -sS https://getcomposer.org/installer | php
@@ -44,7 +44,7 @@ sudo nano /etc/hosts y añadir:
 192.168.10.10  homestead.app
 ```
 
-3) Abrir nueva terminal y descargar componentes Homestead:
+3. Abrir nueva terminal y descargar componentes Homestead:
 
 ```bash
 vagrant box add laravel/homestead
@@ -53,17 +53,17 @@ composer global require "laravel/homestead=~2.0"
 
 ![Homestead_config](/images/2016/01/Homestead_config.png)
 
-4) Abrir nueva terminal y ejecutar: *homestead init y homestead edit* si quieres editar el fichero de configuración (opcional). Yo por ejemplo cambiaría el *path* de la carpeta **folders - map: y sites: to:** a la ruta donde tenga montado el proyecto.
+4. Abrir nueva terminal y ejecutar: _homestead init y homestead edit_ si quieres editar el fichero de configuración (opcional). Yo por ejemplo cambiaría el _path_ de la carpeta **folders - map: y sites: to:** a la ruta donde tenga montado el proyecto.
 
-5) Para arrancar el equipo: **homestead up** y si lo quieres reiniciar, usa vagrant **global-status** para obtener el *ID* y luego **vagrant reload ID**. Para acceder a el: **vagrant ssh ID**.
+5. Para arrancar el equipo: **homestead up** y si lo quieres reiniciar, usa vagrant **global-status** para obtener el _ID_ y luego **vagrant reload ID**. Para acceder a el: **vagrant ssh ID**.
 
 ![Laravel](/images/2016/01/laravel.png)
 
-Comenzará a descargarse una imagen para *VirtualBox* y se ejecutará automáticamente. Si todo ha ido bien, tan sólo debemos acceder desde nuestro navegador a la dirección: [http://homestead.app](http://homestead.app)
+Comenzará a descargarse una imagen para _VirtualBox_ y se ejecutará automáticamente. Si todo ha ido bien, tan sólo debemos acceder desde nuestro navegador a la dirección: [https://homestead.app](https://homestead.app)
 
-Si te encuentras un error **No input file specified** en el navegador, significa que la carpeta *folders* del fichero *Homestead.yaml* no apunta correctamente a la ruta correcta. Revisa los parámetros *folder y sites* y luego ejecuta **vagrant destroy ID && homestead up**. No estoy seguro si es mejor otra opción a la de destruir la máquina y levantarla de nuevo.
+Si te encuentras un error **No input file specified** en el navegador, significa que la carpeta _folders_ del fichero _Homestead.yaml_ no apunta correctamente a la ruta correcta. Revisa los parámetros _folder y sites_ y luego ejecuta **vagrant destroy ID && homestead up**. No estoy seguro si es mejor otra opción a la de destruir la máquina y levantarla de nuevo.
 
-Algunos comandos útiles para el comando *vagrant*:
+Algunos comandos útiles para el comando _vagrant_:
 
 ```bash
      box             manages boxes: installation, removal, etc.

@@ -8,9 +8,9 @@ date: 2013-01-29 19:10:00
 prev: /es/
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/server.jpg
 ---
 
@@ -24,4 +24,4 @@ Casualmente hoy ha puesto a disposición de todos una guía muy completa para co
 
 Gracias Jeremy!
 
-Enlace: [jeremymorgan.com](http://www.jeremymorgan.com/tutorials/raspberry-pi/how-to-raspberry-pi-file-server/)
+Enlace: [jeremymorgan.com](https://www.jeremymorgan.com/tutorials/raspberry-pi/how-to-raspberry-pi-file-server/)

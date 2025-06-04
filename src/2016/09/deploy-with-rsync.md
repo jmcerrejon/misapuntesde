@@ -8,9 +8,9 @@ date: 2016-09-27 08:00:00
 prev: /
 next: false
 category:
-  - Developer
+    - Developer
 tag:
-  - Developer
+    - Developer
 image: /images/2016/09/deploy_hommer.jpg
 ---
 
@@ -18,14 +18,15 @@ image: /images/2016/09/deploy_hommer.jpg
 
 ![deploy_hommer](/images/2016/09/deploy_hommer.jpg)
 
-*Deploy* for developers means that we upload the changes we have on our development server or local, to production (your hosting provider usually).
+_Deploy_ for developers means that we upload the changes we have on our development server or local, to production (your hosting provider usually).
 
-There are many ways to do this: *ftp, scp, Git, Fabric, Envoy, rsync, etc*. Today I want to show you the script I use on every web project to upload changes, based on *rsync*. For me it's the easier and safer method.
+There are many ways to do this: _ftp, scp, Git, Fabric, Envoy, rsync, etc_. Today I want to show you the script I use on every web project to upload changes, based on _rsync_. For me it's the easier and safer method.
 
-- - -
+---
+
 ![Deploy](/images/2016/09/deploy.png)
 
-What I do is create two files in each project: *deploy.sh* and *.rsignore*. The first one I invoke every time I want to upload the changes to the production server, and the second one is where I add each file or directory I want to ignore when *deploy*.
+What I do is create two files in each project: _deploy.sh_ and _.rsignore_. The first one I invoke every time I want to upload the changes to the production server, and the second one is where I add each file or directory I want to ignore when _deploy_.
 
 ```bash
 # Files to ignore using rsync
@@ -39,9 +40,10 @@ What I do is create two files in each project: *deploy.sh* and *.rsignore*. The 
 *.zip
 deploy.sh
 ```
+
 ### ### .rsignore example file
 
-The next *deploy.sh* example file is the script I use with my *Raspberry Pi* when I want to share a website with a client in a particular way to show my progress. I've tested in *macOS*, but should work with any *Linux* distribution.
+The next _deploy.sh_ example file is the script I use with my _Raspberry Pi_ when I want to share a website with a client in a particular way to show my progress. I've tested in _macOS_, but should work with any _Linux_ distribution.
 
 ```bash
 #! /usr/bin/env bash
@@ -89,4 +91,4 @@ esac
 
 What method do you use when deploy?. See you in the comments.
 
-Link: [computerhope.com > rsync](http://www.computerhope.com/unix/rsync.htm)
+Link: [computerhope.com > rsync](https://www.computerhope.com/unix/rsync.htm)

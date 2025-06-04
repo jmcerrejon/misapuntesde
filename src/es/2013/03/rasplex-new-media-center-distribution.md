@@ -8,17 +8,17 @@ date: 2013-03-18 13:40:00
 prev: /es/
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 ---
 
 # RasPlex: Nueva distribución Media Center
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/n2d4c8JIT0E" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n2d4c8JIT0E" frameborder="0" allowfullscreen></iframe>
 
-*Hugo Ruíz*, un lector del blog, me comentó hace varios días la salida de esta distribución basada en *OpenELEC*, pero usando la aplicación *Plex*, que como muchos sabréis, es una alternativa con bastantes seguidores al *XBMC.*
+_Hugo Ruíz_, un lector del blog, me comentó hace varios días la salida de esta distribución basada en _OpenELEC_, pero usando la aplicación _Plex_, que como muchos sabréis, es una alternativa con bastantes seguidores al _XBMC._
 
-Aún está en fase beta, pero funciona bastante bien. Soporta *AirPlay* y *AirTunes.*
+Aún está en fase beta, pero funciona bastante bien. Soporta _AirPlay_ y _AirTunes._
 
-Enlace: [RasPlex](http://rasplex.com/)
+Enlace: [RasPlex](https://rasplex.com/)

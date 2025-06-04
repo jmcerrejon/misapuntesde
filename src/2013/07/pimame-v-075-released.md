@@ -8,9 +8,9 @@ date: 2013-07-07 08:00:00
 prev: /
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/PiMAME.jpg
 ---
 
@@ -18,26 +18,27 @@ image: /images/PiMAME.jpg
 
 ![PiMAME](/images/PiMAME.jpg)
 
-After several betas, and having very close another version that will include *ScummVM* and *Gearboy*, we have with us this new version of *PiMAME* to enjoy this Sunday.
+After several betas, and having very close another version that will include _ScummVM_ and _Gearboy_, we have with us this new version of _PiMAME_ to enjoy this Sunday.
 
-- - -
-Includes *Stella (Atari 2600 emulator)* and the famous *Cavestory*. Remember that in this new version is included in their betas other emus. Let's review what we can currently emulate or play with this distribution:
+---
 
-* Cavestory
+Includes _Stella (Atari 2600 emulator)_ and the famous _Cavestory_. Remember that in this new version is included in their betas other emus. Let's review what we can currently emulate or play with this distribution:
 
-* Stella (Atari 2600)
+-   Cavestory
 
-* MAME4ALL
+-   Stella (Atari 2600)
 
-* SNES9X
+-   MAME4ALL
 
-* PCSX_ReARMed (PlayStation)
+-   SNES9X
 
-* GNGeo (Neo Geo)
+-   PCSX_ReARMed (PlayStation)
 
-* AdvanceMAME 1.2
+-   GNGeo (Neo Geo)
 
-Download: [pimame-0.7.5.img.zip (1.1 GB)](http://sourceforge.net/projects/pimame/files/pimame-0.7.5.img.zip/download)
+-   AdvanceMAME 1.2
+
+Download: [pimame-0.7.5.img.zip (1.1 GB)](https://sourceforge.net/projects/pimame/files/pimame-0.7.5.img.zip/download)
 
 EXTRA!:
 

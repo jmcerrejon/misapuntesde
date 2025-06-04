@@ -8,9 +8,9 @@ date: 2016-07-24 09:20:00
 prev: /es/
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 image: /images/2016/07/rpi2_server.jpg
 ---
 
@@ -18,58 +18,59 @@ image: /images/2016/07/rpi2_server.jpg
 
 ![rpi2_server](/images/2016/07/rpi2_server.jpg)
 
-No sé si he comentado que me voy de vacaciones a Girona dentro de poco y probablemente no tenga *WiFi* allá donde vaya. Necesito un servidor con las siguientes características para sobrevivir:
+No sé si he comentado que me voy de vacaciones a Girona dentro de poco y probablemente no tenga _WiFi_ allá donde vaya. Necesito un servidor con las siguientes características para sobrevivir:
 
-* *Media Center* para conectar a la TV que me encuentre en el apartamento via *HDMI/RGB*.
+-   _Media Center_ para conectar a la TV que me encuentre en el apartamento via _HDMI/RGB_.
 
-* *Hotspot* para conectarme de forma remota a la Pi desde mis *iDevices (iPad, iPhone)*.
+-   _Hotspot_ para conectarme de forma remota a la Pi desde mis _iDevices (iPad, iPhone)_.
 
-* *DLNA* por si quiero ver desde mi *iPad* algo en *streaming*.
+-   _DLNA_ por si quiero ver desde mi _iPad_ algo en _streaming_.
 
-* *Samba* para descargar libros o cualquier fichero compartido en un *HD*.
+-   _Samba_ para descargar libros o cualquier fichero compartido en un _HD_.
 
-* Para desarrollar: *Git, servidor web, MySQL y algún que otro Framework*.
+-   Para desarrollar: _Git, servidor web, MySQL y algún que otro Framework_.
 
-Os cuento mi experiencia de cómo he preparado una *Raspberry Pi 2* con lo necesario utilizando como sistema operativo *DietPi*. Todo en el siguiente post. ¡Pasa!
+Os cuento mi experiencia de cómo he preparado una _Raspberry Pi 2_ con lo necesario utilizando como sistema operativo _DietPi_. Todo en el siguiente post. ¡Pasa!
 
-- - -
+---
+
 ![htop en DietPi](/images/2016/07/dietpi_htop.png "htop en DietPi")
 
 ### [ Ingredientes ]
 
 Hablando de hardware, lo mínimo que voy a necesitar estas vacaciones para montar mi propio servidor descentralizado es:
 
-* Raspberry Pi 2 Modelo B
+-   Raspberry Pi 2 Modelo B
 
-* HD 1 TB + HUB USB alimentado
+-   HD 1 TB + HUB USB alimentado
 
-* Dispositivo Wireless USB económico (rt3750)
+-   Dispositivo Wireless USB económico (rt3750)
 
 ¿Qué sistema operativo puedo utilizar para instalar y configurar todo este software sin apenas esfuerzo?. Pues como he comentado, **DietPi es la elección más acertada** porque consume muy poco recursos y tan sólo instala lo que necesitas.
 
-Tengo muchas placas amontonadas en casa. He optado por la *Raspberry Pi 2* porque necesito la máxima compatibilidad con el sistema. Creo que *DietPi* soporta bastante más aplicaciones en esta placa que en las demás, aunque no lo he comprobado.
+Tengo muchas placas amontonadas en casa. He optado por la _Raspberry Pi 2_ porque necesito la máxima compatibilidad con el sistema. Creo que _DietPi_ soporta bastante más aplicaciones en esta placa que en las demás, aunque no lo he comprobado.
 
-Software que voy a necesitar (El listado completo de paquetes que puedes instalar lo puedes encontrar en [fuzon.co.uk](http://fuzon.co.uk/phpbb/viewtopic.php?f=8&t=5)): 
+Software que voy a necesitar (El listado completo de paquetes que puedes instalar lo puedes encontrar en [fuzon.co.uk](https://fuzon.co.uk/phpbb/viewtopic.php?f=8&t=5)):
 
-* Kodi
+-   Kodi
 
-* MiniDLNA
+-   MiniDLNA
 
-* Samba
+-   Samba
 
-* LEMP: Nginx/(MySql)/PHP + Phpmyadmin
+-   LEMP: Nginx/(MySql)/PHP + Phpmyadmin
 
-* ALSA sound
+-   ALSA sound
 
-* Hotspot
+-   Hotspot
 
-Me voy a saltar la parte de grabar la imagen en una microSD y ejecutar la instalación del software porque es bastante trivial. Vamos a ver las posibles incidencias que podemos encontrarnos en cada caso a la hora de utilizar los distintos programas. 
+Me voy a saltar la parte de grabar la imagen en una microSD y ejecutar la instalación del software porque es bastante trivial. Vamos a ver las posibles incidencias que podemos encontrarnos en cada caso a la hora de utilizar los distintos programas.
 
 ### [ Autologin ]
 
-Bueno, esto es una configuración previa más que nada para no tener que autentificarme en el sistema en cada reinicio. 
+Bueno, esto es una configuración previa más que nada para no tener que autentificarme en el sistema en cada reinicio.
 
-Creamos el fichero */etc/systemd/system/getty@tty1.service.d/autologin.conf* y añadimos:
+Creamos el fichero _/etc/systemd/system/getty@tty1.service.d/autologin.conf_ y añadimos:
 
 ```bash
 [Service]
@@ -83,17 +84,17 @@ Ahora ejecutamos **systemctl enable getty@tty1.service** y al reiniciar ya no no
 
 ![xbmc](/images/xbmc.jpg)
 
-Cuando quiero ver algún contenido multimedia, simplemente escribo **kodi** y, aunque es la *versión 15.2*, funciona perfectamente. Puedes hacer que arranque directamente desde las opciones de *dietpi-config > Autostart Options*.
+Cuando quiero ver algún contenido multimedia, simplemente escribo **kodi** y, aunque es la _versión 15.2_, funciona perfectamente. Puedes hacer que arranque directamente desde las opciones de _dietpi-config > Autostart Options_.
 
-Cuando elijas la opción de salir, se queda la pantalla en negro. Debes volver a la primera terminal *tty0* pulsando *ctrl+alt+F1*
+Cuando elijas la opción de salir, se queda la pantalla en negro. Debes volver a la primera terminal _tty0_ pulsando _ctrl+alt+F1_
 
 ### [ MiniDLNA ]
 
 ![MiniDLNA](/images/2014/06/minidlna.png)
 
-Con *Samba* no vamos a poder reproducir contenido multimedia de gran tamaño. Para poder ver de forma remota los video tutoriales/pelis/series que tengo almacenados, necesito soporte *DLNA*. **MiniDLNA**, aparte de que ya lo he utilizado y [comentado](/post.php?id=423) en alguna otra ocasión, es justo lo que necesito.
+Con _Samba_ no vamos a poder reproducir contenido multimedia de gran tamaño. Para poder ver de forma remota los video tutoriales/pelis/series que tengo almacenados, necesito soporte _DLNA_. **MiniDLNA**, aparte de que ya lo he utilizado y [comentado](/post.php?id=423) en alguna otra ocasión, es justo lo que necesito.
 
-Debemos copiar el contenido que queramos reproducir dentro de las carpetas que nos ha creado en */mnt/dietpi_userdata* (*Videos, Pictures y Music*). Esto lo puedes modificar en el fichero */etc/minidlna.conf*. Si el contenido que ves en tus dispositivos no está actualizado, necesitas refrescar la base de datos del servidor. Basta con ejecutar lo siguiente:
+Debemos copiar el contenido que queramos reproducir dentro de las carpetas que nos ha creado en _/mnt/dietpi_userdata_ (_Videos, Pictures y Music_). Esto lo puedes modificar en el fichero _/etc/minidlna.conf_. Si el contenido que ves en tus dispositivos no está actualizado, necesitas refrescar la base de datos del servidor. Basta con ejecutar lo siguiente:
 
 ```bash
 minidlnad -R
@@ -102,9 +103,9 @@ service minidlna restart
 
 ### [ Compartir ficheros a través de la red ]
 
-Nada del otro mundo. el usuario es **root** y la contraseña **dietpi** (como en casi todo el software instalado). Para acceder desde mis *iDevices*, uso la app *File Hub* o en el caso de *Android ES Explorador de ficheros*. Para ficheros multimedia, *VLC*.
+Nada del otro mundo. el usuario es **root** y la contraseña **dietpi** (como en casi todo el software instalado). Para acceder desde mis _iDevices_, uso la app _File Hub_ o en el caso de _Android ES Explorador de ficheros_. Para ficheros multimedia, _VLC_.
 
-Como extra, he añadido al final del fichero de configuración de *Samba* que se ubica en */etc/samba/smb.conf* lo siguiente para poder acceder a la carpeta donde almaceno los desarrollos web:
+Como extra, he añadido al final del fichero de configuración de _Samba_ que se ubica en _/etc/samba/smb.conf_ lo siguiente para poder acceder a la carpeta donde almaceno los desarrollos web:
 
 ```bash
 [www]
@@ -126,9 +127,9 @@ Para activar los cambios: **systemctl stop samba-ad-dc.service && systemctl star
 
 Daos cuenta que mi perfil es de desarrollador, por lo que muchos de los paquetes a instalar son para poder tener un equipo donde almacenar el código y que me sirva también de servidor. Esta parte te la puedes saltar si no es tu caso.
 
-Voy a preparar un entorno para programar con mis *Frameworks* favoritos actualmente: *Laravel y Vue.JS*. Yo si que sé marcharme de vacaciones y desconectar, ¿Eh? ;P
+Voy a preparar un entorno para programar con mis _Frameworks_ favoritos actualmente: _Laravel y Vue.JS_. Yo si que sé marcharme de vacaciones y desconectar, ¿Eh? ;P
 
-He instalado *LEMP (Nginx, MySQL, PHP)*. Si te diriges a la url de tu *RPi* podrás ver que ha cargado una versión básica de un documento *html* situado en */var/www/html*. Lo primero que voy a hacer es instalar *composer*, que nos facilitará la instalación de dependencias en nuestro proyecto de Laravel:
+He instalado _LEMP (Nginx, MySQL, PHP)_. Si te diriges a la url de tu _RPi_ podrás ver que ha cargado una versión básica de un documento _html_ situado en _/var/www/html_. Lo primero que voy a hacer es instalar _composer_, que nos facilitará la instalación de dependencias en nuestro proyecto de Laravel:
 
 ```bash
 php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
@@ -137,13 +138,14 @@ php composer-setup.php
 php -r "unlink('composer-setup.php');"
 mv composer.phar /usr/bin/composer
 ```
+
 ### ### Instalando Composer
 
-Nos alerta de que **no ejecutemos** *composer* como root, pero en nuestro caso nos da igual.
+Nos alerta de que **no ejecutemos** _composer_ como root, pero en nuestro caso nos da igual.
 
-* Para *Laravel* ejecutamos lo siguiente dentro de */var/www/html*: **composer global require "laravel/installer"**. Una vez instalado, tan sólo tenemos que ejecutar **~/.composer/vendor/bin/laravel new blog**
+-   Para _Laravel_ ejecutamos lo siguiente dentro de _/var/www/html_: **composer global require "laravel/installer"**. Una vez instalado, tan sólo tenemos que ejecutar **~/.composer/vendor/bin/laravel new blog**
 
-Editamos el fichero */etc/php5/fpm/php.ini* y modificamos el código para que aparezca **cgi.fix_pathinfo=0**.
+Editamos el fichero _/etc/php5/fpm/php.ini_ y modificamos el código para que aparezca **cgi.fix_pathinfo=0**.
 
 Para propagar los permisos necesarios:
 
@@ -151,15 +153,16 @@ Para propagar los permisos necesarios:
 chown -R :www-data /var/www/html/blog
 chmod -R 775 /var/www/html/blog/storage
 ```
+
 ### ### Modificando permisos de mi directorio blog.
 
 Ahora ejecutamos **service php5-fpm restart && service nginx restart** y deberíamos poder acceder desde el navegador a nuestro site en Laravel.
 
 ![Laravel](/images/2016/07/laravel.png)
 
-* *Vue.JS* tan sólo necesita un fichero *.js* que copiaremos en algún lugar de nuestro proyecto.
+-   _Vue.JS_ tan sólo necesita un fichero _.js_ que copiaremos en algún lugar de nuestro proyecto.
 
-Para editar las bases de datos, *phpmyadmin* es la mejor solución. Si vas a usar *Laravel*, deberás mover la carpeta desde */var/www/phpmyadmin* al directorio */public* de tu proyecto.
+Para editar las bases de datos, _phpmyadmin_ es la mejor solución. Si vas a usar _Laravel_, deberás mover la carpeta desde _/var/www/phpmyadmin_ al directorio _/public_ de tu proyecto.
 
 ### [ Hotspot en DietPi ]
 
@@ -169,7 +172,7 @@ Mis aventuras y desventuras las habéis podido leer en el artículo que publiqu�
 
 ![mame](/images/mame.jpg)
 
-Bueno, a veces no viene nada mal echar unas partidas al *MAME*, así que utilizaré [éste](https://github.com/jmcerrejon/PiKISS/blob/55188f5cec94b322eb047697d66b00673e839062/scripts/emus/mame4allpi.sh) script procedente de [PiKISS](https://github.com/jmcerrejon/PiKISS) para instalarlo. No he tenido en cuenta las librerías *SDL* en dicho script, así que tendrás que instalarlas. También os muestro algunos comandos más:
+Bueno, a veces no viene nada mal echar unas partidas al _MAME_, así que utilizaré [éste](https://github.com/jmcerrejon/PiKISS/blob/55188f5cec94b322eb047697d66b00673e839062/scripts/emus/mame4allpi.sh) script procedente de [PiKISS](https://github.com/jmcerrejon/PiKISS) para instalarlo. No he tenido en cuenta las librerías _SDL_ en dicho script, así que tendrás que instalarlas. También os muestro algunos comandos más:
 
 ```bash
 apt install -y libsdl1.2debian libsdl-image1.2 libsdl-ttf2.0-0

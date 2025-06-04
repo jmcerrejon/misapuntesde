@@ -8,11 +8,11 @@ date: 2013-03-12 08:30:00
 prev: /es/
 next: false
 category:
-  - Raspberry PI
-  - Apple
+    - Raspberry PI
+    - Apple
 tag:
-  - Raspberry PI
-  - Apple
+    - Raspberry PI
+    - Apple
 image: /images/piclonerwriter.jpg
 ---
 
@@ -20,9 +20,9 @@ image: /images/piclonerwriter.jpg
 
 ![pipi](/images/piclonerwriter.jpg)
 
-Os traigo dos aplicaciones en *Mac* para crear una copia de seguridad de vuestra tarjeta SD *(PiCloner)* y otra que actúa como interface para copiar el sistema operativo desde el fichero *.img* a la *SD (PiWriter).*
+Os traigo dos aplicaciones en _Mac_ para crear una copia de seguridad de vuestra tarjeta SD _(PiCloner)_ y otra que actúa como interface para copiar el sistema operativo desde el fichero _.img_ a la _SD (PiWriter)._
 
-Y ya que no está de más, os recuerdo la manera correcta de hacer lo mismo que *PiWriter* en la *Termina* de *Mac.*:
+Y ya que no está de más, os recuerdo la manera correcta de hacer lo mismo que _PiWriter_ en la _Termina_ de _Mac._:
 
 ```bash
 
@@ -34,6 +34,6 @@ $ diskutil eject /dev/diskN
 
 ```
 
-Enlace: [PiCloner](http://sourceforge.net/projects/picloner/)
+Enlace: [PiCloner](https://sourceforge.net/projects/picloner/)
 
-Enlace: [PiWriter](http://sourceforge.net/projects/piwriter/)
+Enlace: [PiWriter](https://sourceforge.net/projects/piwriter/)

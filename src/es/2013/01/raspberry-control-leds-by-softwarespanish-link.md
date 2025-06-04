@@ -8,15 +8,15 @@ date: 2013-01-19 07:00:00
 prev: /es/
 next: false
 category:
-  - Raspberry PI
+    - Raspberry PI
 tag:
-  - Raspberry PI
+    - Raspberry PI
 ---
 
 # Raspberry, controlar el LED de lectura de la SD por software
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/pAgIc4kmamE" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/pAgIc4kmamE" frameborder="0" allowfullscreen></iframe>
 
-El led marcado como *ACT*, que indica que se esta usando la memoria *SD*, se puede  controlar por software. Vamos a ver cómo hacerlo tanto desde el /sys de *Linux*  como desde un programa en *C*.
+El led marcado como _ACT_, que indica que se esta usando la memoria _SD_, se puede controlar por software. Vamos a ver cómo hacerlo tanto desde el /sys de _Linux_ como desde un programa en _C_.
 
-Enlace: [systemadmin.es](http://systemadmin.es/2013/01/raspberry-controlar-el-led-de-lectura-de-la-sd-por-software)
+Enlace: [systemadmin.es](https://systemadmin.es/2013/01/raspberry-controlar-el-led-de-lectura-de-la-sd-por-software)
