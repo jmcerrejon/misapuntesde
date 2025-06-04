@@ -11,6 +11,7 @@ category:
   - Apple
 tag:
   - Apple
+image: /images/bundle.jpg
 ---
 
 # Apps for Mac, from 117$ to 0$

@@ -13,6 +13,7 @@ category:
 tag:
   - Apple
   - Linux
+image: /images/2016/08/Subtitles-64.png
 ---
 
 # Extract subtitles from mp4 files using MP4Box

@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2015/07/otto_01.png
 ---
 
 # Introducing OTTO, the camera with Raspberry Pi inside

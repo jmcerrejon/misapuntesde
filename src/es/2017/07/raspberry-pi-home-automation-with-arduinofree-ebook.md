@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2017/07/Raspberry_Pi_Home%20Automation.png
 ---
 
 # Automatización del hogar con Raspberry Pi y Arduino(Ebook gratis)

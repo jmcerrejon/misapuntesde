@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/dlna.jpg
 ---
 
 # MiniDLNA 1.1.4 para Raspberry Pi (binario)

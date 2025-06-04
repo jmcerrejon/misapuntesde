@@ -8,6 +8,7 @@ category:
     - Developer
 tags:
     - Git
+image: /images/2024/11/git_branch.jpg
 ---
 
 # My Ultimate Git Guide for Developers

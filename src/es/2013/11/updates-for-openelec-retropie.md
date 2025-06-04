@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2013/11/updates.jpg
 ---
 
 # Tanda de actualizaciones: OpenELEC y RetroPie

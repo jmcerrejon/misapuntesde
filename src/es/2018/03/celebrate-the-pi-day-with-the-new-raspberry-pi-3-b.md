@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2018/03/rpi3bp.jpg
 ---
 
 # ¡Celebra el día Pi con la nueva Raspberry Pi 3 B+!

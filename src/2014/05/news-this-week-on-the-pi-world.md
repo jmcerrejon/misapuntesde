@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/RetroPie_06.jpg
 ---
 
 # News this week on the Pi World

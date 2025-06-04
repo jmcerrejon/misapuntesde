@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2014/06/torPI.png
 ---
 
 # Tor or how to hide your tracks on the Internet

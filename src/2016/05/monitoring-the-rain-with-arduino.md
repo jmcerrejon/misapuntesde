@@ -11,6 +11,7 @@ category:
   - Arduino
 tag:
   - Arduino
+image: /images/2016/05/rain_sensor_project.jpg
 ---
 
 # Monitoring the rain with Arduino

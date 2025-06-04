@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2014/08/hataday.png
 ---
 
 # Adafruit presenta HAT-A-DAY

@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/mcpi_hacking.jpg
 ---
 
 # Cómo hackear Minecraft Pi Edition

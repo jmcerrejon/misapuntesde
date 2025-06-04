@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2017/03/comando_mame.png
 ---
 
 # Nuevas versiones de MAME para la Raspberry Pi

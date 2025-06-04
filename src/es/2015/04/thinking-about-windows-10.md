@@ -11,6 +11,7 @@ category:
   - General
 tag:
   - General
+image: /images/2015/04/win_rpi_r.png
 ---
 
 # Pensando en Windows 10

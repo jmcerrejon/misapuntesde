@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2014/07/copy_01.png
 ---
 
 # Servicio en la nube Copy.com para Raspberry Pi

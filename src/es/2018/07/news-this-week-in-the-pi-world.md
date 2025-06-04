@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/c64.jpg
 ---
 
 # Han sido noticia esta semana en el mundo Pi

@@ -11,6 +11,7 @@ category:
   - Linux
 tag:
   - Linux
+image: /images/2015/06/lamp.png
 ---
 
 # Arch Linux + LAMP

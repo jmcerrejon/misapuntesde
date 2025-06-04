@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/rpi-remote.jpg
 ---
 
 # Android app to control omxplayer

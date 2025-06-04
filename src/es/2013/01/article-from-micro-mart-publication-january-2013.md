@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/micromartEne13.jpg
 ---
 
 # Artículo de la revista Micro Mart (Enero 2013)

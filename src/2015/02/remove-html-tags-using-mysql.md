@@ -11,6 +11,7 @@ category:
   - Developer
 tag:
   - Developer
+image: /images/2015/02/mysql.png
 ---
 
 # Remove HTML tags using mysql

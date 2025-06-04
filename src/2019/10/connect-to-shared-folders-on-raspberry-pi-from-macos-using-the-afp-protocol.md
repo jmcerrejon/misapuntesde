@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2019/10/afp-smb-apple-mac.jpg
 ---
 
 # Connect to shared folders on Raspberry Pi from macOS using the AFP protocol

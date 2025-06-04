@@ -15,6 +15,7 @@ tag:
   - Apple
   - General
   - Linux
+image: /images/2020/04/compress.png
 ---
 
 # Las mejores opciones para comprimir ficheros y directorios

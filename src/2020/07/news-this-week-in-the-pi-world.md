@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2020/07/lcd.png
 ---
 
 # News this week in the Pi World!

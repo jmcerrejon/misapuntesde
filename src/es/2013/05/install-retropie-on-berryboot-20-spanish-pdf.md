@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/berryboot.jpg
 ---
 
 # Instalar RetroPie en BerryBoot 2.0 (pdf)

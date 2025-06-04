@@ -11,6 +11,7 @@ category:
   - Linux
 tag:
   - Linux
+image: /images/2015/04/ubuntu_vivit.png
 ---
 
 # Ubuntu 15.04 released!

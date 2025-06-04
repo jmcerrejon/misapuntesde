@@ -15,6 +15,7 @@ tag:
   - Linux
   - Raspberry PI
   - ODROID
+image: /images/2015/05/superheroes.jpg
 ---
 
 # Playing with OpenBOR

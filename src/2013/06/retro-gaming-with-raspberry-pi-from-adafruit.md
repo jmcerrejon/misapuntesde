@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/ada_retrogaming.jpg
 ---
 
 # Retro Gaming with Raspberry Pi from Adafruit

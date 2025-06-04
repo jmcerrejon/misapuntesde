@@ -13,6 +13,7 @@ category:
 tag:
   - Linux
   - Raspberry PI
+image: /images/prosody.jpg
 ---
 
 # Configurar Prosody para tener tu propia sala de chat

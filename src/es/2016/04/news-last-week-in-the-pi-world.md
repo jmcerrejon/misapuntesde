@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2016/04/speed_car.png
 ---
 
 # Fueron noticia la semana pasada en el mundo Pi

@@ -11,6 +11,7 @@ category:
   - Developer
 tag:
   - Developer
+image: /images/2016/09/deploy_hommer.jpg
 ---
 
 # Deploy with rsync

@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/msx.png
 ---
 
 # openMSX 0.13.0 para Raspberry Pi

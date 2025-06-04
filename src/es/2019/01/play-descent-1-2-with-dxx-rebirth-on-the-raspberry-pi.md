@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2015/03/descent.png
 ---
 
 # Juega Descent 1 & 2 con DXX-Rebirth en tu Raspberry Pi

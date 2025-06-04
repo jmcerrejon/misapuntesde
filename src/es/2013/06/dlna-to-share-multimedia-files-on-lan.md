@@ -13,6 +13,7 @@ category:
 tag:
   - Raspberry PI
   - Linux
+image: /images/dlna.jpg
 ---
 
 # DLNA para compartir ficheros multimedia en la red

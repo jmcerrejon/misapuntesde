@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/raspflash.jpg
 ---
 
 # Consejos de ahorro de energía

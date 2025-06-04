@@ -13,6 +13,7 @@ category:
 tag:
   - Raspberry PI
   - ODROID
+image: /images/2020/04/ubuntu-server.png
 ---
 
 # ¡Han sido noticia en el Mundo Pi!

@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2014/12/gamebox-logo.png
 ---
 
 # Demo XBMC-Gamebox: Airplay mirroring para Raspberry Pi (Youtube)

@@ -13,6 +13,7 @@ category:
 tag:
   - General
   - Developer
+image: /images/2013/07/lupa.jpg
 ---
 
 # ¡Ya tenemos buscador en el blog!

@@ -11,6 +11,7 @@ category:
   - General
 tag:
   - General
+image: /images/migration.jpg
 ---
 
 # Migrando de hosting...

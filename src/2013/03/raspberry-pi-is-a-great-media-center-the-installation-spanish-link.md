@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/raspxbmc.jpg
 ---
 
 # Raspberry Pi is a great Media Center: The installation (Spanish link)

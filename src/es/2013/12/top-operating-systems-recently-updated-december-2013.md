@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/sd%20pile.png
 ---
 
 # Top Sistemas Operativos actualizados recientemente (Dic 2013)

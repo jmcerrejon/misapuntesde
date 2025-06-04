@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/tvreadhead.jpg
 ---
 
 # Streaming de canales en Raspberry Pi 

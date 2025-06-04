@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/xakatahome.jpg
 ---
 
 # Mi proyecto de portátil con una Raspberry Pi (Parte 1)

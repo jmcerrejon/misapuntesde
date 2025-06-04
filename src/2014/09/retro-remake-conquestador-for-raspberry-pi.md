@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2014/09/3luces.png
 ---
 
 # Retro-remake: Conquestador for Raspberry Pi

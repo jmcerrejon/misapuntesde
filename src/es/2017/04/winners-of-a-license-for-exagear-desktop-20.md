@@ -13,6 +13,7 @@ category:
 tag:
   - General
   - Raspberry PI
+image: /images/2015/06/ExaGear_Desktop_tr.png
 ---
 
 # Ganadores del sorteo Exagear Desktop 2.0

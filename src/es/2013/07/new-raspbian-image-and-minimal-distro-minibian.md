@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/raspflash.jpg
 ---
 
 # Nueva imagen de Raspbian y una distro minimal llamada MINIBIAN

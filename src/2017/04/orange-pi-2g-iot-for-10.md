@@ -11,6 +11,7 @@ category:
   - Orange Pi
 tag:
   - Orange Pi
+image: /images/2017/04/orange2g.png
 ---
 
 # Orange PI 2G-IOT for $10

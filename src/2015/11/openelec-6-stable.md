@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2015/11/openelec6.png
 ---
 
 # OpenELEC 6 stable

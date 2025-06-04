@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2014/02/picore_desktop_02_min.jpg
 ---
 
 # Discovering Picore (Part II)

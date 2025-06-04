@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2014/03/armiga.jpg
 ---
 
 # Han sido noticia esta semana en el mundo Pi y... ¡Concurso inside!

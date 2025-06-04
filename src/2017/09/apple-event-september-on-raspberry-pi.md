@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2017/09/keynote_Sep2k17.jpg
 ---
 
 # Apple Event September on Raspberry Pi

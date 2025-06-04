@@ -15,6 +15,7 @@ tag:
   - Raspberry PI
   - Linux
   - Apple
+image: /images/spectrum_01.jpg
 ---
 
 # Juega al Spectrum con Unreal Speccy Portable

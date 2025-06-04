@@ -9,6 +9,7 @@ category:
 tags:
   - ai
   - prompts
+image: /images/2024/03/ai_writing.png
 ---
 # Prompts para mejorar tus textos usando Inteligencia Artificial
 

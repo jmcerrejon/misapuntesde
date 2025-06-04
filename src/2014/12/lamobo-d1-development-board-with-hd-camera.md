@@ -13,6 +13,7 @@ category:
 tag:
   - Raspberry PI
   - Banana Pi
+image: /images/2014/11/LamoboD1.png
 ---
 
 # Lamobo D1: development board with HD camera

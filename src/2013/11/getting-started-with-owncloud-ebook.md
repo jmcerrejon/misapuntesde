@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2013/11/owncloud.jpg
 ---
 
 # Getting Started with ownCloud (Ebook)

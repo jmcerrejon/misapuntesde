@@ -13,6 +13,7 @@ category:
 tag:
   - Raspberry PI
   - ODROID
+image: /images/2017/06/snes.png
 ---
 
 # News this week in the Pi World

@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/geekbox.png
 ---
 
 # GeeXboX 3.1 disponible

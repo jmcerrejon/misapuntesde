@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/subsonic.jpg
 ---
 
 # Install Subsonic server in Raspbian

@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2013/09/rpi_secret%20agents.jpg
 ---
 
 # Raspberry Pi for Secret Agents (Ebook)

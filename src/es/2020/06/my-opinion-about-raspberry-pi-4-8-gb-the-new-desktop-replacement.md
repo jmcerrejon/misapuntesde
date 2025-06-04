@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2020/06/rpi_8GB_opin.png
 ---
 
 # Mi opinión sobre la Raspberry Pi 4 - 8 GB: la nueva "Desktop replacement"

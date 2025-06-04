@@ -13,6 +13,7 @@ category:
 tag:
   - Raspberry PI
   - Raspberry PI
+image: /images/2013/08/motor.jpg
 ---
 
 # How to control 2 motors with Raspberry Pi

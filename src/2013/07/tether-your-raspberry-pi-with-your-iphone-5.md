@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2013/07/iphonetether.jpg
 ---
 
 # Tether Your Raspberry Pi with your iPhone 5

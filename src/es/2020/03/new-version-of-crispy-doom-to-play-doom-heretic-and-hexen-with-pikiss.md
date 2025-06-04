@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2015/03/doom_heretic_hexen.png
 ---
 
 # Nueva versión de Crispy Doom para jugar a Doom, Heretic y Hexen con PiKISS

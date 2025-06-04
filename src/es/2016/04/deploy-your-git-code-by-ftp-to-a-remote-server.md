@@ -11,6 +11,7 @@ category:
   - Developer
 tag:
   - Developer
+image: /images/2016/04/git-ftp.png
 ---
 
 # Deploy de nuestro código Git por FTP a servidor remoto

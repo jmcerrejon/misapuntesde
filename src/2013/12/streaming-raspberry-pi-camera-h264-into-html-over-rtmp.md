@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/cam.jpg
 ---
 
 # Streaming Raspberry Pi Camera H264 into HTML over RTMP

@@ -11,6 +11,7 @@ category:
   - Linux
 tag:
   - Linux
+image: /images/2013/10/ubun1310.jpg
 ---
 
 # Ubuntu 13.10 Saucy Salamander disponible

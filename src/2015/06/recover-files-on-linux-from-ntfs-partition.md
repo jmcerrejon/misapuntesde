@@ -11,6 +11,7 @@ category:
   - Linux
 tag:
   - Linux
+image: /images/2015/06/ntfsundel_logo.png
 ---
 
 # Recover files on Linux from NTFS partition

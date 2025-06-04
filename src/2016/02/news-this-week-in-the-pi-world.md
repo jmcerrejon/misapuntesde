@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2016/02/netbeast_guys.jpg
 ---
 
 # News this week in the Pi World

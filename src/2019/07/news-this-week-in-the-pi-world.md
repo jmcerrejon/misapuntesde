@@ -13,6 +13,7 @@ category:
 tag:
   - Raspberry PI
   - Atomic Pi
+image: /images/2019/07/coolin_pi4.png
 ---
 
 # News this week in the Pi World!

@@ -13,6 +13,7 @@ category:
 tag:
   - General
   - Apple
+image: /images/compo_misa_imac.jpg
 ---
 
 # Update ATI drivers on Mac (Windows) or PC

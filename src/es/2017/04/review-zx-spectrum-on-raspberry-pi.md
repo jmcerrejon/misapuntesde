@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/spectrum_01.jpg
 ---
 
 # Especial: ZX Spectrum en la Raspberry Pi

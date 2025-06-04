@@ -11,6 +11,7 @@ category:
   - General
 tag:
   - General
+image: /images/2015/01/misa_responsive.jpg
 ---
 
 # Mis apuntes de... responsive

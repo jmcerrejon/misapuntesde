@@ -13,6 +13,7 @@ category:
 tag:
   - Raspberry PI
   - Linux
+image: /images/2014/06/tvstream.png
 ---
 
 # PiKISS: Two new scripts join to the family

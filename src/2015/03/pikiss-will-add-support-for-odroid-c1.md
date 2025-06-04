@@ -13,6 +13,7 @@ category:
 tag:
   - Raspberry PI
   - ODROID
+image: /images/pikiss_400px_nobg.png
 ---
 
 # PiKISS will add support for ODROID-C1

@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2018/03/rpi3bp.png
 ---
 
 # Grupo Raspberry Pi en español en mewe.com

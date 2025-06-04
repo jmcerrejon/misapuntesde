@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2014/01/rpihacks.jpg
 ---
 
 # Raspberry Pi Hacks (Ebook)

@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2013/11/rachelpi.jpg
 ---
 
 # RACHEL PI o como llevar el conocimiento en una tarjeta SD

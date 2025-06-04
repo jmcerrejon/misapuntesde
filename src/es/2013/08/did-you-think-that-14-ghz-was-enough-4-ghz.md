@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2013/08/overclock.jpg
 ---
 
 # ¿Pensábais que 1.4 Ghz eran suficientes? ¡¡4 Ghz!!

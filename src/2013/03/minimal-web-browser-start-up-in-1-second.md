@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/browser_fight.jpg
 ---
 
 # Minimal web browser start up in 1 second

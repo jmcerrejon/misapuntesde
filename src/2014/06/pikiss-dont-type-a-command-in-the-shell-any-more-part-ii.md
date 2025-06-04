@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/pikiss_black.png
 ---
 
 # PiKISS: Don't type a command in the Shell any more (Part II)

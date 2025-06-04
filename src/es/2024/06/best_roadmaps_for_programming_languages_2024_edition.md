@@ -11,6 +11,7 @@ tags:
     - laravel
     - javascript
     - frontend
+image: /images/2024/06/roadmaps.jpg
 ---
 
 # Mejores roadmaps para desarrolladores: Edición 2024

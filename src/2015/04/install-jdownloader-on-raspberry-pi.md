@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2015/04/jdownloader.png
 ---
 
 # Install jdownloader on Raspberry Pi

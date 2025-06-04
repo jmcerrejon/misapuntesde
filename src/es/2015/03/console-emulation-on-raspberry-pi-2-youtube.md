@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/youtube.jpg
 ---
 
 # Recopilación de vídeos Raspberry Pi 2 sobre emuladores (Youtube)

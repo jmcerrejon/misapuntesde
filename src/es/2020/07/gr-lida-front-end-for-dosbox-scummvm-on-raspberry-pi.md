@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2020/06/gr-lida.png
 ---
 
 # GR-Lida, Front end para DOSBox, ScummVM en la Raspberry Pi

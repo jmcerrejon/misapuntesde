@@ -11,6 +11,7 @@ category:
   - Developer
 tag:
   - Developer
+image: /images/2019/07/prettier.png
 ---
 
 # Prettier - Code formatter con soporte de PHP en VSCode

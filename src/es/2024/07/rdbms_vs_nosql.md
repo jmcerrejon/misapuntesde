@@ -11,6 +11,7 @@ tags:
     - mongodb
     - database
     - nosql
+image: /images/2024/07/rdbms_vs_nosql.jpg
 ---
 
 # Bases de datos relacionales Vs noSQL

@@ -9,6 +9,7 @@ category:
 tags:
   - diet-pi
   - os
+image: /images/2018/02/dietpi.png
 ---
 # Dietpi 9.1 release with Raspberry Pi 5 support!
 

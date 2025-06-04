@@ -11,6 +11,7 @@ category:
   - Orange Pi
 tag:
   - Orange Pi
+image: /images/2017/01/piZeroPiOne.jpg
 ---
 
 # Revisión Orange Pi One y...¡Sorteo!

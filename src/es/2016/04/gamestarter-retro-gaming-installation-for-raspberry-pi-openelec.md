@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: https://raw.githubusercontent.com/bite-your-idols/gamestarter-openelec/master/assets/gamestarter-logo.jpg
 ---
 
 # GameStarter: Instalación Retro Gaming para Raspberry Pi (OpenELEC)

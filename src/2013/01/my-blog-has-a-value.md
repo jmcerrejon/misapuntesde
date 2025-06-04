@@ -11,6 +11,7 @@ category:
   - General
 tag:
   - General
+image: /images/money.jpg
 ---
 
 # My blog has a value!

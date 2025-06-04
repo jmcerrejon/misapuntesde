@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2017/03/dvbt_cap_01.png
 ---
 
 # Digital DVB-T on Raspbian and Debian flavours

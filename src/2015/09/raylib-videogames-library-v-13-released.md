@@ -13,6 +13,7 @@ category:
 tag:
   - Developer
   - Raspberry PI
+image: /images/2015/01/raylib_logo.png
 ---
 
 # Raylib videogames library v. 1.3 released

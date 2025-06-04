@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2016/05/pizero_v2.png
 ---
 
 # New Raspberry Pi Zero

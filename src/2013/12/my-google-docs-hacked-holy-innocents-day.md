@@ -11,6 +11,7 @@ category:
   - General
 tag:
   - General
+image: /images/passwd_02.jpg
 ---
 
 # My Google Docs hacked (Holy Innocents' Day)

@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2014/10/scoutbot.png
 ---
 
 # ScoutBot: Penetration testers for Raspberry Pi (IMG)

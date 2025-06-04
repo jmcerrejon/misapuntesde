@@ -13,6 +13,7 @@ category:
 tag:
   - Raspberry PI
   - Banana Pi
+image: /images/2014/11/Pi_LanTest.png
 ---
 
 # Network Speed: raspberries Vs bananas

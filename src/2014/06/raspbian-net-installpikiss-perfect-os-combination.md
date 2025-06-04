@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/minibian.jpg
 ---
 
 # Raspbian Net Install+PiKISS = Perfect OS combination

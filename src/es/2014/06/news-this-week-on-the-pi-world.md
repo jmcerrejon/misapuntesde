@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/RPi_compute_module.png
 ---
 
 # Han sido noticia esta semana en el mundo Pi

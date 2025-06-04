@@ -15,6 +15,7 @@ tag:
   - General
   - Raspberry PI
   - Arduino
+image: /images/money_saver.jpg
 ---
 
 # Control power consumption with Arduino by Diverteka

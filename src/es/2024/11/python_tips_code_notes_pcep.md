@@ -9,6 +9,7 @@ category:
 tags:
     - Python
     - Tips
+image: /images/2024/11/pcep.png
 ---
 
 # Python: curiosidades, código & apuntes

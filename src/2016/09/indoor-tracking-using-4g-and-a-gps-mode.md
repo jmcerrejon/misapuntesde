@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2016/09/agps.png
 ---
 
 # Indoor tracking using 4G and A-GPS mode

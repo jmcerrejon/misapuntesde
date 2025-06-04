@@ -13,6 +13,7 @@ category:
 tag:
   - Linux
   - Raspberry PI
+image: /images/2017/07/lastest_mirrors.png
 ---
 
 # Configurar mirror más cercano con netselect-apt en Debian

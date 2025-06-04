@@ -13,6 +13,7 @@ category:
 tag:
   - Raspberry PI
   - ODROID
+image: /images/2015/05/teradeep.png
 ---
 
 # Han sido noticia esta semana en el mundo Pi

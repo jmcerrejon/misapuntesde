@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/raspbian.jpg
 ---
 
 # Raspbian por fin en Jessie

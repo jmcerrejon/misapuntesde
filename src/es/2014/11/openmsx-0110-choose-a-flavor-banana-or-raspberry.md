@@ -13,6 +13,7 @@ category:
 tag:
   - Raspberry PI
   - Banana Pi
+image: /images/msx.png
 ---
 
 # OpenMSX 0.11.0. Elige un sabor: Banana o frambuesa.

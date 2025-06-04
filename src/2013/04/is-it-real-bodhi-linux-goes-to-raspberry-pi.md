@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/bodhy_linux.jpg
 ---
 
 # Is it real?: Bodhi Linux goes to Raspberry Pi

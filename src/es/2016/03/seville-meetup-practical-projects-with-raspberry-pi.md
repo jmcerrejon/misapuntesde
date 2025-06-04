@@ -12,6 +12,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2016/03/meetup.png
 ---
 
 # Meetup Sevilla: Plantear proyectos sencillos y prácticos con Raspberry Pi

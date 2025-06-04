@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2014/06/Syncthing.jpg
 ---
 
 # Syncthing: Open source P2P file sync

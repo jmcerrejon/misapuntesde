@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/donottouch.jpg
 ---
 
 # Fruity-WiFi, herramientas de seguridad para Raspberry Pi

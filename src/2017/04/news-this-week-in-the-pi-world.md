@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2017/04/pigi.png
 ---
 
 # News this week in the Pi World

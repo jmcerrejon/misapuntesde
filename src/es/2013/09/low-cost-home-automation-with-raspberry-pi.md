@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2013/09/domoticalowcost.jpg
 ---
 
 # Domótica Low Cost con Raspberry Pi

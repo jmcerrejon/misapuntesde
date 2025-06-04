@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2017/09/rpi-spoof-mac-address.png
 ---
 
 # Change the MAC address on Raspberry Pi

@@ -10,6 +10,7 @@ tags:
     - Stripe
     - Webhook
     - CLI
+image: /images/2025/03/stripe.jpg
 ---
 
 # Stripe Webhook Guide

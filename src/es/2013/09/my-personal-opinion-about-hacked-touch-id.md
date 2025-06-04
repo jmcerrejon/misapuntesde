@@ -11,6 +11,7 @@ category:
   - Apple
 tag:
   - Apple
+image: /images/2013/09/touchid.jpg
 ---
 
 # Opinión personal sobre el hackeo al Touch iD

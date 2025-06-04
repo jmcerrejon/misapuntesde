@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2015/09/mycroft.jpg
 ---
 
 # Mycroft: IA for everyone (Kickstarter)

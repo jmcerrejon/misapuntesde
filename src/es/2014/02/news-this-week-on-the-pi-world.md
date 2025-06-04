@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2014/02/piTFT.jpg
 ---
 
 # Han sido noticia esta semana en el mundo Pi

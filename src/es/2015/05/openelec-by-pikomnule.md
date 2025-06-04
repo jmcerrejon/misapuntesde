@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/kodi.png
 ---
 
 # OpenELEC by pikomnule

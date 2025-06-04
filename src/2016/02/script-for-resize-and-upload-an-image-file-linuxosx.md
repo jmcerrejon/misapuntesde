@@ -11,6 +11,7 @@ category:
   - Developer
 tag:
   - Developer
+image: /images/2016/02/love_en.png
 ---
 
 # Script for resize and upload an image file (Linux/OSX)

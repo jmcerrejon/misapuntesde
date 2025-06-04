@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2014/04/slitaz.jpg
 ---
 
 # SliTaz: New distro for the Raspberry Pi

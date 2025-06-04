@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /css/images/raspi_icon.png
 ---
 
 # ¡Mis Apuntes en G. Docs actualizado!

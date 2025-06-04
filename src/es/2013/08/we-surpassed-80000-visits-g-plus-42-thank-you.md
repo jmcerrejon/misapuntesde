@@ -11,6 +11,7 @@ category:
   - General
 tag:
   - General
+image: /images/2013/08/stattistic_28_Ago.jpg
 ---
 
 # ¡Sobrepasamos 80.000+ visitas, G. Plus +42,... Gracias!

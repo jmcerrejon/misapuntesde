@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/money_saver.jpg
 ---
 
 # Poniendo la Raspberry a trabajar

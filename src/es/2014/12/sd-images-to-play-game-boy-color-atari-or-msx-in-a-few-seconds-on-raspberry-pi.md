@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2014/12/octopu10.png
 ---
 
 # Imágenes SD para jugar a Game Boy Color, Atari o MSX en tu Raspberry Pi

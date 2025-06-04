@@ -13,6 +13,7 @@ category:
 tag:
   - Raspberry PI
   - Banana Pi
+image: /images/2015/06/guitar.jpg
 ---
 
 # News this week in the Pi World

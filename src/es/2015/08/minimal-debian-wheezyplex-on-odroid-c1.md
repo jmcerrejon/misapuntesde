@@ -13,6 +13,7 @@ category:
 tag:
   - Raspberry PI
   - ODROID
+image: /images/2015/08/plex_logo.png
 ---
 
 # Minimal Debian Wheezy+Plex en ODROID-C1

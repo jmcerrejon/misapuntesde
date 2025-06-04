@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/bittorrent_sync.jpg
 ---
 
 # Sustituye Dropbox por BitTorrent Sync

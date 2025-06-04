@@ -13,6 +13,7 @@ category:
 tag:
   - General
   - Raspberry PI
+image: /images/2019/03/mewe_logo.png
 ---
 
 # Where am I? In MeWe!

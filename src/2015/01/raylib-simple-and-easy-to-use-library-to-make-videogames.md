@@ -15,6 +15,7 @@ tag:
   - Developer
   - Raspberry PI
   - Android
+image: /images/2015/01/raylib_logo.png
 ---
 
 # raylib: Simple and easy-to-use library to make videogames

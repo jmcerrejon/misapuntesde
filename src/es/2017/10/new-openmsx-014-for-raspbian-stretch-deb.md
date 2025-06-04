@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2017/10/openmsx_014.png
 ---
 
 # Nuevo OpenMSX 0.14 para Raspbian Stretch (.deb)

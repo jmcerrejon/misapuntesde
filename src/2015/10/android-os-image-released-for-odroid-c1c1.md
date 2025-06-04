@@ -11,6 +11,7 @@ category:
   - ODROID
 tag:
   - ODROID
+image: /images/odroid_android.png
 ---
 
 # Android OS image released for ODROID C1/C1+

@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/RetroPie_05.jpg
 ---
 
 # [Proyecto] Super Pintendo - Super Nes Case/Raspberry Pi

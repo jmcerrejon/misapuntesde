@@ -13,6 +13,7 @@ category:
 tag:
   - Developer
   - Apple
+image: /images/git.png
 ---
 
 # Actualizar Git en OSX con brew

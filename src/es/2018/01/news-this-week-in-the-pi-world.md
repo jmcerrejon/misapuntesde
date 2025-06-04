@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2018/01/rpi_car.png
 ---
 
 # Han sido noticia esta semana en el mundo Pi

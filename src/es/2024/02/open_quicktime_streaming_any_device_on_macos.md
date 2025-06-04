@@ -11,6 +11,7 @@ category:
 tags:
     - macOS
     - Tips
+image: /images/2024/02/open_usb_device.png
 ---
 
 # Abrir Quicktime y transmitir cualquier dispositivo en macOS

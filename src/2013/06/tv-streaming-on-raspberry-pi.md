@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/tvreadhead.jpg
 ---
 
 # TV streaming on Raspberry Pi 

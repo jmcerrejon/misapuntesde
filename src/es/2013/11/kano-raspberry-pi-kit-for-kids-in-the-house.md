@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2013/11/kano.jpg
 ---
 
 # KANO: Kit con Raspberry Pi para los peques de la casa

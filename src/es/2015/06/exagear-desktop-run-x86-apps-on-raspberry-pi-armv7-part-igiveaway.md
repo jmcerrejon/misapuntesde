@@ -15,6 +15,7 @@ tag:
   - Raspberry PI
   - ODROID
   - Banana Pi
+image: /images/2015/06/ExaGear_Desktop_tr.png
 ---
 
 # Exagear Desktop: Ejecutables x86 en Raspberry Pi y ARMv7 (Parte I+Concurso)

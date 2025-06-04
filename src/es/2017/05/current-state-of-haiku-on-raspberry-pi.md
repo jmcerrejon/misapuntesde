@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2016/05/haiku_os.png
 ---
 
 # Estado actual de Haiku en la Raspberry Pi

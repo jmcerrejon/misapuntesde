@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2016/02/maldita_castilla.png
 ---
 
 # GameMaker Games on Raspberry Pi

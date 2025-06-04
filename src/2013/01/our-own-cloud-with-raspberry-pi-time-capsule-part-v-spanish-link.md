@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/cloud.jpg
 ---
 
 # Our own Cloud with Raspberry Pi & Time Capsule (part V) (spanish link)

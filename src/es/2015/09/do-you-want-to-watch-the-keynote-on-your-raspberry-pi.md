@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2015/09/keynote_92k15.png
 ---
 
 # ¿Quieres ver la Keynote 2015 en tu Raspberry Pi?

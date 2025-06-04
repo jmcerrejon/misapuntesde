@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/archpi_5002.jpg
 ---
 
 # Imagen Arch Linux con entorno gráfico (.img)

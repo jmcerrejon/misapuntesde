@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2020/06/doom_heretic.png
 ---
 
 # Nuevas versiones para PiKISS de algunos  emuladores en Raspberry Pi

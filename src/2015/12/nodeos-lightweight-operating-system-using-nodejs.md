@@ -13,6 +13,7 @@ category:
 tag:
   - Raspberry PI
   - ODROID
+image: /images/2015/11/nodeos.png
 ---
 
 # NodeOS: Lightweight operating system using Node.js

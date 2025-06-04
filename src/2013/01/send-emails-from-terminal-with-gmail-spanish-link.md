@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/rsppi.jpg
 ---
 
 # Send emails from terminal with GMail (Spanish link)

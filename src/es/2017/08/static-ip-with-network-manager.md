@@ -11,6 +11,7 @@ category:
   - General
 tag:
   - General
+image: /images/wifi_exposed.png
 ---
 
 # IP estática con network manager

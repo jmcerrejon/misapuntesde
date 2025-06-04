@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/retropieprojectlogofinish.jpg
 ---
 
 # Retropie - An Arch Linux Guide

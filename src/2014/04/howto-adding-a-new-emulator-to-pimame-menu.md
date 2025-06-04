@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/pimame_case.jpg
 ---
 
 # HOWTO: Adding a new emulator to PiMAME menu

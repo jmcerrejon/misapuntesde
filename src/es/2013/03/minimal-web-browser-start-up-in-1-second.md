@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/browser_fight.jpg
 ---
 
 # Navegador web liviano que arranca en 1 segundo

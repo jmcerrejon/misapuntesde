@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2016/09/presence.png
 ---
 
 # Pi Streaming Presence Detector

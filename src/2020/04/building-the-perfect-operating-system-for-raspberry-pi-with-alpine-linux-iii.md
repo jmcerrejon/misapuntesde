@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2020/02/alpinos_logo.png
 ---
 
 # Building the perfect operating system for Raspberry Pi with Alpine Linux (III)

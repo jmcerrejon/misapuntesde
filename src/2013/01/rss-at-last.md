@@ -11,6 +11,7 @@ category:
   - General
 tag:
   - General
+image: /css/images/rss-32.png
 ---
 
 # RSS at last!

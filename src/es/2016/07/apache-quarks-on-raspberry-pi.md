@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2016/07/quarks.png
 ---
 
 # Apache Quarks en la Raspberry Pi

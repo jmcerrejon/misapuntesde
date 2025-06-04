@@ -13,6 +13,7 @@ category:
 tag:
   - Raspberry PI
   - Linux
+image: /images/grooveshark.jpg
 ---
 
 # Download music from GrooveShark (CLI)

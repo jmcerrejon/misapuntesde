@@ -11,6 +11,7 @@ category:
   - Developer
 tag:
   - Developer
+image: /images/2017/08/db.png
 ---
 
 # Good practice guidelines for name elements in a database

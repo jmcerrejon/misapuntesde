@@ -10,6 +10,7 @@ tags:
     - macOS
     - hardware
     - ethernet
+image: /images/2024/05/usb_ethernet.jpg
 ---
 
 # Instalar dispositivos Ethernet USB no reconocidos en macOS

@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2013/09/pi_Python.jpg
 ---
 
 # Programming the Raspberry Pi: Getting Started with Python (Ebook)

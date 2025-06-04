@@ -11,6 +11,7 @@ category:
   - General
 tag:
   - General
+image: /images/2013/06/cake.jpg
 ---
 
 # Happy Birthday to me

@@ -15,6 +15,7 @@ tag:
   - Raspberry PI
   - Apple
   - Linux
+image: https://camo.githubusercontent.com/4196b93c67261284cdbc120b3d185afb7dda6651/687474703a2f2f6e70312e6769746875622e696f2f6d707379742d696d61676573322f7374642d7365617263682e706e67
 ---
 
 # Descargar y ver vídeos de Youtube desde la consola con mps-Youtube

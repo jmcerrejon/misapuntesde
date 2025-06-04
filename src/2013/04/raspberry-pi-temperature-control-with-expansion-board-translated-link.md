@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/ee_medir_temperatura.jpg
 ---
 
 # Raspberry Pi Temperature Control with Expansion Board (translated link)

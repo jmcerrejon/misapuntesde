@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/firmware.jpg
 ---
 
 # New firmware with improvements for analogue audio popping

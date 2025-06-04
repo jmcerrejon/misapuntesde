@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2017/03/comando_mame.png
 ---
 
 # New MAME releases for the Raspberry Pi

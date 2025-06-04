@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/pimame_case.jpg
 ---
 
 # Emulation scene on the Raspberry Pi

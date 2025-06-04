@@ -9,6 +9,7 @@ category:
 tags:
     - AI
     - LLM
+image: /images/2025/03/tensonzero_01.png
 ---
 
 # TensorZero is the black box you need for AI

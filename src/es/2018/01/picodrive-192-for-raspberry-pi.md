@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2018/01/picodrive_raspbian.png
 ---
 
 # Picodrive 1.92 para Raspberry Pi

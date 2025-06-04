@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2014/05/JabirOS-for-Raspberry-Pi.png
 ---
 
 # Han sido noticia esta semana en el mundo Pi

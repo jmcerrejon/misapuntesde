@@ -11,6 +11,7 @@ category:
   - ODROID
 tag:
   - ODROID
+image: /images/2016/02/ODROID_C2.png
 ---
 
 # ODROID-C2

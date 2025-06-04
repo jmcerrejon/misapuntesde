@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2013/08/xively1.jpg
 ---
 
 # La información de tu RasPi en la nube con Xively

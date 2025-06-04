@@ -11,6 +11,7 @@ category:
   - Linux
 tag:
   - Linux
+image: /images/ubu_logo.jpg
 ---
 
 # New shared notes: Ubuntu join to the family

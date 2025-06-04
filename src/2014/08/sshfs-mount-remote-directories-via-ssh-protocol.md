@@ -13,6 +13,7 @@ category:
 tag:
   - Raspberry PI
   - Linux
+image: /images/2014/08/sshfs.png
 ---
 
 # sshfs: Mount remote directories via SSH protocol

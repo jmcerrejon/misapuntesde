@@ -11,6 +11,7 @@ category:
   - ODROID
 tag:
   - ODROID
+image: /images/odroid-c1-plus.jpg
 ---
 
 # ODROID-C1+ on the market

@@ -11,6 +11,7 @@ category:
   - General
 tag:
   - General
+image: /images/2020/06/ffmpeg-logo.jpg
 ---
 
 # Arreglar ficheros de video corruptos con ffmpeg

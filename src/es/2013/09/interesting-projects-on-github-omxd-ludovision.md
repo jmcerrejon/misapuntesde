@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/streaming.jpg
 ---
 
 # Proyectos interesantes en GitHub: omxd y Ludovision

@@ -13,6 +13,7 @@ category:
 tag:
   - Apple
   - Raspberry PI
+image: /images/2015/06/wwdc_2015_apple_0.jpg
 ---
 
 # Do you want to watch the Keynote on your Raspberry Pi?

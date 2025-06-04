@@ -11,6 +11,7 @@ category:
   - General
 tag:
   - General
+image: /images/thank.jpg
 ---
 
 # ¡400.000 visitas!

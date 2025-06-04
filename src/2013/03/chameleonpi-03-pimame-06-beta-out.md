@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/chameleon.jpg
 ---
 
 # ChameleonPi 0.3 & PiMAME 0.6 Beta out!

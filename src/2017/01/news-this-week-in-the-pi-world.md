@@ -13,6 +13,7 @@ category:
 tag:
   - Raspberry PI
   - ODROID
+image: /images/2017/01/cm3.png
 ---
 
 # News this week in the Pi World

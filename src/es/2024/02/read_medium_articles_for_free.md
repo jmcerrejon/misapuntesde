@@ -10,6 +10,7 @@ category:
     - General
 tags:
     - Tips
+image: /images/2024/02/medium.png
 ---
 
 # Leer artículos de Medium de forma gratuita

@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2020/06/pikiss-abayye.png
 ---
 
 # ¡Han sido noticia en el Mundo Pi!

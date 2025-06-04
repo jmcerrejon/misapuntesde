@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2014/02/vice64.png
 ---
 
 # Emulador de Commodore 64 para celebrar San Valentín

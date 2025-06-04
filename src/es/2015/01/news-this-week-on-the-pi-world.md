@@ -15,6 +15,7 @@ tag:
   - Raspberry PI
   - Banana Pi
   - ODROID
+image: /images/2015/01/bug.png
 ---
 
 # Han sido noticia esta semana en el mundo Pi

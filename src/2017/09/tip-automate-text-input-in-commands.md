@@ -15,6 +15,7 @@ tag:
   - Apple
   - Linux
   - Raspberry PI
+image: /images/2017/09/cmd.jpg
 ---
 
 # Tip: Automate Text Input in Commands

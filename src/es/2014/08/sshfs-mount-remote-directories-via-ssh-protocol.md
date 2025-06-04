@@ -13,6 +13,7 @@ category:
 tag:
   - Raspberry PI
   - Linux
+image: /images/2014/08/sshfs.png
 ---
 
 # sshfs: Montar directorios en remoto a través del protocolo SSH

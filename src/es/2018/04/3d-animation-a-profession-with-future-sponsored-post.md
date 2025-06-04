@@ -11,6 +11,7 @@ category:
   - General
 tag:
   - General
+image: /images/2018/04/3d_anim.jpg
 ---
 
 # Animación 3D, una profesión de futuro

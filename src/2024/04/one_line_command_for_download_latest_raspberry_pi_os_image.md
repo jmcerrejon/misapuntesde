@@ -8,6 +8,7 @@ category:
   - Raspberry Pi
 tags:
   - Raspberry Pi OS
+image: /images/2024/04/rpios_dload.png
 ---
 # One line command for download latest Raspberry Pi OS image
 

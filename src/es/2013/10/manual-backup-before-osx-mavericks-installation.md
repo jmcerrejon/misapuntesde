@@ -11,6 +11,7 @@ category:
     - Apple
 tag:
     - Apple
+image: /images/2014/10/yosemite.jpg
 ---
 
 # Copia de seguridad manual antes de instalar OSX Yosemite

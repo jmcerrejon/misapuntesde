@@ -11,6 +11,7 @@ category:
   - General
 tag:
   - General
+image: /images/01_RaspberryPi.jpg
 ---
 
 # Vacaciones...¡Otra vez!

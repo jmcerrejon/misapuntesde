@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2014/10/pivessel_01.png
 ---
 
 # Pi Vessel: Nuevo miniordenador para toda la familia

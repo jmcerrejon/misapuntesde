@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2013/03/retrop_01_min.jpg
 ---
 
 # RetroPie Project: Definitive Guide!

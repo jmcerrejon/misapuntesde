@@ -13,6 +13,7 @@ category:
 tag:
   - Apple
   - Raspberry PI
+image: /images/2020/04/dosbox_macos_01.png
 ---
 
 # Today in mysteries to solve: DOSBox and the MacOS key mapping bug

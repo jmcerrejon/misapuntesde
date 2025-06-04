@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/ThePiHut.jpg
 ---
 
 # Tutorials on The Pi Hut

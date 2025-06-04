@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2019/09/64bits.png
 ---
 
 # Raspberry Pi 4 with 64 bits kernel

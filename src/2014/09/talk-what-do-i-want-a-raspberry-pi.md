@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2014/09/capture_bb.png
 ---
 
 # Talk: What do I want a Raspberry Pi?

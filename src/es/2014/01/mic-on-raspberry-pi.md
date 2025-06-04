@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2014/01/mic.jpg
 ---
 
 # Micrófono en la Raspberry Pi

@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/spectrum_01.jpg
 ---
 
 # Unreal Speccy ZX-Spectrum emulator for Raspberry Pi

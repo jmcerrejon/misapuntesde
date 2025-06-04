@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/01_RaspberryPi.jpg
 ---
 
 # Some questions to discover Raspberry Pi(Spanish link)

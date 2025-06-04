@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/RetroPie_07.jpg
 ---
 
 # RetroPie 3.0 Beta for Raspberry Pi 2 & PiPlay 0.8 beta 9

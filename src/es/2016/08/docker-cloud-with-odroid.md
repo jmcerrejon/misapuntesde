@@ -11,6 +11,7 @@ category:
   - ODROID
 tag:
   - ODROID
+image: /images/2016/08/docker_odroid.png
 ---
 
 # Nube Docker con ODROID

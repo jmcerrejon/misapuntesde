@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/PiMAME.jpg
 ---
 
 # ¡PiMAME v. 0.7.5 liberado!

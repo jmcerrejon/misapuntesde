@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/Amiga-A500.jpg
 ---
 
 # New UAE4ALL 0.5 updated!

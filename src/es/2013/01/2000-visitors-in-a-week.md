@@ -11,6 +11,7 @@ category:
   - General
 tag:
   - General
+image: /images/counter.jpg
 ---
 
 # ¡2000 visitas en una semana!

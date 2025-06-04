@@ -13,6 +13,7 @@ category:
 tag:
   - Raspberry PI
   - ODROID
+image: /images/2017/12/rpi_xmas.png
 ---
 
 # News this week in the Pi World

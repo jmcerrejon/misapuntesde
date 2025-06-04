@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/bluetooth-speaker.jpg
 ---
 
 # Bluetooth Speakers using Raspberry Pi

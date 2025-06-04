@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/raspbian.png
 ---
 
 # Update Raspian from Wheezy to Jessie

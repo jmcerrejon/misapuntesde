@@ -11,6 +11,7 @@ category:
   - ODROID
 tag:
   - ODROID
+image: /images/2016/03/ODROID_Marzo.png
 ---
 
 # ODROID Magazine (Marzo)

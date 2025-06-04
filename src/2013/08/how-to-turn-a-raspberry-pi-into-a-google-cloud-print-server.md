@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2013/08/pi_printer_cloud.jpg
 ---
 
 # How to Turn a Raspberry Pi into a Google Cloud Print Server

@@ -11,6 +11,7 @@ category:
   - ODROID
 tag:
   - ODROID
+image: /images/odroid_android.png
 ---
 
 # Pongo a prueba: Android ver. 4.4. en ODROID-C1 (Review + Youtube)

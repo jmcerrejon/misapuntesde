@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2014/01/reyesmagos.jpg
 ---
 
 # Happy Three Kings day!

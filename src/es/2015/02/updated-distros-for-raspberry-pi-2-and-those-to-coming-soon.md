@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2015/02/boxes.jpg
 ---
 
 # Distribuciones actualizadas para la Raspberry Pi 2 y las que vendrán

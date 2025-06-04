@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2013/10/trackers.jpg
 ---
 
 # Especial Trackers en Raspberry Pi

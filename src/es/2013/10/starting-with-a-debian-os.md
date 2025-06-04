@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/raspbian.jpg
 ---
 
 # Comenzando con un SO Debian

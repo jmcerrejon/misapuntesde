@@ -11,6 +11,7 @@ tags:
   - Godot
   - Engine
   - Videogames
+image: /images/2024/05/godot_logo.jpg
 ---
 # Godot Engine para desarrollar tus propios videojuegos
 

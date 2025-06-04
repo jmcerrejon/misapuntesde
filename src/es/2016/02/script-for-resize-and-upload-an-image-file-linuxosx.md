@@ -11,6 +11,7 @@ category:
   - Developer
 tag:
   - Developer
+image: /images/2016/02/love_es.png
 ---
 
 # Script para redimensionar y subir imágenes en Linux/OSX

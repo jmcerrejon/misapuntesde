@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/pi_hack.jpg
 ---
 
 # WIFITE: Tool to attack networks WEP, WPA and WPS

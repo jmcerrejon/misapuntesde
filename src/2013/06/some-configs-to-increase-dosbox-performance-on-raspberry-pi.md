@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/fastdosbox.jpg
 ---
 
 # Some Configs to Increase DosBox Performance on Raspberry Pi

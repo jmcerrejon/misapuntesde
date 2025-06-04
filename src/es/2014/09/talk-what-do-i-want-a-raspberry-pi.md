@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2014/09/capture_bb.png
 ---
 
 # Charla: ¿Para qué quiero yo una Raspberry Pi? 

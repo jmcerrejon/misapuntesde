@@ -11,6 +11,7 @@ category:
   - General
 tag:
   - General
+image: /images/2016/02/41dcKy9VLuL._SY300_.png
 ---
 
 # El maravilloso mundo de los Porta tarjetas MicroSD

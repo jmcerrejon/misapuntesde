@@ -19,6 +19,7 @@ tag:
   - Banana Pi
   - ODROID
   - Banana Pi
+image: /images/2015/05/SDHC_Lock.jpg
 ---
 
 # Read Only Operating System

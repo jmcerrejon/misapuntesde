@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/raspflash.jpg
 ---
 
 # Raspberry Pi: Making Raspbian OS Lite (under 500MB)

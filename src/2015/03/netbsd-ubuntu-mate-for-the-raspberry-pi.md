@@ -13,6 +13,7 @@ category:
 tag:
   - Raspberry PI
   - ODROID
+image: /images/2015/03/ubuntu_mate.png
 ---
 
 # NetBSD & Ubuntu Mate for the Raspberry Pi

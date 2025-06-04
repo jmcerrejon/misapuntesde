@@ -13,6 +13,7 @@ category:
 tag:
   - Raspberry PI
   - ODROID
+image: /images/2015/09/magpi_Sep.png
 ---
 
 # News this week in the Pi World

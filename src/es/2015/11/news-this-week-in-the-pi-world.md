@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2015/11/rpi2_in_hands.jpg
 ---
 
 # Han sido noticia esta semana en el mundo Pi

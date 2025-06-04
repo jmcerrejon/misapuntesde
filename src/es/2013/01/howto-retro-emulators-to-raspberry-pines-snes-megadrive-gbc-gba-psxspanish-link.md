@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/retropieprojectlogofinish.jpg
 ---
 
 # Tutorial emuladores retro para Raspberry:nes, snes, megadrive, gbc, gba, psx, mame, neo geo...

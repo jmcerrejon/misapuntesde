@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/mame.jpg
 ---
 
 # ¡PiMAME 0.8 Beta 1 SD disponible!

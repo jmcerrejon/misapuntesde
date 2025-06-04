@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/iwebiop.jpg
 ---
 
 # WebIOPi. Controla los puertos E/S de tu RasPi a través del navegador

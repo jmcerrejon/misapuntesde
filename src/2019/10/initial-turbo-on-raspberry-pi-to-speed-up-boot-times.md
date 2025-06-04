@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2019/10/raspi-config.png
 ---
 
 # Initial Turbo on Raspberry Pi to speed up boot times

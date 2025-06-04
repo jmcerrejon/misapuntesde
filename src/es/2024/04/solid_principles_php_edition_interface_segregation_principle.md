@@ -11,6 +11,7 @@ tags:
   - SOLID
   - Developer
   - Design Patterns
+image: /images/2024/04/interface.jpg
 ---
 # Principios SOLID PHP Edition. Hoy: el principio de segregación de Interfaces
 

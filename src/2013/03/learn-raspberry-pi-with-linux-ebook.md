@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/learnrwl.jpg
 ---
 
 # Learn Raspberry Pi with Linux (Ebook)

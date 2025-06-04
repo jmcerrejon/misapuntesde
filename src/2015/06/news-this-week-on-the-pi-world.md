@@ -13,6 +13,7 @@ category:
 tag:
   - Raspberry PI
   - ODROID
+image: /images/ODROID_C1_Android.jpg
 ---
 
 # News this week on the Pi World

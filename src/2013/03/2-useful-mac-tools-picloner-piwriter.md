@@ -13,6 +13,7 @@ category:
 tag:
   - Raspberry PI
   - Apple
+image: /images/piclonerwriter.jpg
 ---
 
 # 2 useful Mac tools: PiCLoner & PiWriter

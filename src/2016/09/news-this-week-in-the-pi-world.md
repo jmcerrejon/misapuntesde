@@ -13,6 +13,7 @@ category:
 tag:
   - Raspberry PI
   - ODROID
+image: /images/2016/09/odroid_server.png
 ---
 
 # News this week in the Pi World

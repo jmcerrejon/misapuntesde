@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: https://dz13w8afd47il.cloudfront.net/sites/default/files/imagecache/dotd_main_image/7966cov_.png
 ---
 
 # Raspberry Pi Robotic Projects - Third Edition (free Ebook TODAY)

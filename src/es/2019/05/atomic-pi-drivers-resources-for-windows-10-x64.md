@@ -11,6 +11,7 @@ category:
   - Atomic Pi
 tag:
   - Atomic Pi
+image: /images/2019/05/atomic_pi.jpg
 ---
 
 # Atomic Pi: recursos y drivers para Windows 10 x64

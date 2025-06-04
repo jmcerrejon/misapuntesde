@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/Easy_TV_USB_TDT_Stick.jpg
 ---
 
 # PVR/DVR en Raspberry Pi 

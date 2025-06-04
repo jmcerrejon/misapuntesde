@@ -13,6 +13,7 @@ category:
 tag:
   - General
   - Raspberry PI
+image: /images/passwd_02.jpg
 ---
 
 # Script bash para instalar Aircrack-NG + Airodump en la Raspberry Pi

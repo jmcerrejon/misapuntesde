@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/01_RaspberryPi.jpg
 ---
 
 # RasPi unboxing & home automation from Javier Pardo Blasco (Spanish Link)

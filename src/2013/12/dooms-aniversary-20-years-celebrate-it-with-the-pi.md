@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2013/12/doom-20.jpg
 ---
 
 # Doom's Aniversary (20 years). Celebrate it with the Pi

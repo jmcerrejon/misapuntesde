@@ -13,6 +13,7 @@ category:
 tag:
   - General
   - Raspberry PI
+image: /images/happy_new_year.jpg
 ---
 
 # ¡Feliz Año Nuevo!

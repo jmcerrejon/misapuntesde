@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/no_more_ugly_boot.jpg
 ---
 
 # Adding a Startup Movie to your Raspberry Pi

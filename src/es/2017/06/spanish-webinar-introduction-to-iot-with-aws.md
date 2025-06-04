@@ -11,6 +11,7 @@ category:
   - General
 tag:
   - General
+image: /images/2016/06/aws.png
 ---
 
 # Webinar: Introducción a IoT con AWS

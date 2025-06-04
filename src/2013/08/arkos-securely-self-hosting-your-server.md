@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/arkos.jpg
 ---
 
 # arkOS: Securely self-hosting your server

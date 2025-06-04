@@ -13,6 +13,7 @@ category:
 tag:
   - Raspberry PI
   - Developer
+image: /images/git.png
 ---
 
 # Servidor Git con la Raspberry Pi en 5 segundos

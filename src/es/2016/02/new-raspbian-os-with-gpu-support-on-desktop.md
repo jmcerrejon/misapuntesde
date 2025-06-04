@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/raspbian.jpg
 ---
 
 # Nueva versión de Raspbian con soporte en escritorio de GPU

@@ -11,6 +11,7 @@ category:
   - General
 tag:
   - General
+image: /images/cake_for_jose.jpg
 ---
 
 # Happy birthay to me!

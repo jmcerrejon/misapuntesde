@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/xbmc.jpg
 ---
 
 # Rapberry Pi: TV record and stream (Spanish link)

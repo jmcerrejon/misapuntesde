@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/carriots.jpg
 ---
 
 # How to make an internet Stuffed Toy with Raspberry Pi and Carriots

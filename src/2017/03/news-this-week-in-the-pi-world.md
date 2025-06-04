@@ -13,6 +13,7 @@ category:
 tag:
   - Raspberry PI
   - ODROID
+image: /images/2017/03/lakka24.png
 ---
 
 # News this week in the Pi World

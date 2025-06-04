@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/RPi-Monitor.jpg
 ---
 
 # RPi-Monitor: Raspberry Pi self monitoring ver. 1.3

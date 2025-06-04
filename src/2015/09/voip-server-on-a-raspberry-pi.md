@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2015/09/AsteriskPBX.png
 ---
 
 # VoIP Server on a Raspberry Pi

@@ -13,6 +13,7 @@ category:
 tag:
   - Raspberry PI
   - Linux
+image: /images/2014/06/brasil2k14.png
 ---
 
 # The World Cup with Raspberry Pi or Ubuntu

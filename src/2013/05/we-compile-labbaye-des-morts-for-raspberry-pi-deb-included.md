@@ -13,6 +13,7 @@ category:
 tag:
   - Raspberry PI
   - Developer
+image: /images/2013/05/labbaye_cover.jpg
 ---
 
 # We compile L'Abbaye des Morts for Raspberry Pi (.deb included)

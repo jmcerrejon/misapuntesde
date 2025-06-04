@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2019/07/raspberrypi_4.jpg
 ---
 
 # Fresh news in the Pi World

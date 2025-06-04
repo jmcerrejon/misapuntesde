@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/r_pi.jpg
 ---
 
 # Updating old post

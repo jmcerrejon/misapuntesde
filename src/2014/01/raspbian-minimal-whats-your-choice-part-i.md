@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/sd%20pile.png
 ---
 
 # Raspbian minimal: What's your choice? (Part I)

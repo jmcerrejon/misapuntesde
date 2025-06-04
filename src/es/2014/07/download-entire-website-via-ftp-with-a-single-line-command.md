@@ -13,6 +13,7 @@ category:
 tag:
   - Raspberry PI
   - Linux
+image: /images/ftp.jpg
 ---
 
 # Descargar website por FTP en una sola línea de comando

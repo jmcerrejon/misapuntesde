@@ -13,6 +13,7 @@ category:
 tag:
   - Raspberry PI
   - ODROID
+image: /images/2016/03/wayland_qt.png
 ---
 
 # Fueron noticia la semana pasada en el mundo Pi

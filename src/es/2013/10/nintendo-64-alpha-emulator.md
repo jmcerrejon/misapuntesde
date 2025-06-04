@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/N64.jpg
 ---
 
 # Disponible emulador de Nintendo 64

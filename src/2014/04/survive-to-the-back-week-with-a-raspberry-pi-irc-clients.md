@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/pi_hack.jpg
 ---
 
 # Survive to the Back Week with a Raspberry Pi: IRC clients

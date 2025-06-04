@@ -11,6 +11,7 @@ category:
   - General
 tag:
   - General
+image: /images/2018/06/still_alive.jpg
 ---
 
 # ¡Aún vivo!

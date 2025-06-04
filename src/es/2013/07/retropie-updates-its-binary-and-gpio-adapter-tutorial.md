@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2013/07/Retropie_bin.jpg
 ---
 
 # RetroPie actualiza sus binarios y tutorial del adaptador GPIO

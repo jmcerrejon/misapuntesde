@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/RetroPie_02.jpg
 ---
 
 # ¡RetroPie 1.8 disponible!

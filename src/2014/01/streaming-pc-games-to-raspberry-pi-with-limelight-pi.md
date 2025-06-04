@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2014/01/nVidia_01.jpg
 ---
 
 # Streaming PC Games to Raspberry Pi with Limelight-Pi

@@ -13,6 +13,7 @@ category:
 tag:
   - Raspberry PI
   - Atomic Pi
+image: /images/2019/05/AtomicPi_workbench.jpg
 ---
 
 # Atomic Pi: Windows 10 deep review

@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2014/07/raspibplus2.jpg
 ---
 
 # Links salad to know all about Raspberry Pi Model B+

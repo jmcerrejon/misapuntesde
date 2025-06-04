@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/chameleon.jpg
 ---
 
 # ChameleonPI v.0.3.2 - SUMMER MANIA

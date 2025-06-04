@@ -11,6 +11,7 @@ category:
   - Android
 tag:
   - Android
+image: /images/androVSapple_01.jpg
 ---
 
 # Android's Notes

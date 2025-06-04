@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2016/06/rpi_benchmark.png
 ---
 
 # New Benchmarks script on Raspberry Pi

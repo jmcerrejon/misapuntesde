@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2016/03/rasparch-logo.png
 ---
 
 # RaspArch y RaspEX: Sistemas operativos adaptados a la nueva Raspberry Pi 3

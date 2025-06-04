@@ -11,6 +11,7 @@ category:
   - Apple
 tag:
   - Apple
+image: /images/mac.jpg
 ---
 
 # iMac 27" (2012) review (Spanish link)

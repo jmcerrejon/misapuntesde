@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/mame.jpg
 ---
 
 # MAME4ALL port for Pi

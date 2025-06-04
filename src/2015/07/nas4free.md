@@ -13,6 +13,7 @@ category:
 tag:
   - Raspberry PI
   - ODROID
+image: /images/2015/07/n4f_logo.png
 ---
 
 # NAS4Free

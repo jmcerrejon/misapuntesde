@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/openelec3.jpg
 ---
 
 # Openelec con esteroides by MoDi

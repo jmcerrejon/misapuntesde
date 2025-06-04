@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2014/06/return%20castle%20wolf.jpg
 ---
 
 # Juega Return to Castle Wolfenstein con PiKISS

@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/rpiTV.jpg
 ---
 
 # Construye tu propio Google TV con Donald Derek

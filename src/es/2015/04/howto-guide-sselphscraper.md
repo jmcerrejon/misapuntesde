@@ -17,6 +17,7 @@ tag:
   - Linux
   - Raspberry PI
   - ODROID
+image: /images/2015/04/scraper_mame.png
 ---
 
 # Cómo usar sselph/scraper

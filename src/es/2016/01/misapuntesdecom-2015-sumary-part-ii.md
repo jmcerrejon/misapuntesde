@@ -13,6 +13,7 @@ category:
 tag:
   - Raspberry PI
   - ODROID
+image: /images/2015/12/Rpi_ulysess_02.jpg
 ---
 
 # Resumen del año 2015 en misapuntesde.com (Parte II)

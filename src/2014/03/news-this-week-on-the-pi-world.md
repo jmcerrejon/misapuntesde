@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/cam.jpg
 ---
 
 # News this week on the Pi World

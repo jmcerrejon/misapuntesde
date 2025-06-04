@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2020/02/alpinos_logo.png
 ---
 
 # alpinOS: New release for Raspberry Pi 4

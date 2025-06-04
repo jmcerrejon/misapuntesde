@@ -13,6 +13,7 @@ category:
 tag:
   - Raspberry PI
   - ODROID
+image: /images/pikiss_400px_nobg.png
 ---
 
 # PiKISS for Raspberry Pi: A bunch of scripts with menu to make your life easier

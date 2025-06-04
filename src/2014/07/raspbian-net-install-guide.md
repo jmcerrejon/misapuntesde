@@ -13,6 +13,7 @@ category:
 tag:
   - Raspberry PI
   - ODROID
+image: /images/minibian.jpg
 ---
 
 # Raspbian Net Install Guide

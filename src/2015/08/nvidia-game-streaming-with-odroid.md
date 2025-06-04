@@ -11,6 +11,7 @@ category:
   - ODROID
 tag:
   - ODROID
+image: /images/2015/08/nvidia.png
 ---
 
 # NVIDIA Game Streaming with ODROID

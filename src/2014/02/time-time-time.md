@@ -13,6 +13,7 @@ category:
 tag:
   - Raspberry PI
   - General
+image: /images/lolface.jpg
 ---
 
 # Time, time, time

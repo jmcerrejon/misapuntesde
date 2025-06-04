@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/04_RaspberryPi.png
 ---
 
 # Raspberry Pi at 1400 Mhz!

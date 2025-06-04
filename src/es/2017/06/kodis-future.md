@@ -11,6 +11,7 @@ category:
   - General
 tag:
   - General
+image: /images/2017/06/kodi.png
 ---
 
 # El futuro de Kodi

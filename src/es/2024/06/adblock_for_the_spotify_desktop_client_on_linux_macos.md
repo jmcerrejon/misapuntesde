@@ -9,6 +9,7 @@ category:
 tags:
     - linux
     - macOS
+image: /images/2024/06/spotx-bash.jpg
 ---
 
 # Adblock para Spotify desktop client en Linux y macOS

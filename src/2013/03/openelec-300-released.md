@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/openelec3.jpg
 ---
 
 # OpenELEC 3.0.0 released!

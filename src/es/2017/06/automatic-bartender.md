@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2017/05/autom_bartender_02.jpg
 ---
 
 # Dispensador de bebidas automático

@@ -11,6 +11,7 @@ category:
   - Developer
 tag:
   - Developer
+image: /images/2016/12/vagrant-genymotion.png
 ---
 
 # Genymotion + Servidor web local con diferentes dominios

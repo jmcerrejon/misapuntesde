@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2015/07/microbit_min.jpg
 ---
 
 # BBC Micro:bit

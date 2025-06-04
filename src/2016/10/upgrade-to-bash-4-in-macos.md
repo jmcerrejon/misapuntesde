@@ -11,6 +11,7 @@ category:
   - Apple
 tag:
   - Apple
+image: /images/2016/10/bash4.png
 ---
 
 # Upgrade to bash 4 in macOS

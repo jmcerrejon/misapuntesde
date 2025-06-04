@@ -11,6 +11,7 @@ category:
   - General
 tag:
   - General
+image: /images/2013/12/merry_christmas.jpg
 ---
 
 # Mis Apuntes de os desea... ¡Feliz Navidad!

@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/pidora_fake.jpg
 ---
 
 # Anunciado Pidora 18

@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2017/05/team_viewer.png
 ---
 
 # TeamViewer Host para Raspberry Pi

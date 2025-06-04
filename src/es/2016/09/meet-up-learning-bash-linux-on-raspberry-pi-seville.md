@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/pikiss_400px_nobg.png
 ---
 
 # Aprendiendo el Bash de Linux sobre Raspberry Pi (Meet up)

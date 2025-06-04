@@ -13,6 +13,7 @@ category:
 tag:
   - Raspberry PI
   - Banana Pi
+image: /images/2013/12/merry_christmas.jpg
 ---
 
 # News this week on the Pi World

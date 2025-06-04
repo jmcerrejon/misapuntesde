@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2016/06/how-to-build-raspberry-pi-twitter-bot.png
 ---
 
 # Construir un Twitter Bot con Python

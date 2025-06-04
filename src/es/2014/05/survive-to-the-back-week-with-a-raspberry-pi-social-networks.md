@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/lolface.jpg
 ---
 
 # Sobrevivir a la Semana Negra con la Raspberry Pi: Redes Sociales y chat

@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2018/11/rpi3ModelAplus.jpg
 ---
 
 # Raspberry Pi 3 Model A+

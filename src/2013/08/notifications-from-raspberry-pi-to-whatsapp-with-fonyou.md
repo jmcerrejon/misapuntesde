@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/pi_whatsapp.png
 ---
 
 # Notifications from Raspberry Pi to WhatsApp with FonYou

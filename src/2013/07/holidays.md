@@ -11,6 +11,7 @@ category:
   - Linux
 tag:
   - Linux
+image: /images/holidays.jpg
 ---
 
 # Holidays

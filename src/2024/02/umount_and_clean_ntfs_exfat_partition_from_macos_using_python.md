@@ -12,6 +12,7 @@ tags:
     - Tips
     - Python
     - Tutorial
+image: https://misapuntesde.com/images/2024/02/hard-drive-with-macbook-pro.jpg
 ---
 
 # Umount & Clean your NTFS/exFAT partition from _macOS_ using Python

@@ -11,6 +11,7 @@ category:
   - Linux
 tag:
   - Linux
+image: /images/2016/06/transfer_home.png
 ---
 
 # Compartir archivos a través de la línea de comandos con Transfer.sh

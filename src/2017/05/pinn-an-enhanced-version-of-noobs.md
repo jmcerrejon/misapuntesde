@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2017/05/miniSD.png
 ---
 
 # PINN: An enhanced version of NOOBS

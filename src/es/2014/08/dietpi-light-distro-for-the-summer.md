@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/minibian.jpg
 ---
 
 # DietPi: Una distro ligera para el verano

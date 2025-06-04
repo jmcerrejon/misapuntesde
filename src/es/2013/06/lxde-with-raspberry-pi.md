@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/lxde.png
 ---
 
 # LXDE con Raspberry Pi

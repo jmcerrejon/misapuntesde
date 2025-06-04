@@ -15,6 +15,7 @@ tag:
   - Raspberry PI
   - Developer
   - Linux
+image: /images/git.jpg
 ---
 
 # ¿Qué es Git?

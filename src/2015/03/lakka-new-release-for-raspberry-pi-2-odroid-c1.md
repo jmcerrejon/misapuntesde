@@ -13,6 +13,7 @@ category:
 tag:
   - Raspberry PI
   - ODROID
+image: /images/2014/11/lakka.png
 ---
 
 # Lakka new release for Raspberry Pi 2 & ODROID-C1

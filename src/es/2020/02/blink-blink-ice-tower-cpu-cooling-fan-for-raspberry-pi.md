@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2020/02/fan_unboxing_01.jpg
 ---
 
 # Blink Blink ICE Tower CPU Cooling Fan para la Raspberry Pi

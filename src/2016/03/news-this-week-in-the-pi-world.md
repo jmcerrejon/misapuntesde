@@ -13,6 +13,7 @@ category:
 tag:
   - Raspberry PI
   - ODROID
+image: /images/2016/03/64bitRpi3.png
 ---
 
 # News this week in the Pi World

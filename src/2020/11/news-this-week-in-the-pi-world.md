@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2020/11/rpi400.jpg
 ---
 
 # News this week in the Pi World!

@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/GPIO.jpg
 ---
 
 # Raspberry Pi and GPIO (1)

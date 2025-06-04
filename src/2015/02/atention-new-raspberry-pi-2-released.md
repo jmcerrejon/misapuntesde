@@ -13,6 +13,7 @@ category:
 tag:
   - Raspberry PI
   - ODROID
+image: /images/02_RaspberryPi2.jpg
 ---
 
 # ATENTION: New Raspberry Pi 2 released!

@@ -11,6 +11,7 @@ category:
   - General
 tag:
   - General
+image: /images/2016/03/beaglebone.png
 ---
 
 # Building a BeagleBone Black Super Cluster (free E-Book)

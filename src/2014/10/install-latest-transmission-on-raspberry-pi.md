@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/torrent.png
 ---
 
 # Install Latest Transmission on Raspberry Pi 

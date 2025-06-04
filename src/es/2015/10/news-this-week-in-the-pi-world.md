@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2015/10/rjam_Nov.png
 ---
 
 # Han sido noticia esta semana en el mundo Pi

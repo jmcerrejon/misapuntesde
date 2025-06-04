@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/kddbcn.jpg
 ---
 
 # Meeting next Thursday on Barcelona (Spain)

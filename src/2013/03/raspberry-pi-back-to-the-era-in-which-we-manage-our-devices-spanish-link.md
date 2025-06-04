@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/xakatahome.jpg
 ---
 
 # Raspberry Pi: back to the era in which we manage our devices (spanish link)

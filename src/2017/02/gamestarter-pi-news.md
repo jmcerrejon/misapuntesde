@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2017/02/gamestarter.png
 ---
 
 # Gamestarter-Pi news

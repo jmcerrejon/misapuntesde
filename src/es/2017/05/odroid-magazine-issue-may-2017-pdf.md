@@ -11,6 +11,7 @@ category:
   - ODROID
 tag:
   - ODROID
+image: /images/2017/05/odroid_may_17.jpg
 ---
 
 # ODROID Magazine Mayo 2017 (pdf)

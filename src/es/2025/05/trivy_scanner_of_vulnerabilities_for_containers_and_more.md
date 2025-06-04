@@ -9,6 +9,7 @@ category:
 tags:
     - DevOps
     - Security
+image: /images/2025/05/trivy_logo.png
 ---
 
 # Trivy: Escáner de vulnerabilidades para contenedores... y más!

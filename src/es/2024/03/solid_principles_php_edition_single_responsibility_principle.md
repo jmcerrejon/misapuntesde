@@ -11,6 +11,7 @@ tags:
   - PHP
   - Developer
   - Design Patterns
+image: /images/2024/03/solid.jpg
 ---
 # Principios SOLID PHP Edition. Hoy: Principio de responsabilidad única
 

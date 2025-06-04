@@ -17,6 +17,7 @@ tag:
   - Android
   - Banana Pi
   - ODROID
+image: /images/2015/03/Kmediatorrent.png
 ---
 
 # KODITorrent: Addon to watch movies & TV Shows through Torrent

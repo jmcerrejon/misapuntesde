@@ -11,6 +11,7 @@ category:
   - General
 tag:
   - General
+image: /images/2015/10/10.png
 ---
 
 # Whatsapp spy app

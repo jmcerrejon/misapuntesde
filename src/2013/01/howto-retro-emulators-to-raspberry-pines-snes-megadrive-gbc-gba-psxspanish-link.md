@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/retropieprojectlogofinish.jpg
 ---
 
 # HowTo retro-emulators to Raspberry Pi:nes, snes, megadrive, gbc, gba, psx,...(spanish link)

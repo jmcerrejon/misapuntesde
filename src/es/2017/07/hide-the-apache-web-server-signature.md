@@ -11,6 +11,7 @@ category:
   - Developer
 tag:
   - Developer
+image: /images/2017/07/not_found.png
 ---
 
 # Ocultar la firma del servidor web Apache

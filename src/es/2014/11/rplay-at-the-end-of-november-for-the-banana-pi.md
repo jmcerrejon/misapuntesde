@@ -13,6 +13,7 @@ category:
 tag:
   - Raspberry PI
   - Banana Pi
+image: /images/airplay.jpg
 ---
 
 # rPlay a finales de Noviembre en la Banana Pi

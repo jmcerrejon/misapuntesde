@@ -11,6 +11,7 @@ category:
   - Apple
 tag:
   - Apple
+image: /images/2016/03/osx_partitions.png
 ---
 
 # Evitar montar una partición en OSX (1 línea de código)

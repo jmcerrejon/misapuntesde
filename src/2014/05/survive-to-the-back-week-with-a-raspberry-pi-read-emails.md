@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2014/04/shell.jpg
 ---
 
 # Survive to the Back Week with a Raspberry Pi: Read emails

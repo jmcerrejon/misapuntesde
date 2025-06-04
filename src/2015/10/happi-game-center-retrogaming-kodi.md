@@ -13,6 +13,7 @@ category:
 tag:
   - Raspberry PI
   - ODROID
+image: /images/2015/10/happi_logo.png
 ---
 
 # Happi Game Center (Retrogaming +Kodi)

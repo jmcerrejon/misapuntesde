@@ -13,6 +13,7 @@ category:
 tag:
   - Raspberry PI
   - ODROID
+image: /images/2015/02/all_rpi_togheter_min.jpg
 ---
 
 # News this week on the Pi World

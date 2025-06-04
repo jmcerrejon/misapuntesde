@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/fastdosbox.jpg
 ---
 
 # Fastdosbox speed up dosbox over 250%

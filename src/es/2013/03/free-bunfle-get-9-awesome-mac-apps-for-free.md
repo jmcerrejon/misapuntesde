@@ -11,6 +11,7 @@ category:
   - Apple
 tag:
   - Apple
+image: /images/macupdate.jpg
 ---
 
 # Free Bundle: ¡9 increíbles aplicaciones gratis para Mac!

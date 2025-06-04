@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2014/12/gamebox-logo.png
 ---
 
 # Foro de XBMC GameBox vuelve a estar operativo

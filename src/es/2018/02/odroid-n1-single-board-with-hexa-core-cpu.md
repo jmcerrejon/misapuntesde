@@ -11,6 +11,7 @@ category:
   - ODROID
 tag:
   - ODROID
+image: /images/2018/02/n1_01-680x419.jpg
 ---
 
 # ODROID-N1 single-board con CPU hexa-core

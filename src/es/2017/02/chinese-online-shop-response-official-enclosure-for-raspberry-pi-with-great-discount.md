@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2017/02/casePi.png
 ---
 
 # Cajas "oficiales" para Raspberry Pi chinas con descuento

@@ -11,6 +11,7 @@ category:
   - Developer
 tag:
   - Developer
+image: /images/lolface.jpg
 ---
 
 # ¿Por qué los programadores trabajan mejor de noche?

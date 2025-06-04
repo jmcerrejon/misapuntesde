@@ -13,6 +13,7 @@ category:
 tag:
   - ODROID
   - Raspberry PI
+image: /images/2016/06/expresso.png
 ---
 
 # espresso-arm: PID Espresso Controller + Siri

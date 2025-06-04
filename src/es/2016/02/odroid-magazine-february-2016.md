@@ -11,6 +11,7 @@ category:
   - ODROID
 tag:
   - ODROID
+image: /images/2016/02/ODROID-Magazine-201602-221x300.png
 ---
 
 # ODROID Magazine Febrero 2016

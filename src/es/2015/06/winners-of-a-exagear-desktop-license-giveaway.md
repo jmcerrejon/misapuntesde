@@ -15,6 +15,7 @@ tag:
   - Linux
   - Raspberry PI
   - ODROID
+image: /images/2015/06/ExaGear_Desktop_tr.png
 ---
 
 # Ganadores de una licencia para Exagear Desktop

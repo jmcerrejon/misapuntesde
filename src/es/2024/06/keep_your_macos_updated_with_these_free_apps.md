@@ -12,6 +12,7 @@ tags:
   - free
   - DevOps
   - Automatization
+image: /images/2024/06/update_macos_apps.png
 ---
 # Mantén tus apps actualizadas con estas apps gratuitas en macOS
 

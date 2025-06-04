@@ -11,6 +11,7 @@ category:
   - ODROID
 tag:
   - ODROID
+image: /images/2015/07/ODROID-C1_plus.jpg
 ---
 
 # ODROID-C1+ next week

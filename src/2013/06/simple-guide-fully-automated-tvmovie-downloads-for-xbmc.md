@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/xbmc.jpg
 ---
 
 # Simple GUIDE: Fully Automated TV/Movie downloads for XBMC

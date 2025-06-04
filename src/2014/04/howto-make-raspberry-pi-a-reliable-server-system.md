@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/sd%20pile.png
 ---
 
 # Howto make Raspberry Pi a reliable server system!

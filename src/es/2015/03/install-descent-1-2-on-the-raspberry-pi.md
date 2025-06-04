@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2015/03/descent.png
 ---
 
 # Script para instalar Descent 1 & 2 en la Raspberry Pi

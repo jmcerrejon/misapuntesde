@@ -11,6 +11,7 @@ category:
   - General
 tag:
   - General
+image: /images/bug.jpg
 ---
 
 # Todo vuelve a la normalidad

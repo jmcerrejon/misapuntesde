@@ -11,6 +11,7 @@ category:
   - General
 tag:
   - General
+image: /images/2016/05/appleIII.png
 ---
 
 # Build a replica Apple III

@@ -9,6 +9,7 @@ category:
 tags:
   - Developer
   - pattern
+image: /images/2024/03/turkey.png
 ---
 # Dependency injection pattern explained like you're 5
 

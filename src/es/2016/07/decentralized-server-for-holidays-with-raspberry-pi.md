@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2016/07/rpi2_server.jpg
 ---
 
 # Servidor descentralizado para las vacaciones con Raspberry Pi

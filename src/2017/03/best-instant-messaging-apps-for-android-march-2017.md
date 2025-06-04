@@ -11,6 +11,7 @@ category:
   - General
 tag:
   - General
+image: /images/2017/03/instant_messaging.png
 ---
 
 # Best instant messaging apps for Android (March 2017)

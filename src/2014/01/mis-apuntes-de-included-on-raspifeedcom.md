@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2014/01/raspifeed.jpg
 ---
 
 # Mis Apuntes de included on raspifeed.com

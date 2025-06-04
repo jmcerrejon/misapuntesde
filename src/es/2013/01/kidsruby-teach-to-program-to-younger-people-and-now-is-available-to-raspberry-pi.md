@@ -13,6 +13,7 @@ category:
 tag:
   - Raspberry PI
   - Developer
+image: /images/kidsruby.jpg
 ---
 
 # KidsRuby, enseña a programar a los más jóvenes, y ahora disponible para la RasPi.

@@ -15,6 +15,7 @@ tag:
   - Apple
   - Linux
   - Raspberry PI
+image: /images/2017/09/cmd.jpg
 ---
 
 # Truco: Automatizar introducción de texto en comandos

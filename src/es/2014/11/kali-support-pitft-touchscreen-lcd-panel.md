@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2014/11/kali.png
 ---
 
 # Kali habilita el soporte para pantallas PiTFT

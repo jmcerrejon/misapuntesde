@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2017/07/ssh.png
 ---
 
 # Enable SSH before first boot on Raspbian

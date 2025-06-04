@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/PCUK_0513.jpg
 ---
 
 # Article from Custom PC UK Magazine (May, 2013)

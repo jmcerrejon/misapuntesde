@@ -15,6 +15,7 @@ tag:
   - Raspberry PI
   - Banana Pi
   - ODROID
+image: /images/2015/03/chips.jpg
 ---
 
 # News this week on the Pi World

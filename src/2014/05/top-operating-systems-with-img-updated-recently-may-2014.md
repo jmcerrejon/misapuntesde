@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/sd%20pile.png
 ---
 
 # Top Operating Systems with img updated recently (May, 2014) 

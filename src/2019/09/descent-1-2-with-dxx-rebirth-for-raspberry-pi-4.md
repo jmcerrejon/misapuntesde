@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2015/03/descent.png
 ---
 
 # Descent 1 & 2 with DXX-Rebirth for Raspberry Pi 4

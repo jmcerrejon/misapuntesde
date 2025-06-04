@@ -11,6 +11,7 @@ tags:
   - SOLID
   - Developer
   - Design Patterns
+image: /images/2024/03/open_close.jpg
 ---
 # Principios SOLID PHP Edition. Hoy: el principio Abierto/Cerrado
 

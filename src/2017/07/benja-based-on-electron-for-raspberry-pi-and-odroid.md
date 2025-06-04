@@ -13,6 +13,7 @@ category:
 tag:
   - Raspberry PI
   - ODROID
+image: /images/2017/07/benja.png
 ---
 
 # BENJA based on Electron for Raspberry Pi and ODROID

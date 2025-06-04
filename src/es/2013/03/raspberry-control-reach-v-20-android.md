@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/raspberry_control_2.jpg
 ---
 
 # Raspberry Control alcanza la versión 2.0 (Android)

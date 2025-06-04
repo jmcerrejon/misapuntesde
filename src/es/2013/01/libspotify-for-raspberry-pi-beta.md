@@ -13,6 +13,7 @@ category:
 tag:
   - Raspberry PI
   - Developer
+image: /images/spotify.jpg
 ---
 
 # Beta de libspotify para Raspberry Pi

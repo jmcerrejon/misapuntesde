@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2014/03/svi-728.jpg
 ---
 
 # ¡Nuevo OpenMSX 0.10.1! (binario)

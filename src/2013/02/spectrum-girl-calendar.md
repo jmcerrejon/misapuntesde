@@ -11,6 +11,7 @@ category:
   - General
 tag:
   - General
+image: /images/spectrum_calendar_13.jpg
 ---
 
 # Spectrum girl calendar

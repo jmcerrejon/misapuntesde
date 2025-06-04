@@ -17,6 +17,7 @@ tag:
   - Linux
   - Raspberry PI
   - Banana Pi
+image: /images/ssh_hodor.png
 ---
 
 # SSH connections,... and forget about passwords!

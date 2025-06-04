@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2013/07/water_cooled_01.jpg
 ---
 
 # Water Cooled Raspberry Pi Build

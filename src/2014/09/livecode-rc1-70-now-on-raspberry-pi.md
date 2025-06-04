@@ -13,6 +13,7 @@ category:
 tag:
   - Raspberry PI
   - Developer
+image: /images/2014/09/livecode_logo.png
 ---
 
 # LiveCode RC1 7.0 now on Raspberry Pi

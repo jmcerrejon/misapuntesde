@@ -13,6 +13,7 @@ category:
 tag:
   - Raspberry PI
   - Linux
+image: /images/linux_lw.jpg
 ---
 
 # Linux ligero. Comparativa de escritorios livianos

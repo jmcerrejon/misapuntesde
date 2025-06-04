@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2016/05/deploy_script_original_idea.png
 ---
 
 # Han sido noticia esta semana en el mundo Pi

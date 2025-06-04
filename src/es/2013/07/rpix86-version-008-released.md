@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/rpix86_logo.jpg
 ---
 
 # ¡Nuevo rpix86 versión 0.08!

@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/berryio.jpg
 ---
 
 # BerryIO: Web browser based control system for the RaspberryPi

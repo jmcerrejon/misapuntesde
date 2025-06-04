@@ -12,6 +12,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/raspiwardu.jpg
 ---
 
 # Raspberry Pi Home Automation with Arduino (Ebook)

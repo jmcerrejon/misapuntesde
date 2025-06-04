@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2013/11/wolframalpha_logo.jpg
 ---
 
 # Wolfram API on Raspberry Pi

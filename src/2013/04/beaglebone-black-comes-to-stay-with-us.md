@@ -13,6 +13,7 @@ category:
 tag:
   - Raspberry PI
   - General
+image: /images/beaglebone.jpg
 ---
 
 # Beaglebone Black comes to stay with us

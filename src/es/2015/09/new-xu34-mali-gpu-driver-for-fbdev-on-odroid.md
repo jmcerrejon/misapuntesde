@@ -11,6 +11,7 @@ category:
   - ODROID
 tag:
   - ODROID
+image: /images/emulationstation.png
 ---
 
 # Nuevos Drivers XU3/4 Mali GPU para FBDEV en ODROID

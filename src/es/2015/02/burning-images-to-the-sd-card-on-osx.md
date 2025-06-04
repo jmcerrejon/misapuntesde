@@ -17,6 +17,7 @@ tag:
   - Banana Pi
   - ODROID
   - Apple
+image: /images/2015/02/burnSD.png
 ---
 
 # Quemar imágenes a la tarjeta SD en OSX

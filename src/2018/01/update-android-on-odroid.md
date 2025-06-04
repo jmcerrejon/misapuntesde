@@ -11,6 +11,7 @@ category:
   - ODROID
 tag:
   - ODROID
+image: /images/2017/11/android.png
 ---
 
 # Update Android on ODROID

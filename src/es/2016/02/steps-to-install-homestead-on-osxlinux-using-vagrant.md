@@ -11,6 +11,7 @@ category:
   - Developer
 tag:
   - Developer
+image: /images/2016/01/vagrant.png
 ---
 
 # Pasos para instalar Homestead en OSX/Linux usando Vagrant

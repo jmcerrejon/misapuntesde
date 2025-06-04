@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/dropbox.jpg
 ---
 
 # Bash Script To Access Dropbox Via Command Line: Dropbox Uploader

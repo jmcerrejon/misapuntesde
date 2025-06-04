@@ -11,6 +11,7 @@ category:
   - ODROID
 tag:
   - ODROID
+image: /images/odroid_android.png
 ---
 
 # Review + Youtube: Android v. 1.1 (4.4.2) on ODROID-C1

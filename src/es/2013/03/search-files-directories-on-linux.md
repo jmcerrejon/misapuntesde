@@ -13,6 +13,7 @@ category:
 tag:
   - Raspberry PI
   - Linux
+image: /images/Terminal_01.jpg
 ---
 
 # Buscar ficheros y directorios en linux

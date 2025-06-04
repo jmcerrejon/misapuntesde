@@ -9,6 +9,7 @@ category:
 tags:
     - AI
     - developer
+image: /images/2024/06/me_trying_be_faster_than_copilot.jpg
 ---
 
 # El uso que doy a la AI como desarrollador a día de hoy

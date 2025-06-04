@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2015/09/NESPI-lado-abierta-pi.png
 ---
 
 # NesPi: Raspberry Pi inside a NES build with Lego

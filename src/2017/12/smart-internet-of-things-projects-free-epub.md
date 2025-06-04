@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2017/12/packpubiot.png
 ---
 
 # Smart Internet of Things Projects (free Epub)

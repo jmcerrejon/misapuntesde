@@ -11,6 +11,7 @@ category:
   - Apple
 tag:
   - Apple
+image: /images/macupdate.jpg
 ---
 
 # Free Bunfle: get 9 awesome Mac apps for FREE

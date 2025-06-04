@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/mame.jpg
 ---
 
 # PiMenu, otra alternativa a la hora de lanzar tus emuladores

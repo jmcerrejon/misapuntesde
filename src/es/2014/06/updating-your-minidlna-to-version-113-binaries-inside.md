@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2014/06/minidlna.png
 ---
 
 # Actualizando a la última versión de MiniDLNA (1.1.3)

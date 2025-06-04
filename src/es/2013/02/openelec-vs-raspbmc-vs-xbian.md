@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/xbmc.jpg
 ---
 
 # Openelec vs Raspbmc vs Xbian

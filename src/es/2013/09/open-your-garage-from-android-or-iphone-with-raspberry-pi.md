@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2013/09/garage.jpg
 ---
 
 # Abre tu garaje desde Android o iPhone con Raspberry Pi

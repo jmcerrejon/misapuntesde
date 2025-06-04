@@ -13,6 +13,7 @@ category:
 tag:
   - Raspberry PI
   - ODROID
+image: /images/2018/12/ODROID-H2.jpg
 ---
 
 # ¡Noticias esta semana en el Mundo Pi...Edición Navidad!

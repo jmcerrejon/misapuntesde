@@ -11,6 +11,7 @@ category:
   - ODROID
 tag:
   - ODROID
+image: /images/2015/08/volkspc.png
 ---
 
 # VOLKSPC OS to the ODROID-C1 board

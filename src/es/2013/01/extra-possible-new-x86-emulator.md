@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/LW2land.jpg
 ---
 
 # PRIMICIA!: Posible nuevo emulador x86

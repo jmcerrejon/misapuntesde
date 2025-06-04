@@ -13,6 +13,7 @@ category:
 tag:
   - Linux
   - Apple
+image: /images/2013/05/no_access.jpg
 ---
 
 # Leer y escribir en particiones ext2/ext3/ext4 desde Mac y HFS+ desde Linux

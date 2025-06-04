@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/motiond.jpg
 ---
 
 # Raspberry Pi motion detector with remote alert using Realtime and Python

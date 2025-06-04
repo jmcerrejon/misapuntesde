@@ -9,6 +9,7 @@ category:
 tags:
   - Developer
   - pattern
+image: /images/2024/03/turkey.png
 ---
 # Inyección de dependencia como si tuvieras 5 años
 

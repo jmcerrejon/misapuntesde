@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/Linux_Format_UK_2013-04.jpg
 ---
 
 # Article from the magazine Linux Format UK (April, 2013)

@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/geogebra.jpg
 ---
 
 # Cómo ejecutar GeoGebra 4.0 en la Raspberry Pi

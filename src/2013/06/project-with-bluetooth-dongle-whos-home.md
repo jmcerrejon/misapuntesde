@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/domotica_01.jpg
 ---
 
 # Project with Bluetooth dongle: "Who's home?"

@@ -13,6 +13,7 @@ category:
 tag:
   - Raspberry PI
   - ODROID
+image: /images/2015/08/plex_logo.png
 ---
 
 # Nueva versión de Plex Media Server

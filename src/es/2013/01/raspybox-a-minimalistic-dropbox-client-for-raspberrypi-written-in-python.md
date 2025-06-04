@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/dropbox.jpg
 ---
 
 # RaspyBox: Minimalista cliente de Dropbox escrito en Python.

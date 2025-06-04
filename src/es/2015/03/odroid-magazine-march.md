@@ -11,6 +11,7 @@ category:
   - ODROID
 tag:
   - ODROID
+image: /images/2015/03/odroid_magazine_march.jpg
 ---
 
 # ODROID Magazine Marzo

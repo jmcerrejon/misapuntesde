@@ -11,6 +11,7 @@ category:
   - General
 tag:
   - General
+image: /images/2017/03/instant_messaging.png
 ---
 
 # Mejores Apps de mensajería para Tablets Android (Marzo 2017)

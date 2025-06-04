@@ -13,6 +13,7 @@ category:
 tag:
   - Linux
   - Raspberry PI
+image: /images/prosody.jpg
 ---
 
 # Setting up Prosody for our own chatroom

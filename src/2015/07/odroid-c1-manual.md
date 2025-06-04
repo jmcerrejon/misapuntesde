@@ -11,6 +11,7 @@ category:
   - ODROID
 tag:
   - ODROID
+image: /images/2015/07/odroid-c1-user-manual.jpg
 ---
 
 # ODROID-C1 manual

@@ -11,6 +11,7 @@ category:
   - ODROID
 tag:
   - ODROID
+image: /images/2015/10/odrobian_02.png
 ---
 
 # (Odrobian) Debian Jessie 8.2 MATE with KODI for C1/C1+

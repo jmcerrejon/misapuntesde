@@ -11,6 +11,7 @@ category:
   - Linux
 tag:
   - Linux
+image: /images/2017/01/kali.png
 ---
 
 # Kali Linux – Assuring Security by Penetration Testing (Ebook gratis)

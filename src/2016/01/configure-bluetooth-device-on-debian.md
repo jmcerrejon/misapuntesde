@@ -11,6 +11,7 @@ category:
   - Linux
 tag:
   - Linux
+image: /images/bluetooth.jpg
 ---
 
 # Configure bluetooth device on Debian

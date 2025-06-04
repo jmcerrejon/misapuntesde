@@ -13,6 +13,7 @@ category:
 tag:
   - Apple
   - Raspberry PI
+image: /images/2020/04/dosbox_macos_01.png
 ---
 
 # Hoy en misterios que resolver: DOSBox y el bug del mapeo de teclas en macOS

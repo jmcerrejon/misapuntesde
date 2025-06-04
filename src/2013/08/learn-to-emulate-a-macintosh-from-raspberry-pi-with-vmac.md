@@ -13,6 +13,7 @@ category:
 tag:
   - Raspberry PI
   - Apple
+image: /images/2013/08/mac.jpg
 ---
 
 # Learn to emulate a Macintosh from Raspberry Pi with vMac

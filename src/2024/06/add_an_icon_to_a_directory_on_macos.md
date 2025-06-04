@@ -8,6 +8,7 @@ category:
   - Apple
 tags:
   - macOS
+image: /images/2024/06/explanation.png
 ---
 # Add an icon to a directory on macOS
 

@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/DSx86Animated2.gif
 ---
 
 # DSx86 port on the way

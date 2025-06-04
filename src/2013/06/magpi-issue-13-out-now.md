@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/magpi13.jpg
 ---
 
 # MagPi issue 13: out now!

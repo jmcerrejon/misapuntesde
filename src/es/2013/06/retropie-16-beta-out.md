@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/retromachine.jpg
 ---
 
 # ¡RetroPie 1.6 Beta disponible!

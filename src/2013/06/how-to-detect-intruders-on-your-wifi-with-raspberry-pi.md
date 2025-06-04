@@ -13,6 +13,7 @@ category:
 tag:
   - Raspberry PI
   - Apple
+image: /images/wifi_exposed.png
 ---
 
 # How to detect intruders on your WiFi with Raspberry Pi

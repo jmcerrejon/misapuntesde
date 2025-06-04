@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2015/10/Magpi38.jpg
 ---
 
 # The MagPi issue 38 (October)

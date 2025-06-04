@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/ssh-tunnel.jpg
 ---
 
 # Access from Internet to your Raspberry Pi. Dinamic IPs, ports, DNS & SSH tunnels (spanish link)

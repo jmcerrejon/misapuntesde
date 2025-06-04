@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/03_RaspberryPi.jpg
 ---
 
 # Best of this year 2013 on Mis Apuntes de

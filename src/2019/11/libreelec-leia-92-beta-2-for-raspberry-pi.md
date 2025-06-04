@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2019/10/kodi_bios.jpg
 ---
 
 # LibreELEC (Leia) 9.2 Beta 2 for Raspberry Pi

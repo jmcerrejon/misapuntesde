@@ -9,6 +9,7 @@ category:
 tags:
     - macOS
     - software
+image: /images/2024/09/autofirma_installation.jpg
 ---
 
 # Solucionar errores Autofirma en macOS Sonoma

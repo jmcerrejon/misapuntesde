@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2013/10/motion.jpg
 ---
 
 # Especial cámaras en Raspberry Pi (II Parte)

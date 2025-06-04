@@ -13,6 +13,7 @@ category:
 tag:
   - Raspberry PI
   - Apple
+image: /images/2014/01/jobs.jpg
 ---
 
 # ¡Feliz cumpleaños, Mac!

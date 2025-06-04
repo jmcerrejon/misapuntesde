@@ -13,6 +13,7 @@ category:
 tag:
   - Raspberry PI
   - ODROID
+image: /images/2016/04/Webtorrent-cli.png
 ---
 
 # Ver/retransmitir via Torrent con Webtorrent-cli

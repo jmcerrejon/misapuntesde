@@ -2,6 +2,7 @@
 title: About me
 description: About me
 article: false
+image: /images/my_life_min.jpg
 ---
 
 # About me

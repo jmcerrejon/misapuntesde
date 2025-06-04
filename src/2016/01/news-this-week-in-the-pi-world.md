@@ -13,6 +13,7 @@ category:
 tag:
   - Raspberry PI
   - ODROID
+image: /images/2016/01/VuShell_Guide_XU4_22.jpg
 ---
 
 # News this week in the Pi World

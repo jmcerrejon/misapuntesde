@@ -15,6 +15,7 @@ tag:
   - Raspberry PI
   - Banana Pi
   - ODROID
+image: /images/2014/12/RPi500.png
 ---
 
 # MEGAPOST: Lo mejor de Mis Apuntes del 2014

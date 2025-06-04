@@ -12,6 +12,7 @@ tags:
     - Developer
     - PHP
     - Vuepress
+image: https://misapuntesde.com/images/2024/02/php_vue.jpg
 ---
 
 # Como migré de PHP a Vuepress 2 (Parte II)

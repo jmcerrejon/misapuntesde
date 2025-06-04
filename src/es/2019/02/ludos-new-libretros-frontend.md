@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2019/02/ludo.png
 ---
 
 # Nuevo Frontend para Libretro LudOS

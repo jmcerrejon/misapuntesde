@@ -13,6 +13,7 @@ category:
 tag:
   - Raspberry PI
   - Developer
+image: /images/2013/09/cs.jpg
 ---
 
 # Searching collaborator for porting games in Allegro and SDL

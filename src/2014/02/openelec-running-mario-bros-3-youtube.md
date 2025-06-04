@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2014/02/openelec_mbros.jpg
 ---
 
 # OpenELEC running Mario Bros 3 (Youtube)

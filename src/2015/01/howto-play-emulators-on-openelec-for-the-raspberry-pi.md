@@ -13,6 +13,7 @@ category:
 tag:
   - Raspberry PI
   - Developer
+image: /images/2015/01/OpenELEC_RetroArch.jpg
 ---
 
 # HOWTO play emulators on OpenELEC for the raspberry Pi!

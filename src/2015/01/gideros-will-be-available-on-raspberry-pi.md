@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2015/01/gideros.png
 ---
 
 # Gideros will be available on Raspberry Pi

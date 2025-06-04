@@ -11,6 +11,7 @@ category:
   - General
 tag:
   - General
+image: /images/2016/07/god-save-the-brexit.png
 ---
 
 # Softbank Group and the ARM cake of $32bn

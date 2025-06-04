@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2015/06/piot_logo_v2.png
 ---
 
 # Raspberry Pi and the IoT

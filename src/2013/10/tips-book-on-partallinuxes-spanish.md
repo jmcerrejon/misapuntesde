@@ -13,6 +13,7 @@ category:
 tag:
   - Raspberry PI
   - Linux
+image: /images/2013/10/libro_trucos.jpg
 ---
 
 # Tips Book on PartalLinux.es (Spanish)

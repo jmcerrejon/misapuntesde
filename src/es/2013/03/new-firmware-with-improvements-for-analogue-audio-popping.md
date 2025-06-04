@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/firmware.jpg
 ---
 
 # Nuevo firmware soluciona los "clacks" con la salida de audio analógica

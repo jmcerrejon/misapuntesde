@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/pibang.jpg
 ---
 
 # Nueva versión de PiBang!

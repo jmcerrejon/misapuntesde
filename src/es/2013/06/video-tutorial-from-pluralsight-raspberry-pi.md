@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/pluralsight.jpeg
 ---
 
 # Video tutorial de Pluralsight: Raspberry Pi

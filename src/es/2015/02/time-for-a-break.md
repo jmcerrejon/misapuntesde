@@ -11,6 +11,7 @@ category:
   - Developer
 tag:
   - Developer
+image: /images/2015/02/vgames_01.png
 ---
 
 # Quiero desarrollar un videojuego en 2D. ¿Por dónde empiezo?

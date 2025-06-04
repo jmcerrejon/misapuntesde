@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2013/11/allinone.jpg
 ---
 
 # UltraSlim: Retro Gaming + Q3A + Desktop + XBMC

@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2014/06/sonic_pi.png
 ---
 
 # Sonic Pi v2.0

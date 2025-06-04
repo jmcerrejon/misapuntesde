@@ -11,6 +11,7 @@ category:
   - General
 tag:
   - General
+image: /images/2018/07/rpi_retro.jpg
 ---
 
 # Modo vacaciones ON

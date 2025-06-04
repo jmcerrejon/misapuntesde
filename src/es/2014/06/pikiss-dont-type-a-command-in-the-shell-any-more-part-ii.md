@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/pikiss_black.png
 ---
 
 # PiKISS: No escribas ni un sólo comando nunca más (Parte II)

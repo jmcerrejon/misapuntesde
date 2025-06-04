@@ -11,6 +11,7 @@ category:
   - Raspberry PI
 tag:
   - Raspberry PI
+image: /images/2017/08/surveilance.jpg
 ---
 
 # RPi Cam Web Interface

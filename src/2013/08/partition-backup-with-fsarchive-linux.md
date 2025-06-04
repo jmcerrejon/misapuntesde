@@ -13,6 +13,7 @@ category:
 tag:
   - Raspberry PI
   - Linux
+image: /images/backup_en.png
 ---
 
 # Partition backup with fsarchive (Linux)

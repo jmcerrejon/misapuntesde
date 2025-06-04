@@ -11,6 +11,7 @@ category:
   - General
 tag:
   - General
+image: /images/2018/05/privacy.jpg
 ---
 
 # A vueltas con el Reglamento General sobre la Protección de Datos

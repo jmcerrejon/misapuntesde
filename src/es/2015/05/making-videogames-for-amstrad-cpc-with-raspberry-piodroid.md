@@ -13,6 +13,7 @@ category:
 tag:
   - Raspberry PI
   - ODROID
+image: /images/2015/05/AmstradPi.jpg
 ---
 
 # Creando videojuegos para Amstrad CPC con la Raspberry Pi/ODROID
