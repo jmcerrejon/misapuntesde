@@ -37,7 +37,7 @@ export default hopeTheme({
     "/": {
       navbar: enNavbar,
       sidebar: false, // sidebar: enSidebar,
-      footer: 'This blog DO NOT use cookies to improve your experience.',
+      footer: '<a href="https://notbyai.fyi"><img src="/images/logos/Written-By-a-Human-Not-By-AI-Badge-white.svg" alt="Written by a Human, Not by AI"></a><br>This blog DO NOT use cookies to improve your experience.',
       displayFooter: true,
       blog: {
         description: "IT Consultant & GenAI Architect",
@@ -49,7 +49,7 @@ export default hopeTheme({
     "/es/": {
       navbar: esNavbar,
       sidebar: false, // sidebar: esSidebar,
-      footer: 'Este blog NO usa cookies para mejorar tu experiencia.',
+      footer: '<a href="https://notbyai.fyi"><img src="/images/logos/Written-By-a-Human-Not-By-AI-Badge-white.svg" alt="Contenido creado por humano, no por IA"></a><br>Este blog NO usa cookies para mejorar tu experiencia',
       displayFooter: true,
       blog: {
         description: "Consultor IT & Arquitecto GenAI",
