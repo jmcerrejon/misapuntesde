@@ -4,8 +4,7 @@ layout: BlogHome
 icon: home
 title: Home
 description: Home
-heroImage: /images/logos/01_logo.png
-bgImage: /images/headers/header_01.jpg
+bgImage: /images/headers/header_02.jpg
 heroText: My Notes about...
 tagline: News, articles, tutorials, and more.
 heroFullScreen: false
