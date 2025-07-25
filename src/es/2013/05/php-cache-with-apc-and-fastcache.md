@@ -105,7 +105,7 @@ mantenga en la cache 10 minutos (600 seg.)
 
 Queda claro que podemos invocar a **_get_** para coger valores y **_set_** para guardarlos.
 
-Tenemos disponible otras funciones como **_phpFastCache::delete("variable"), phpFastCache::exists("variable")_** y demás, que son bastante concluyentes.
+Tenemos disponible otras funciones como **_phpFastCache::delete(`variable`), phpFastCache::exists(`variable`)_** y demás, que son bastante concluyentes.
 
 Podemos consultar con las funciones **_phpFastCache::systemInfo()_** y **_phpFastCache::stats()_** información sobre el sistema donde se ejecuta y estadísticas internas interesantes a la hora de depurar.
 
