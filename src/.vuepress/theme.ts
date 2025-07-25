@@ -16,7 +16,7 @@ export default hopeTheme({
   contributors: false,
   hotReload: false,
   license: "<br>Designed with ♥️ using VuePress 2 | <a href=https://creativecommons.org/licenses/by-nc-sa/4.0/ target=_blank>CC BY-NC-SA 4.0</a>",
-  iconAssets: "https://kit.fontawesome.com/88116225ce.js",
+
   logo: "/images/logos/avatar_memoji.png",
   repo: "https://github.com/jmcerrejon/misapuntesde",
   docsDir: "src",
@@ -30,7 +30,10 @@ export default hopeTheme({
       Twitter: "https://x.com/ulysess10",
       Youtube: "https://www.youtube.com/c/josecerrejonpi",
       // Bitcoin: ["https://mister-hope.com", BITCOIN],
-      Patreon: ["https://www.patreon.com/cerrejon", PATREON],
+      Patreon: {
+        icon: PATREON,
+        link: "https://www.patreon.com/cerrejon",
+      },
     },
   },
   locales: {
@@ -62,6 +65,9 @@ export default hopeTheme({
   plugins: {
     blog: true,
     sitemap: true,
+    icon: {
+      assets: "https://kit.fontawesome.com/88116225ce.js",
+    },
     seo: {
       canonical: (_) => "https://misapuntesde.com",
     },
@@ -78,10 +84,6 @@ export default hopeTheme({
         },
       },
     },
-    prismjs: {
-      light: "ateliersulphurpool-light", // favorites: ateliersulphurpool-light, material-light
-      dark: "atom-dark" // favorites: night-owl, coldark-dark, shades-of-purple, dracula, z-touch, holi
-    },
     components: {
       components: ["Badge", "VPCard"],
     },
@@ -92,39 +94,43 @@ export default hopeTheme({
         "/es/": ["es-AR", "es-BO", "es-CL", "es-CO", "es-CR", "es-DO", "es-EC", "es-SV", "es-GT", "es-HN", "es-MX", "es-NI", "es-PA", "es-PE", "es-PR", "es-PY", "es-ES", "es-UY", "es-VE", "es"],
       },
     },
-    mdEnhance: {
-      align: true,
-      attrs: true,
-      codetabs: true,
-      component: true,
-      demo: false,
-      figure: true,
-      imgLazyload: true,
-      imgSize: true,
-      include: true,
-      mark: true,
-      stylize: [
-        {
-          matcher: "Recommended",
-          replacer: ({ tag }) => {
-            if (tag === "em")
-              return {
-                tag: "Badge",
-                attrs: { type: "tip" },
-                content: "Recommended",
-              };
-          },
-        },
-      ],
-      sub: true,
-      sup: true,
-      tabs: true,
-      vPre: true,
-    },
-    // You should create and use your own comment service in production.
-    // comment: {
-    //   provider: "Waline",
-    //   serverURL: "https://waline-comment.vuejs.press",
-    // },
   },
+  markdown: {
+    align: true,
+    attrs: true,
+    codeTabs: true,
+    component: true,
+    demo: false,
+    figure: true,
+    imgLazyload: true,
+    imgSize: true,
+    include: true,
+    mark: true,
+    stylize: [
+      {
+        matcher: "Recommended",
+        replacer: ({ tag }) => {
+          if (tag === "em")
+            return {
+              tag: "Badge",
+              attrs: { type: "tip" },
+              content: "Recommended",
+            };
+        },
+      },
+    ],
+    sub: true,
+    sup: true,
+    tabs: true,
+    vPre: true,
+    highlighter: {
+      type: "prismjs",
+      preloadLanguages: ["typescript", "javascript", "css", "bash", "json", "markdown"],
+    },
+  },
+  // You should create and use your own comment service in production.
+  // comment: {
+  //   provider: "Waline",
+  //   serverURL: "https://waline-comment.vuejs.press",
+  // },
 });
