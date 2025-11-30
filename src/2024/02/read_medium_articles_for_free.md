@@ -19,20 +19,12 @@ Just a quick tip If you want to read a _Medium_ article for free, cuz you don't 
 
 ---
 
-Just copy the URL of the article and paste before the link, the next:
-
-```
-https://webcache.googleusercontent.com/search?q=cache:
-
-# So the final URL will be something like this:
-
-https://webcache.googleusercontent.com/search?q=cache:https://medium.com/@josecerrejon/how-i-migrated-from-php-to-vuepress-2-part-ii-3b3e3e3e3e3e
-```
-
-I've tested and It doesn't works on _Safari_, but It does on _Brave_. I have to say that it does not always work, especially in cases where the article is very recent, but in most cases, It works.
+~~Just copy the URL of the article and paste before the link, the next: https://webcache.googleusercontent.com/search?q=cache:~~
 
 Another solution is to use [removepaywall.com](https://www.removepaywall.com), as extension or web service.
 
 Now you will be able to read it without any problem.
+
+Are you anoyed by ads on Spotify? Read [this](https://misapuntesde.com/2024/06/adblock_for_the_spotify_desktop_client_on_linux_macos.html) article. 😉
 
 You're welcome! :smiley:
