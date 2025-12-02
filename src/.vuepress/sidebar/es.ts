@@ -1,26 +1,64 @@
 import { sidebar } from "vuepress-theme-hope";
 
+// Sidebar específico para la versión española del sitio.
+// Ajusta o amplía las secciones según tu necesidad real.
 export const esSidebar = sidebar({
-  "/esNavbar/": [
+  "/es/": [
     "",
     {
-      text: "如何使用",
-      icon: "laptop-code",
-      prefix: "demo/",
-      link: "demo/",
-      children: "structure",
-    },
-    {
-      text: "文章",
+      text: "Años",
       icon: "book",
-      prefix: "posts/",
-      children: "structure",
+      children: [
+        {
+          text: "2013",
+          link: "/es/2013/",
+        },
+        {
+          text: "2014",
+          link: "/es/2014/",
+        },
+        {
+          text: "2015",
+          link: "/es/2015/",
+        },
+        {
+          text: "2016",
+          link: "/es/2016/",
+        },
+        {
+          text: "2017",
+          link: "/es/2017/",
+        },
+        {
+          text: "2018",
+          link: "/es/2018/",
+        },
+        {
+          text: "2019",
+          link: "/es/2019/",
+        },
+        {
+          text: "2020",
+          link: "/es/2020/",
+        },
+        {
+          text: "2021",
+          link: "/es/2021/",
+        },
+        {
+          text: "2024",
+          link: "/es/2024/",
+        },
+        {
+          text: "2025",
+          link: "/es/2025/",
+        },
+      ],
     },
-    "intro",
     {
-      text: "幻灯片",
-      icon: "person-chalkboard",
-      link: "https://plugin-md-enhance.vuejs.press/esNavbar/guide/content/revealjs/demo.html",
+      text: "Sobre mí",
+      icon: "user",
+      link: "/es/about_me/story.html",
     },
   ],
 });

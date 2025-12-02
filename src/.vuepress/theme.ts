@@ -1,7 +1,7 @@
 import { hopeTheme } from "vuepress-theme-hope";
 import { enNavbar, esNavbar } from "./navbar/index.js";
 import { BITCOIN, PATREON } from "./logo.js";
-// import { enSidebar, esSidebar } from "./sidebar/index.js";
+import { enSidebar, esSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
   hostname: "https://misapuntesde.com",
@@ -39,7 +39,7 @@ export default hopeTheme({
   locales: {
     "/": {
       navbar: enNavbar,
-      sidebar: false, // sidebar: enSidebar,
+      sidebar: false,
       footer: '<a href="https://notbyai.fyi"><img src="/images/logos/Written-By-a-Human-Not-By-AI-Badge-white.svg" alt="Written by a Human, Not by AI"></a><br>This blog DO NOT use cookies to improve your experience.',
       displayFooter: true,
       blog: {
@@ -51,7 +51,7 @@ export default hopeTheme({
 
     "/es/": {
       navbar: esNavbar,
-      sidebar: false, // sidebar: esSidebar,
+      sidebar: esSidebar,
       footer: '<a href="https://notbyai.fyi"><img src="/images/logos/Written-By-a-Human-Not-By-AI-Badge-white.svg" alt="Contenido creado por humano, no por IA"></a><br>Este blog NO usa cookies para mejorar tu experiencia',
       displayFooter: true,
       blog: {
