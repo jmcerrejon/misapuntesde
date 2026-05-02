@@ -1,5 +1,6 @@
 ---
 title: Cool-Retro-Term recompilado para Apple Silicon aarch64 (Link de descarga)
+description: Descarga Cool-Retro-Term compilado nativamente para Apple Silicon M1/M2/M3 (aarch64). Sin necesidad de Rosetta 2.
 icon: fa-brands fa-apple
 author: Jose Cerrejon
 date: 2025-09-28
