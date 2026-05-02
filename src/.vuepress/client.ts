@@ -47,10 +47,10 @@ export default defineClientConfig({
   },
 });
 
-if (typeof document !== 'undefined') {
-  const styleId = 'mundo-arcade-style';
+if (typeof document !== "undefined") {
+  const styleId = "mundo-arcade-style";
   if (!document.getElementById(styleId)) {
-    const style = document.createElement('style');
+    const style = document.createElement("style");
     style.id = styleId;
     style.textContent = `
       .mundo-arcade-logo {

@@ -15,6 +15,7 @@ export default hopeTheme({
   lastUpdated: false,
   contributors: false,
   hotReload: false,
+  breadcrumb: true,
   license: "<br>Designed with ♥️ using VuePress 2 | <a href=https://creativecommons.org/licenses/by-nc-sa/4.0/ target=_blank>CC BY-NC-SA 4.0</a>",
 
   logo: "/images/logos/avatar_memoji.png",
@@ -74,7 +75,7 @@ export default hopeTheme({
     feed: {
       rss: true,
     },
-    search: {
+    slimsearch: {
       locales: {
         '/': {
           placeholder: 'Search',
