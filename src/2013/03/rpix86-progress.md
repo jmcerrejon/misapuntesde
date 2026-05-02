@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/sysinfo.jpg
+og_image: /images/sysinfo.jpg
 ---
 
 # rpix86 progress

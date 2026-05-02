@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/NEWS-ALERT.jpg
+og_image: /images/NEWS-ALERT.jpg
 ---
 
 # BREAKING NEWS: Raspberry Pi kidnapped!

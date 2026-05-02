@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2013/03/retrop_rickd_min.jpg
+og_image: /images/2013/03/retrop_rickd_min.jpg
 ---
 
 # Nuevo port de un emulador de Amiga en camino: uae4all2

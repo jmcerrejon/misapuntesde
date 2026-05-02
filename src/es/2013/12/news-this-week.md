@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2013/12/every_day.jpg
+og_image: /images/2013/12/every_day.jpg
 ---
 
 # Han sido noticia esta semana

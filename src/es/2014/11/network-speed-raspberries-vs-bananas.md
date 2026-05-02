@@ -14,6 +14,7 @@ tag:
   - Raspberry PI
   - Banana Pi
 image: /images/2014/11/Pi_LanTest.png
+og_image: /images/2014/11/Pi_LanTest.png
 ---
 
 # Velocidad de la red: frambuesas Vs bananas

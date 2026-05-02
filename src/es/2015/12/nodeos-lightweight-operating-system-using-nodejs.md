@@ -14,6 +14,7 @@ tag:
     - Raspberry PI
     - ODROID
 image: /images/2015/11/nodeos.png
+og_image: /images/2015/11/nodeos.png
 ---
 
 # NodeOS: Sistema operativo ligero usando Node.js

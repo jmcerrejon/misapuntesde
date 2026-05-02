@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/rpix86_logo.jpg
+og_image: /images/rpix86_logo.jpg
 ---
 
 # Actualizado rpix86 v0.06

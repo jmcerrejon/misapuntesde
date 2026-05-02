@@ -14,6 +14,7 @@ tag:
     - Raspberry PI
     - ODROID
 image: /images/2015/06/ExaGear_Desktop_tr.png
+og_image: /images/2015/06/ExaGear_Desktop_tr.png
 ---
 
 # Nueva versión de Exagear Desktop v1.2

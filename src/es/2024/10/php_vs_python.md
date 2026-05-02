@@ -11,6 +11,7 @@ tags:
     - Python
     - Versus
 image: /images/2024/10/python_vs_php.jpg
+og_image: /images/2024/10/python_vs_php.jpg
 ---
 
 # Lo estabas deseando: PHP Vs Python

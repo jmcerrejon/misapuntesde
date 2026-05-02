@@ -2,6 +2,7 @@
 id: 519
 title: Time for a break
 description: Time for a break
+og_image: /logo.png
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-02-18 09:00:00

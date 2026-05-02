@@ -1,6 +1,7 @@
 ---
 title: PDF Files
 description: PDF Files
+og_image: /logo.png
 article: false
 ---
 

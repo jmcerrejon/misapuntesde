@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2014/08/buildroot.png
+og_image: /images/2014/08/buildroot.png
 ---
 
 # Build your own OS to Raspberry Pi

@@ -12,6 +12,7 @@ category:
 tag:
     - ODROID
 image: /images/2013/09/quake2.jpg
+og_image: /images/2013/09/quake2.jpg
 ---
 
 # Quake 2 on ODROID-C1

@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/opensuse.png
+og_image: /images/opensuse.png
 ---
 
 # OpenSUSE 13.1 disponible para Raspberry Pi

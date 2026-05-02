@@ -13,6 +13,7 @@ tags:
     - Python
     - Tutorial
 image: https://misapuntesde.com/images/2024/02/hard-drive-with-macbook-pro.jpg
+og_image: https://misapuntesde.com/images/2024/02/hard-drive-with-macbook-pro.jpg
 ---
 
 # Desmontar y Limpiar tu partición NTFS/exFAT desde macOS utilizando Python

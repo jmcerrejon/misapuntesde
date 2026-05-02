@@ -2,6 +2,7 @@
 id: 75
 title: Aplicación para controlar la Raspberry via Android
 description: Aplicación para controlar la Raspberry via Android
+og_image: /logo.png
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-02-22 16:00:00

@@ -12,6 +12,7 @@ category:
 tag:
     - ODROID
 image: /images/2016/02/ODROID-Magazine-201602-221x300.png
+og_image: /images/2016/02/ODROID-Magazine-201602-221x300.png
 ---
 
 # Nueva ODROID MAGAZINE.

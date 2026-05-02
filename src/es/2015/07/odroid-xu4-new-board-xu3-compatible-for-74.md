@@ -12,6 +12,7 @@ category:
 tag:
     - ODROID
 image: /images/2015/07/odroid-xu4_02.jpg
+og_image: /images/2015/07/odroid-xu4_02.jpg
 ---
 
 # ODROID-XU4, nueva placa compatible con XU3 por 74$

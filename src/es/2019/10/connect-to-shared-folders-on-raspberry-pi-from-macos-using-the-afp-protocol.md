@@ -12,6 +12,7 @@ category:
 tag:
   - Raspberry PI
 image: /images/2019/10/afp-smb-apple-mac.jpg
+og_image: /images/2019/10/afp-smb-apple-mac.jpg
 ---
 
 # Conectar a carpetas compartidas en Raspberry Pi desde macOS usando el protocolo AFP

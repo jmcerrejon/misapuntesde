@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: https://www.misapuntesde.com/images/summercamp.jpg
+og_image: https://www.misapuntesde.com/images/summercamp.jpg
 ---
 
 # Summer Camp 2013 en Zaragoza

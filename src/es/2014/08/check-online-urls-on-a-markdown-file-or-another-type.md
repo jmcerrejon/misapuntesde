@@ -12,6 +12,7 @@ category:
 tag:
   - Linux
 image: /images/2014/08/keep-calm.png
+og_image: /images/2014/08/keep-calm.png
 ---
 
 # Comprobar urls online a partir de un fichero Markdown (u otro)

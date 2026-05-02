@@ -2,6 +2,7 @@
 id: 659
 title: Migración a PHP 5.6
 description: Migración a PHP 5.6
+og_image: /logo.png
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2016-01-31 12:00:00

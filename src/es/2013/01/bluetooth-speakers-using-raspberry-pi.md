@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/bluetooth-speaker.jpg
+og_image: /images/bluetooth-speaker.jpg
 ---
 
 # Altavoces bluetooth usando la Raspberry Pi

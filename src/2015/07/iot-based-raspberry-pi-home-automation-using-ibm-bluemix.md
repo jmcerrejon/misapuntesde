@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2015/07/bluemix.jpg
+og_image: /images/2015/07/bluemix.jpg
 ---
 
 # IoT based Raspberry Pi home automation using IBM Bluemix

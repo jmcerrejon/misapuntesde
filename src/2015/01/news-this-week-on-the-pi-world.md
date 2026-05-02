@@ -16,6 +16,7 @@ tag:
     - Banana Pi
     - ODROID
 image: /images/2015/01/bug.png
+og_image: /images/2015/01/bug.png
 ---
 
 # News this week on the Pi World

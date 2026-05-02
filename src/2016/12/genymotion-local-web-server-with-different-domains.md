@@ -12,6 +12,7 @@ category:
 tag:
     - Developer
 image: /images/2016/12/vagrant-genymotion.png
+og_image: /images/2016/12/vagrant-genymotion.png
 ---
 
 # Genymotion + local web server with different domains

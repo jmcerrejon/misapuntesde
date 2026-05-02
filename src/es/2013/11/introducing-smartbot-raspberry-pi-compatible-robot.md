@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2013/11/smartbot.jpg
+og_image: /images/2013/11/smartbot.jpg
 ---
 
 # Presentando a SmartBot: robot compatible con Raspberry Pi

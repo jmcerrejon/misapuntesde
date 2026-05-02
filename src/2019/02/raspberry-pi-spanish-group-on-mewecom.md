@@ -12,6 +12,7 @@ category:
 tag:
   - Raspberry PI
 image: /images/2018/03/rpi3bp.png
+og_image: /images/2018/03/rpi3bp.png
 ---
 
 # Raspberry Pi spanish group on mewe.com

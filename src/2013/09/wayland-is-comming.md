@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2013/09/wayland.jpg
+og_image: /images/2013/09/wayland.jpg
 ---
 
 # Wayland is comming...

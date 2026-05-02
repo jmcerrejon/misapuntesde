@@ -12,6 +12,7 @@ category:
 tag:
     - Banana Pi
 image: /images/2015/06/bananapi_cover.jpg
+og_image: /images/2015/06/bananapi_cover.jpg
 ---
 
 # Banana Pi CookBook

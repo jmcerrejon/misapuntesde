@@ -2,6 +2,7 @@
 id: 203
 title: 12MB Minimal Image for Raspberry Pi using the Yocto Project
 description: 12MB Minimal Image for Raspberry Pi using the Yocto Project
+og_image: /logo.png
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-07-05 14:45:00

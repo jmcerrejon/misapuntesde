@@ -12,6 +12,7 @@ category:
 tag:
   - Raspberry PI
 image: /images/2019/07/rpi4_heatsink.jpg
+og_image: /images/2019/07/rpi4_heatsink.jpg
 ---
 
 # New firmware to solve the high temperatures on your Raspberry Pi 4 available!

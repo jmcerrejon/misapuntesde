@@ -12,6 +12,7 @@ category:
 tag:
     - ODROID
 image: /images/2015/08/volkspc.png
+og_image: /images/2015/08/volkspc.png
 ---
 
 # VOLKSPC OS para ODROID-C1

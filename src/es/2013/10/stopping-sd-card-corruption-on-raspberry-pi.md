@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/sd_corrupt.jpg
+og_image: /images/sd_corrupt.jpg
 ---
 
 # Detener la corrupción de tarjetas SD en Raspberry Pi

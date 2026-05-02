@@ -12,6 +12,7 @@ category:
 tag:
   - Developer
 image: /images/2016/06/mongo_logo.png
+og_image: /images/2016/06/mongo_logo.png
 ---
 
 # Mongodb en macOS

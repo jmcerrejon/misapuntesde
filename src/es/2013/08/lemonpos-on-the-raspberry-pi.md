@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2013/08/lemonPOS.jpg
+og_image: /images/2013/08/lemonPOS.jpg
 ---
 
 # LemonPOS en la Raspberry Pi

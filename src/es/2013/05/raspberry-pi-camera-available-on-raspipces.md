@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/picamera.jpg
+og_image: /images/picamera.jpg
 ---
 
 # ¡Raspberry Pi camera disponible en raspipc.es!

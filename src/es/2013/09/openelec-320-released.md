@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/openelec3.jpg
+og_image: /images/openelec3.jpg
 ---
 
 # ¡Liberado OpenELEC 3.2.0!

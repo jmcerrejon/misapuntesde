@@ -16,6 +16,7 @@ tag:
   - Banana Pi
   - ODROID
 image: /images/2014/12/RPi500.png
+og_image: /images/2014/12/RPi500.png
 ---
 
 # MEGAPOST: Best of My Notes (2014)

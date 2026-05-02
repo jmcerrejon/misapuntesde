@@ -11,6 +11,7 @@ tags:
   - hardware
   - gpio
 image: /images/2024/06/vga-connector_01.jpg
+og_image: /images/2024/06/vga-connector_01.jpg
 ---
 # Como usar un adaptador VGA en la Raspberry Pi
 

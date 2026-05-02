@@ -12,6 +12,7 @@ category:
 tag:
   - Raspberry PI
 image: /images/2019/06/rpi4.jpg
+og_image: /images/2019/06/rpi4.jpg
 ---
 
 # New Raspberry Pi 4: All the info you need to know

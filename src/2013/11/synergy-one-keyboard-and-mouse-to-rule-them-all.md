@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/keyboard.jpg
+og_image: /images/keyboard.jpg
 ---
 
 # Synergy: One keyboard and mouse to rule them all

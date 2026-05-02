@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2013/09/ultrasound.jpg
+og_image: /images/2013/09/ultrasound.jpg
 ---
 
 # How to measure distances in Raspberry Pi with an ultrasonic sensor

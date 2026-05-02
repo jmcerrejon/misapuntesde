@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/carriots.jpg
+og_image: /images/carriots.jpg
 ---
 
 # Cómo hacer un peluche conectado a internet con una Raspberry Pi

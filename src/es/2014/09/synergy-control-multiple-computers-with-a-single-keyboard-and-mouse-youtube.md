@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2014/09/Synergy_Logo.png
+og_image: /images/2014/09/Synergy_Logo.png
 ---
 
 # Synergy: Controla varios equipos con un solo teclado y ratón (Youtube)

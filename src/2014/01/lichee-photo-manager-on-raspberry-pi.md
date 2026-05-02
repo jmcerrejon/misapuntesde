@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2014/01/lychee.jpg
+og_image: /images/2014/01/lychee.jpg
 ---
 
 # Lichee Photo Manager on Raspberry Pi

@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/cam.jpg
+og_image: /images/cam.jpg
 ---
 
 # Han sido noticia esta semana en el mundo Pi

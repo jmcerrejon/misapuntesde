@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2013/12/beginningsensorN.jpg
+og_image: /images/2013/12/beginningsensorN.jpg
 ---
 
 # Beginning Sensor Networks with Arduino and Raspberry Pi (Ebook)

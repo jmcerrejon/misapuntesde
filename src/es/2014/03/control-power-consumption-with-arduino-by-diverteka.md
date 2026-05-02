@@ -16,6 +16,7 @@ tag:
     - Raspberry PI
     - Arduino
 image: /images/money_saver.jpg
+og_image: /images/money_saver.jpg
 ---
 
 # Control de consumo eléctrico con Arduino en Diverteka

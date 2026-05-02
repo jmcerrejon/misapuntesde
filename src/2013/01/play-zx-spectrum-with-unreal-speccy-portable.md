@@ -16,6 +16,7 @@ tag:
     - Linux
     - Apple
 image: /images/spectrum_01.jpg
+og_image: /images/spectrum_01.jpg
 ---
 
 # Play ZX Spectrum with Unreal Speccy Portable

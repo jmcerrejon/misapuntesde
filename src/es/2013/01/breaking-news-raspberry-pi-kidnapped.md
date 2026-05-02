@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/NEWS-ALERT.jpg
+og_image: /images/NEWS-ALERT.jpg
 ---
 
 # ULTIMAS NOTICIAS: ¡Una Raspberry Pi ha sido secuestrada!

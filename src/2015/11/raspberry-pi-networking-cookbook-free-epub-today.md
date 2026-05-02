@@ -12,6 +12,7 @@ category:
 tag:
   - Raspberry PI
 image: /images/2015/11/rpi_book.png
+og_image: /images/2015/11/rpi_book.png
 ---
 
 # Raspberry Pi Networking Cookbook (free epub TODAY)

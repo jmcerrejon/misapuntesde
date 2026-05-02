@@ -14,6 +14,7 @@ tag:
     - Raspberry PI
     - ODROID
 image: /images/2016/04/truck.png
+og_image: /images/2016/04/truck.png
 ---
 
 # News this week in the Pi World

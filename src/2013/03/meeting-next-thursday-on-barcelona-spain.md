@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/kddbcn.jpg
+og_image: /images/kddbcn.jpg
 ---
 
 # Meeting next Thursday on Barcelona (Spain)

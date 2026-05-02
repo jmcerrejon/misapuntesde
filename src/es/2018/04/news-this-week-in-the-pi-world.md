@@ -12,6 +12,7 @@ category:
 tag:
   - Raspberry PI
 image: /images/2018/04/etcher.png
+og_image: /images/2018/04/etcher.png
 ---
 
 # Han sido noticia esta semana en el mundo Pi

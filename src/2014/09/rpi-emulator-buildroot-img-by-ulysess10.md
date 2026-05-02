@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2014/09/classic_kong.png
+og_image: /images/2014/09/classic_kong.png
 ---
 
 # rpi-emulator-buildroot .img by @ulysess10

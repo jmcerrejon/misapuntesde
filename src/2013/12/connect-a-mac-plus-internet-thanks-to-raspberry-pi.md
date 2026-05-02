@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2013/12/Mac_Rpi_conn.jpg
+og_image: /images/2013/12/Mac_Rpi_conn.jpg
 ---
 
 # Connect a Mac Plus Internet thanks to Raspberry Pi

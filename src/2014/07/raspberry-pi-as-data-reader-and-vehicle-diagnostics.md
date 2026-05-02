@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2014/07/obd.png
+og_image: /images/2014/07/obd.png
 ---
 
 # Raspberry Pi as data reader and vehicle diagnostics

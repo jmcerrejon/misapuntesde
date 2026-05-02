@@ -13,6 +13,7 @@ tags:
     - PHP
     - Vuepress
 image: https://misapuntesde.com/images/2024/02/php_vue.jpg
+og_image: https://misapuntesde.com/images/2024/02/php_vue.jpg
 ---
 
 # How I migrated from PHP to Vuepress 2 (Part II)

@@ -14,6 +14,7 @@ tag:
     - Raspberry PI
     - ODROID
 image: /images/2015/03/doom_heretic_hexen.png
+og_image: /images/2015/03/doom_heretic_hexen.png
 ---
 
 # New Crispy Doom available to play Doom, Heretic & Hexen

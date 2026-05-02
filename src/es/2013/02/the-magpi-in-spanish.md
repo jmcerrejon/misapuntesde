@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/magpi.jpg
+og_image: /images/magpi.jpg
 ---
 
 # The MagPi en Español

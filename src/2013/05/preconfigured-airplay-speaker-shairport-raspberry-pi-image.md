@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/shairport.jpg
+og_image: /images/shairport.jpg
 ---
 
 # Preconfigured Airplay speaker (Shairport) - Raspberry PI image

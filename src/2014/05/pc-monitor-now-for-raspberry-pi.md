@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2014/05/pcmonitor.png
+og_image: /images/2014/05/pcmonitor.png
 ---
 
 # PC Monitor now for Raspberry Pi

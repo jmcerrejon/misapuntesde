@@ -12,6 +12,7 @@ category:
 tag:
   - General
 image: /images/2020/01/happy_new_year.jpg
+og_image: /images/2020/01/happy_new_year.jpg
 ---
 
 # ¡Feliz año nuevo!

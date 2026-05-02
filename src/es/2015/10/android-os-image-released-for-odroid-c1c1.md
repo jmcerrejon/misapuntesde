@@ -12,6 +12,7 @@ category:
 tag:
     - ODROID
 image: /images/odroid_android.png
+og_image: /images/odroid_android.png
 ---
 
 # Nueva versión de Android OS para ODROID C1/C1+

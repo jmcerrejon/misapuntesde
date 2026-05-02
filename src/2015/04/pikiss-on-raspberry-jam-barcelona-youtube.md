@@ -2,6 +2,7 @@
 id: 548
 title: PiKISS on Raspberry JAM Barcelona (Youtube)
 description: PiKISS on Raspberry JAM Barcelona (Youtube)
+og_image: /logo.png
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2015-04-13 13:29:00

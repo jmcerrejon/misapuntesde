@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/RetroPie_06.jpg
+og_image: /images/RetroPie_06.jpg
 ---
 
 # Han sido noticia esta semana en el mundo Pi

@@ -10,6 +10,7 @@ tags:
     - DevOps
     - Security
 image: /images/2025/05/trivy_logo.png
+og_image: /images/2025/05/trivy_logo.png
 ---
 
 # Trivy: Vulnerability Scanner for Containers... and More!

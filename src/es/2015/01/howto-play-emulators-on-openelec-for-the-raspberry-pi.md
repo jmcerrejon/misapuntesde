@@ -14,6 +14,7 @@ tag:
     - Raspberry PI
     - Developer
 image: /images/2015/01/OpenELEC_RetroArch.jpg
+og_image: /images/2015/01/OpenELEC_RetroArch.jpg
 ---
 
 # Guía: ¡Emuladores en OpenELEC con tu Raspberry Pi!

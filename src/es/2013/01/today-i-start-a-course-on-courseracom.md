@@ -12,6 +12,7 @@ category:
 tag:
   - Developer
 image: /images/coursera.jpg
+og_image: /images/coursera.jpg
 ---
 
 # Hoy comienzo un curso en coursera.com

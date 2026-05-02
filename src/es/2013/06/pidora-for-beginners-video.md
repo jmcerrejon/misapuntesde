@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/pidora.jpg
+og_image: /images/pidora.jpg
 ---
 
 # Pidora para principiantes (video)

@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2014/05/xlinkkai.png
+og_image: /images/2014/05/xlinkkai.png
 ---
 
 # XLink Kai para Raspberry Pi

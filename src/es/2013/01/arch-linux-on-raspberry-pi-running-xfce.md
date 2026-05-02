@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/rage-arch.jpg
+og_image: /images/rage-arch.jpg
 ---
 
 # Arch Linux en Raspberry Pi ejecutando XFCE

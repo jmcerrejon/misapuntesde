@@ -12,6 +12,7 @@ category:
 tag:
   - Raspberry PI
 image: /images/2017/03/dvbt_cap_01.png
+og_image: /images/2017/03/dvbt_cap_01.png
 ---
 
 # Sintonizadora DVB-T en Raspbian u otros sabores Debian

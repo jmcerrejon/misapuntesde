@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2014/09/Synergy_Logo.png
+og_image: /images/2014/09/Synergy_Logo.png
 ---
 
 # Synergy: Control multiple computers with a single keyboard and mouse (Youtube)

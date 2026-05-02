@@ -12,6 +12,7 @@ tags:
   - Developer
   - Design Patterns
 image: /images/2024/04/dep_injection.jpg
+og_image: /images/2024/04/dep_injection.jpg
 ---
 # SOLID principles PHP Edition. Hoy: el principio de Inversión de Dependencias
 

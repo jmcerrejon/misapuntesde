@@ -12,6 +12,7 @@ category:
 tag:
     - Linux
 image: /images/2017/07/bash.png
+og_image: /images/2017/07/bash.png
 ---
 
 # Mantener un proceso ejecutándose aunque la terminal SSH se cierre

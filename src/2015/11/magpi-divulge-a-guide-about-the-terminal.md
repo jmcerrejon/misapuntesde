@@ -12,6 +12,7 @@ category:
 tag:
   - Raspberry PI
 image: /images/2015/10/command_line.png
+og_image: /images/2015/10/command_line.png
 ---
 
 # MagPi divulge a guide about the terminal

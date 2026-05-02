@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2018/02/dietpi.png
+og_image: /images/2018/02/dietpi.png
 ---
 
 # Nueva versión DietPi v6.2

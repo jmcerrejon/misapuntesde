@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2016/05/monkey_island.jpg
+og_image: /images/2016/05/monkey_island.jpg
 ---
 
 # Jugar ScummVM con Raspberry Pi

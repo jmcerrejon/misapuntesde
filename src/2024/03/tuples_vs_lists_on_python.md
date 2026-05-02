@@ -13,6 +13,7 @@ tags:
     - Lists
     - Comparison
 image: /images/2024/03/tuples_vs_lists.jpg
+og_image: /images/2024/03/tuples_vs_lists.jpg
 ---
 
 # Tuples Vs Lists on Python

@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2016/06/wwdc1606.png
+og_image: /images/2016/06/wwdc1606.png
 ---
 
 # ¿Quieres ver la WWDC 2016 en la raspberry Pi?

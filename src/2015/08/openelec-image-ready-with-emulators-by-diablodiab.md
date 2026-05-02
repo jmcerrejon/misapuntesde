@@ -12,6 +12,7 @@ category:
 tag:
   - Raspberry PI
 image: /images/2015/01/OpenELEC_RetroArch.jpg
+og_image: /images/2015/01/OpenELEC_RetroArch.jpg
 ---
 
 # OpenELEC image ready with emulators by Diablodiab

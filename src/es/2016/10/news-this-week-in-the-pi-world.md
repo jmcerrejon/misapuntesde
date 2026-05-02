@@ -14,6 +14,7 @@ tag:
     - Raspberry PI
     - ODROID
 image: /images/2016/10/upboard.png
+og_image: /images/2016/10/upboard.png
 ---
 
 # Han sido noticia esta semana en el mundo Pi

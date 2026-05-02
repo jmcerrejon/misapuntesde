@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2013/11/01_RaspberryPi.jpg
+og_image: /images/2013/11/01_RaspberryPi.jpg
 ---
 
 # Upside-Down-Ternet: Raspberry Pi Edition

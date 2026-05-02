@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/mame.jpg
+og_image: /images/mame.jpg
 ---
 
 # PiMAME 0.8 Beta 1 SD card image available!

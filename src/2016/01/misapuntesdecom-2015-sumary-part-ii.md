@@ -14,6 +14,7 @@ tag:
   - Raspberry PI
   - ODROID
 image: /images/2015/12/Rpi_ulysess_02.jpg
+og_image: /images/2015/12/Rpi_ulysess_02.jpg
 ---
 
 # misapuntesde.com 2015 sumary (Part II)

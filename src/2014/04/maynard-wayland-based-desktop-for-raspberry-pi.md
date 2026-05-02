@@ -2,6 +2,7 @@
 id: 389
 title: Maynard, Wayland-based desktop for Raspberry Pi
 description: Maynard, Wayland-based desktop for Raspberry Pi
+og_image: /logo.png
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2014-04-21 13:57:00

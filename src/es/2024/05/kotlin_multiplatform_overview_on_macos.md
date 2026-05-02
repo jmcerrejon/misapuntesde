@@ -10,6 +10,7 @@ tags:
     - kotlin
     - macOS
 image: /images/2024/05/android_studio_run_android.png
+og_image: /images/2024/05/android_studio_run_android.png
 ---
 
 # Kotlin Multiplatform en macOS usando Compose Multiplatform

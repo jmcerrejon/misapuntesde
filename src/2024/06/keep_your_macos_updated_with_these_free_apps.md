@@ -13,6 +13,7 @@ tags:
   - DevOps
   - Automatization
 image: /images/2024/06/update_macos_apps.png
+og_image: /images/2024/06/update_macos_apps.png
 ---
 # Keep your macOS Apps updated with these free apps
 

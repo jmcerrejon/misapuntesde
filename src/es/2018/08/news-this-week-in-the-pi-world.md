@@ -14,6 +14,7 @@ tag:
   - Raspberry PI
   - ODROID
 image: /images/2018/08/crux.jpg
+og_image: /images/2018/08/crux.jpg
 ---
 
 # Han sido noticia esta semana en el mundo Pi

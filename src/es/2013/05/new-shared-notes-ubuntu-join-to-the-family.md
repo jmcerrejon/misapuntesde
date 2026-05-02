@@ -12,6 +12,7 @@ category:
 tag:
     - Linux
 image: /images/ubu_logo.jpg
+og_image: /images/ubu_logo.jpg
 ---
 
 # Nuevos apuntes compartidos: Ubuntu se une a la familia

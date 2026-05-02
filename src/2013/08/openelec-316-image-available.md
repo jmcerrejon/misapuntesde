@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/xbmc.jpg
+og_image: /images/xbmc.jpg
 ---
 
 # OpenElec 3.1.6 image available

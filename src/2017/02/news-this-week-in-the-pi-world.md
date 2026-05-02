@@ -14,6 +14,7 @@ tag:
     - Raspberry PI
     - ODROID
 image: /images/2017/02/tinker_website.png
+og_image: /images/2017/02/tinker_website.png
 ---
 
 # News this week in the Pi World

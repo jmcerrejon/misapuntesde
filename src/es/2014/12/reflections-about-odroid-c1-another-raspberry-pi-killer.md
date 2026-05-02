@@ -16,6 +16,7 @@ tag:
     - Banana Pi
     - ODROID
 image: /images/01_Odroid-C1.png
+og_image: /images/01_Odroid-C1.png
 ---
 
 # Reflexiones sobre ODROID-C1: ¿Otro Raspberry Pi Killer?

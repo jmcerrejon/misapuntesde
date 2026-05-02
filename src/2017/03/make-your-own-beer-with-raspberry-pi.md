@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2017/03/craftbeerpi.png
+og_image: /images/2017/03/craftbeerpi.png
 ---
 
 # Make your own beer with Raspberry Pi

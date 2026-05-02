@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/moebius.jpg
+og_image: /images/moebius.jpg
 ---
 
 # Moebius distribución minimalista alcanza la versión 1.1.1

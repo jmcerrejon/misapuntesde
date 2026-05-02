@@ -18,6 +18,7 @@ tag:
   - ODROID
   - Apple
 image: /images/2015/02/burnSD.png
+og_image: /images/2015/02/burnSD.png
 ---
 
 # Burning images to the SD card on OSX

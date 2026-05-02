@@ -14,6 +14,7 @@ tag:
   - General
   - Raspberry PI
 image: /images/2013/12/merry_christmas.jpg
+og_image: /images/2013/12/merry_christmas.jpg
 ---
 
 # Repaso 2017 en misapuntesde.com

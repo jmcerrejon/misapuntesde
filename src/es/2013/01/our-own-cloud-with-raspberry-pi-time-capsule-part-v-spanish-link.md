@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/cloud.jpg
+og_image: /images/cloud.jpg
 ---
 
 # Nuestro propio Cloud con Raspberry Pi y Time Capsule (Parte V)

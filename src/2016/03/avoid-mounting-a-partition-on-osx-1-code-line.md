@@ -12,6 +12,7 @@ category:
 tag:
   - Apple
 image: /images/2016/03/osx_partitions.png
+og_image: /images/2016/03/osx_partitions.png
 ---
 
 # Avoid mounting a partition on OSX (1 code line)

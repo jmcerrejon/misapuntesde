@@ -14,6 +14,7 @@ tag:
   - Raspberry PI
   - General
 image: /images/2015/05/linkedin.jpg
+og_image: /images/2015/05/linkedin.jpg
 ---
 
 # LinkedIn help you to find a job

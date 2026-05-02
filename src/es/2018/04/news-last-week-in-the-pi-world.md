@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2018/04/a500.png
+og_image: /images/2018/04/a500.png
 ---
 
 # Fueron noticia en el mundo Pi

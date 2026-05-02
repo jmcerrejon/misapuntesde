@@ -12,6 +12,7 @@ category:
 tag:
     - ODROID
 image: /images/2016/03/jessie_meveric.png
+og_image: /images/2016/03/jessie_meveric.png
 ---
 
 # Minimal Debian Jessie image for the ODROID by Meveric

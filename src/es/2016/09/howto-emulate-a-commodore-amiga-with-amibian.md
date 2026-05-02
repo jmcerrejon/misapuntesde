@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/Amiga-A500.jpg
+og_image: /images/Amiga-A500.jpg
 ---
 
 # Cómo emular un sistema Amiga con Amibian

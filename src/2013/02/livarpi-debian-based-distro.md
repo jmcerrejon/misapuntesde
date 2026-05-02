@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/livarPilogo.jpg
+og_image: /images/livarPilogo.jpg
 ---
 
 # livarPi: Debian based distro

@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2013/08/tarababcock.jpg
+og_image: /images/2013/08/tarababcock.jpg
 ---
 
 # Visualiza partidas online en la Raspberry Pi desde twitch.tv

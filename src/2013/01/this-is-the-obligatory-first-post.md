@@ -2,6 +2,7 @@
 id: 1
 title: This is the obligatory first post.
 description: This is the obligatory first post.
+og_image: /logo.png
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-13 09:00:00

@@ -12,6 +12,7 @@ category:
 tag:
   - General
 image: /images/2016/06/programming.png
+og_image: /images/2016/06/programming.png
 ---
 
 # Happy B

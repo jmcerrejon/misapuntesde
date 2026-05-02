@@ -14,6 +14,7 @@ tag:
     - Raspberry PI
     - ODROID
 image: /images/2015/05/odroid_mag_may.png
+og_image: /images/2015/05/odroid_mag_may.png
 ---
 
 # News this week on Pi/ODROID World

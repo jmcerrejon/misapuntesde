@@ -14,6 +14,7 @@ tag:
     - Raspberry PI
     - ODROID
 image: /images/2017/11/msx_book.jpg
+og_image: /images/2017/11/msx_book.jpg
 ---
 
 # Han sido noticia esta semana en el mundo Pi

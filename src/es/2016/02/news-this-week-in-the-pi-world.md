@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2016/02/netbeast_guys.jpg
+og_image: /images/2016/02/netbeast_guys.jpg
 ---
 
 # Han sido noticia esta semana en el mundo Pi

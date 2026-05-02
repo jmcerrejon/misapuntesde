@@ -14,6 +14,7 @@ tag:
     - Raspberry PI
     - ODROID
 image: /images/2017/03/lakka24.png
+og_image: /images/2017/03/lakka24.png
 ---
 
 # Han sido noticia esta semana en el mundo Pi

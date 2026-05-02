@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/07_RaspberryPi.jpg
+og_image: /images/07_RaspberryPi.jpg
 ---
 
 # Fresh news this morning

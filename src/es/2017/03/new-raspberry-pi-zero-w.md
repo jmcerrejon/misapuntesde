@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2017/03/0w.png
+og_image: /images/2017/03/0w.png
 ---
 
 # Nueva Raspberry Pi Zero W

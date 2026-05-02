@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/raspflash.jpg
+og_image: /images/raspflash.jpg
 ---
 
 # Disponible Minibian 2013-10-13

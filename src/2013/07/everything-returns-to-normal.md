@@ -12,6 +12,7 @@ category:
 tag:
     - General
 image: /images/bug.jpg
+og_image: /images/bug.jpg
 ---
 
 # Everything returns to normal

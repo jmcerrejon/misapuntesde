@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2016/06/ros.png
+og_image: /images/2016/06/ros.png
 ---
 
 # CURSO-PROYECTO de Robótica Open Source

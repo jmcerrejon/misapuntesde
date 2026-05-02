@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/java.jpg
+og_image: /images/java.jpg
 ---
 
 # Oracle organizes a course for Java programmers with Raspberry Pi

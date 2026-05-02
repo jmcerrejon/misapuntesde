@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2014/03/slowmo.jpg
+og_image: /images/2014/03/slowmo.jpg
 ---
 
 # Slow Motion thanks to new video modes on Pi Camera

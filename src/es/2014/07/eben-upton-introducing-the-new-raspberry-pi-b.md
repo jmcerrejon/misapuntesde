@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2014/07/eben_01.png
+og_image: /images/2014/07/eben_01.png
 ---
 
 # Eben Upton: Presentando la nueva Raspberry Pi B+

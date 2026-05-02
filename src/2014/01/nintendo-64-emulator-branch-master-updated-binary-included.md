@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/N64.jpg
+og_image: /images/N64.jpg
 ---
 
 # Nintendo 64 emulator branch master updated! (binary included!)

@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2015/02/boxes.jpg
+og_image: /images/2015/02/boxes.jpg
 ---
 
 # Updated distros for Raspberry Pi 2 and those to coming soon

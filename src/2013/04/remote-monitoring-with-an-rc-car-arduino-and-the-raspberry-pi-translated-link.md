@@ -2,6 +2,7 @@
 id: 137
 title: Remote monitoring with an RC car, Arduino and the raspberry pi (translated link)
 description: Remote monitoring with an RC car, Arduino and the raspberry pi (translated link)
+og_image: /logo.png
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-04-22 13:45:00

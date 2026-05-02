@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2013/11/kano.jpg
+og_image: /images/2013/11/kano.jpg
 ---
 
 # KANO: Raspberry Pi Kit for kids in the house

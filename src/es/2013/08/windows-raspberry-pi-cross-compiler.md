@@ -14,6 +14,7 @@ tag:
     - Raspberry PI
     - Developer
 image: /images/winlin.jpg
+og_image: /images/winlin.jpg
 ---
 
 # Compilación cruzada Windows-Raspberrry Pi

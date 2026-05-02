@@ -12,6 +12,7 @@ category:
 tag:
   - Raspberry PI
 image: /images/2017/07/ssh.png
+og_image: /images/2017/07/ssh.png
 ---
 
 # Activar SSH antes del primer arranque en Raspbian

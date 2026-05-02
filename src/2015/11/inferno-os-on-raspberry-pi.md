@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2014/03/Inferno_os.png
+og_image: /images/2014/03/Inferno_os.png
 ---
 
 # Inferno OS on Raspberry Pi

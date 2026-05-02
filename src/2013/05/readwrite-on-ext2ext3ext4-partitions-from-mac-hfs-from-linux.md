@@ -14,6 +14,7 @@ tag:
     - Linux
     - Apple
 image: /images/2013/05/no_access.jpg
+og_image: /images/2013/05/no_access.jpg
 ---
 
 # Read/write on ext2/ext3/ext4 partitions from Mac & HFS+ from Linux

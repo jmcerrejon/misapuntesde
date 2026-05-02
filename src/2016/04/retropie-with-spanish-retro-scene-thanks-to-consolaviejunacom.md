@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2016/04/consolaviejuna.png
+og_image: /images/2016/04/consolaviejuna.png
 ---
 
 # RetroPie with Spanish Retro Scene thanks to consolaviejuna.com

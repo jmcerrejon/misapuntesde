@@ -12,6 +12,7 @@ category:
 tag:
   - Raspberry PI
 image: /images/2019/09/wifi_sharing.jpg
+og_image: /images/2019/09/wifi_sharing.jpg
 ---
 
 # Sharing the internet connection from macOS to Raspberry Pi (Internet Sharing)

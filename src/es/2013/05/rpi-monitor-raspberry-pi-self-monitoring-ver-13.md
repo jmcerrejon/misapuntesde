@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/RPi-Monitor.jpg
+og_image: /images/RPi-Monitor.jpg
 ---
 
 # RPi-Monitor: Monitorización de la Raspberry Pi ver. 1.3

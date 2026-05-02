@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/no_more_ugly_boot.jpg
+og_image: /images/no_more_ugly_boot.jpg
 ---
 
 # Añadir un vídeo al arranque de tu Raspberry Pi

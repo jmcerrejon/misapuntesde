@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/berryio.jpg
+og_image: /images/berryio.jpg
 ---
 
 # BerryIO: Sitema remoto de control web mediante Raspberry Pi

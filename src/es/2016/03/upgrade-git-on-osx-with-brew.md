@@ -14,6 +14,7 @@ tag:
     - Developer
     - Apple
 image: /images/git.png
+og_image: /images/git.png
 ---
 
 # Actualizar Git en OSX con brew

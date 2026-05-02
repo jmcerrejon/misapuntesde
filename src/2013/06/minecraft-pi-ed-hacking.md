@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/mcpi_hacking.jpg
+og_image: /images/mcpi_hacking.jpg
 ---
 
 # Minecraft Pi Ed. Hacking

@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/RetroPie_07.jpg
+og_image: /images/RetroPie_07.jpg
 ---
 
 # Retropie actualiza sus binarios y la imagen SD

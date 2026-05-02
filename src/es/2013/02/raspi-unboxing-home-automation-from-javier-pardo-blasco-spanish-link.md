@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/01_RaspberryPi.jpg
+og_image: /images/01_RaspberryPi.jpg
 ---
 
 # Abriendo la RasPi y domótica de mano de Javier Pardo Blasco

@@ -12,6 +12,7 @@ category:
 tag:
   - Raspberry PI
 image: /images/2017/03/pixel-raspbian-vnc.jpg
+og_image: /images/2017/03/pixel-raspbian-vnc.jpg
 ---
 
 # Connect to Raspbian through VNC from macOS (no additional soft required)

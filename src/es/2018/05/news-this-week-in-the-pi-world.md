@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2018/05/cooler.png
+og_image: /images/2018/05/cooler.png
 ---
 
 # Han sido noticia esta semana en el mundo Pi

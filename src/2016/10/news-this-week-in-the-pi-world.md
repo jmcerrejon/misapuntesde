@@ -14,6 +14,7 @@ tag:
     - Raspberry PI
     - ODROID
 image: /images/2016/10/zero_on_snes.png
+og_image: /images/2016/10/zero_on_snes.png
 ---
 
 # News this week in the Pi World

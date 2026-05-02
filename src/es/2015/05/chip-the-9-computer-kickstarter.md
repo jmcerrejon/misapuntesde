@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2015/05/CHIP_computer.png
+og_image: /images/2015/05/CHIP_computer.png
 ---
 
 # CHIP, el ordenador de 9$ (Kickstarter)

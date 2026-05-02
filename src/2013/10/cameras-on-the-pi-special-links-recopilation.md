@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2013/10/camera.jpg
+og_image: /images/2013/10/camera.jpg
 ---
 
 # cameras on the Pi (Special links recopilation)

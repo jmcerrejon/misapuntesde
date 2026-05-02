@@ -2,6 +2,7 @@
 id: 206
 title: Raspberry PI. Programando el puerto GPIO con Qt Creator (video)
 description: Raspberry PI. Programando el puerto GPIO con Qt Creator (video)
+og_image: /logo.png
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-07-09 18:00:00

@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/DSx86Animated2.gif
+og_image: /images/DSx86Animated2.gif
 ---
 
 # Unstoppable: rpix86 0.5 released!

@@ -12,6 +12,7 @@ category:
 tag:
   - Raspberry PI
 image: /images/03_RaspberryPi.jpg
+og_image: /images/03_RaspberryPi.jpg
 ---
 
 # Lo mejor de este año 2013 en Mis Apuntes de…

@@ -12,6 +12,7 @@ category:
 tag:
   - Developer
 image: /images/coursera.jpg
+og_image: /images/coursera.jpg
 ---
 
 # Today I start a course on coursera.com

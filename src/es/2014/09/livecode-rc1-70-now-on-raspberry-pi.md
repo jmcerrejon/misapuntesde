@@ -14,6 +14,7 @@ tag:
     - Raspberry PI
     - Developer
 image: /images/2014/09/livecode_logo.png
+og_image: /images/2014/09/livecode_logo.png
 ---
 
 # LiveCode RC1 7.0 portado a Raspberry Pi

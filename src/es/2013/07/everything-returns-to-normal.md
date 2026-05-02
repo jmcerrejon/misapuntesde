@@ -12,6 +12,7 @@ category:
 tag:
     - General
 image: /images/bug.jpg
+og_image: /images/bug.jpg
 ---
 
 # Todo vuelve a la normalidad

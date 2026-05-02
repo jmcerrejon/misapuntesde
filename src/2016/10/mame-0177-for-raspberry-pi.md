@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2016/10/mame.png
+og_image: /images/2016/10/mame.png
 ---
 
 # MAME 0.177 for Raspberry Pi

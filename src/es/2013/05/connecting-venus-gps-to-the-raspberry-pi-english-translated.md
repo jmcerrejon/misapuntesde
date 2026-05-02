@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/GPSChip.jpg
+og_image: /images/GPSChip.jpg
 ---
 
 # Conectando el GPS Venus a la Raspberry Pi

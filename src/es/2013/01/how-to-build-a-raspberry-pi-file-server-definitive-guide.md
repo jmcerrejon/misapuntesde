@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/server.jpg
+og_image: /images/server.jpg
 ---
 
 # Cómo construir un servidor de ficheros con la Raspberry Pi (guía definitiva)

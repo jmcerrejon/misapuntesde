@@ -12,6 +12,7 @@ category:
 tag:
   - Linux
 image: /images/2014/08/keep-calm.png
+og_image: /images/2014/08/keep-calm.png
 ---
 
 # Check online urls on a Markdown file (or another type)

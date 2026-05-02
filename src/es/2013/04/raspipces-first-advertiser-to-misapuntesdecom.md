@@ -14,6 +14,7 @@ tag:
   - Raspberry PI
   - General
 image: /images/raspipces.jpg
+og_image: /images/raspipces.jpg
 ---
 
 # RaspiPC.es, anunciante en MisApuntesde.com

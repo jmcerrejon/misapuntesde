@@ -14,6 +14,7 @@ tag:
     - Raspberry PI
     - Linux
 image: /images/dlna.jpg
+og_image: /images/dlna.jpg
 ---
 
 # DLNA to share multimedia files on LAN

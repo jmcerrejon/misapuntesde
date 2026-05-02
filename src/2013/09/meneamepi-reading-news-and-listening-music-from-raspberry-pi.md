@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/speaker.jpg
+og_image: /images/speaker.jpg
 ---
 
 # meneamePi, reading news and listening music from Raspberry Pi

@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/benchmark.jpg
+og_image: /images/benchmark.jpg
 ---
 
 # Raspberry Pi benchmark

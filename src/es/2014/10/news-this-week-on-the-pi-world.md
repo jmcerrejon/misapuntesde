@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2014/10/rune-audio.png
+og_image: /images/2014/10/rune-audio.png
 ---
 
 # Han sido noticia esta semana en el mundo Pi

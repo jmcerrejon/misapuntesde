@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2016/03/meetup.png
+og_image: /images/2016/03/meetup.png
 ---
 
 # Seville Meetup: Practical projects with Raspberry Pi

@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2013/12/01_openelec.jpg
+og_image: /images/2013/12/01_openelec.jpg
 ---
 
 # HOWTO: Bluetooth en OpenELEC

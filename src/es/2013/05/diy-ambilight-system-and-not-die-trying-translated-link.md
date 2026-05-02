@@ -2,6 +2,7 @@
 id: 163
 title: Montar Sistema Ambilight y no Morir en el Intento
 description: Montar Sistema Ambilight y no Morir en el Intento
+og_image: /logo.png
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-05-20 13:40:00

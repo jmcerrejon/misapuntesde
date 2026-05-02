@@ -12,6 +12,7 @@ category:
 tag:
     - Apple
 image: /images/2016/10/bash4.png
+og_image: /images/2016/10/bash4.png
 ---
 
 # Actualizar a Bash 4 en macOS

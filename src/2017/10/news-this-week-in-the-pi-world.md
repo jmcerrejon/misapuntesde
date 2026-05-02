@@ -14,6 +14,7 @@ tag:
     - Raspberry PI
     - ODROID
 image: /images/2017/10/magpi.png
+og_image: /images/2017/10/magpi.png
 ---
 
 # News this week in the Pi World

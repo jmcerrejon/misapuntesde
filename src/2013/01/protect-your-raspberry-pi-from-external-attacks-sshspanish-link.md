@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/ssh-tunnel.jpg
+og_image: /images/ssh-tunnel.jpg
 ---
 
 # Protect your Raspberry Pi from external attacks (ssh)(Spanish link)

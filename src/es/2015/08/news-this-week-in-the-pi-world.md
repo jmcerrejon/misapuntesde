@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2015/08/astropi2.png
+og_image: /images/2015/08/astropi2.png
 ---
 
 # Han sido noticia esta semana en el mundo Pi

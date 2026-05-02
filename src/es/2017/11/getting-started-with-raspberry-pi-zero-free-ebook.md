@@ -12,6 +12,7 @@ category:
 tag:
   - Raspberry PI
 image: /images/2017/11/rpi0_book.png
+og_image: /images/2017/11/rpi0_book.png
 ---
 
 # Getting Started with Raspberry Pi Zero (ebook gratis)

@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/torrent.png
+og_image: /images/torrent.png
 ---
 
 # Instalar la última versión de Transmission en Raspberry Pi

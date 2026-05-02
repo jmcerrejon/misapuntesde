@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/cam.jpg
+og_image: /images/cam.jpg
 ---
 
 # Streaming de la camara H264 desde HTML sobre RTMP

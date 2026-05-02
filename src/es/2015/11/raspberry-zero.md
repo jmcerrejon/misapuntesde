@@ -12,6 +12,7 @@ category:
 tag:
   - Raspberry PI
 image: /images/2015/11/RaspberryZero.png
+og_image: /images/2015/11/RaspberryZero.png
 ---
 
 # Raspberry Zero

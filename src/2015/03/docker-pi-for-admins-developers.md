@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2015/03/docker-logo.png
+og_image: /images/2015/03/docker-logo.png
 ---
 
 # Docker-Pi for admins & developers

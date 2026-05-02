@@ -14,6 +14,7 @@ tag:
   - Raspberry PI
   - Developer
 image: /images/2013/09/cs.jpg
+og_image: /images/2013/09/cs.jpg
 ---
 
 # Busco colaborador para portar juegos en Allegro y SDL

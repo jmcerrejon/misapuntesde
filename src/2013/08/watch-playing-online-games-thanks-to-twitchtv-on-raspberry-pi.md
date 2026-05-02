@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2013/08/tarababcock.jpg
+og_image: /images/2013/08/tarababcock.jpg
 ---
 
 # Watch playing online games thanks to twitch.tv on Raspberry Pi

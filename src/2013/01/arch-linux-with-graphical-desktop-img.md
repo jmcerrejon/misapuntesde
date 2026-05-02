@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/archpi_5002.jpg
+og_image: /images/archpi_5002.jpg
 ---
 
 # Arch Linux with graphical desktop (.img)

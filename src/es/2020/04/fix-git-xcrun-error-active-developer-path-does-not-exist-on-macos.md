@@ -12,6 +12,7 @@ category:
 tag:
   - Apple
 image: /images/2020/04/git_issues_mac.png
+og_image: /images/2020/04/git_issues_mac.png
 ---
 
 # Corrige el error de Git xcrun: error: active developer path (...) does not exist en macOS

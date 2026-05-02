@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/lolface.jpg
+og_image: /images/lolface.jpg
 ---
 
 # Week to relax

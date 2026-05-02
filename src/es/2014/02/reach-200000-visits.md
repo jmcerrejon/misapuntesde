@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/thank.jpg
+og_image: /images/thank.jpg
 ---
 
 # ¡Alcanzamos las 200.000 visitas!

@@ -2,6 +2,7 @@
 id: 141
 title: Flash Player en la Pi
 description: Flash Player en la Pi
+og_image: /logo.png
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-04-27 19:00:00

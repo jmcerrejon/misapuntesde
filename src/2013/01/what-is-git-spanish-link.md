@@ -16,6 +16,7 @@ tag:
     - Developer
     - Linux
 image: /images/git.jpg
+og_image: /images/git.jpg
 ---
 
 # What is Git? (Spanish link)

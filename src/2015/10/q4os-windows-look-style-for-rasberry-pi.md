@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2015/10/xpq4.jpg
+og_image: /images/2015/10/xpq4.jpg
 ---
 
 # Q4OS: Windows look style for Rasberry Pi

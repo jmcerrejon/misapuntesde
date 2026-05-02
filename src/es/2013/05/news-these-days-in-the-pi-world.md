@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/01_RaspberryPi.jpg
+og_image: /images/01_RaspberryPi.jpg
 ---
 
 # Repaso de estos días en el mundo Pi

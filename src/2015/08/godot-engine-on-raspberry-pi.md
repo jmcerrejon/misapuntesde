@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2015/08/Godot_logo.jpg
+og_image: /images/2015/08/Godot_logo.jpg
 ---
 
 # Godot Engine on Raspberry Pi

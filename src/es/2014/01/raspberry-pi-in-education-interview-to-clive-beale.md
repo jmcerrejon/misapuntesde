@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2014/01/clivebeale.jpg
+og_image: /images/2014/01/clivebeale.jpg
 ---
 
 # Raspberry Pi en la educación: Entrevista a Clive Beale

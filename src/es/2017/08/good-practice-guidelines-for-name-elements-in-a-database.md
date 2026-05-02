@@ -12,6 +12,7 @@ category:
 tag:
   - Developer
 image: /images/2017/08/db.png
+og_image: /images/2017/08/db.png
 ---
 
 # Guia buenas prácticas para nombrar elementos de una base de datos

@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2013/10/scary.jpg
+og_image: /images/2013/10/scary.jpg
 ---
 
 # Scary Door Effect Using Raspberry Pi

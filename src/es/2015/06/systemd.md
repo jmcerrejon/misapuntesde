@@ -12,6 +12,7 @@ category:
 tag:
     - Linux
 image: /images/2015/06/systemd.jpg
+og_image: /images/2015/06/systemd.jpg
 ---
 
 # systemd

@@ -14,6 +14,7 @@ tag:
     - Raspberry PI
     - ODROID
 image: /images/2015/07/ODROID-Magazine-201507.png
+og_image: /images/2015/07/ODROID-Magazine-201507.png
 ---
 
 # ODROID Magazine issue out (July 2015)!

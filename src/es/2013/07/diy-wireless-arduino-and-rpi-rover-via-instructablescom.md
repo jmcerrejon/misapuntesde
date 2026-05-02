@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2013/07/ardipi.jpg
+og_image: /images/2013/07/ardipi.jpg
 ---
 
 # Pasos para construir un Rover inalámbrico con Arduino y una RasPi

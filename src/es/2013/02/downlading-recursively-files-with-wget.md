@@ -2,6 +2,7 @@
 id: 74
 title: Descargar recursivamente archivos con wget
 description: Descargar recursivamente archivos con wget
+og_image: /logo.png
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-02-21 18:30:00

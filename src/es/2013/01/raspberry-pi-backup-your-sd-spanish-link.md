@@ -2,6 +2,7 @@
 id: 8
 title: Haciendo un respaldo de la Memoria SD para la Raspberry PI
 description: Haciendo un respaldo de la Memoria SD para la Raspberry PI
+og_image: /logo.png
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-14 11:22:00

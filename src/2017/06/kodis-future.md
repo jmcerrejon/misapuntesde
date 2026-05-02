@@ -12,6 +12,7 @@ category:
 tag:
   - General
 image: /images/2017/06/kodi.png
+og_image: /images/2017/06/kodi.png
 ---
 
 # Kodi's future

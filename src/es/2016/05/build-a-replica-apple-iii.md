@@ -12,6 +12,7 @@ category:
 tag:
   - General
 image: /images/2016/05/appleIII.png
+og_image: /images/2016/05/appleIII.png
 ---
 
 # Construyendo la réplica de un Apple III

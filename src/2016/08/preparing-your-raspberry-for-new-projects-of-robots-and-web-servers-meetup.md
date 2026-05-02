@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2016/03/meetup.png
+og_image: /images/2016/03/meetup.png
 ---
 
 # Preparing Your Raspberry for new projects of robots and Web Servers (Meetup)

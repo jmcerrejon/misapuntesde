@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2016/11/poison.png
+og_image: /images/2016/11/poison.png
 ---
 
 # Han sido noticia esta semana en el mundo Pi

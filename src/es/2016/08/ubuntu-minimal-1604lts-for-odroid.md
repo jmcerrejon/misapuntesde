@@ -12,6 +12,7 @@ category:
 tag:
     - ODROID
 image: /images/2016/08/ubuntu_minimal.png
+og_image: /images/2016/08/ubuntu_minimal.png
 ---
 
 # Ubuntu Minimal 16.04LTS para ODROID

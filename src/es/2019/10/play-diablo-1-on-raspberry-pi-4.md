@@ -12,6 +12,7 @@ category:
 tag:
   - Raspberry PI
 image: /images/2019/10/diablo1.jpg
+og_image: /images/2019/10/diablo1.jpg
 ---
 
 # Juega Diablo 1 en la Raspberry Pi 4

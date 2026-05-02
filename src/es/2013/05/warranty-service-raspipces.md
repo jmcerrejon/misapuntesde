@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/raspicase.jpg
+og_image: /images/raspicase.jpg
 ---
 
 # Servicio de garantía: Raspipc.es

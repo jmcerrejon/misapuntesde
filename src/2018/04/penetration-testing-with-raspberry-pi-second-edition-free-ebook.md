@@ -12,6 +12,7 @@ category:
 tag:
   - Raspberry PI
 image: /images/2018/04/pentesting_rpi.png
+og_image: /images/2018/04/pentesting_rpi.png
 ---
 
 # Penetration Testing with Raspberry Pi - Second Edition (free eBook)

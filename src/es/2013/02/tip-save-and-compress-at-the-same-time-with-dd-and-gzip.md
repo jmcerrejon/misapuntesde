@@ -2,6 +2,7 @@
 id: 79
 title: Consejo. guardar y comprimir al mismo tiempo con dd y gzip
 description: Consejo. guardar y comprimir al mismo tiempo con dd y gzip
+og_image: /logo.png
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-02-24 19:20:00

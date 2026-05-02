@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/PiMAME.jpg
+og_image: /images/PiMAME.jpg
 ---
 
 # PiMAME 0.7.8

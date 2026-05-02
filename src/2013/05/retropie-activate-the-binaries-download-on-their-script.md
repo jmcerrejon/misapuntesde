@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/retropieprojectlogofinish.jpg
+og_image: /images/retropieprojectlogofinish.jpg
 ---
 
 # Retropie activate the binaries download on their script

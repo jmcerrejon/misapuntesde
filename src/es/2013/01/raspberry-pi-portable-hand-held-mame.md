@@ -2,6 +2,7 @@
 id: 46
 title: Video consola MAME portátil con una RasPi
 description: Video consola MAME portátil con una RasPi
+og_image: /logo.png
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-21 08:00:00

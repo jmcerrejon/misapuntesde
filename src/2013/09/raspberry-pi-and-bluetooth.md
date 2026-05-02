@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/bluetooth.jpg
+og_image: /images/bluetooth.jpg
 ---
 
 # Raspberry Pi and Bluetooth

@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/pibang.jpg
+og_image: /images/pibang.jpg
 ---
 
 # PiBang updated!

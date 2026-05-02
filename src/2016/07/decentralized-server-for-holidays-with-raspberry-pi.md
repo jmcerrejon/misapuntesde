@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2016/07/rpi2_server.jpg
+og_image: /images/2016/07/rpi2_server.jpg
 ---
 
 # Decentralized server for holidays with Raspberry Pi

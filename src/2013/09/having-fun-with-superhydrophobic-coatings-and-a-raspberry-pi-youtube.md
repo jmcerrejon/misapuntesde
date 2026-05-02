@@ -2,6 +2,7 @@
 id: 272
 title: Having Fun with Superhydrophobic Coatings and a Raspberry Pi (Youtube)
 description: Having Fun with Superhydrophobic Coatings and a Raspberry Pi (Youtube)
+og_image: /logo.png
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-09-22 07:00:00

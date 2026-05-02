@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2013/08/motd.jpg
+og_image: /images/2013/08/motd.jpg
 ---
 
 # Change MOTD on Raspberry Pi

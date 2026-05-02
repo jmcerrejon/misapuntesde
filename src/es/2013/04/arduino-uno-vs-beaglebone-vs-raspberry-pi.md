@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/ardubeagleraspi.jpg
+og_image: /images/ardubeagleraspi.jpg
 ---
 
 # Arduino Uno vs BeagleBone vs Raspberry Pi

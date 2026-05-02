@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2014/01/rpi_cookbook.jpg
+og_image: /images/2014/01/rpi_cookbook.jpg
 ---
 
 # Raspberry Pi Cookbook (Ebook)

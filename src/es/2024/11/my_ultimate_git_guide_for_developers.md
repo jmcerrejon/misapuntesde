@@ -9,6 +9,7 @@ category:
 tags:
     - Git
 image: /images/2024/11/git_branch.jpg
+og_image: /images/2024/11/git_branch.jpg
 ---
 
 # Mi Guía definitiva Git para desarrolladores

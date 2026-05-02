@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/raspberry_control_2.jpg
+og_image: /images/raspberry_control_2.jpg
 ---
 
 # Raspberry Control reach v. 2.0 (Android)

@@ -2,6 +2,7 @@
 id: 91
 title: Imagen 1 GB de Raspbian Server Edition Version 2.3
 description: Imagen 1 GB de Raspbian Server Edition Version 2.3
+og_image: /logo.png
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-03-05 09:10:00

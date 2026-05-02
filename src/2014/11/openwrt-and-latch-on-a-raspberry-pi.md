@@ -12,6 +12,7 @@ category:
 tag:
   - Raspberry PI
 image: /images/passwd_02.jpg
+og_image: /images/passwd_02.jpg
 ---
 
 # OpenWRT and Latch on a Raspberry Pi

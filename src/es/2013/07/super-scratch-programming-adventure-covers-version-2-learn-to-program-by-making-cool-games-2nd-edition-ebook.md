@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2013/07/superscratch.jpg
+og_image: /images/2013/07/superscratch.jpg
 ---
 
 # Super Scratch Programming Adventure! (Covers Version 2): Learn to Program by Making Cool Games, 2nd Edition (Ebook)

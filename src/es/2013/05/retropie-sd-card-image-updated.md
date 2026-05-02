@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2013/03/retrop_01_min.jpg
+og_image: /images/2013/03/retrop_01_min.jpg
 ---
 
 # Actualizada Imagen SD de RetroPie

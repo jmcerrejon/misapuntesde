@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2015/05/raspberry-pi-media-server.png
+og_image: /images/2015/05/raspberry-pi-media-server.png
 ---
 
 # Pi 2 Media Server (img)

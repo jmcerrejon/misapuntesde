@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2013/10/iPad.jpg
+og_image: /images/2013/10/iPad.jpg
 ---
 
 # Stream TV channels from the Pi to iPad (translated link)

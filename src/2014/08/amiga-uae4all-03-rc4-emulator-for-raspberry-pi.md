@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/Amiga-A500.jpg
+og_image: /images/Amiga-A500.jpg
 ---
 
 # Amiga UAE4ALL 0.3 rc4 emulator for Raspberry Pi

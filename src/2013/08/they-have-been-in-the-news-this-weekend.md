@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/01_RaspberryPi.jpg
+og_image: /images/01_RaspberryPi.jpg
 ---
 
 # They have been in the news this weekend...

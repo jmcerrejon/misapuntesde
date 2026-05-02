@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2013/11/01_RaspberryPi.jpg
+og_image: /images/2013/11/01_RaspberryPi.jpg
 ---
 
 # Voltear imágenes en el navegador web con la Raspberry Pi

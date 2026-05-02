@@ -16,6 +16,7 @@ tag:
   - General
   - Linux
 image: /images/2020/04/compress.png
+og_image: /images/2020/04/compress.png
 ---
 
 # Best options to use for file/directory compression

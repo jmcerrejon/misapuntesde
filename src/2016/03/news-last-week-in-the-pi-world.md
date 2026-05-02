@@ -14,6 +14,7 @@ tag:
     - Raspberry PI
     - ODROID
 image: /images/2016/03/wayland_qt.png
+og_image: /images/2016/03/wayland_qt.png
 ---
 
 # News last week in the Pi World

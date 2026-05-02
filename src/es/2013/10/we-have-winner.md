@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2013/10/kit_inicio.jpg
+og_image: /images/2013/10/kit_inicio.jpg
 ---
 
 # ¡Ya tenemos ganador!

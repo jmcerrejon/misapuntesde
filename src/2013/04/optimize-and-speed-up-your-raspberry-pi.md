@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/raspflash.jpg
+og_image: /images/raspflash.jpg
 ---
 
 # Optimize and speed up your Raspberry Pi

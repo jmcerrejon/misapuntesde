@@ -14,6 +14,7 @@ tag:
   - Linux
   - Apple
 image: /images/penguin.jpg
+og_image: /images/penguin.jpg
 ---
 
 # Burn Linux OS to USB/SD from OSX (Terminal)

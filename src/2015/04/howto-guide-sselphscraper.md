@@ -18,6 +18,7 @@ tag:
     - Raspberry PI
     - ODROID
 image: /images/2015/04/scraper_mame.png
+og_image: /images/2015/04/scraper_mame.png
 ---
 
 # HOWTO guide: sselph/scraper

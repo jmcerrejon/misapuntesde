@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/xakatahome.jpg
+og_image: /images/xakatahome.jpg
 ---
 
 # Xbian (XBMC) on RasPI (spanish link)

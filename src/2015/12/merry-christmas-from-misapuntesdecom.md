@@ -12,6 +12,7 @@ category:
 tag:
   - General
 image: /images/2013/12/merry_christmas.jpg
+og_image: /images/2013/12/merry_christmas.jpg
 ---
 
 # Merry Christmas from misapuntesde.com

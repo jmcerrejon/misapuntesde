@@ -12,6 +12,7 @@ category:
 tag:
   - Raspberry PI
 image: /images/2019/09/revolt.jpg
+og_image: /images/2019/09/revolt.jpg
 ---
 
 # ¡Han sido noticia en el Mundo Pi!

@@ -12,6 +12,7 @@ category:
 tag:
     - Developer
 image: /images/lolface.jpg
+og_image: /images/lolface.jpg
 ---
 
 # ¿Por qué los programadores trabajan mejor de noche?

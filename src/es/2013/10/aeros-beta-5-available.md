@@ -2,6 +2,7 @@
 id: 292
 title: AEROS Beta 5 disponible
 description: AEROS Beta 5 disponible
+og_image: /logo.png
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-10-15 11:10:00

@@ -10,6 +10,7 @@ tags:
     - macOS
     - software
 image: /images/2024/09/autofirma_installation.jpg
+og_image: /images/2024/09/autofirma_installation.jpg
 ---
 
 # AutoFirma Troubleshooting on macOS Sonoma

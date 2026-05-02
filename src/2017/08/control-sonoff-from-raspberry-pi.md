@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2017/08/sonoff.png
+og_image: /images/2017/08/sonoff.png
 ---
 
 # Control Sonoff from Raspberry Pi

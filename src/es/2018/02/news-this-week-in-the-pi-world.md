@@ -14,6 +14,7 @@ tag:
   - Raspberry PI
   - ODROID
 image: /images/2018/02/rpi_mag.jpg
+og_image: /images/2018/02/rpi_mag.jpg
 ---
 
 # Han sido noticia esta semana en el mundo Pi

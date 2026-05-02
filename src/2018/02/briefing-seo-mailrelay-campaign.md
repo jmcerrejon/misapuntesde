@@ -12,6 +12,7 @@ category:
 tag:
   - General
 image: /images/2014/12/MailRelay.png
+og_image: /images/2014/12/MailRelay.png
 ---
 
 # Briefing SEO Mailrelay campaign

@@ -12,6 +12,7 @@ category:
 tag:
   - Raspberry PI
 image: /images/ambilight.jpg
+og_image: /images/ambilight.jpg
 ---
 
 # Construye tu propio sistema "Ambilight" (Youtube)

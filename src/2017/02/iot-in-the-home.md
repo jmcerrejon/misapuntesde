@@ -12,6 +12,7 @@ category:
 tag:
     - General
 image: /images/2017/02/Nucleus_front.png
+og_image: /images/2017/02/Nucleus_front.png
 ---
 
 # IoT in the Home

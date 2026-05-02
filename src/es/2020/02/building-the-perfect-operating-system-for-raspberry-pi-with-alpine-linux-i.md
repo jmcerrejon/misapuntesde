@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2020/02/alpine-linux-rpi.png
+og_image: /images/2020/02/alpine-linux-rpi.png
 ---
 
 # Creando el sistema operativo perfecto para la Raspberry Pi con Alpine Linux (I)

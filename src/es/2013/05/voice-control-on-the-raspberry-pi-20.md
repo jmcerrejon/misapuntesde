@@ -2,6 +2,7 @@
 id: 149
 title: Control de Voz a través de la Raspberry Pi 2.0
 description: Control de Voz a través de la Raspberry Pi 2.0
+og_image: /logo.png
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-05-08 10:31:00

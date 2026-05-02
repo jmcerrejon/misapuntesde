@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/DSx86Animated2.gif
+og_image: /images/DSx86Animated2.gif
 ---
 
 # rpix86 is ready! (updated post)

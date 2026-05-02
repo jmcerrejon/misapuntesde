@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2014/07/copy_01.png
+og_image: /images/2014/07/copy_01.png
 ---
 
 # Copy.com cloud service for Raspberry Pi

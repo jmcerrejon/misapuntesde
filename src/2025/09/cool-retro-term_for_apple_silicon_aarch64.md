@@ -11,6 +11,7 @@ tags:
     - aarch64
     - Download
 image: /images/2025/09/cool-retro-term.png
+og_image: /images/2025/09/cool-retro-term.png
 ---
 
 # Cool-Retro-Term recompiled for Apple Silicon aarch64 (download link)

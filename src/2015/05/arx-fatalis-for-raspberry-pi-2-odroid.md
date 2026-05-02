@@ -16,6 +16,7 @@ tag:
     - Raspberry PI
     - ODROID
 image: /images/2015/05/Arx-fatalis_box.jpg
+og_image: /images/2015/05/Arx-fatalis_box.jpg
 ---
 
 # Arx Fatalis for Raspberry Pi 2 & ODROID

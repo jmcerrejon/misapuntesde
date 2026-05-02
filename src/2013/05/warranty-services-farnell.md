@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/raspi_broken.jpg
+og_image: /images/raspi_broken.jpg
 ---
 
 # Warranty Services: Farnell

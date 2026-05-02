@@ -12,6 +12,7 @@ category:
 tag:
     - Linux
 image: /images/holidays.jpg
+og_image: /images/holidays.jpg
 ---
 
 # Vacaciones

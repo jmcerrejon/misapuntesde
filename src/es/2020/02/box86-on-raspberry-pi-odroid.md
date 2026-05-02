@@ -14,6 +14,7 @@ tag:
   - Raspberry PI
   - ODROID
 image: /images/2020/02/bard_tales_rpi_box86.png
+og_image: /images/2020/02/bard_tales_rpi_box86.png
 ---
 
 # Box86 en Raspberry Pi y ODROID

@@ -12,6 +12,7 @@ category:
 tag:
   - Raspberry PI
 image: /images/2019/10/raspi-config.png
+og_image: /images/2019/10/raspi-config.png
 ---
 
 # Initial Turbo en Raspberry Pi para acelerar tiempos de arranque

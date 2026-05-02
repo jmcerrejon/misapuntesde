@@ -12,6 +12,7 @@ category:
 tag:
   - Apple
 image: /images/2021/12/macos.png
+og_image: /images/2021/12/macos.png
 ---
 
 # MacBook Pro 2021: mis impresiones y ayuda en la migración

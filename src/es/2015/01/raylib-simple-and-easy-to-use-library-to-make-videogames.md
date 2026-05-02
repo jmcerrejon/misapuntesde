@@ -16,6 +16,7 @@ tag:
     - Raspberry PI
     - Android
 image: /images/2015/01/raylib_logo.png
+og_image: /images/2015/01/raylib_logo.png
 ---
 
 # raylib: Librería simple y fácil de usar para crear videojuegos

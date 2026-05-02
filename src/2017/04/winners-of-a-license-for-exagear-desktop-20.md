@@ -14,6 +14,7 @@ tag:
   - General
   - Raspberry PI
 image: /images/2015/06/ExaGear_Desktop_tr.png
+og_image: /images/2015/06/ExaGear_Desktop_tr.png
 ---
 
 # Winners of a license for Exagear Desktop 2.0

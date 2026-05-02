@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2013/07/marvelvscapcom.jpg
+og_image: /images/2013/07/marvelvscapcom.jpg
 ---
 
 # Final Burn Alpha 2x for Raspberry Pi by Squid

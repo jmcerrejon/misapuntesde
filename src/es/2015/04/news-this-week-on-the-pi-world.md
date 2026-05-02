@@ -14,6 +14,7 @@ tag:
     - Raspberry PI
     - ODROID
 image: /images/2015/04/e-hat.png
+og_image: /images/2015/04/e-hat.png
 ---
 
 # Han sido noticia esta semana en el mundo Pi

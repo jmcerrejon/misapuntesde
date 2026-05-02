@@ -12,6 +12,7 @@ category:
 tag:
     - Developer
 image: /images/2015/02/mysql.png
+og_image: /images/2015/02/mysql.png
 ---
 
 # Eliminar etiquetas HTML usando MySQL

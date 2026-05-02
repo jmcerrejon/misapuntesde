@@ -12,6 +12,7 @@ category:
 tag:
   - Raspberry PI
 image: /images/2016/03/minecraft_pi_ed.png
+og_image: /images/2016/03/minecraft_pi_ed.png
 ---
 
 # Minecraft: Pi Edition Coding How-to (FREE Epub)

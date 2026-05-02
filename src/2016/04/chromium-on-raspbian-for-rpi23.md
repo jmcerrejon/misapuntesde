@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2016/04/Chromipum-pi_02.png
+og_image: /images/2016/04/Chromipum-pi_02.png
 ---
 
 # Chromium on Raspbian for RPi2/3

@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/sdl2.png
+og_image: /images/sdl2.png
 ---
 
 # SDL2 for Raspberry Pi at last (binaries inside!)

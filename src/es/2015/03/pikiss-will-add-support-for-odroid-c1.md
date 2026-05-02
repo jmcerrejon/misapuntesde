@@ -14,6 +14,7 @@ tag:
   - Raspberry PI
   - ODROID
 image: /images/pikiss_400px_nobg.png
+og_image: /images/pikiss_400px_nobg.png
 ---
 
 # PiKISS será compatible con ODROID-C1

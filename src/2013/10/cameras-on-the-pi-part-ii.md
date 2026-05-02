@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2013/10/motion.jpg
+og_image: /images/2013/10/motion.jpg
 ---
 
 # cameras on the Pi (Part II)

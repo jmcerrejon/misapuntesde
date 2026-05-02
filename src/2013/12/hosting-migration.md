@@ -12,6 +12,7 @@ category:
 tag:
   - General
 image: /images/migration.jpg
+og_image: /images/migration.jpg
 ---
 
 # Hosting migration...

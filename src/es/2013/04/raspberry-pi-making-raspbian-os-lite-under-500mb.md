@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/raspflash.jpg
+og_image: /images/raspflash.jpg
 ---
 
 # Raspbian OS Lite: Adelgazando Raspbian a menos de 500MB

@@ -16,6 +16,7 @@ tag:
     - ODROID
     - General
 image: /images/2015/03/raspberry_jam.png
+og_image: /images/2015/03/raspberry_jam.png
 ---
 
 # Raspberry Jam Barcelona

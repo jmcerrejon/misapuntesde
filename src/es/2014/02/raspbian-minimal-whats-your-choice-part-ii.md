@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2014/02/startrek.jpg
+og_image: /images/2014/02/startrek.jpg
 ---
 
 # Raspbian minimal: ¿Cuál es tu elección? (II Parte)

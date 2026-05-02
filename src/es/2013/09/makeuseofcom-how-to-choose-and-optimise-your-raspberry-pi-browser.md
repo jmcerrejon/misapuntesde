@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/browser_fight.jpg
+og_image: /images/browser_fight.jpg
 ---
 
 # makeuseof.com: Cómo elegir y optimizar su navegador en Raspberry Pi

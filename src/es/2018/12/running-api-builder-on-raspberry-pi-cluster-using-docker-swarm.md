@@ -12,6 +12,7 @@ category:
 tag:
   - Raspberry PI
 image: /images/2018/10/rpi_cluster.png
+og_image: /images/2018/10/rpi_cluster.png
 ---
 
 # Ejecutar una API Builder en Raspberry Pi Cluster usando Docker Swarm

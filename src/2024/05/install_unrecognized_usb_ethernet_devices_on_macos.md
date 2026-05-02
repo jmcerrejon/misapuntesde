@@ -11,6 +11,7 @@ tags:
     - hardware
     - ethernet
 image: /images/2024/05/usb_ethernet.jpg
+og_image: /images/2024/05/usb_ethernet.jpg
 ---
 
 # Install unrecognized USB Ethernet devices on macOS

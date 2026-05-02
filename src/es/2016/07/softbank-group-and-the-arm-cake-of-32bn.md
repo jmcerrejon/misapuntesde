@@ -12,6 +12,7 @@ category:
 tag:
     - General
 image: /images/2016/07/god-save-the-brexit.png
+og_image: /images/2016/07/god-save-the-brexit.png
 ---
 
 # Softbank Group y el pastel de ARM por 29K millones de Euros

@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2013/08/ir.jpg
+og_image: /images/2013/08/ir.jpg
 ---
 
 # Como hacer una alarma láser con Raspberry Pi

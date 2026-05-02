@@ -12,6 +12,7 @@ category:
 tag:
   - Raspberry PI
 image: /images/2016/05/insync.png
+og_image: /images/2016/05/insync.png
 ---
 
 # Insync, cliente Google Drive, gratis por tiempo limitado

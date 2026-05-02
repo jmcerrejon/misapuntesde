@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/passwd_02.jpg
+og_image: /images/passwd_02.jpg
 ---
 
 # Raspberry Pi: Initial Setup focused on the security

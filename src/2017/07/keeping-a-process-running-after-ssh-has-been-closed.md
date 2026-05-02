@@ -12,6 +12,7 @@ category:
 tag:
     - Linux
 image: /images/2017/07/bash.png
+og_image: /images/2017/07/bash.png
 ---
 
 # Keeping a process running after SSH has been closed

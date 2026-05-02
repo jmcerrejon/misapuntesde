@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/mame.jpg
+og_image: /images/mame.jpg
 ---
 
 # PiMAME 0.7.6 con soporte para GameBoy

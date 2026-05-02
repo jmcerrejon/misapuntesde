@@ -14,6 +14,7 @@ tag:
     - Raspberry PI
     - ODROID
 image: /images/2015/04/dietpi.png
+og_image: /images/2015/04/dietpi.png
 ---
 
 # DietPi for Raspberry Pi & ODROID-C1

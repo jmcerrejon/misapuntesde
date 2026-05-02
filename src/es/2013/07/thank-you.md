@@ -14,6 +14,7 @@ tag:
     - Raspberry PI
     - General
 image: /images/2013/07/visitors.jpg
+og_image: /images/2013/07/visitors.jpg
 ---
 
 # ¡Gracias!

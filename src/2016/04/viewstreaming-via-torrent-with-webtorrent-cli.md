@@ -14,6 +14,7 @@ tag:
   - Raspberry PI
   - ODROID
 image: /images/2016/04/Webtorrent-cli.png
+og_image: /images/2016/04/Webtorrent-cli.png
 ---
 
 # View/streaming via Torrent with Webtorrent-cli

@@ -12,6 +12,7 @@ category:
 tag:
   - General
 image: /css/images/rss-32.png
+og_image: /css/images/rss-32.png
 ---
 
 # RSS al fin

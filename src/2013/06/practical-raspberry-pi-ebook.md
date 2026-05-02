@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: https://www.misapuntesde.com/images/practicalRpi.jpeg
+og_image: https://www.misapuntesde.com/images/practicalRpi.jpeg
 ---
 
 # Practical Raspberry Pi (Ebook)

@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/keyboard.jpg
+og_image: /images/keyboard.jpg
 ---
 
 # Synergy: Un teclado y ratón para gobernarlos a todos

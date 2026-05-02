@@ -14,6 +14,7 @@ tag:
     - Raspberry PI
     - ODROID
 image: /images/2017/03/exagear_cap_09_min.jpg
+og_image: /images/2017/03/exagear_cap_09_min.jpg
 ---
 
 # Review of Exagear Desktop for Raspberry Pi ver. 2.0 + Giveaway!

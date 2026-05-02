@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2014/04/bananapi.jpg
+og_image: /images/2014/04/bananapi.jpg
 ---
 
 # News this week on the Pi World

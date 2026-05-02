@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2013/11/magpiindex.png
+og_image: /images/2013/11/magpiindex.png
 ---
 
 # Buscador para la revista the MagPi

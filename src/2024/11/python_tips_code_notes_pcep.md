@@ -10,6 +10,7 @@ tags:
     - Python
     - Tips
 image: /images/2024/11/pcep.png
+og_image: /images/2024/11/pcep.png
 ---
 
 # Python: curiosities, code & notes

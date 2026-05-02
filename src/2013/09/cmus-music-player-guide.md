@@ -14,6 +14,7 @@ tag:
     - Raspberry PI
     - Linux
 image: /images/2013/09/cmus.jpg
+og_image: /images/2013/09/cmus.jpg
 ---
 
 # cmus music player guide

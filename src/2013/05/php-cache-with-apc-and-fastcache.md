@@ -2,6 +2,7 @@
 id: 160
 title: PHP cache with APC and FastCache
 description: PHP cache with APC and FastCache
+og_image: /logo.png
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-05-17 11:40:00

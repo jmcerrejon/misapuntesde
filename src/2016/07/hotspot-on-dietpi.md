@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2016/07/hotspot.png
+og_image: /images/2016/07/hotspot.png
 ---
 
 # Hotspot on DietPi

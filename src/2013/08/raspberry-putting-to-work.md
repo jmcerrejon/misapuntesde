@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/money_saver.jpg
+og_image: /images/money_saver.jpg
 ---
 
 # Raspberry Putting to work

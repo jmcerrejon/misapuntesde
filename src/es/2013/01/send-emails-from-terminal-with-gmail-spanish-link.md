@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/rsppi.jpg
+og_image: /images/rsppi.jpg
 ---
 
 # Envío de emails desde consola y con GMail

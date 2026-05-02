@@ -12,6 +12,7 @@ category:
 tag:
   - Raspberry PI
 image: /images/arkos.jpg
+og_image: /images/arkos.jpg
 ---
 
 # arkOS: Sistema Operativo para hosting

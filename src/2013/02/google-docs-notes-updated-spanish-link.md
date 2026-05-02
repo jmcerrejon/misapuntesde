@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /css/images/raspi_icon.png
+og_image: /css/images/raspi_icon.png
 ---
 
 # Google Docs' Notes Updated! (spanish link)

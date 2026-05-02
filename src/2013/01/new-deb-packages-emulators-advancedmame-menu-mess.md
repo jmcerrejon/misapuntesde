@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/mame.jpg
+og_image: /images/mame.jpg
 ---
 
 # New .deb packages. Emulators Advanced[MAME, MENU & MESS]!

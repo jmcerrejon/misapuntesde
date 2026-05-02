@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2014/05/POS.png
+og_image: /images/2014/05/POS.png
 ---
 
 # Raspberry PI como Terminal de Punto de Venta

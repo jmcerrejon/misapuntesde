@@ -14,6 +14,7 @@ tag:
     - Raspberry PI
     - ODROID
 image: /images/2015/05/AmstradPi.jpg
+og_image: /images/2015/05/AmstradPi.jpg
 ---
 
 # Making videogames for Amstrad CPC with Raspberry Pi/ODROID

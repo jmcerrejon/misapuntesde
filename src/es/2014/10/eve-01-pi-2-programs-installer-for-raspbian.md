@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2014/10/cropped-eve.png
+og_image: /images/2014/10/cropped-eve.png
 ---
 
 # Eve 0.1 Pi. 2 (Instalador de programas para Raspbian)

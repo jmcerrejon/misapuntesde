@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/magpi13.jpg
+og_image: /images/magpi13.jpg
 ---
 
 # MagPi núm. 13 en la calle

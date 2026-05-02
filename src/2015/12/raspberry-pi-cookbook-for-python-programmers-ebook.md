@@ -12,6 +12,7 @@ category:
 tag:
   - Raspberry PI
 image: /images/2015/12/rpi%20python.png
+og_image: /images/2015/12/rpi%20python.png
 ---
 
 # Raspberry Pi Cookbook for Python Programmers (Ebook)

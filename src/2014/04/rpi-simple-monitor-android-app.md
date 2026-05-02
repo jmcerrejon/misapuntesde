@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2014/04/rpisimplemonitor.jpg
+og_image: /images/2014/04/rpisimplemonitor.jpg
 ---
 
 # Rpi Simple Monitor (Android App)

@@ -14,6 +14,7 @@ tag:
     - Raspberry PI
     - General
 image: /images/lolface.jpg
+og_image: /images/lolface.jpg
 ---
 
 # Tiempo, tiempo, tiempo…

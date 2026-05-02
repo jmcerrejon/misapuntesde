@@ -12,6 +12,7 @@ category:
 tag:
   - Raspberry PI
 image: /images/2020/06/qt5_rpi.png
+og_image: /images/2020/06/qt5_rpi.png
 ---
 
 # Qt 5.X en Raspberry Pi 4

@@ -12,6 +12,7 @@ category:
 tag:
     - Developer
 image: /images/2016/04/git-ftp.png
+og_image: /images/2016/04/git-ftp.png
 ---
 
 # Deploy your Git code by FTP to a remote server

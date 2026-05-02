@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2016/12/adrian.png
+og_image: /images/2016/12/adrian.png
 ---
 
 # ADRIAN Home asistant now open source

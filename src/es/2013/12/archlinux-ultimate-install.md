@@ -14,6 +14,7 @@ tag:
     - Linux
     - Raspberry PI
 image: /images/archpi_5002.jpg
+og_image: /images/archpi_5002.jpg
 ---
 
 # Archlinux Ultimate Install

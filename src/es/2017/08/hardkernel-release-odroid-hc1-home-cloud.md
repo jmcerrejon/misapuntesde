@@ -12,6 +12,7 @@ category:
 tag:
     - ODROID
 image: /images/2017/08/odroid_stackable.png
+og_image: /images/2017/08/odroid_stackable.png
 ---
 
 # Hardkernel lanza la ODROID-HC1 Home Cloud

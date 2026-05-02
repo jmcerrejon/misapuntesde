@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2014/02/picore_monitor.jpg
+og_image: /images/2014/02/picore_monitor.jpg
 ---
 
 # PiCore 5.2 para Raspberry Pi

@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/spectrum_01.jpg
+og_image: /images/spectrum_01.jpg
 ---
 
 # Some emulators updated

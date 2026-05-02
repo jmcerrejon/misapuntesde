@@ -12,6 +12,7 @@ category:
 tag:
   - Raspberry PI
 image: /images/pikiss_400px_nobg.png
+og_image: /images/pikiss_400px_nobg.png
 ---
 
 # PiKISS...tomorrow

@@ -14,6 +14,7 @@ tag:
   - General
   - Raspberry PI
 image: /images/happy_new_year.jpg
+og_image: /images/happy_new_year.jpg
 ---
 
 # Happy New Year!

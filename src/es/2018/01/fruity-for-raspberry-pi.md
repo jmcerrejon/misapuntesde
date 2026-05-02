@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2018/01/fruity_screenshot3.png
+og_image: /images/2018/01/fruity_screenshot3.png
 ---
 
 # Fruit'Y para Raspberry Pi

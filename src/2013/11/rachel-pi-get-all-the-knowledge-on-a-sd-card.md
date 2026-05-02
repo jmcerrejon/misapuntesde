@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2013/11/rachelpi.jpg
+og_image: /images/2013/11/rachelpi.jpg
 ---
 
 # RACHEL Pi: Get all the knowledge on a SD Card.

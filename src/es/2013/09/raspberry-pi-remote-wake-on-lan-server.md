@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2013/09/wol.png
+og_image: /images/2013/09/wol.png
 ---
 
 # Raspberry Pi como Servidor Wake-On-LAN remoto

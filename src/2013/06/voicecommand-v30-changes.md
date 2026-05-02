@@ -2,6 +2,7 @@
 id: 197
 title: Voicecommand v3.0 Changes
 description: Voicecommand v3.0 Changes
+og_image: /logo.png
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-06-30 07:55:00

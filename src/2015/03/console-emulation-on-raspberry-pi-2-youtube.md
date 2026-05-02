@@ -12,6 +12,7 @@ category:
 tag:
   - Raspberry PI
 image: /images/youtube.jpg
+og_image: /images/youtube.jpg
 ---
 
 # Console emulation on Raspberry Pi 2 (Youtube)

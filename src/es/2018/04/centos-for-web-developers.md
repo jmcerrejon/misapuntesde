@@ -12,6 +12,7 @@ category:
 tag:
   - Developer
 image: /images/2018/04/centos7.png
+og_image: /images/2018/04/centos7.png
 ---
 
 # CentOS para desarrolladores web

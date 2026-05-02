@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/cherokee.png
+og_image: /images/cherokee.png
 ---
 
 # Raspberry Pi like a web server(Spanish link)

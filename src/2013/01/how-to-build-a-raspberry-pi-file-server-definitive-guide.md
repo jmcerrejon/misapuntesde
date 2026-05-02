@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/server.jpg
+og_image: /images/server.jpg
 ---
 
 # How to Build a Raspberry Pi File Server (definitive guide)

@@ -14,6 +14,7 @@ tag:
     - Raspberry PI
     - General
 image: /images/2013/10/ThankYou.jpg
+og_image: /images/2013/10/ThankYou.jpg
 ---
 
 # ¡Sobrepasamos las 100.000 visitas!

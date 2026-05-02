@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/aeros.jpg
+og_image: /images/aeros.jpg
 ---
 
 # AEROS para Raspberry Pi

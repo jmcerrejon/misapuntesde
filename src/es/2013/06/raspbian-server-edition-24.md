@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/03_RaspberryPi.jpg
+og_image: /images/03_RaspberryPi.jpg
 ---
 
 # Raspbian Server Edition 2.4

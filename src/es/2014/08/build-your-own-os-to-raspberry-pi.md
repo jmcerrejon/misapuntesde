@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2014/08/buildroot.png
+og_image: /images/2014/08/buildroot.png
 ---
 
 # Crea tu propio sistema operativo para Raspbery Pi

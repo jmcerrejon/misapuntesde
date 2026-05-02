@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2014/09/3luces.png
+og_image: /images/2014/09/3luces.png
 ---
 
 # Retro-remake: Las Tres luces de Glaurung para Raspberry Pi

@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/ssh-tunnel.jpg
+og_image: /images/ssh-tunnel.jpg
 ---
 
 # Acceder desde Internet a tu Raspberry Pi. IPs dinámicas, puertos, DNS y túneles SSH

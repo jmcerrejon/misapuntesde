@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2015/10/attract.png
+og_image: /images/2015/10/attract.png
 ---
 
 # attract mode front end for emulators

@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/RaspberryPiHot.png
+og_image: /images/RaspberryPiHot.png
 ---
 
 # Mostrar la temperatura de tu RasPi

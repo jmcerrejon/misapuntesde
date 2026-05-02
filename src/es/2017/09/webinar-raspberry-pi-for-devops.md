@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2017/09/RPi_20SEPT.png
+og_image: /images/2017/09/RPi_20SEPT.png
 ---
 
 # Webinar Raspberry Pi para Devops

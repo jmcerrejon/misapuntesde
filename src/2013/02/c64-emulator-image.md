@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/c64.jpg
+og_image: /images/c64.jpg
 ---
 
 # C64 emulator (image)

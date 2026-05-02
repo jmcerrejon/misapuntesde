@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/RPiap.png
+og_image: /images/RPiap.png
 ---
 
 # Raspberry Pi A+

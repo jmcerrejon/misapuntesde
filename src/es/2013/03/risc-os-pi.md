@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/riscOS_sshot.jpg
+og_image: /images/riscOS_sshot.jpg
 ---
 
 # RISC OS Pi

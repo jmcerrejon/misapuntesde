@@ -12,6 +12,7 @@ category:
 tag:
   - General
 image: /images/01_RaspberryPi.jpg
+og_image: /images/01_RaspberryPi.jpg
 ---
 
 # Holidays... again!

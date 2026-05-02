@@ -12,6 +12,7 @@ category:
 tag:
     - ODROID
 image: /images/2015/08/nvidia.png
+og_image: /images/2015/08/nvidia.png
 ---
 
 # Streaming de juegos con nVIDIA a través de ODROID

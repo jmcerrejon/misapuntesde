@@ -2,6 +2,7 @@
 id: 39
 title: Raspberry, control LEDs by software(Spanish link)
 description: Raspberry, control LEDs by software(Spanish link)
+og_image: /logo.png
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-19 07:00:00

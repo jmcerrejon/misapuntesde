@@ -14,6 +14,7 @@ tag:
   - Raspberry PI
   - ODROID
 image: /images/2015/07/reitcast.png
+og_image: /images/2015/07/reitcast.png
 ---
 
 # News this week in the Pi World

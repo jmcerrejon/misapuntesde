@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/twitter.jpg
+og_image: /images/twitter.jpg
 ---
 
 # Controlling Raspberry PI via Twitter

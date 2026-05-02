@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/PC_Engine_logo.png
+og_image: /images/PC_Engine_logo.png
 ---
 
 # Emulador de PCEngine

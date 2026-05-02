@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/02_RaspberryPi.jpg
+og_image: /images/02_RaspberryPi.jpg
 ---
 
 # Empezando con Raspberry Pi, hoy

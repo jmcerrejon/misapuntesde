@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/wifi-dongle.jpg
+og_image: /images/wifi-dongle.jpg
 ---
 
 # Links collection to setup your WIFI dongle

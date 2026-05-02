@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/bodhy_linux.jpg
+og_image: /images/bodhy_linux.jpg
 ---
 
 # ¿Es real?: Bodhi Linux se pasa a Raspberry Pi

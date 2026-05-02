@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2016/01/retropie.png
+og_image: /images/2016/01/retropie.png
 ---
 
 # RetroPie 3.5 liberado

@@ -12,6 +12,7 @@ category:
 tag:
     - Apple
 image: /images/2013/10/Mavericks.jpg
+og_image: /images/2013/10/Mavericks.jpg
 ---
 
 # Manual backup before OSX Mavericks installation

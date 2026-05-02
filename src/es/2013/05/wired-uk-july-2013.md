@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/wired_july13.jpg
+og_image: /images/wired_july13.jpg
 ---
 
 # Wired UK Julio 2013

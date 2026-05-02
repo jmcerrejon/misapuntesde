@@ -9,6 +9,7 @@ category:
 tags:
     - Tips
 image: /images/2024/02/medium.png
+og_image: /images/2024/02/medium.png
 ---
 
 # Read Medium articles for free

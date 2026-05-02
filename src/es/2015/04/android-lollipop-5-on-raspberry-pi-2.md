@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2015/04/lollipop.png
+og_image: /images/2015/04/lollipop.png
 ---
 
 # Android Lollipop 5 en Raspberry Pi 2

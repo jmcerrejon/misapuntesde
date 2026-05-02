@@ -12,6 +12,7 @@ category:
 tag:
   - Raspberry PI
 image: /images/2017/10/snes_classic.png
+og_image: /images/2017/10/snes_classic.png
 ---
 
 # Jugando con el emulador de la SNES Classic Mini en una Raspberry Pi

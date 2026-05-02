@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/kddbcn.jpg
+og_image: /images/kddbcn.jpg
 ---
 
 # Quedada en Barcelona el próximo Jueves. ¡No te la pierdas!

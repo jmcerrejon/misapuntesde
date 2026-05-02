@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/RetroPie_02.jpg
+og_image: /images/RetroPie_02.jpg
 ---
 
 # Nueva versión de RetroPie V2.4.1 disponible

@@ -14,6 +14,7 @@ tag:
     - Raspberry PI
     - ODROID
 image: /images/2017/04/mandoPi.png
+og_image: /images/2017/04/mandoPi.png
 ---
 
 # Fresh news about the Pi

@@ -12,6 +12,7 @@ category:
 tag:
   - Apple
 image: /images/bundle.jpg
+og_image: /images/bundle.jpg
 ---
 
 # Software para Mac, de 117$ a 0$

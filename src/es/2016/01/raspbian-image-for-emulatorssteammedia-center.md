@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2016/01/mediacenterJordi.jpg
+og_image: /images/2016/01/mediacenterJordi.jpg
 ---
 
 # Imagen Raspbian Emuladores+Steam+Media Center

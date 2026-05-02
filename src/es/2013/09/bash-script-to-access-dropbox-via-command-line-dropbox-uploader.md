@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/dropbox.jpg
+og_image: /images/dropbox.jpg
 ---
 
 # Acceder a Dropbox a través de la línea de comandos: Dropbox uploader

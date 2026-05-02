@@ -2,6 +2,7 @@
 id: 149
 title: Voice Control on the Raspberry Pi 2.0
 description: Voice Control on the Raspberry Pi 2.0
+og_image: /logo.png
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-05-08 10:31:00

@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2019/01/openmsx_015.jpg
+og_image: /images/2019/01/openmsx_015.jpg
 ---
 
 # New OpenMSX 0.15 for Raspberry Pi!

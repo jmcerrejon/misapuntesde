@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/domotica_01.jpg
+og_image: /images/domotica_01.jpg
 ---
 
 # Proyecto con dongle Bluetooth: "¿Quién está en casa?"

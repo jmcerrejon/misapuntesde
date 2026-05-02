@@ -12,6 +12,7 @@ category:
 tag:
     - General
 image: /images/2013/06/cake.jpg
+og_image: /images/2013/06/cake.jpg
 ---
 
 # Feliz cumpleaños a mí

@@ -2,6 +2,7 @@
 id: 35
 title: How to set up a windows NFS server to serve media to RaspBMC
 description: How to set up a windows NFS server to serve media to RaspBMC
+og_image: /logo.png
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-18 10:05:00

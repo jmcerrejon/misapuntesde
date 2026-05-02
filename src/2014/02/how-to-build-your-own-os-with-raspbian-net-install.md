@@ -13,6 +13,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/minibian.jpg
+og_image: /images/minibian.jpg
 ---
 
 # How to build your own OS with Raspbian Net Install

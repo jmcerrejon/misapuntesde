@@ -2,6 +2,7 @@
 id: 229
 title: Control remoto de un led con Raspberry Pi
 description: Control remoto de un led con Raspberry Pi
+og_image: /logo.png
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-08-09 08:20:00

@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2013/08/overclock.jpg
+og_image: /images/2013/08/overclock.jpg
 ---
 
 # Overclocking en la Pi

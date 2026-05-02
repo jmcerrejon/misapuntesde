@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2014/09/lessbian.png
+og_image: /images/2014/09/lessbian.png
 ---
 
 # Lessbian: Jessie Raspbian server

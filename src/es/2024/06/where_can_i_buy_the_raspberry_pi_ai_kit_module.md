@@ -11,6 +11,7 @@ tags:
   - Hailo-8L
   - module
 image: /images/2024/06/raspberry-ia.jpg
+og_image: /images/2024/06/raspberry-ia.jpg
 ---
 # ¿Dónde puedo comprar el Kit Raspberry pi AI?
 

@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/snes9x.jpg
+og_image: /images/snes9x.jpg
 ---
 
 # PiSNES: Super Nintendo Emulator

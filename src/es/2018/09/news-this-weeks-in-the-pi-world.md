@@ -14,6 +14,7 @@ tag:
     - Raspberry PI
     - ODROID
 image: /images/2018/09/dukenukem.png
+og_image: /images/2018/09/dukenukem.png
 ---
 
 # Han sido noticia estas semanas en el Mundo Pi

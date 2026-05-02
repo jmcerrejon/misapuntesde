@@ -12,6 +12,7 @@ category:
 tag:
   - Apple
 image: /images/bundle.jpg
+og_image: /images/bundle.jpg
 ---
 
 # Apps for Mac, from 117$ to 0$

@@ -14,6 +14,7 @@ tag:
     - Raspberry PI
     - Developer
 image: /images/kidsruby.jpg
+og_image: /images/kidsruby.jpg
 ---
 
 # KidsRuby, teach to program to younger people, and now is available to Raspberry Pi.

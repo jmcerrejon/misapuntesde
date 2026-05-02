@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/retromachine.jpg
+og_image: /images/retromachine.jpg
 ---
 
 # RetroPie 1.6 Beta out!

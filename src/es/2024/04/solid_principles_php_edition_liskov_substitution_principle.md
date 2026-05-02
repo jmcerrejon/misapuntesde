@@ -12,6 +12,7 @@ tags:
   - Developer
   - Design Patterns
 image: /images/2024/04/liskov.jpg
+og_image: /images/2024/04/liskov.jpg
 ---
 # Principios SOLID PHP Edition. Hoy: el principio de sustitución de Liskov
 

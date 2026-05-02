@@ -16,6 +16,7 @@ tag:
   - Linux
   - Raspberry PI
 image: /images/2020/04/batocera.jpg
+og_image: /images/2020/04/batocera.jpg
 ---
 
 # Batocera: Switch partition to extFAT for macOS/Windows compatibility

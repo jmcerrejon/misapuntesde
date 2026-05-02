@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2015/04/archphile_logo.png
+og_image: /images/2015/04/archphile_logo.png
 ---
 
 # ArchPhile for Raspberry Pi

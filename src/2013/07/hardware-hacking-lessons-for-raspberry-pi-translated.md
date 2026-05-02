@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2013/07/hardhacking.jpg
+og_image: /images/2013/07/hardhacking.jpg
 ---
 
 # Hardware Hacking. Lessons for Raspberry Pi (translated)

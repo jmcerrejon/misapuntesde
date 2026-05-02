@@ -12,6 +12,7 @@ category:
 tag:
   - Raspberry PI
 image: /images/cubopuntes.jpg
+og_image: /images/cubopuntes.jpg
 ---
 
 # Misapuntesde present... NOTESbox!

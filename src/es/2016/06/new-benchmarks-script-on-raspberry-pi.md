@@ -12,6 +12,7 @@ category:
 tag:
   - Raspberry PI
 image: /images/2016/06/rpi_benchmark.png
+og_image: /images/2016/06/rpi_benchmark.png
 ---
 
 # Nuevo script para testear la Raspberry Pi

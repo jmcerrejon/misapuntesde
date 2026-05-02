@@ -12,6 +12,7 @@ tags:
   - Developer
   - Design Patterns
 image: /images/2024/03/solid.jpg
+og_image: /images/2024/03/solid.jpg
 ---
 # SOLID principles PHP Edition. Today: Single Responsibility Principle
 

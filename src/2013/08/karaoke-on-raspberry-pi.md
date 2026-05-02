@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/karaoke.jpg
+og_image: /images/karaoke.jpg
 ---
 
 # Karaoke on Raspberry Pi

@@ -12,6 +12,7 @@ category:
 tag:
   - General
 image: /images/2018/05/privacy.jpg
+og_image: /images/2018/05/privacy.jpg
 ---
 
 # General Data Protection Regulation

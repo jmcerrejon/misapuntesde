@@ -12,6 +12,7 @@ category:
 tag:
     - Banana Pi
 image: /images/berryboot.jpg
+og_image: /images/berryboot.jpg
 ---
 
 # Berryboot on Banana Pi

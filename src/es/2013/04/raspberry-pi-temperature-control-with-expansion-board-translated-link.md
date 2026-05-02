@@ -12,6 +12,7 @@ category:
 tag:
   - Raspberry PI
 image: /images/ee_medir_temperatura.jpg
+og_image: /images/ee_medir_temperatura.jpg
 ---
 
 # Control temperatura con Raspberry Pi Expansion Board

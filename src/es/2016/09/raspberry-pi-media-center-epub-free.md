@@ -12,6 +12,7 @@ category:
 tag:
   - Raspberry PI
 image: /images/2016/08/mediaCenter.png
+og_image: /images/2016/08/mediaCenter.png
 ---
 
 # Raspberry Pi Media Center (Epub gratis)

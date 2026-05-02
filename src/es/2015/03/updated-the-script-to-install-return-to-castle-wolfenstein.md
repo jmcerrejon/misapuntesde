@@ -12,6 +12,7 @@ category:
 tag:
   - Raspberry PI
 image: /images/2014/06/return%20castle%20wolf.jpg
+og_image: /images/2014/06/return%20castle%20wolf.jpg
 ---
 
 # Actualizado script para instalar Return to Castle Wolfenstein

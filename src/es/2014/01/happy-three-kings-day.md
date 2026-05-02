@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2014/01/reyesmagos.jpg
+og_image: /images/2014/01/reyesmagos.jpg
 ---
 
 # ¡Feliz día de los Reyes Magos!

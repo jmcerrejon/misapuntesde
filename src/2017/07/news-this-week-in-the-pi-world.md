@@ -12,6 +12,7 @@ category:
 tag:
   - Raspberry PI
 image: /images/2017/07/rock64.png
+og_image: /images/2017/07/rock64.png
 ---
 
 # News this week in the Pi World

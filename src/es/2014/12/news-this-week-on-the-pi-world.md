@@ -14,6 +14,7 @@ tag:
     - Raspberry PI
     - Banana Pi
 image: /images/2013/12/merry_christmas.jpg
+og_image: /images/2013/12/merry_christmas.jpg
 ---
 
 # Han sido noticia esta semana en el mundo Pi

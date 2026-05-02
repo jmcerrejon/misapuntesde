@@ -9,6 +9,7 @@ category:
 tags:
   - Raspberry Pi OS
 image: /images/2024/04/rpios_dload.png
+og_image: /images/2024/04/rpios_dload.png
 ---
 # Descarga la última imagen de Raspberry Pi OS usando la línea de comandos
 

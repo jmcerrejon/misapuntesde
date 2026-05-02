@@ -12,6 +12,7 @@ category:
 tag:
   - Raspberry PI
 image: /images/raspbian.jpg
+og_image: /images/raspbian.jpg
 ---
 
 # New Raspbian OS with GPU support on Desktop

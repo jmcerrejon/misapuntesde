@@ -14,6 +14,7 @@ tag:
     - Raspberry PI
     - ODROID
 image: /images/minibian.jpg
+og_image: /images/minibian.jpg
 ---
 
 # Sácale partido a Raspbian Net Install

@@ -12,6 +12,7 @@ category:
 tag:
     - ODROID
 image: /images/2016/03/ODROID_Marzo.png
+og_image: /images/2016/03/ODROID_Marzo.png
 ---
 
 # ODROID Magazine issue (March)

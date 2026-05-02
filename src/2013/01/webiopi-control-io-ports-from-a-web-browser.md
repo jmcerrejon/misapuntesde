@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/iwebiop.jpg
+og_image: /images/iwebiop.jpg
 ---
 
 # WebIOPi. Control IO ports from a web browser

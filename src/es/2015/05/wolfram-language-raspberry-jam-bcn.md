@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2015/05/wolfram.jpg
+og_image: /images/2015/05/wolfram.jpg
 ---
 
 # Wolfram Language Raspberry Jam (BCN)

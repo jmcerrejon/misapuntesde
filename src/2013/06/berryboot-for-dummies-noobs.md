@@ -2,6 +2,7 @@
 id: 177
 title: Berryboot for dummies (NOOBS)
 description: Berryboot for dummies (NOOBS)
+og_image: /logo.png
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-06-04 07:00:00

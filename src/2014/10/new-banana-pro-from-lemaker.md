@@ -12,6 +12,7 @@ category:
 tag:
     - Banana Pi
 image: /images/2014/10/bananapro.png
+og_image: /images/2014/10/bananapro.png
 ---
 
 # New Banana Pro from Lemaker

@@ -12,6 +12,7 @@ category:
 tag:
   - Raspberry PI
 image: /images/2019/01/msx_cartridge.jpg
+og_image: /images/2019/01/msx_cartridge.jpg
 ---
 
 # New HAT to load REAL MSX cartridges on Raspberry Pi

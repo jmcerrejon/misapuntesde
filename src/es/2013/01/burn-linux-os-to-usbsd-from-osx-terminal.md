@@ -14,6 +14,7 @@ tag:
   - Linux
   - Apple
 image: /images/penguin.jpg
+og_image: /images/penguin.jpg
 ---
 
 # Grabar SO Linux a USB/SD desde OSX (Terminal)

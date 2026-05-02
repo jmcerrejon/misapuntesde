@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/dlna.jpg
+og_image: /images/dlna.jpg
 ---
 
 # MiniDLNA 1.1.4 for Raspberry Pi (binary)

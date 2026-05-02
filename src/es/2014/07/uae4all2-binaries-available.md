@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2014/07/uae4all2.jpg
+og_image: /images/2014/07/uae4all2.jpg
 ---
 
 # uae4all2: ¡Binarios ya disponibles!

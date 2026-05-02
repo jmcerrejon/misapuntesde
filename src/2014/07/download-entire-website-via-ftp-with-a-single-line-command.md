@@ -14,6 +14,7 @@ tag:
     - Raspberry PI
     - Linux
 image: /images/ftp.jpg
+og_image: /images/ftp.jpg
 ---
 
 # Download entire website via FTP with a single line command

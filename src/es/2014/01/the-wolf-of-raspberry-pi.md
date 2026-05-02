@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2014/01/stats.jpg
+og_image: /images/2014/01/stats.jpg
 ---
 
 # El Lobo de Raspberry Pi

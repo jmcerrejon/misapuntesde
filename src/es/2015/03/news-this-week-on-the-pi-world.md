@@ -16,6 +16,7 @@ tag:
     - Banana Pi
     - ODROID
 image: /images/2015/03/chips.jpg
+og_image: /images/2015/03/chips.jpg
 ---
 
 # Han sido noticia esta semana en el mundo Pi

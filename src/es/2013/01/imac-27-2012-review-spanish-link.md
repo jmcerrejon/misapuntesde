@@ -12,6 +12,7 @@ category:
 tag:
     - Apple
 image: /images/mac.jpg
+og_image: /images/mac.jpg
 ---
 
 # Análisis iMac 27" (2012) en Applesfera

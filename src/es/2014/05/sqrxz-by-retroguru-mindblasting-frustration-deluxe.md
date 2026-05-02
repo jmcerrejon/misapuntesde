@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2014/05/sqrxz4_01.png
+og_image: /images/2014/05/sqrxz4_01.png
 ---
 
 # Sqrxz by Retroguru - Mindblasting frustration deluxe!

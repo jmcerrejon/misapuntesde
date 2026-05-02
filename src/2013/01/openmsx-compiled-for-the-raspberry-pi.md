@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/msx_GameMaster.jpg
+og_image: /images/msx_GameMaster.jpg
 ---
 
 # OpenMSX compiled for the Raspberry Pi!

@@ -2,6 +2,7 @@
 id: 256
 title: MicroXwin on Raspberry Pi
 description: MicroXwin on Raspberry Pi
+og_image: /logo.png
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-09-03 08:15:00

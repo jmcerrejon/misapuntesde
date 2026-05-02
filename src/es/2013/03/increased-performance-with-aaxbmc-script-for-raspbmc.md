@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/raspxbmc.jpg
+og_image: /images/raspxbmc.jpg
 ---
 
 # Aumenta el rendimiento de tu Raspbmc con el script Aaxbmc

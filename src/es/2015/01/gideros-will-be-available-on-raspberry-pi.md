@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2015/01/gideros.png
+og_image: /images/2015/01/gideros.png
 ---
 
 # Gideros será portado a la Raspberry Pi

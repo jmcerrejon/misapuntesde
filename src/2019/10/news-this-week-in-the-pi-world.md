@@ -12,6 +12,7 @@ category:
 tag:
   - Raspberry PI
 image: /images/2019/10/over.png
+og_image: /images/2019/10/over.png
 ---
 
 # News this week in the Pi World!

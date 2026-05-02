@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/N64.jpg
+og_image: /images/N64.jpg
 ---
 
 # ¡Rama master actualizada del emulador de Nintendo 64! (¡binario incluído!)

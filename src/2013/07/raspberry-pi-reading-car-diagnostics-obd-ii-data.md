@@ -2,6 +2,7 @@
 id: 207
 title: Raspberry Pi Reading Car Diagnostics (OBD-II) Data
 description: Raspberry Pi Reading Car Diagnostics (OBD-II) Data
+og_image: /logo.png
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-07-10 08:16:00

@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/download1.png
+og_image: /images/download1.png
 ---
 
 # Descarga desde webs de intercambio de ficheros (uploaded, MEGA, freakshare) en tu Raspberry Pi

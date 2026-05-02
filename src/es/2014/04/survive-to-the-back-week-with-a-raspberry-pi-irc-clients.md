@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/pi_hack.jpg
+og_image: /images/pi_hack.jpg
 ---
 
 # Sobrevivir a la Semana Negra con la Raspberry Pi: Clientes IRC

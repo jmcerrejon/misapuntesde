@@ -12,6 +12,7 @@ category:
 tag:
   - General
 image: /images/passwd_02.jpg
+og_image: /images/passwd_02.jpg
 ---
 
 # Google Docs de Mis Apuntes hackeado (Día de los Inocentes)

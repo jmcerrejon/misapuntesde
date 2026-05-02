@@ -18,6 +18,7 @@ tag:
   - Raspberry PI
   - Banana Pi
 image: /images/ssh_hodor.png
+og_image: /images/ssh_hodor.png
 ---
 
 # Conexiones SSH y... ¡Olvídate de las contraseñas!

@@ -2,6 +2,7 @@
 id: 118
 title: New chameleon release v.0.3.1
 description: New chameleon release v.0.3.1
+og_image: /logo.png
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-03-28 18:25:00

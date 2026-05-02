@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/kali.jpg
+og_image: /images/kali.jpg
 ---
 
 # News this week on the Pi World

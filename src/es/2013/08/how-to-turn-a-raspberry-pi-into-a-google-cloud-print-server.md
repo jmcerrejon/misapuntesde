@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2013/08/pi_printer_cloud.jpg
+og_image: /images/2013/08/pi_printer_cloud.jpg
 ---
 
 # Raspberry Pi como Servidor de impresión con Google Cloud

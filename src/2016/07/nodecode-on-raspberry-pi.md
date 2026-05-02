@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2016/07/LEDProgram.png
+og_image: /images/2016/07/LEDProgram.png
 ---
 
 # NodeCode on Raspberry Pi

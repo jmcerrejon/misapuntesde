@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2015/07/bluemix.jpg
+og_image: /images/2015/07/bluemix.jpg
 ---
 
 # Domótica IoT basada en Raspberry Pi usando IBM Bluemix

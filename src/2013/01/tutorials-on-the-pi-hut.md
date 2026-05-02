@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/ThePiHut.jpg
+og_image: /images/ThePiHut.jpg
 ---
 
 # Tutorials on The Pi Hut

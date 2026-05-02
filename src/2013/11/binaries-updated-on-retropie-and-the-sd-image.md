@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/RetroPie_07.jpg
+og_image: /images/RetroPie_07.jpg
 ---
 
 # Binaries updated on RetroPie and the SD image

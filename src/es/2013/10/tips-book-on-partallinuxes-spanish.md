@@ -14,6 +14,7 @@ tag:
     - Raspberry PI
     - Linux
 image: /images/2013/10/libro_trucos.jpg
+og_image: /images/2013/10/libro_trucos.jpg
 ---
 
 # Libro de Trucos en PortalLinux.es

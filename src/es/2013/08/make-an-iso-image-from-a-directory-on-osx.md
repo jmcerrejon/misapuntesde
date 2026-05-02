@@ -12,6 +12,7 @@ category:
 tag:
     - Apple
 image: /images/2013/08/iso.jpg
+og_image: /images/2013/08/iso.jpg
 ---
 
 # Crear una iso a partir de un directorio en OSX

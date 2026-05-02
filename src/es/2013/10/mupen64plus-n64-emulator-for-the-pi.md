@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/N64.jpg
+og_image: /images/N64.jpg
 ---
 
 # Mupen64Plus - Emulador de N64 para la Raspberry Pi

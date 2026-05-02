@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2014/04/OLA.jpg
+og_image: /images/2014/04/OLA.jpg
 ---
 
 # Open Lighting Project on Raspberry Pi

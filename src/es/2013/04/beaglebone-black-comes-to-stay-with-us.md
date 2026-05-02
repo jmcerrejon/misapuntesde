@@ -14,6 +14,7 @@ tag:
     - Raspberry PI
     - General
 image: /images/beaglebone.jpg
+og_image: /images/beaglebone.jpg
 ---
 
 # Beaglebone llega para quedarse

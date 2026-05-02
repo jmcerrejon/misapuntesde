@@ -12,6 +12,7 @@ tags:
     - Python
     - VS Code
 image: /images/2025/06/debug_lambda_vscode_es.png
+og_image: /images/2025/06/debug_lambda_vscode_es.png
 ---
 
 # Debug de una función AWS Lambda en Python dentro de un contenedor Docker usando VS Code

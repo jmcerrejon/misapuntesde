@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/motiond.jpg
+og_image: /images/motiond.jpg
 ---
 
 # Detector de movimiento con Raspberry Pi usando Realtime y Python

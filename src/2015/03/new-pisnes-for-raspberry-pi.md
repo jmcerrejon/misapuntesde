@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2015/03/uwol_capture_01.png
+og_image: /images/2015/03/uwol_capture_01.png
 ---
 
 # New PiSNES for Raspberry Pi

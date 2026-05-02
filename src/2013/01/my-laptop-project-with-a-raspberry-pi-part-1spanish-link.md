@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/xakatahome.jpg
+og_image: /images/xakatahome.jpg
 ---
 
 # My laptop project with a Raspberry Pi (Part 1)(Spanish link)

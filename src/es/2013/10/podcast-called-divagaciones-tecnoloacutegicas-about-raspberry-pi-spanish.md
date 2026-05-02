@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2013/10/PrimiumCM.jpg
+og_image: /images/2013/10/PrimiumCM.jpg
 ---
 
 # Podcast Divagaciones Tecnológicas sobre Raspberry Pi

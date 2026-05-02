@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2016/02/rpi3.png
+og_image: /images/2016/02/rpi3.png
 ---
 
 # New Raspberry Pi 3 Model B out

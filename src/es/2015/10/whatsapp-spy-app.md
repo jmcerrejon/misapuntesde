@@ -12,6 +12,7 @@ category:
 tag:
     - General
 image: /images/2015/10/10.png
+og_image: /images/2015/10/10.png
 ---
 
 # Aplicación espía de WhatsApp

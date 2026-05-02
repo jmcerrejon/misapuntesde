@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/cake-pi.jpg
+og_image: /images/cake-pi.jpg
 ---
 
 # 2 years with the Raspberry Pi: Happy Birthday!

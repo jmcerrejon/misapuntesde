@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/java.jpg
+og_image: /images/java.jpg
 ---
 
 # Oracle JDK 8 en Raspberry Pi

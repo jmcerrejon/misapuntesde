@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2014/06/torPI.png
+og_image: /images/2014/06/torPI.png
 ---
 
 # Tor o cómo ocultar tu rastro en internet

@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2013/09/domoticalowcost.jpg
+og_image: /images/2013/09/domoticalowcost.jpg
 ---
 
 # Low Cost home automation with Raspberry Pi

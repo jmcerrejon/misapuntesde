@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2013/07/ardipi.jpg
+og_image: /images/2013/07/ardipi.jpg
 ---
 
 # DIY Wireless Arduino and RPi Rover via instructables.com

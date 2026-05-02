@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2014/06/minidlna.png
+og_image: /images/2014/06/minidlna.png
 ---
 
 # Updating your MiniDLNA to version 1.1.3 (binaries inside!)

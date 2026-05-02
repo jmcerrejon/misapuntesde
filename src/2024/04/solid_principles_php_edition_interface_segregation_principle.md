@@ -12,6 +12,7 @@ tags:
   - Developer
   - Design Patterns
 image: /images/2024/04/interface.jpg
+og_image: /images/2024/04/interface.jpg
 ---
 # SOLID principles PHP Edition. Today: Interface Segregation Principle
 

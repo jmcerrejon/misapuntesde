@@ -14,6 +14,7 @@ tag:
     - Raspberry PI
     - Apple
 image: /images/airplay.jpg
+og_image: /images/airplay.jpg
 ---
 
 # rPlay mirroring with Apple devices and Raspberry Pi

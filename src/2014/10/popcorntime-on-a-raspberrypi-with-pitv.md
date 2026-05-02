@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2014/10/PiTV.png
+og_image: /images/2014/10/PiTV.png
 ---
 
 # PopcornTime on a RaspberryPi with PiTV!

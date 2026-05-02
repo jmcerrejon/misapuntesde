@@ -12,6 +12,7 @@ category:
 tag:
   - Raspberry PI
 image: /images/2014/02/dontbeevil.jpg
+og_image: /images/2014/02/dontbeevil.jpg
 ---
 
 # Turnkey Distributed Search Engine Solution on the Pi: YaCyPi

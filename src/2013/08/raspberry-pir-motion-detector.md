@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2013/08/PIR.jpg
+og_image: /images/2013/08/PIR.jpg
 ---
 
 # Raspberry PIR motion detector

@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/minecraft.jpg
+og_image: /images/minecraft.jpg
 ---
 
 # Minecraft API - Lo esencial

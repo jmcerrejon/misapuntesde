@@ -2,6 +2,7 @@
 id: 25
 title: Chromium-OS parado por el momento para la RasPi
 description: Chromium-OS parado por el momento para la RasPi
+og_image: /logo.png
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-01-16 13:00:00

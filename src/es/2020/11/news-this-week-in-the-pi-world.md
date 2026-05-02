@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2020/11/rpi400.jpg
+og_image: /images/2020/11/rpi400.jpg
 ---
 
 # ¡Han sido noticia en el Mundo Pi!

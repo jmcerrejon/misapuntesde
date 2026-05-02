@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2017/02/casePi.png
+og_image: /images/2017/02/casePi.png
 ---
 
 # Chinese online shop response: "Official" Enclosure for Raspberry Pi with great discount

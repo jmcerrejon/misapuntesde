@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/osupdate.jpg
+og_image: /images/osupdate.jpg
 ---
 
 # Raspbian, Debian and Arch Linux images updated!

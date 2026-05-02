@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2014/05/xbmc_gotham.jpg
+og_image: /images/2014/05/xbmc_gotham.jpg
 ---
 
 # OpenELEC 4.0 FINAL released!

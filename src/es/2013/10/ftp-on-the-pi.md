@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/ftp.jpg
+og_image: /images/ftp.jpg
 ---
 
 # FTP en la RasPi

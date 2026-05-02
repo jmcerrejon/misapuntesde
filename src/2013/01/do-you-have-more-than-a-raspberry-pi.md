@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/superpi.jpg
+og_image: /images/superpi.jpg
 ---
 
 # Do you have more than a Raspberry Pi?

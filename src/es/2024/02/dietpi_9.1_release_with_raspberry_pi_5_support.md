@@ -12,6 +12,7 @@ tags:
   - diet-pi
   - os
 image: /images/2018/02/dietpi.png
+og_image: /images/2018/02/dietpi.png
 ---
 # ¡Lanzamiento de Dietpi 9.1 compatible con Raspberry Pi 5!
 

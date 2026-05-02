@@ -12,6 +12,7 @@ category:
 tag:
   - Raspberry PI
 image: /images/2016/06/electronic_projects.png
+og_image: /images/2016/06/electronic_projects.png
 ---
 
 # Getting Started with Electronic Projects (epub gratis)

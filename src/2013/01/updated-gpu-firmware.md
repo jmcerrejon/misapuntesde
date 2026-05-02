@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/r_pi.jpg
+og_image: /images/r_pi.jpg
 ---
 
 # Updated GPU firmware

@@ -14,6 +14,7 @@ tag:
   - Raspberry PI
   - ODROID
 image: /images/2020/04/ubuntu-server.png
+og_image: /images/2020/04/ubuntu-server.png
 ---
 
 # News this week in the Pi World!

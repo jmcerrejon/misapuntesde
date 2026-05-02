@@ -12,6 +12,7 @@ category:
 tag:
   - Raspberry PI
 image: /images/2014/02/dontbeevil.jpg
+og_image: /images/2014/02/dontbeevil.jpg
 ---
 
 # Solución para tener un motor de búsquedas en la Raspberry Pi: YaCyPi

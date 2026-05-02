@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2016/01/cluster_in_a_Box.jpg
+og_image: /images/2016/01/cluster_in_a_Box.jpg
 ---
 
 # 60 core Raspberry Pi 2 Cluster-in-a-box

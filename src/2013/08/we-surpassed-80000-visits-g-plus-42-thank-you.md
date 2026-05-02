@@ -12,6 +12,7 @@ category:
 tag:
   - General
 image: /images/2013/08/stattistic_28_Ago.jpg
+og_image: /images/2013/08/stattistic_28_Ago.jpg
 ---
 
 # We surpassed 80,000+ visits, G. Plus +42 ... Thank you!

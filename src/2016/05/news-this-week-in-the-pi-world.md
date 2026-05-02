@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2016/05/deploy_script_original_idea.png
+og_image: /images/2016/05/deploy_script_original_idea.png
 ---
 
 # News this week in the Pi World

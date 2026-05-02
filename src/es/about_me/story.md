@@ -3,6 +3,7 @@ title: Sobre mí
 description: Sobre mí
 article: false
 image: /images/my_life_min.jpg
+og_image: /images/my_life_min.jpg
 ---
 
 # Sobre mi

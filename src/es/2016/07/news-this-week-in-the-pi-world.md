@@ -14,6 +14,7 @@ tag:
     - Raspberry PI
     - ODROID
 image: /images/2016/07/bartopferran.jpg
+og_image: /images/2016/07/bartopferran.jpg
 ---
 
 # Han sido noticia esta semana en el mundo Pi

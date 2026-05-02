@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2013/10/hacking%20rpi.jpg
+og_image: /images/2013/10/hacking%20rpi.jpg
 ---
 
 # Hacking Raspberry Pi (Ebook)

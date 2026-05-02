@@ -2,6 +2,7 @@
 id: 132
 title: PiMAME 0.4 Beta 4
 description: PiMAME 0.4 Beta 4
+og_image: /logo.png
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-04-13 15:00:00

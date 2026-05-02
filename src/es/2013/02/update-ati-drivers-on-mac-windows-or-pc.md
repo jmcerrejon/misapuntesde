@@ -14,6 +14,7 @@ tag:
     - General
     - Apple
 image: /images/compo_misa_imac.jpg
+og_image: /images/compo_misa_imac.jpg
 ---
 
 # Actualizar drivers ATI en equipos Mac (Windows) o PC

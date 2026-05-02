@@ -12,6 +12,7 @@ category:
 tag:
   - General
 image: /images/2018/03/ros.png
+og_image: /images/2018/03/ros.png
 ---
 
 # Effective Robotics Programming with ROS - Third Edition (free Ebook)

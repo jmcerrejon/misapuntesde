@@ -12,6 +12,7 @@ category:
 tag:
   - Raspberry PI
 image: /images/2015/12/rpi_robotic.png
+og_image: /images/2015/12/rpi_robotic.png
 ---
 
 # Raspberry Pi Robotic Projects (Ebook)

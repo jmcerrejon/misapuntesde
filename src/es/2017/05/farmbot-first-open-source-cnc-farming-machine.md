@@ -12,6 +12,7 @@ category:
 tag:
   - Raspberry PI
 image: /images/2017/05/farmbot_01.png
+og_image: /images/2017/05/farmbot_01.png
 ---
 
 # Farmbot: Primera máquina agrícola CNC Open Source

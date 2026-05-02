@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2015/04/win_rpi_r.png
+og_image: /images/2015/04/win_rpi_r.png
 ---
 
 # Thinking about Windows 10 IoT Core for Raspberry Pi 2

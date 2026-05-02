@@ -14,6 +14,7 @@ tag:
     - Raspberry PI
     - Banana Pi
 image: /images/2014/11/lakka.png
+og_image: /images/2014/11/lakka.png
 ---
 
 # Lakka: Distro para emuladores retro basado en OpenELEC

@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2016/09/xump.png
+og_image: /images/2016/09/xump.png
 ---
 
 # Xump for Raspberry Pi

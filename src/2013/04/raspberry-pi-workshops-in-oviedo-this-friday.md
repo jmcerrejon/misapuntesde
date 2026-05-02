@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/alcabot_12.jpg
+og_image: /images/alcabot_12.jpg
 ---
 
 # Raspberry Pi Workshops in Oviedo this Friday

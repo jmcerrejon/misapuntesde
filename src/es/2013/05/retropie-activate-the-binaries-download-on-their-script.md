@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/retropieprojectlogofinish.jpg
+og_image: /images/retropieprojectlogofinish.jpg
 ---
 
 # RetroPie activa la descarga de binarios

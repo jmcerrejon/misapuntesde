@@ -16,6 +16,7 @@ tag:
     - ODROID
     - Banana Pi
 image: /images/2015/06/ExaGear_Desktop_tr.png
+og_image: /images/2015/06/ExaGear_Desktop_tr.png
 ---
 
 # Exagear Desktop: Run x86 apps on Raspberry Pi & ARMv7 (Part I+Giveaway)

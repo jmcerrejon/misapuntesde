@@ -12,6 +12,7 @@ category:
 tag:
   - Raspberry PI
 image: /images/2017/09/rpi_secret.png
+og_image: /images/2017/09/rpi_secret.png
 ---
 
 # Raspberry Pi for Secret Agents - Third Edition (Free Ebook for a limited time)

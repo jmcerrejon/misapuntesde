@@ -12,6 +12,7 @@ category:
 tag:
   - General
 image: /images/2016/06/aws.png
+og_image: /images/2016/06/aws.png
 ---
 
 # Spanish Webinar: Introduction to IoT with AWS

@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2014/01/picast.jpg
+og_image: /images/2014/01/picast.jpg
 ---
 
 # PiCAST 2.0 out!

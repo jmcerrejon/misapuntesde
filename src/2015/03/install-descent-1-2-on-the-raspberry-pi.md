@@ -12,6 +12,7 @@ category:
 tag:
   - Raspberry PI
 image: /images/2015/03/descent.png
+og_image: /images/2015/03/descent.png
 ---
 
 # Install Descent 1 & 2 on the Raspberry Pi

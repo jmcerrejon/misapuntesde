@@ -10,6 +10,7 @@ tags:
     - macOS
     - Tips
 image: /images/2024/02/open_usb_device.png
+og_image: /images/2024/02/open_usb_device.png
 ---
 
 # Open Quicktime and stream any device on macOS

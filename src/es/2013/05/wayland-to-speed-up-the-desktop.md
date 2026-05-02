@@ -2,6 +2,7 @@
 id: 167
 title: Wayland para acelerar el escritorio
 description: Wayland para acelerar el escritorio
+og_image: /logo.png
 author: Jose Cerrejon
 icon: pen-to-square
 date: 2013-05-24 09:00:00

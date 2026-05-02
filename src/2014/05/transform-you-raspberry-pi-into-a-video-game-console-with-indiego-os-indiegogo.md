@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2014/05/indieos_appstore.jpg
+og_image: /images/2014/05/indieos_appstore.jpg
 ---
 
 # Transform you Raspberry Pi into a video game console with INDIEGO-OS (Indiegogo)

@@ -12,6 +12,7 @@ category:
 tag:
   - Linux
 image: /images/2016/06/transfer_home.png
+og_image: /images/2016/06/transfer_home.png
 ---
 
 # Easy file sharing from the command line with Transfer.sh

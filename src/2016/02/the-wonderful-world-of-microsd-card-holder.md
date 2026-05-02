@@ -12,6 +12,7 @@ category:
 tag:
     - General
 image: /images/2016/02/41dcKy9VLuL._SY300_.png
+og_image: /images/2016/02/41dcKy9VLuL._SY300_.png
 ---
 
 # The Wonderful World of MicroSD Card Holder

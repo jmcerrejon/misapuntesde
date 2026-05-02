@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/06_RaspberryPi.jpg
+og_image: /images/06_RaspberryPi.jpg
 ---
 
 # Vacaciones, proyectos y screen

@@ -12,6 +12,7 @@ category:
 tag:
     - Developer
 image: /images/2016/09/deploy_hommer.jpg
+og_image: /images/2016/09/deploy_hommer.jpg
 ---
 
 # Deploy con rsync

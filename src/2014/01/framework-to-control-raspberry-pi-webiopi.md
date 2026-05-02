@@ -12,6 +12,7 @@ category:
 tag:
   - Raspberry PI
 image: /images/2014/01/webiopi.jpg
+og_image: /images/2014/01/webiopi.jpg
 ---
 
 # Framework to control Raspberry Pi: WebIOPi

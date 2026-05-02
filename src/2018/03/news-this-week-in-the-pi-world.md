@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2018/03/thermal.jpg
+og_image: /images/2018/03/thermal.jpg
 ---
 
 # News this week in the Pi World

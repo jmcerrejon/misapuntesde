@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2015/12/ODROID_C0.jpg
+og_image: /images/2015/12/ODROID_C0.jpg
 ---
 
 # Han sido noticia esta semana en el mundo Pi

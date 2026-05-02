@@ -14,6 +14,7 @@ tag:
     - General
     - Developer
 image: /images/2013/07/lupa.jpg
+og_image: /images/2013/07/lupa.jpg
 ---
 
 # We have search box on the blog!

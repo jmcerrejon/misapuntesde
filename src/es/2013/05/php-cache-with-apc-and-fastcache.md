@@ -12,6 +12,7 @@ category:
 tag:
     - Developer
 image: /images/2013/05/fastcache.jpg
+og_image: /images/2013/05/fastcache.jpg
 ---
 
 # Uso de cache en PHP con APC y FastCache

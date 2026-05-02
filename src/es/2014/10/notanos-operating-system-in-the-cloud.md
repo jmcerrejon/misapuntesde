@@ -12,6 +12,7 @@ category:
 tag:
     - Raspberry PI
 image: /images/2014/10/notanos.png
+og_image: /images/2014/10/notanos.png
 ---
 
 # NotanOS: Sistema operativo en la nube

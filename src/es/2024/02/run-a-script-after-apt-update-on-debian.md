@@ -14,6 +14,7 @@ tags:
     - Tutorial
     - Raspberry PI
 image: /images/2024/02/apt_conf_d.png
+og_image: /images/2024/02/apt_conf_d.png
 ---
 
 # Ejecutar un script después de ejecutar apt-get update en Debian o Ubuntu Linux

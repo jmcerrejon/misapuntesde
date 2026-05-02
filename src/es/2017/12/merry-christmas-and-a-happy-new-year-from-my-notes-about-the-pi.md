@@ -12,6 +12,7 @@ category:
 tag:
   - General
 image: /images/2016/12/merry_christmas_2016.png
+og_image: /images/2016/12/merry_christmas_2016.png
 ---
 
 # ¡Feliz navidad y prospero año nuevo desde Mis Apuntes de!

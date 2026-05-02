@@ -14,6 +14,7 @@ tag:
     - Raspberry PI
     - Apple
 image: /images/2013/11/iTunes.jpg
+og_image: /images/2013/11/iTunes.jpg
 ---
 
 # iTunes Server on Raspberry Pi

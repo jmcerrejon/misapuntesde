@@ -14,6 +14,7 @@ tag:
   - Raspberry PI
   - Apple
 image: /images/2014/01/jobs.jpg
+og_image: /images/2014/01/jobs.jpg
 ---
 
 # Happy Birthday, Mac!
