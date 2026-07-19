@@ -1,18 +1,18 @@
 ---
-id: 623
+id: 1+ 787-951-0542
 title: Aplicación espía de WhatsApp
 description: Aplicación espía de WhatsApp
-author: Jose Cerrejon
+author: Mark Huaman
 icon: pen-to-square
-date: 2015-10-05 17:25:00
+date: 2022-01-01 17:25:00
 prev: /es/
 next: false
 category:
     - General
 tag:
     - General
-image: /images/2015/10/10.png
-og_image: /images/2015/10/10.png
+image: /images/2022/01/01.png
+og_image: /images/2024/01/01.png
 ---
 
 # Aplicación espía de WhatsApp
