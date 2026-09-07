@@ -35,4 +35,4 @@ Today I want to show you a link to use _screen_, a window manager in the shell f
 
 ![screen](/images/2013/12/screen.jpg)
 
-Link: [bartbania.com > Using Command Line like a boss with screen](https://www.bartbania.com/index.php/linux-screen/)
+Link: bartbania.com > Using Command Line like a boss with screen

@@ -31,4 +31,4 @@ Para haceros una idea, mejor un vídeo:
 
 Enlace: [apticon.wordpress.com](https://apticon.wordpress.com/2014/09/27/eve-pi-0-1-2/)
 
-Descarga: [Dropbox > Eve_Pi_0.1.2_Raspbian_EN.zip](https://dl.dropboxusercontent.com/u/7948220/Pi/rasbian/eve/Eve_Pi_0.1.2_Raspbian_EN.zip)
+Descarga: Dropbox > Eve_Pi_0.1.2_Raspbian_EN.zip

@@ -29,6 +29,6 @@ I'm developing several parallel projects at the same time and I don't have much 
 
 -   DietPi-LetsEncrypt | On Stretch, added automated Minio certificate renewal. Rerun "dietpi-letsencrypt" on your Stretch system to gain this feature.
 
--   DietPi-Software | AmiBerry: Massive update to v2.14 and SDL2, new installations only. Currently for RPi's under Stretch only, however, we have plans to impliment for other devices. [More info](https://dietpi.com/phpbb/viewtopic.php?f=8&t=5&p=64#p64).
+-   DietPi-Software | AmiBerry: Massive update to v2.14 and SDL2, new installations only. Currently for RPi's under Stretch only, however, we have plans to impliment for other devices. More info.
 
-Link: [github.com > DietPi](https://github.com/Fourdee/DietPi/pull/1532#issue-169843265)
+Link: github.com > DietPi

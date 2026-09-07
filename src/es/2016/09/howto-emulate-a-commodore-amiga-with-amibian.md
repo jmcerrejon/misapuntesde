@@ -33,7 +33,7 @@ Una tarde fui a jugar una partida de _Warhammer_ (el juego de mesa) a casa del a
 
 Maldecí el día que me compré mi primer _PC 286_, pero pronto vinieron a mí los juegos con paleta _VGA_ de 256 colores (Como el _Xenon II o Rick Dangerous II_) y pude jugar como Dios manda, aunque sonara regular con mi _PC Speaker_ hasta que le compré a un amigo la _Sound Blaster PRO_. Pero esa, es otra historia.
 
-Todo ésto para deciros que hace unos días, en las noticias semanales del _Mundo Pi_, _Dan Wood_ nos mostraba en un vídeo cómo lograr instalar el perfecto emulador de Amiga: Tan fácil como descargarse la imagen de [aquí](https://bit.ly/Amibiandownload), conseguir las _Kickstart ROMs_ de [aquí](/res/Amiga_roms.zip) y copiar algún que otro juego. Está basado en _Raspbian_ y tan sólo necesitas en el primer arranque expandir el sistema de ficheros.
+Todo ésto para deciros que hace unos días, en las noticias semanales del _Mundo Pi_, _Dan Wood_ nos mostraba en un vídeo cómo lograr instalar el perfecto emulador de Amiga: Tan fácil como descargarse la imagen de aquí, conseguir las _Kickstart ROMs_ de [aquí](/res/Amiga_roms.zip) y copiar algún que otro juego. Está basado en _Raspbian_ y tan sólo necesitas en el primer arranque expandir el sistema de ficheros.
 
 Claro que si quieres emularlo en tu propio _Raspbian_ sin tener que usar otra _SD_, tienes un script en [PiKISS](https://github.com/jmcerrejon/PiKISS) que te lo instala o compila y que he actualizado hace poco con la última versión del emulador _UAE4ARM 0.5_.
 

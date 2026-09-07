@@ -27,11 +27,11 @@ Connect a webcam or raspicam to the Pi can give us much to do: From intrusion de
 
 -   [miguelgrinberg.com > Stream Video from the Raspberry Pi Camera to Web Browsers, Even on iOS and Android](https://blog.miguelgrinberg.com/post/stream-video-from-the-raspberry-pi-camera-to-web-browsers-even-on-ios-and-android)
 
--   [oscarliang.net > https://blog.oscarliang.net/webcam-streaming-video-raspberry-pi-via-browser/](https://blog.oscarliang.net/webcam-streaming-video-raspberry-pi-via-browser/)
+-   oscarliang.net > https://blog.oscarliang.net/webcam-streaming-video-raspberry-pi-via-browser/
 
 -   [jasmeu.wordpress.com > Raspberry Pi - Surveillance WebCam in the Cloud - Improvements](https://jasmeu.wordpress.com/2013/07/22/raspberry-pi-surveillance-webcam-in-the-cloud-improvements/)
 
--   [techzany.com > Live Streaming Video using AVConv and the Raspberry Pi](https://techzany.com/2013/09/live-streaming-video-using-avconv-and-a-raspberry-pi/)
+-   techzany.com > Live Streaming Video using AVConv and the Raspberry Pi
 
 -   [How to make a DIY home alarm system with a raspberry pi and a webcam](https://medium.com/p/2d5a2d61da3d)
 
@@ -45,7 +45,7 @@ Connect a webcam or raspicam to the Pi can give us much to do: From intrusion de
 
 -   [contractorwolf.wordpress.com > Raspberry Pi - Point & Shoot Camera](https://contractorwolf.wordpress.com/raspberry-pi-point-shoot-camera/)
 
--   [beforeitsnews.com > Build A DIY Motion Detecting Raspberry Pi Security Camera System](https://beforeitsnews.com/survival/2013/09/build-a-diy-motion-detecting-raspberry-pi-security-camera-system-2489228.html)
+-   beforeitsnews.com > Build A DIY Motion Detecting Raspberry Pi Security Camera System
 
 -   [OpenCV and Pi Camera Board!](https://thinkrpi.wordpress.com/2013/05/)
 

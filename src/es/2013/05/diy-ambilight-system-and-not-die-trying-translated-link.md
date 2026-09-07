@@ -24,4 +24,4 @@ Creo que un buen recurso para fabricar el tuyo se encuentra en este enlace que o
 
 ¿Tienes uno montado o piensas hacerlo algún día? Cuéntanoslo en los comentarios.
 
-Enlace: [grabthiscode.com - Cómo Montar tu Sistema Ambilight en Casa y no Morir en el Intento](https://www.grabthiscode.com/diy/como-montar-tu-sistema-ambilight-en-casa-y-no-morir-en-el-intento/)
+Enlace: grabthiscode.com - Cómo Montar tu Sistema Ambilight en Casa y no Morir en el Intento

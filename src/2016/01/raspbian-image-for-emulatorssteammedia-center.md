@@ -29,6 +29,6 @@ The creator of this fantastic custom distro tell me if he could advertise its im
 - Music, video and online radio Player
 - Download Manager **pyLoad + torrent** (with remote control)
 
-You can download it [here](https://mega.nz/#!URYFhLDY!qd2Vt93KZI0IjIe2sN_-LaXbg9cutR9dZCQESDgPu8E) (MEGA)
+You can download it here (MEGA)
 
 To extend this info, please visit [the original post](https://misapuntesde.com/2016/01/raspbian-image-for-emulatorssteammedia-center.html&lang=es) (Spanish).

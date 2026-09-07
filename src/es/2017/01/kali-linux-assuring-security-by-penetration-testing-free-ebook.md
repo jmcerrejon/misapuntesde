@@ -34,4 +34,4 @@ og_image: /images/2017/01/kali.png
 
 * Documente, informe y presente los resultados de sus pruebas verificadas a las autoridades pertinentes en una estructura formal de informes.
 
-Descarga: [packtpub.com](https://www.packtpub.com/packt/offers/free-learning)
+Descarga: packtpub.com

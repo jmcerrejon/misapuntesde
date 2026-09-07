@@ -25,7 +25,7 @@ og_image: /images/2015/06/ExaGear_Desktop_tr.png
 
 We have learned a little about running this software, its installation and how to run it. Today we are going to execute a virtual machine and some programs.
 
-Remember that [eltechs.com](https://eltechs.com/?utm_source=misapuntesde&utm_medium=post_part1&utm_campaign=ED_May2015_release) we are giving away **10 free licenses of [Exagear-desktop v.1.1.](https://eltechs.com/product/exagear-desktop/?utm_source=misapuntesde&utm_medium=post_part1&utm_campaign=ED_May2015_release)** (more information in the [first part of the article](https://misapuntesde.com/2015/06/exagear-desktop-run-x86-apps-on-raspberry-pi-armv7-part-igiveaway.html)).
+Remember that eltechs.com we are giving away **10 free licenses of Exagear-desktop v.1.1.** (more information in the [first part of the article](https://misapuntesde.com/2015/06/exagear-desktop-run-x86-apps-on-raspberry-pi-armv7-part-igiveaway.html)).
 
 ---
 
@@ -118,7 +118,7 @@ I’ll try more apps and expand this section in a future.
 
 ### [ Conclusion ]
 
-[Exagear Desktop](https://eltechs.com/product/exagear-desktop/?utm_source=misapuntesde&utm_medium=post_part1&utm_campaign=ED_May2015_release) does what it promises: Run _x86 Linux_ applications on _ARMv7_ processors. When you see that an application works with another architecture on your board, it looks like magic. It's common to run emulators of other machines and older consoles in this kind of systems. The same is done here. A curious fact is that I thought the processor would be 100% loaded whenever running a virtualized application, and barely reached 60% load. After spending several days trying it, I can draw the following conclusions:
+Exagear Desktop does what it promises: Run _x86 Linux_ applications on _ARMv7_ processors. When you see that an application works with another architecture on your board, it looks like magic. It's common to run emulators of other machines and older consoles in this kind of systems. The same is done here. A curious fact is that I thought the processor would be 100% loaded whenever running a virtualized application, and barely reached 60% load. After spending several days trying it, I can draw the following conclusions:
 
 PROS:
 
@@ -144,8 +144,8 @@ If you want to express your impressions or you want that I try some software in 
 
 I hope it helps you.
 
-Link: [eltechs.com > exagear-desktop](https://eltechs.com/product/exagear-desktop/?utm_source=misapuntesde&utm_medium=post_part1&utm_campaign=ED_May2015_release)
+Link: eltechs.com > exagear-desktop
 
-Link: [eltechs.com](https://eltechs.com/?utm_source=misapuntesde&utm_medium=post_part1&utm_campaign=ED_May2015_release)
+Link: eltechs.com
 
-Link: [forum.eltechs.com > ExaGear Desktop](https://forum.eltechs.com/viewforum.php?f=4&sid=4cf5f1b3dc6734f54787c7dee2e5c842)
+Link: forum.eltechs.com > ExaGear Desktop

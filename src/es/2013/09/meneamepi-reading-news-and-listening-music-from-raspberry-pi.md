@@ -27,4 +27,4 @@ _Joan_ lo tiene claro y lo demuestra en su blog: mediante _mpg123_ ejecuta canci
 
 Gracias _Joan_.
 
-Enlace: [jcatala.net > meneamepi-leyendo-noticias-y-escuchando-musica-desde-raspberry-pi](https://jcatala.net/categoria-gnulinux/meneamepi-leyendo-noticias-y-escuchando-musica-desde-raspberry-pi)
+Enlace: jcatala.net > meneamepi-leyendo-noticias-y-escuchando-musica-desde-raspberry-pi

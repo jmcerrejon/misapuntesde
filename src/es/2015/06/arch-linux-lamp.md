@@ -19,7 +19,7 @@ og_image: /images/2015/06/lamp.png
 
 ![lamp](/images/2015/06/lamp.png)
 
-Últimamente sufro bastante de [distrohopper](https://es.urbandictionary.com/define.php?term=distrohopper), es decir, cambiar en tu _PC_ la distribución de _Linux_ buscando la perfección. Esto me ha llevado a instalar [Manjaro](https://manjaro.github.io/) basada en _Arch Linux_ y dejar un poco de lado a _Debian_, con la que estaba encantado, pero con _Manjaro_ ha sido amor a primera vista. No pensaba que un sistema operativo pudiera ser tan rápido en un ordenador que tiene ya 4 años.
+Últimamente sufro bastante de distrohopper, es decir, cambiar en tu _PC_ la distribución de _Linux_ buscando la perfección. Esto me ha llevado a instalar [Manjaro](https://manjaro.github.io/) basada en _Arch Linux_ y dejar un poco de lado a _Debian_, con la que estaba encantado, pero con _Manjaro_ ha sido amor a primera vista. No pensaba que un sistema operativo pudiera ser tan rápido en un ordenador que tiene ya 4 años.
 
 Así que vuelta a empezar y configurar todo desde el principio. Esta vez he pasado de usar [Docker](https://www.docker.com/) para mis proyectos en [Laravel](https://laravel.com/) e **instalar directamente PHP+MariaDB**, lo malo es que no sabía que me iba a dar tantos dolores de cabeza.
 

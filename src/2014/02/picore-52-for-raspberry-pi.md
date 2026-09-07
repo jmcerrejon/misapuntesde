@@ -39,7 +39,7 @@ Installation is as simple as choosing the version that best suits our needs:
 <img width="324" src="/images/2014/02/picore_01_min.jpg">
 </a>
 
-It starts with a default user named _tc_ with no password and you can't run as root. Comes with a _SWAP_ partition zlib compressed in _RAM_, although it can be disabled through the [boot codes](https://tinycorelinux.net/faq.html#bootcodes) or directly on **/mnt/mmcblk0p1/cmdline.txt**.
+It starts with a default user named _tc_ with no password and you can't run as root. Comes with a _SWAP_ partition zlib compressed in _RAM_, although it can be disabled through the boot codes or directly on **/mnt/mmcblk0p1/cmdline.txt**.
 
 <a title="PiCore with graphical environment" rel="lightbox" href="/images/2014/02/picore_02_desktop.jpg">
 <img width="324" src="/images/2014/02/picore_02_desktop_min.jpg">
@@ -55,8 +55,8 @@ In conclusion,I liked the first contact with this distro. I hope to test it more
 
 See you soon!
 
-Download: [tinycorelinux.net](https://tinycorelinux.net/5.x/armv6/release_candidates/)
+Download: tinycorelinux.net
 
 Link: [Foro](https://forum.tinycorelinux.net/index.php/board,57.0.html)
 
-Link: [Apps list to install](https://tinycorelinux.net/5.x/armv6/tcz/)
+Link: Apps list to install

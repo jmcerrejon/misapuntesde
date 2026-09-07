@@ -39,7 +39,7 @@ ssh pi@192.168.1.4 < ~/.ssh/id_rsa.pub 'mkdir -p .ssh && cat >> .ssh/authorized_
 # Otro método:
 ssh-copy-id -i ~/.ssh/id_rsa.pub pi@192.168.1.4
 ```
-### ###  Aprende más de ssh-keygen y sus parámetros en [este](https://www.attachmate.com/documentation/rsit-unix-802/rsit-unix-guide/data/ssh-keygen_options_ap.htm) enlace.
+### ###  Aprende más de ssh-keygen y sus parámetros en este enlace.
 
 *NOTA*: He intentado hacerlo con un fichero de nombre diferente a *id_rsa*, y no me ha funcionado. 
 

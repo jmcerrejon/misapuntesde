@@ -39,4 +39,4 @@ Con tres de semanas de retraso [según mis predicciones](https://misapuntesde.co
 
 -   Alimentación a través de puertos USB
 
-Enlace: [hardkernel.com > ODROID-C1+](https://www.hardkernel.com/main/products/prdt_info.php?g_code=G143703355573)
+Enlace: hardkernel.com > ODROID-C1+

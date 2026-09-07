@@ -21,7 +21,7 @@ og_image: /images/2017/02/casePi.png
 
 Hace poco han comentado los chicos de la _Raspberry Pi Foundation_ de forma oficial, que tengamos cuidado con las imitaciones que venden en las tiendas chinas de la caja para la Pi, puesto que son imitaciones... La respuesta de estas webs ha sido **rebajar el precio de dichas cajas un 57%**.
 
-Enlace: [gearbest](https://www.gearbest.com/raspberry-pi/pp_391810.html?wid=21)
+Enlace: gearbest
 
 Enlace: [alibaba](https://www.alibaba.com/product-detail/official-raspberry-pi-3-case-pi_60460460173.html)
 

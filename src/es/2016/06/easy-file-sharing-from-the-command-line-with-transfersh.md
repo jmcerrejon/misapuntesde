@@ -19,7 +19,7 @@ og_image: /images/2016/06/transfer_home.png
 
 ![transfer_home](/images/2016/06/transfer_home.png)
 
-[transfer.sh](https://transfer.sh/) te permite compartir archivos sin que te muevas de tu *terminal*. Sus características a continuación:
+transfer.sh te permite compartir archivos sin que te muevas de tu *terminal*. Sus características a continuación:
 
 - - -
 * Creado para usarlo con la Shell

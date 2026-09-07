@@ -27,6 +27,6 @@ The architect of this cabin is [@Cabe_Atwell](https://twitter.com/Cabe_Atwell), 
 
 We hope that children can sleep tonight...
 
-Video: [element14.com](https://www.element14.com/community/videos/9819)
+Video: element14.com
 
-Link: [makerflux.com > Classic Halloween Scary Door Effect Using Raspberry Pi](https://makerflux.com/projects/classic-halloween-scary-door-effect-using-raspberry-pi)
+Link: makerflux.com > Classic Halloween Scary Door Effect Using Raspberry Pi

@@ -42,7 +42,7 @@ fbset -vyres 1440
 ./canoe-shvc rom_name.sfrom
 ```
 
-Parece que es muy fiel a la SNES original, pero el sonido no va todo lo bien que debería. En este emulador, las _ROMs_ tienen la extensión _.sfrom_. Descargadlo de [misapuntesde.com > canoe-shvc](/res/canoe-shvc) | [clusterrr.com > SNES-mini-roms.zip](https://clusterrr.com/temp/SNES-mini-roms.zip)
+Parece que es muy fiel a la SNES original, pero el sonido no va todo lo bien que debería. En este emulador, las _ROMs_ tienen la extensión _.sfrom_. Descargadlo de [misapuntesde.com > canoe-shvc](/res/canoe-shvc) | clusterrr.com > SNES-mini-roms.zip
 
 ![titelbild](/images/2017/10/titelbild.png)
 

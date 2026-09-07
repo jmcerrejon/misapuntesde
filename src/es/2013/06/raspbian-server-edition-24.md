@@ -27,4 +27,4 @@ Esta vez ha bajado el tamaño de la imagen de _1 GB_ que ocupaba la _versión 2.
 
 ¡Qué aprovechen!
 
-Enlace: [Raspbian Server Edition 2.4](https://sirlagz.net/wp-content/plugins/download-monitor/download.php?id=21)
+Enlace: Raspbian Server Edition 2.4

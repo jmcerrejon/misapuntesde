@@ -27,6 +27,6 @@ Estas iniciativas son las que motivaron a la fundación creadora de la Raspberry
 
 Kidsruby es un entorno para Ruby, pero orientado a los más pequeños. Está disponible en varios idiomas (entre ellos español) y acaba de salir una versión para nuestra querida RasPi.
 
-Enlace: [Kidsruby about](https://kidsruby.com/about)
+Enlace: Kidsruby about
 
-Paquete: [.deb](https://s3.amazonaws.com/kidsruby/raspbian/kidsruby-1.3.2-armv6l.deb)
+Paquete: .deb

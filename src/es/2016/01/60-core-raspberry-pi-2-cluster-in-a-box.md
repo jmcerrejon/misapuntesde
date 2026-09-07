@@ -19,7 +19,7 @@ og_image: /images/2016/01/cluster_in_a_Box.jpg
 
 ![cluster_in_a_Box](/images/2016/01/cluster_in_a_Box.jpg)
 
-A través de un canal de _Slack_ me han comentado sobre este proyecto que no conocía y que me ha sorprendido por su aspecto. Un usuario ha conectado nada más y nada menos que **15 Raspberry Pi** dentro de esta monstruosa caja con la que podrás invocar al mismísimo [Arioch](https://en.wikipedia.org/wiki/Deities_in_the_Elric_series).
+A través de un canal de _Slack_ me han comentado sobre este proyecto que no conocía y que me ha sorprendido por su aspecto. Un usuario ha conectado nada más y nada menos que **15 Raspberry Pi** dentro de esta monstruosa caja con la que podrás invocar al mismísimo Arioch.
 
 ---
 

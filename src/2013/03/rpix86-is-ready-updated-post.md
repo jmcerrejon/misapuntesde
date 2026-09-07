@@ -31,6 +31,6 @@ Thanks Patrick!
 
 Link: [rpix86 blog](https://rpix86.patrickaalto.com/rblog.html)
 
-Link: [rpix86 Pi Store](https://store.raspberrypi.com/projects/rpix86)
+Link: rpix86 Pi Store
 
 Link: [Compatibility list](https://dsx86compatibility.pbworks.com/w/page/26738915/Compatibility%20List)

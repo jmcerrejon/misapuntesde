@@ -53,7 +53,7 @@ apk -e info nano # Muestra si paquete nano está instalado
 apk stats # Estadística de paquetes
 ```
 
-Si queréis consultar los paquetes desde la comodidad de vuestro navegador, podéis visitar [alpine.pkgs.org](https://alpine.pkgs.org/).
+Si queréis consultar los paquetes desde la comodidad de vuestro navegador, podéis visitar alpine.pkgs.org.
 
 ### [ Actualizando a la última versión ]
 

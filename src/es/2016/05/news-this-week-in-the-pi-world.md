@@ -41,7 +41,7 @@ Ayer Viernes hice algo que todo desarrollador debe evitar a toda costa: **Subir 
 
 ![quake_lan](/images/2016/05/quake_lan.png)
 
--   **Servidor casero de QuakeWorkd en Raspberry Pi:** No puedo creer que dentro de poco se cumplan 20 años de la creación de este mítico título llamado _Quake_. Recuerdo que las primeras _Lan Party_ que jugué fueron con éste mata-mata donde nos pasamos más tiempo intentando configurar la red que jugando. Estos chicos te dejan una imagen para que puedas montar tu propio server y jugar a cualquiera de las modalidades disponibles como _Deathmatch, Capture The Flag (Classic) o Co-Op_. | [quakeonlan.net](https://www.quakeonlan.net/quakeworld-co-op-edition/)
+-   **Servidor casero de QuakeWorkd en Raspberry Pi:** No puedo creer que dentro de poco se cumplan 20 años de la creación de este mítico título llamado _Quake_. Recuerdo que las primeras _Lan Party_ que jugué fueron con éste mata-mata donde nos pasamos más tiempo intentando configurar la red que jugando. Estos chicos te dejan una imagen para que puedas montar tu propio server y jugar a cualquiera de las modalidades disponibles como _Deathmatch, Capture The Flag (Classic) o Co-Op_. | quakeonlan.net
 
 Comando de la semana gracias a [@climagic](https://twitter.com/climagic/):
 

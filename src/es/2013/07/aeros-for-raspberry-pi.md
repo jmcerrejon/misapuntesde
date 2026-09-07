@@ -19,7 +19,7 @@ og_image: /images/aeros.jpg
 
 ![aeros](/images/aeros.jpg)
 
-Mientras un [port nativo](https://aros-exec.org/modules/newbb/viewtopic.php?viewmode=flat&type=&topic_id=7720&forum=2) de _AROS (Amiga Real Operating System)_ sigue su curso, he aquí otro bastante interesante llamado AEROS.
+Mientras un port nativo de _AROS (Amiga Real Operating System)_ sigue su curso, he aquí otro bastante interesante llamado AEROS.
 
 ¿Deseas saber más?
 
@@ -55,8 +55,8 @@ Descarga: [aeros-pi-p1.img.7z (1.6 GB)](https://aeros-os.org/aeros-pi-p1.img.7z)
 
 Registro: [aeros-os.org](https://www.aeros-os.org/styled-11/index.html)
 
-Foro: [aros-exec.org](https://aros-exec.org/modules/newbb/viewtopic.php?topic_id=8278&forum=4&post_id=82449#forumpost82449)
+Foro: aros-exec.org
 
-Ebay: [AEROS for Raspberry PI beta on SD-card](https://www.ebay.de/itm/151068032427?ssPageName=STRK:MESOX:IT&_trksid=p3984.m1561.l2649)
+Ebay: AEROS for Raspberry PI beta on SD-card
 
 ![AEROS Beta pública 1](/images/2013/07/aeros_shot.jpg "AEROS Beta pública 1")

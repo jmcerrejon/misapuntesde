@@ -23,6 +23,6 @@ _Mr. Pi has been captured and imprisoned. He was last seen wearing Raspbian and 
 
 The competition begins and you have to let’s get Mr. Pi to a safe home. You have all the details in the following link.
 
-Enlace: [liberation](https://thomasloughlin.com/liberation/)
+Enlace: liberation
 
-More info.: [thomasloughlin.com](https://thomasloughlin.com/liberate-mr-pi-contest-day-1-update/)
+More info.: thomasloughlin.com

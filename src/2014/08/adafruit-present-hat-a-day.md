@@ -27,6 +27,6 @@ _Adafruit_ was developed during the last week a prototype every day and the resu
 
 I leave you some links if you want more information about HATs:
 
-Link: [raspberrypi.org > Introducing Pi HATs](https://www.raspberrypi.org/introducing-raspberry-pi-hats/)
+Link: raspberrypi.org > Introducing Pi HATs
 
 Link: [design guide](https://github.com/raspberrypi/hats/blob/master/designguide.md)

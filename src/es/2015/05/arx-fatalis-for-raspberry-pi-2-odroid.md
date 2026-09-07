@@ -82,4 +82,4 @@ Enlace: [othersideentertainment.com > Arx Fatalis @ Raspberry Pi 2 (with OpenGL 
 
 Enlace: [arx-fatalis.wikia.com](https://arx-fatalis.wikia.com/wiki/Arx_Fatalis_Wiki)
 
-Twitter Arx Fatalis Español: [@ArxFatalisFans](https://twitter.com/ArxFatalisFans)
+Twitter Arx Fatalis Español: @ArxFatalisFans

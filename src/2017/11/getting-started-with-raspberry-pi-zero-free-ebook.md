@@ -44,4 +44,4 @@ og_image: /images/2017/11/rpi0_book.png
 
 * Discover how to build a Robotic hand and a Quadcopter.
 
-Download: [packtpub.com](https://www.packtpub.com/packt/offers/free-learning)
+Download: packtpub.com

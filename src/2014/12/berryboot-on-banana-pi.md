@@ -33,8 +33,8 @@ Berryboot gives you the ability to insert a flash drive with an _.img_ file and 
 
 _Berryboot_ provides a simple way to install distributions uncomplicated and from a very friendly interface. From _Gentoo_ to _Bananian_ through _ArchLinux, Lubuntu or Raspbian_. Recommended especially the initiates who want to start testing operating systems without stopping until you find one with which you are most comfortable.
 
-Link: [forum.lemaker.org > berryboot_for_banana_pi_released](https://forum.lemaker.org/4111-1-1-berryboot_for_banana_pi_released.html)
+Link: forum.lemaker.org > berryboot_for_banana_pi_released
 
-Link: [forum.lemaker.org > BerryBoot Images](https://forum.lemaker.org/viewthread.php?tid=4792)
+Link: forum.lemaker.org > BerryBoot Images
 
-Link: [gist.github.com/wakeup > What is BerryBoot?](https://gist.github.com/wakeup/da81d27ec922882f2502)
+Link: gist.github.com/wakeup > What is BerryBoot?

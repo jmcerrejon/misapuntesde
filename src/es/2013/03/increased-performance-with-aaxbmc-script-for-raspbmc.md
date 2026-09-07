@@ -37,4 +37,4 @@ sudo ./install
 
 Para donaciones y más información, visitad la siguiente web.
 
-Enlace: [aaxbmc](https://aaxbmc.link.ba)
+Enlace: aaxbmc

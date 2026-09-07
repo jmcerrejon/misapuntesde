@@ -25,7 +25,7 @@ _Inferno_ me recuerda a esos sistemas operativos pero bueno, te cuento un poco d
 
 ---
 
-Creado por la empresa [Bell Labs](https://en.wikipedia.org/wiki/Bell_Labs) y mantenida ahora por [Vita Nuova Holdings](https://en.wikipedia.org/wiki/Vita_Nuova_Holdings), nos ofrece un entorno _RTOS_ que puede ser adaptado a cualquier equipo. Utiliza _Limbo_ como lenguaje y se basa en tres principios: **Recursos como ficheros** donde todos los recursos son representados como ficheros en un sistema jerárquico, **Namespaces** y un **Protocolo de comunicación estándar** llamado _Styx_ para acceder a los ficheros de forma local o remota.
+Creado por la empresa [Bell Labs](https://en.wikipedia.org/wiki/Bell_Labs) y mantenida ahora por Vita Nuova Holdings, nos ofrece un entorno _RTOS_ que puede ser adaptado a cualquier equipo. Utiliza _Limbo_ como lenguaje y se basa en tres principios: **Recursos como ficheros** donde todos los recursos son representados como ficheros en un sistema jerárquico, **Namespaces** y un **Protocolo de comunicación estándar** llamado _Styx_ para acceder a los ficheros de forma local o remota.
 
 Una empresa ha compilado _Inferno OS_ para la Pi. Aunque en estado _Alpha_, ya puedes probarlo pero poco podrás hacer con él, debido a que no funciona el ratón aún.
 

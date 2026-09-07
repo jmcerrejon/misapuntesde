@@ -57,13 +57,13 @@ Enlace: [foro PiMAME](https://pimame.org/forum/discussion/382/how-to-installrun-
 
 No sólo de Raspberry Pi vive el hombre. Tenemos otras placas que como bien sabéis, se están haciendo un hueco en el mercado. En este artículo nos presentan algunas de ellas.
 
-Enlace: [electronicproducts.com](https://www.electronicproducts.com/Computer_Systems/Standalone_Mobile/Beginner_s_Guide_to_Selecting_a_Development_Board.aspx)
+Enlace: electronicproducts.com
 
 ### Blog de Paula Juiz: Mis proyectos hechos realidad
 
 Encontré su perfil de [Twitter](https://twitter.com/paula_juiz_) por casualidad, y aunque su blog tiene poco contenido, creo que nos va a sorprender a más de uno más adelante. Por ahora nos enseña a instalar _Postfix_ como servidor de correo y a instalar un sistema de video vigilancia. ¡Suerte Paula!
 
-Enlace: [paulajuiz.16mb.com](https://paulajuiz.16mb.com/proyectos-con-raspberry-pi/)
+Enlace: paulajuiz.16mb.com
 
 ### Digitalización de películas antiguas con ayuda de una RasPi
 
@@ -87,4 +87,4 @@ Enlace: [indiegogo.com](https://igg.me/at/9duino/x/4152104)
 
 Tenemos nueva distro basada en _Debian Wheezy_ con muchas características que la hacen interesante: kernel 3.6.11, cabe en tarjetas de 512 o 1 GB, soporte WIFI dongles, **_pantalla de login en 10 segundos_**, ext2,...
 
-Enlace: [pipaOS](https://pipaos.mitako.eu)
+Enlace: pipaOS

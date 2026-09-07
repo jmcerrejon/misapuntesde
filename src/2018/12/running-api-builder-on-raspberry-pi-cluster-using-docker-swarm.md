@@ -30,4 +30,4 @@ Great series of articles I saw a few months ago and now I want to comment on how
 
 I'm cheering up again with the blog. Let's see if I write long and hard about it. But now I leave you with the links of the article.
 
-Link: [appcelerator.com](https://www.appcelerator.com/blog/2018/10/running-api-builder-on-raspberry-pi-cluster-using-docker-swarm-part-1/)
+Link: appcelerator.com

@@ -35,6 +35,6 @@ The latest version of _RetroPie_ 1.9.1 fixed "freezing" bug. Let's remember that
 
 About _OpenELEC_, currently is under maintenance and I could not access the features of this new version, but you can download in the link I left or you can enable the option "automatic updates" from the _OpenELEC_ menu.
 
-Download: [OpenELEC-RPi.arm-3.2.4.img.zip (89 MB)](https://resources.pichimney.com/OpenELEC/official_images/OpenELEC-RPi.arm-3.2.4.img.zip)
+Download: OpenELEC-RPi.arm-3.2.4.img.zip (89 MB)
 
 Download: [RetroPieImage_ver1.9.1.zip (1.6 GB)](https://blog.petrockblock.com/?wpdmdl=17)

@@ -55,7 +55,7 @@ Con el cambio de arquitectura, ya podremos ejecutar próximamente versiones de *
 
 Los demás modelos seguirán vendiéndose y habrá actualizaciones del modelo A+ y del _Computer module_, aunque tardarán en salir.
 
-Enlace: [raspberrypi.org > RASPBERRY PI 2 ON SALE NOW AT $35](https://www.raspberrypi.org/raspberry-pi-2-on-sale/)
+Enlace: raspberrypi.org > RASPBERRY PI 2 ON SALE NOW AT $35
 
 Enlace: [cnx-software.com > Raspberry Pi 2 / ODROID C1 Development Boards Comparison](https://www.cnx-software.com/2015/02/02/raspberry-pi-2-odroid-c1-development-boards-comparison/)
 
@@ -69,11 +69,11 @@ Tienda: [thepihut.com](https://thepihut.com/products/raspberry-pi-2-model-b)
 
 Tienda: [rs-components.com](https://www.rs-components.com/designspark/index.html?mpn=8326274)
 
-Tienda: [element14.com](https://www.element14.com/community/community/raspberry-pi/raspberrypi2?ICID=rpimain-topban-Pi2)
+Tienda: element14.com
 
 Enlace: [raspi.tv > Raspberry Pi 2 – the New Quad-core A7 Pi2](https://raspi.tv/2015/raspberry-pi-2-the-new-quad-core-a7-pi2)
 
-Enlace: [linuxvoice.com > RASPBERRY PI VERSION 2 PERFORMANCE](https://www.linuxvoice.com/raspberry-pi-version-2-performance/)
+Enlace: linuxvoice.com > RASPBERRY PI VERSION 2 PERFORMANCE
 
 Enlace: [bit-tech.net > Raspberry Pi 2 launches with quad-core ARMv7 chip](https://www.bit-tech.net/news/hardware/2015/02/02/raspberry-pi-2/1)
 
@@ -89,9 +89,9 @@ Enlace: [bbc.com > Raspberry Pi 2 unveiled with faster processor and more memory
 
 Enlace: [cnet.com > Raspberry Pi 2 Model B is a quad-core upgrade, can run Windows 10](https://www.cnet.com/news/raspberry-pi-2-model-b-is-a-quad-core-upgrade-on-sale-today/)
 
-Enlace: [thepihut.com > RASPBERRY PI 2 VS MODEL B+](https://thepihut.com/blogs/raspberry-pi-roundup/16970168-raspberrypi2vsmodelb)
+Enlace: thepihut.com > RASPBERRY PI 2 VS MODEL B+
 
-Enlace: [raspberry.piaustralia.com.au](https://raspberry.piaustralia.com.au/products/raspberry-pi-2-model-b)
+Enlace: raspberry.piaustralia.com.au
 
 Youtube: [TheRaspberryPiGuy > NEW Raspberry Pi 2 - Quad-Core 900MHz, 1GB RAM](https://www.youtube.com/watch?v=Xo8RT8Wpv6w)
 

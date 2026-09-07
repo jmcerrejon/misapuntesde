@@ -19,13 +19,13 @@ og_image: /images/2015/08/astropi2.png
 
 ![astropi2.png](/images/2015/08/astropi2.png)
 
-Lo mejor de esta semana ha sido la incorporación a la fundación de la placa usada en el proyecto [Astro Pi](https://astro-pi.org/hardware/), y que puedes comprar desde ya. Pero hay otras cosas de qué hablar...
+Lo mejor de esta semana ha sido la incorporación a la fundación de la placa usada en el proyecto Astro Pi, y que puedes comprar desde ya. Pero hay otras cosas de qué hablar...
 
 ---
 
 <iframe width="400" height="225" src="https://www.youtube.com/embed/Z9EJICJh6oQ?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
--   **Liberado OpenELEC 6.0 Beta 4:** Basada en _Kodi 15.1 (Isengard)_. Un cambio importante, así que asegúrate que los addons que uses están soportados por esta nueva versión | [openelec.tv](https://openelec.tv/news/22-releases/168-beta-openelec-6-0-beta-4-released)
+-   **Liberado OpenELEC 6.0 Beta 4:** Basada en _Kodi 15.1 (Isengard)_. Un cambio importante, así que asegúrate que los addons que uses están soportados por esta nueva versión | openelec.tv
 
 ![RPi-Repeater-Controll-Concept-300x154.jpg](/images/2015/08/RPi-Repeater-Controll-Concept-300x154.jpg)
 

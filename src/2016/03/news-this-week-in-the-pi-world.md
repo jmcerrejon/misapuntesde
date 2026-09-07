@@ -27,7 +27,7 @@ What's going on with the _Raspberry Pi 3_?. Heated too, It's not real _64-bit_. 
 
 <iframe width="400" height="225" src="https://www.youtube.com/embed/CZFVWDN5Gcc?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
--   **Raspberry Pi: BitTorrent sync alternative Syncthing** | [hackviking.com > Raspberry Pi: BitTorrent sync alternative Syncthing](https://www.hackviking.com/single-board-computers/raspberry-pi/raspberry-pi-bittorrent-sync-alternative-syncthing/)
+-   **Raspberry Pi: BitTorrent sync alternative Syncthing** | hackviking.com > Raspberry Pi: BitTorrent sync alternative Syncthing
 
 ![SSH TRON](https://raw.githubusercontent.com/zachlatta/sshtron/master/static/img/gameplay.gif)
 

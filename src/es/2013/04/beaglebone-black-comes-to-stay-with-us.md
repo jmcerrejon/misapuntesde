@@ -37,7 +37,7 @@ Los que echamos de menos tener un sistema operativo "en condiciones", podemos in
 
 Para los que les guste que esté en contacto con el mundo exterior, tiene conexiones para aburrirte.
 
-Son 10$ más, pero según comentan, viene con el alimentador y cable de red, sin olvidar la memoria interna de 2 GB con [Ångström Linux](https://www.angstrom-distribution.org/) preinstalado.
+Son 10$ más, pero según comentan, viene con el alimentador y cable de red, sin olvidar la memoria interna de 2 GB con Ångström Linux preinstalado.
 
 ¿Merece la pena comprar entonces una [Raspi](https://raspipc.es)? Depende para qué vayas a usarlo. Hoy día le hemos sacado partido a este cacharro hasta límites que no habríamos ni imaginado en un principio. Aún le queda mucha vida, y seguirá en la brecha mucho tiempo más. Recordemos que hay muchos programas compilados ya para nuestra RPi, y en este aspecto aún ganamos.
 
@@ -47,12 +47,12 @@ Enlace: [blog.makezine.com - BeagleBone Black Has Arrived](https://blog.makezine
 
 Enlace: [youtube.com](https://www.youtube.com/results?search_query=Beaglebone&oq=Beaglebone)
 
-Enlace: [es.engadget.com - El BeagleBone Black atrae con su CPU ARM a 1 GHz y 512 MB de RAM por 45 dólares](https://es.engadget.com/2013/04/22/beaglebone-black-1ghz-45-dolares/)
+Enlace: es.engadget.com - El BeagleBone Black atrae con su CPU ARM a 1 GHz y 512 MB de RAM por 45 dólares
 
 Enlace: [arstechnica.com - $45 BeagleBone Linux PC goes on sale](https://arstechnica.com/information-technology/2013/04/for-your-robot-building-needs-the-45-beaglebone-linux-pc-goes-on-sale/)
 
-Enlace: [beagleboard.org - Especificaciones técnicas y presentación](https://beagleboard.org/Products/BeagleBone%20Black)
+Enlace: beagleboard.org - Especificaciones técnicas y presentación
 
-Comprar: [beagleboard.org](https://beagleboard.org/buy) | [newark.com](https://www.newark.com/jsp/search/productdetail.jsp?sku=65W6016) | [Farnell preorder](https://es.farnell.com/circuitco/bb-bblk-000/beaglebone-black-cortex-a8-dev/dp/2291620?Ntt=2291620?CMP=SOM-TW-LOC-BeagleBone-PreOrder)
+Comprar: beagleboard.org | newark.com | Farnell preorder
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ciX08ysl6LE" frameborder="0" allowfullscreen></iframe>

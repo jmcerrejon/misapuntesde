@@ -27,4 +27,4 @@ El problema de base es escuchar el micrófono a través del _TV_ y ejecutar la c
 
 El método como decimos requiere dos conexiones _SSH_ e instalar unos cuantos paquetes. La diversión está asegurada.
 
-Enlace: [Pi-Fun](https://www.pi-fun.com/index.php/blog/dextrusblogs/karaoke-revisited/)
+Enlace: Pi-Fun

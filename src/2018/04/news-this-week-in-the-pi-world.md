@@ -30,7 +30,7 @@ This week I leave some links about *Etcher* or run *MS-DOS on the RPi* among oth
 
 ![unlock](/images/2018/04/unlock.png)
 
-* **How to implement door unlocking system with Raspberry Pi, iPhone and service in cloud** | [blog.infullmobile.com](https://blog.infullmobile.com/how-to-implement-door-unlocking-system-with-raspberry-pi-iphone-and-service-in-cloud-3f55b76d700a)
+* **How to implement door unlocking system with Raspberry Pi, iPhone and service in cloud** | blog.infullmobile.com
 
 ![pibutton](/images/2018/04/pibutton.png)
 
@@ -38,7 +38,7 @@ This week I leave some links about *Etcher* or run *MS-DOS on the RPi* among oth
 
 * **Etcher: Now with multi-write and Compute Module support!** | [resin.io](https://resin.io/blog/etcher-now-with-multi-write-and-compute-module-support/)
 
-Tweet of the week thanks to [@isaax_iot](https://twitter.com/isaax_iot):
+Tweet of the week thanks to @isaax_iot:
 
 
 

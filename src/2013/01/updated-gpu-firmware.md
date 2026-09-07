@@ -34,6 +34,6 @@ fixup_file=fixup_x.elf
 
 Wanna test it now?
 
-Files: [MJPEG](https://www.dvxuser.com/V6/showthread.php?170183-Untouched-Motion-JPEG-720-30P-Sample) |
-[vp8](https://ie.microsoft.com/testdrive/graphics/videoformatsupport/big_buck_bunny_trailer_480p.webm) |
-[ogg](https://video.blendertestbuilds.de/download.php?file=download.blender.org/peach/trailer_400p.ogg) | [VP6](https://media.iguane.org/grand-angle/blog/mediafiles/trailer_VP6.flv)
+Files: MJPEG |
+vp8 |
+ogg | VP6

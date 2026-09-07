@@ -19,6 +19,6 @@ og_image: /images/01_RaspberryPi.jpg
 
 ![Raspberry Pi](/images/01_RaspberryPi.jpg)
 
-Tal vez seas nuevo, tal vez no sepas que es una _Raspberry Pi_. Si quieres saberlo, [unadocenade.com](https://unadocenade.com) han hecho una batería de preguntas con respuestas de lo que podemos conseguir con esta máquina.
+Tal vez seas nuevo, tal vez no sepas que es una _Raspberry Pi_. Si quieres saberlo, unadocenade.com han hecho una batería de preguntas con respuestas de lo que podemos conseguir con esta máquina.
 
-Enlace: [unadocenade.com](https://unadocenade.com/una-docena-de-preguntas-para-descubrir-raspberry-pi/)
+Enlace: unadocenade.com

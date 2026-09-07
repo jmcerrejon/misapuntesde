@@ -37,7 +37,7 @@ _Until the GUI do us part._
 
 The mail client I will use is called _cone_. You can install it from the repositories: **sudo apt-get install cone**
 
-I will use a _Gmail_ account through _IMAP_, which is the most common, but you can set it to any other account. Just be aware that to access via _pop/imap_ to your _Gmail_ account should have this option enabled from your account (read [here](https://support.google.com/mail/troubleshooter/1668960?hl=es#ts=1665119)).
+I will use a _Gmail_ account through _IMAP_, which is the most common, but you can set it to any other account. Just be aware that to access via _pop/imap_ to your _Gmail_ account should have this option enabled from your account (read here).
 
 To set up a new email account, just follow these steps: **Press M (MAIN MENU) > N (NEW ACCOUNT) > I (IMAP)**. In the next screenshot you can see my configuration (with password invented to mislead the number of characters, hehe).
 

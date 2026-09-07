@@ -27,4 +27,4 @@ Este enlace que os pongo al final del post es para enmarcarlo en vuestros favori
 
 ¡Feliz Viernes!
 
-Enlace: [magpiindex](https://magpiindex.steverigg.co.uk/)
+Enlace: magpiindex

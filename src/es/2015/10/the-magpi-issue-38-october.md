@@ -29,4 +29,4 @@ Lo más interesante de este número:
 
 * Primeros pasos con Sense Hat
 
-Descarga: [The Magpi (pdf)](https://www.raspberrypi.org/magpi-issues/MagPi38.pdf)
+Descarga: The Magpi (pdf)

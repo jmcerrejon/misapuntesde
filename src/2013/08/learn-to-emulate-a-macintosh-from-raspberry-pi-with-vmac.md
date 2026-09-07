@@ -35,7 +35,7 @@ First download the emulator and necessary _ROMs_. Calm down, you can find it in 
 
 **Download updated January 24rd, 2014**: [Mini vMac 3.3.3 emulator](https://sourceforge.net/projects/minivmac/files/minivmac/3.3.3/minivmac-3.3.3-larm.bin.tgz/download)
 
-Download: [Mediafire > vMac.zip (ROMs)](https://www.mediafire.com/download/mjnozywm5ym/vmac.zip)
+Download: Mediafire > vMac.zip (ROMs)
 
 ### [Installation]
 
@@ -67,10 +67,10 @@ Once the process is finished, you will have to restart and here we are.
 
 ![VMac running on Raspbian](/images/2013/08/vMac_on_the_Pi.jpg "VMac running on Raspbian")
 
-Links: [retromaccast.ning.com](https://retromaccast.ning.com/profiles/blogs/honey-i-shrunk-the-computer?xg_source=activity) | [cultofmac.com](https://www.cultofmac.com/242234/smallest-working-macintosh/)
+Links: retromaccast.ning.com | [cultofmac.com](https://www.cultofmac.com/242234/smallest-working-macintosh/)
 
-Link: [Getting started with Mini vMac 3.2.3](https://minivmac.sourceforge.net/doc/start.html)
+Link: Getting started with Mini vMac 3.2.3
 
-Link: [Emulated Hardware Reference](https://minivmac.sourceforge.net/doc/hardware.html)
+Link: Emulated Hardware Reference
 
 Link: [Youtube > how to use Mini vMac download+rom](https://www.youtube.com/watch?v=eHR-N1c4MBw)

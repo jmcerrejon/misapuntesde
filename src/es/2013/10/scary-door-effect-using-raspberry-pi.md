@@ -27,6 +27,6 @@ El artífice de esta cabina es [@Cabe_Atwell](https://twitter.com/Cabe_Atwell), 
 
 Esperamos que los niños puedan dormir esa noche...
 
-Video: [element14.com](https://www.element14.com/community/videos/9819)
+Video: element14.com
 
-Enlace: [makerflux.com > Classic Halloween Scary Door Effect Using Raspberry Pi](https://makerflux.com/projects/classic-halloween-scary-door-effect-using-raspberry-pi)
+Enlace: makerflux.com > Classic Halloween Scary Door Effect Using Raspberry Pi

@@ -27,4 +27,4 @@ This quick video shows how you can connect the pins on two different devices, in
 
 This is done with a _Raspberry Pi Model B_ and a _Raspberry Pi 2 Model B_ but these could be done with any other board.
 
-Link: [nodecode.io](https://nodecode.io/)
+Link: nodecode.io

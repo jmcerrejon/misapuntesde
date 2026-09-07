@@ -39,11 +39,11 @@ Tal vez sean paranoyas mías, no lo sé, pero nada de ésto me quitan las ganas 
 
 ![LibreELEC](/images/2017/05/libreelec.png)
 
--   **LibreELEC (Krypton) 8.2.4 MR:** Se me pasó comentar esta nueva versión adaptada a la _Pi 3B+_ que salió la semana pasada. ¡Hazte con ella!. | [libreelec.tv](https://libreelec.tv/2018/03/libreelec-krypton-8-2-4-mr/)
+-   **LibreELEC (Krypton) 8.2.4 MR:** Se me pasó comentar esta nueva versión adaptada a la _Pi 3B+_ que salió la semana pasada. ¡Hazte con ella!. | libreelec.tv
 
-![raspbian-raspberry-pi-software-300](https://eltechs.com/wp-content/uploads/2017/10/raspbian-raspberry-pi-software-300.jpg)
+raspbian-raspberry-pi-software-300
 
--   **The ultimate Guide to Raspbian and other Raspberry Pi Software:** Un extenso artículo para los nuevos poseedores de una _Raspberry Pi_ donde aprenderás algo de su sistema operativo oficial llamado _Raspbian_ y las alternativas de la que dispones. Muy completo y bien explicado. | [eltechs.com](https://eltechs.com/raspbian-and-other-raspberry-pi-software/)
+-   **The ultimate Guide to Raspbian and other Raspberry Pi Software:** Un extenso artículo para los nuevos poseedores de una _Raspberry Pi_ donde aprenderás algo de su sistema operativo oficial llamado _Raspbian_ y las alternativas de la que dispones. Muy completo y bien explicado. | eltechs.com
 
 ![4dos](/images/2018/03/4dos.png)
 

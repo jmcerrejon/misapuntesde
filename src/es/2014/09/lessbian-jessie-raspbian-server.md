@@ -39,6 +39,6 @@ Viene con varios kernels dependiendo de la versión que descargues. Tenemos tres
 
 -   _lessbian-tiny-18/09/2014_: Imagen mínima con _kernel 3.16 y wifi_
 
-Enlace: [sourceforge.net > lessbian](https://sourceforge.net/projects/lessbian/)
+Enlace: sourceforge.net > lessbian
 
 Foro: [raspberrypi.org](https://www.raspberrypi.org/forums/viewtopic.php?f=66&t=86844)

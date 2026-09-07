@@ -47,13 +47,13 @@ I remark the next features:
 
 The first drawback I have seen is the **need for a 5V2A** round port power adapter that is not supplied with the board. I checked the ones I got from the _ODROID_ and they are not fit in it. I have read that it's the same connector as the _PSP_. Because you only have one _USB_ port, you will need a _HUB_ in case you have a wired keyboard, mouse or control pad.
 
-The two most updated distributions are _Ubuntu LXDE Desktop (2016-12-12) and Debian XFCE Desktop (2016-12-12)_. I'm going to download them and... Links are down (What a shame). I download a _Raspbian_ image and burn it with [Etcher](https://etcher.io/) (it supports _.img.xz_ files and you do not have to unzip it previously). For other images, I think best you can do is to look for them in the [forum](https://www.orangepi.org/orangepibbsen/forum.php).
+The two most updated distributions are _Ubuntu LXDE Desktop (2016-12-12) and Debian XFCE Desktop (2016-12-12)_. I'm going to download them and... Links are down (What a shame). I download a _Raspbian_ image and burn it with [Etcher](https://etcher.io/) (it supports _.img.xz_ files and you do not have to unzip it previously). For other images, I think best you can do is to look for them in the forum.
 
 ### [ Raspbian 0.8.0 ]
 
 ![Raspbian Desktop environment for the Orange Pi One](/images/2017/01/raspbian_big.png "Raspbian Desktop environment for the Orange Pi One")
 
--   Image: [Raspbian_For_OrangePi_PC_v0_8_0.img.xz](https://www.orangepi.org/downloadresources/orangepipc/oragepipc_e930546e866b23585721e5d2a6.html)
+-   Image: Raspbian_For_OrangePi_PC_v0_8_0.img.xz
 
 -   Size: 857M compressed
 
@@ -89,7 +89,7 @@ Personal opinion: It comes with the minimum essential and it's up to you to set 
 
 -   Score: 4/5
 
-As many of you know, [DietPi](https://dietpi.com/phpbb/viewtopic.php?f=8&t=5#p5) is ideal for build a server and also lets you install a desktop. It resize the partition so you can use the entire size of your SD card. The problem is that in this case the _GPU_ is disabled according to a note when downloading the image, so we can not make use of _KODI_ or a desktop environment. I will try to install _MiniDLNA, Plex Media Server, Modipy (Web interface music & radio player), MPD (music player daemon) and a LAMP environment._
+As many of you know, DietPi is ideal for build a server and also lets you install a desktop. It resize the partition so you can use the entire size of your SD card. The problem is that in this case the _GPU_ is disabled according to a note when downloading the image, so we can not make use of _KODI_ or a desktop environment. I will try to install _MiniDLNA, Plex Media Server, Modipy (Web interface music & radio player), MPD (music player daemon) and a LAMP environment._
 
 Installing packages is fast in some cases. It has taken between 15-20 minutes.
 
@@ -123,7 +123,7 @@ We are facing a distro based on _Armbian_ (_Debian 8_) very complete. It has eve
 
 ![open_elec.jpg](/images/2017/01/open_elec.jpg)
 
--   Image: [OpenELEC-H3.arm-7.0-devel-20161026221335-r23113-g64b34b3-opione.img.gz](https://down.nu/images/2016-10-26/)
+-   Image: OpenELEC-H3.arm-7.0-devel-20161026221335-r23113-g64b34b3-opione.img.gz
 
 -   Size: 128.2MB compressed
 

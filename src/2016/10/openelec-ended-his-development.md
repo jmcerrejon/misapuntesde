@@ -23,7 +23,7 @@ If ye have not noticed, we have no new version for half a year. I was reading to
 
 ---
 
-While the website [openelec.tv](https://openelec.tv/news) is not updated since May, there is no official confirmation perhaps because the partners supporting of the project.
+While the website openelec.tv is not updated since May, there is no official confirmation perhaps because the partners supporting of the project.
 
 ![Openelec_commits](/images/2016/10/openelec_commits.png)
 

@@ -37,6 +37,6 @@ The emulator is surprisingly well on both platforms, although I notice that on _
 
 I want to thank the members of _openMSX Team_ and specially to _Patrick van Arkel_ and _Manual Bilderbeek_ for the help received in the _IRC channel (freenode) #openmsx_. Some of them already have a _Raspberry Pi_, so you will enjoy a compiled version by themselves of this great emulator soon.
 
-Download Banana Pi: [uploaded.to > openmsx_0-11.0_BPI-armhf.deb](https://ul.to/6y1zaw66)
+Download Banana Pi: uploaded.to > openmsx_0-11.0_BPI-armhf.deb
 
 Direct download Raspberry Pi: [openmsx_0-11.0_armhf.deb](/res/openmsx_0-11.0_armhf.deb)

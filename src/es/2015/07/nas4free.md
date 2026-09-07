@@ -45,9 +45,9 @@ El rendimiento según algunas placas, es:
 
 -   ODROID-C1 Cortex-A5 1.5GHz Quad Core (overclock 1.6GHz - 1.7GHz) - **Almacenamiento Flash 35MB/s, Red 400Mbps, SMB 24MB/s**
 
-Recomiendo la lectura de [éste](https://wiki.nas4free.org/doku.php?id=what_nas4free_is_and_is_not) post sobre lo que es y no es un NAS. En resumen, **sirve como sistema para gestionar almacenamiento**, así que no es recomendable usarlo para transcodificar ficheros, instalar un _SGBD_ o descargar _torrents_ (aunque venga incorporado como una característica).
+Recomiendo la lectura de éste post sobre lo que es y no es un NAS. En resumen, **sirve como sistema para gestionar almacenamiento**, así que no es recomendable usarlo para transcodificar ficheros, instalar un _SGBD_ o descargar _torrents_ (aunque venga incorporado como una característica).
 
-Enlace: [wiki.nas4free.org](https://www.zoonsweb.nl/wiki/doku.php)
+Enlace: wiki.nas4free.org
 
 Foro: [forums.nas4free.org](https://forums.nas4free.org/)
 

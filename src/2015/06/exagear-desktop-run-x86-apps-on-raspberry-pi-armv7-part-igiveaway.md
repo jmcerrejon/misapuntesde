@@ -25,7 +25,7 @@ og_image: /images/2015/06/ExaGear_Desktop_tr.png
 
 Would you like to install some x86 Linux apps on your favorite board?. Surely you've heard about _Exagear Desktop_, a payment software that allows you to launch applications based on _x86 (32-bit)_. Maybe you have doubts about if it really works.
 
-The company [Eltechs](https://eltechs.com/?utm_source=misapuntesde&utm_medium=post_part1&utm_campaign=ED_May2015_release) has contacted to me to make a review about their product. 5-10% is difference between ExaGear v1.0 and v1.1. I know only one similar solution - Qemu. Performance comparing to Qemu is 5x (500%)!
+The company Eltechs has contacted to me to make a review about their product. 5-10% is difference between ExaGear v1.0 and v1.1. I know only one similar solution - Qemu. Performance comparing to Qemu is 5x (500%)!
 
 Are you interested or curious about how it works?. I've seen comparisons and graphics in several sites about their performance, but nowhere have made real test running software. I bring **the first analysis** about this product and we'll see in the following two articles if it really worth. In addition, **we are giving away 10 free licenses of Exagear Desktop**.
 
@@ -35,7 +35,7 @@ Are you interested or curious about how it works?. I've seen comparisons and gra
 
 This solution implement a _virtual machine (VM)_. It's a container for _x86 applications_ inside a board with _ARM_ processor. That is, you have a host computer (_PI, ODROID_, etc.), an a guest (_x86 VM_).
 
-I'm going to test the latest version, [Eltechs ExaGear Desktop 1.1.](https://eltechs.com/product/exagear-desktop/?utm_source=misapuntesde&utm_medium=post_part1&utm_campaign=ED_May2015_release)
+I'm going to test the latest version, Eltechs ExaGear Desktop 1.1.
 
 ### [ Requirements ]
 
@@ -117,7 +117,7 @@ One detail to note is that users share the guest machine to the host computer. T
 
 ### [ Giveaway ]
 
-You have arrived at the end of the first part of this review. If you like to try this software, [Eltechs](https://eltechs.com/?utm_source=misapuntesde&utm_medium=post_part1&utm_campaign=ED_May2015_release) has been kind enough to give **10 free Exagear Desktop licenses** for readers of this blog. The rules are simple:
+You have arrived at the end of the first part of this review. If you like to try this software, Eltechs has been kind enough to give **10 free Exagear Desktop licenses** for readers of this blog. The rules are simple:
 
 -   Share a message on _Twitter, LinkedIn, FaceBook or Google Plus_ with the next text: **"I want a free license of Exagear Desktop to My Raspberry Pi/Odroid/cubieboard (or whatever you want)"**. That is, if you want a license for your _Raspberry Pi 2_, would be: _I want a free license of Exagear Desktop to My Raspberry Pi 2_. You can see the supported boards on the official website of the product.
 

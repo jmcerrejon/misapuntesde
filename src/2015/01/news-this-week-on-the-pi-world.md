@@ -48,7 +48,7 @@ More info: [cyberciti.biz > Glibc: GHOST Vulnerability Test To See If a Linux Se
 
 ![Asterisk on Banana Pi](/images/2015/01/FreePBX_admin_screen.jpg)
 
--   **Asterix for Banana Pi:** [dostmuhammad.com > Asterix for Banana Pi](https://dostmuhammad.com/blog/asterix-for-banana-pi-freepbx-img-file-for-banana-pi-included/)
+-   **Asterix for Banana Pi:** dostmuhammad.com > Asterix for Banana Pi
 
 ![TOR](/images/2014/06/torPI.png)
 

@@ -31,7 +31,7 @@ In this post you can get the latest version of the _OpenMSX_ emulator I've compi
 
 ![openmsx](/images/2014/03/compiling_openmsx.jpg)
 
-Now you have a _PiKISS_ script to do it automatically: Check [here](https://raw.githubusercontent.com/jmcerrejon/PiKISS/master/scripts/emus/msx.sh)
+Now you have a _PiKISS_ script to do it automatically: Check here
 
 First download the source code. It can be obtained from Sourceforge website [here](https://downloads.sourceforge.net/openmsx/openmsx-0.10.0.tar.gz). The date of this version is _Nov 8, 2014_. If you want to know the changes, visit [this link](https://sourceforge.net/projects/openmsx/files/openmsx/0.11.0/).
 
@@ -118,7 +118,7 @@ EXTRA:
 
 Download: [Antartic Adventures (.rom)](/res/antartic.zip)
 
-Download: [MSX cas files](https://msxcas.webcindario.com)
+Download: MSX cas files
 
 Links: [issuu.com > openmsx - Setup guide](https://issuu.com/paulovolkova/docs/openmsx_-_setup_guide) | [issuu.com > openmsx - User's_manual](https://issuu.com/paulovolkova/docs/openmsx_-_user_s_manual)
 

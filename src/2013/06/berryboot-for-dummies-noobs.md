@@ -28,8 +28,8 @@ If you get bored and want to install another (removing the previous one, is what
 
 The method is created to make it easier to install the various SO, especially for kids.
 
-News: [raspberrypi.org](https://www.raspberrypi.org/archives/4100)
+News: raspberrypi.org
 
 Link: [Quick start guide - pdf](https://www.raspberrypi.org/wp-content/uploads/2012/04/quick-start-guide-v2.pdf)
 
-Download: [NOOBS](https://downloads.raspberrypi.org/recovery)
+Download: NOOBS

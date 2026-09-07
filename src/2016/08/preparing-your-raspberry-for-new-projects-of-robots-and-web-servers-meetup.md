@@ -21,4 +21,4 @@ og_image: /images/2016/03/meetup.png
 
 Meetup in Seville to talk about tools for your Raspberry Pi's first boot.
 
-Link: [raspberryhack.com](https://raspberryhack.com/meetup/preparando-tu-raspberry-para-nuevos-proyectos-de-robots-y-servidores-web)
+Link: raspberryhack.com

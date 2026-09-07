@@ -23,7 +23,7 @@ _PC Monitor le da un control completo de sus equipos y aplicaciones desde cualqu
 
 ---
 
-Debes crearte una cuenta [aquí](https://www.mobilepcmonitor.com/account/register) y generar un fichero de configuración en _/etc/pcmonitor_ (en el mismo directorio tienes un ejemplo). Tienes app para monitorizar desde cualquier móvil y necesitarás instalar en la Raspberry el programa que recopilará los datos. La versión gratuíta te permite monitorizar hasta 5 dispositivos.
+Debes crearte una cuenta aquí y generar un fichero de configuración en _/etc/pcmonitor_ (en el mismo directorio tienes un ejemplo). Tienes app para monitorizar desde cualquier móvil y necesitarás instalar en la Raspberry el programa que recopilará los datos. La versión gratuíta te permite monitorizar hasta 5 dispositivos.
 
 Entre las funciones destacan la información sobre:
 
@@ -41,4 +41,4 @@ Entre las funciones destacan la información sobre:
 
 -   Envía comandos para Reiniciar/Apagar el equipo
 
-Descarga: [mobilepcmonitor.com](https://www.mobilepcmonitor.com/downloads)
+Descarga: mobilepcmonitor.com

@@ -31,7 +31,7 @@ Parece ser que hoy he encontrado un poco más de variedad para que este viernes 
 
 ![ODROID](/images/2015/07/odroid-xu4_02.jpg)
 
--   **ODROID-XU4 rebajada $20:** Mmm, no entiendo el movimiento, pero han rebajado la _XU4_ y ahora **la podemos conseguir por $59**... ¿Renovación a la vista? | [hardkernel.com](https://www.hardkernel.com/main/products/prdt_info.php?g_code=G143452239825)
+-   **ODROID-XU4 rebajada $20:** Mmm, no entiendo el movimiento, pero han rebajado la _XU4_ y ahora **la podemos conseguir por $59**... ¿Renovación a la vista? | hardkernel.com
 
 ![RecalBox](/images/2015/03/recalbox.png)
 

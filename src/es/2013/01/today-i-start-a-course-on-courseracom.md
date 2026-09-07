@@ -27,4 +27,4 @@ El que voy a empezar yo es sobre lenguajes de programación. Por ahora nos han m
 
 Son complejos, en inglés y requiere una media de 8 horas semanales de dedicación. Creo que al final, aunque es gratis, si quieres un título debes pagar entre 30-100$, pero oye, ¿Y lo bien que queda tu CV poniendo que has hecho un curso para la *Universidad de Washington*?
 
-Enlace: [coursera](https://www.coursera.org/category/cs-programming)
+Enlace: coursera

@@ -29,7 +29,7 @@ This week seems to have been dedicated to the world of video games. I was excite
 
 -   **Netbeast:** I met this guys on the _Raspberry Jam_ celebrated in _Barcelona in March, 2015_. I have pending an article to talk about the benefits of this development platform for the _IoT_. Luis, If you came back to Huelva, just give me a call :) | [netbeast.co](https://netbeast.co/)
 
--   **More games for our Raspberry Pi:** It is a seal of games that I remember with nostalgia, cause some of them came preinstalled on the first PC of my wife back in 2000. Apparently they will publish the catalog incrementally. | [webfootgames.com](https://www.webfootgames.com/pi/)
+-   **More games for our Raspberry Pi:** It is a seal of games that I remember with nostalgia, cause some of them came preinstalled on the first PC of my wife back in 2000. Apparently they will publish the catalog incrementally. | webfootgames.com
 
 -   **Resources for developers:** I liked this collection by _Rob Jones_ where he plays various environments and plates for all tastes: _GPIO, Python, Scratch, Sonic Pi,..._ | [robjonescowley.wordpress.com](https://robjonescowley.wordpress.com/resources/)
 

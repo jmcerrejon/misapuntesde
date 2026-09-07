@@ -49,8 +49,8 @@ Ejemplo: **cp /home/pi/Hurricane/lang/espanol.lng /home/pi/Hurricane/english.lng
 
 **NOTA:** Gracias al usuario _Pickle_ por su colaboración.
 
-Descarga: [uploaded.to > Hurrican_Pi.tar.gz (41.8 MB)](https://ul.to/d7wrn035)
+Descarga: uploaded.to > Hurrican_Pi.tar.gz (41.8 MB)
 
-Enlace: [Hurrican website](https://www.poke53280.de)
+Enlace: Hurrican website
 
 Enlace: [phoronix.com > forum > Hurrican SDL Port](https://phoronix.com/forums/showthread.php?69804-Hurrican-SDL-Port)

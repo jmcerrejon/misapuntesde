@@ -39,10 +39,10 @@ Una semana agotadora metido en un hospital, pero todo bien y esperamos al final 
 
 -   **Ya disponible para ODROID-C1 el código fuente de Android:** Tal como prometieron, tenemos disponible para compilar Android, así que pronto tendremos versiones personalizadas y mejores gracias a la comunidad | [odroid.com](https://odroid.com/dokuwiki/doku.php?id=en:c1_building_android)
 
--   **OpenELEC 5.0.5 lanzada:** Con varias actualizaciones en la espalda, tenemos disponible una nueva versión con nada destacable especialmente, pero ahí la tenemos. Para ODROID, tenemos la actualización no oficial 5.0.1.0 donde se ha arreglado un problema con la medición de la temperatura y el apagado. [openelec.tv](https://openelec.tv/get-openelec) | Descarga directa: [ODROID-C1 OpenELEC 5.0.1.0](https://github.com/zalaare/OpenELEC-Odroid/archive/5.0.1.0.tar.gz)
+-   **OpenELEC 5.0.5 lanzada:** Con varias actualizaciones en la espalda, tenemos disponible una nueva versión con nada destacable especialmente, pero ahí la tenemos. Para ODROID, tenemos la actualización no oficial 5.0.1.0 donde se ha arreglado un problema con la medición de la temperatura y el apagado. openelec.tv | Descarga directa: ODROID-C1 OpenELEC 5.0.1.0
 
 ![RPi Ebook](/images/2015/02/RPi_measure_book.png)
 
 -   **¡ePub GRATIS! Raspberry Pi: Measure, Record, Explore** es un libro no oficial que, pese a no estar acabado aún, recoge mucha información sobre la Pi y como el título indica, te va a permitir monitorizar datos ambientales y mostrarlo gráficamente en una web. Te lo puedes descargar sin coste, aunque su autor _Malcom Maclean_ acepta donaciones | [leanpub.com](https://leanpub.com/RPiMRE)
 
--   **Initial state nos regala una recopilación de sus mejores tutoriales:** Y otro libro para descargar con interesantes proyectos sencillos para aprender a encender LEDs, retransmitir la posición de un GPS, etc | [initialstate.com > Our Top 10 Raspberry Pi Tutorials](https://blog.initialstate.com/top-10-raspberry-pi-tutorials/)
+-   **Initial state nos regala una recopilación de sus mejores tutoriales:** Y otro libro para descargar con interesantes proyectos sencillos para aprender a encender LEDs, retransmitir la posición de un GPS, etc | initialstate.com > Our Top 10 Raspberry Pi Tutorials

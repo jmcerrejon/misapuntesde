@@ -61,6 +61,6 @@ Como comando final, el siguiente buscará el tamaño de las carpetas ordenado de
 
 ```
 
-Enlace: [BUSCANDO FICHEROS EN GNU/LINUX: COMANDO FIND](https://flossblog.wordpress.com/2012/11/30/buscando-ficheros-en-gnulinux-comando-find/)
+Enlace: BUSCANDO FICHEROS EN GNU/LINUX: COMANDO FIND
 
 Enlace: [Tamaño de las carpetas ordenado de menor a mayor](https://snipt.net/serialsito/tamano-de-las-carpetas-ordenado-de-menor-a-mayor/)

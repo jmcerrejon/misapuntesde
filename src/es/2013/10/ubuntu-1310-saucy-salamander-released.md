@@ -74,8 +74,8 @@ Enlace: [blog.desdelinux.net > Qué hacer después de instalar Ubuntu 13.10 Sauc
 
 Enlace: [glatelier.wordpress.com > Después de Instalar Ubuntu Saucy Salamander (13.10)](https://glatelier.wordpress.com/2013/10/15/despues-de-instalar-ubuntu-saucy-salamander-13-10/)
 
-Enlace: [ubuntufacil.com > VIDEO: SMART SCOPES O LENTES INTELIGENTES DE UBUNTU 13.10](https://www.ubuntufacil.com/2013/10/video-smart-scopes-o-lentes-inteligentes-de-ubuntu-13-10)
-Enlace: [webupd8.org > UBUNTU 13.10 AVAILABLE FOR DOWNLOAD](https://www.webupd8.org/2013/10/ubuntu-1310-available-for-download.html) | [8 THINGS TO DO AFTER INSTALLING UBUNTU 13.10 (SAUCY SALAMANDER)](https://www.webupd8.org/2013/10/8-things-to-do-after-installing-ubuntu.html)
+Enlace: ubuntufacil.com > VIDEO: SMART SCOPES O LENTES INTELIGENTES DE UBUNTU 13.10
+Enlace: webupd8.org > UBUNTU 13.10 AVAILABLE FOR DOWNLOAD | 8 THINGS TO DO AFTER INSTALLING UBUNTU 13.10 (SAUCY SALAMANDER)
 
 Enlace: [lifehacker.com > What's New In Ubuntu 13.10 "Saucy Salamander," for Desktop and Phones](https://lifehacker.com/whats-new-in-ubuntu-13-10-saucy-salamander-for-desk-1446455217)
 
@@ -83,4 +83,4 @@ Enlace: [lignux.com > Ubuntu 13.10: Novedades](https://lignux.com/ubuntu-13-10-n
 
 Enlace: [muylinux.com > Ubuntu 13.10 y familia, disponibles](https://www.muylinux.com/2013/09/06/ubuntu-13-10-beta/)
 
-Enlace: [Ubuntu 13.10 (Saucy Salamander) review: Smart Scopes in, Mir out](https://www.zdnet.com/ubuntu-13-10-saucy-salamander-review-smart-scopes-in-mir-out-7000022022/)
+Enlace: Ubuntu 13.10 (Saucy Salamander) review: Smart Scopes in, Mir out

@@ -37,7 +37,7 @@ Esta versión contiene las siguientes correcciones y mejoras:
 
 Más info: [blog de Patrick](https://rpix86.patrickaalto.com/rblog.html)
 
-Descarga: [PiStore](https://store.raspberrypi.com/projects/rpix86) | [rpix86 blog](https://rpix86.patrickaalto.com/rdown.html)
+Descarga: PiStore | [rpix86 blog](https://rpix86.patrickaalto.com/rdown.html)
 
 Enlace: [foro](https://www.raspberrypi.org/phpBB3/viewtopic.php?f=78&t=32934)
 

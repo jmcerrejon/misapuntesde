@@ -24,4 +24,4 @@ _Dom Cobley_ and *Ben Aviso*n are two gurus on the Pi platform. They both have b
 
 Hopefully soon they incorporate this improvements and can better enjoy our media center.
 
-Source: [raspberrypi.org](https://www.raspberrypi.org/archives/4986)
+Source: raspberrypi.org

@@ -38,4 +38,4 @@ smsc95xx.macaddr=xx:xx:xx:xx:xx:xx
 
 Where we 'll replace *xx: xx: xx: xx: xx: xx: xx* with the new address *MAC* that we want.
 
-Link: [obrienlabs.net > Raspberry Pi – How to spoof MAC address](https://obrienlabs.net/raspberry-pi-spoof-mac-address/)
+Link: obrienlabs.net > Raspberry Pi – How to spoof MAC address

@@ -23,7 +23,7 @@ March 21 and the weekend is approaching. I've barely had time to play with my de
 
 ---
 
--   **New Camera-Pi modes released:** Optimized the software for supporting higher resolutions and better usability, and fix bugs in preview mode. You can expand the news on [raspberrypi.org](https://www.raspberrypi.org/archives/6475)
+-   **New Camera-Pi modes released:** Optimized the software for supporting higher resolutions and better usability, and fix bugs in preview mode. You can expand the news on raspberrypi.org
 
 -   **Private Git server on your RPi:** I have a super-secret private _Git server_ for my use and enjoyment that I do not share with anyone. It was hard to put it online, but now you can also have it through these simple steps that explain us [instructables.com](https://www.instructables.com/id/GitPi-A-Private-Git-Server-on-Raspberry-Pi/?ALLSTEPS)
 

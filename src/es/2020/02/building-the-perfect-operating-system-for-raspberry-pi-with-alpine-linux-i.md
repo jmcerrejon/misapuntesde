@@ -35,7 +35,7 @@ Mas de una vez lo he comentado en el blog: estoy obsesionado con la optimizació
 
 Como reza en su web: _Small. Simple. Secure. Alpine Linux is a security-oriented, lightweight Linux distribution_. Suele ocupar muy poco ya que su objetivo es ejecutarse en la memoria _RAM_ y ser muy segura. Está construido con la librería [musl libc](https://www.musl-libc.org/intro.html) y [BusyBox](https://es.wikipedia.org/wiki/Busybox). No suele ocupar una vez instalado más de 130Mb. _BusyBox_ es un ejecutable con muchas utilidades para 'hablarle' al _Kernel_ de Linux y sustituye a más de 300 comandos comunes. _Alpine_ viene con su propio gestor de paquetes y repositorios mantenidos por ellos mismos y la comunidad. Tiene soporte para la _Raspberry Pi 4_ desde noviembre y aprovechando todo el potencial en 64 bits que ofrece nuestra querida placa.
 
-La versión que voy a utilizar es la _3.11.3_ liberada el 16 de enero de este año. No os aburro mucho con esto, pero si estáis interesados, os dejo el [el post con info de la release](https://git.alpinelinux.org/cgit/aports/log/?h=v3.11.3) para que veáis los cambios.
+La versión que voy a utilizar es la _3.11.3_ liberada el 16 de enero de este año. No os aburro mucho con esto, pero si estáis interesados, os dejo el el post con info de la release para que veáis los cambios.
 
 ### [ Conoce a ALPINOS ]
 
@@ -49,7 +49,7 @@ El objetivo es el siguiente: quemo mi distro _alpinOS_, meto la SD en la Pi, eje
 
 ###  [ Alternativas que se ejecutan en la RAM ]
 
-No es la primera vez que nos encontramos un sistema operativo que se ejecuta en la _RAM_. He comentado mas de una vez la distribución [piCore](https://misapuntesde.com/es/2014/02/discovering-picore-part-ii.html) o en equipos de escritorio tenemos algunos muy reconocidos como [CoreOS](https://coreos.com) o [Tiny Core Linux](https://tinycorelinux.net). En la [Wikipedia](https://en.wikipedia.org/wiki/List_of_Linux_distributions_that_run_from_RAM) tienes algunos mas.
+No es la primera vez que nos encontramos un sistema operativo que se ejecuta en la _RAM_. He comentado mas de una vez la distribución [piCore](https://misapuntesde.com/es/2014/02/discovering-picore-part-ii.html) o en equipos de escritorio tenemos algunos muy reconocidos como [CoreOS](https://coreos.com) o Tiny Core Linux. En la [Wikipedia](https://en.wikipedia.org/wiki/List_of_Linux_distributions_that_run_from_RAM) tienes algunos mas.
 
 Y hasta aquí he llegado hoy. La semana que viene empezaremos a remangarnos para entrar en faena y empezar a desarrollar mi (nuestro) sistema operativo ideal. Por ahora os dejo con el repo de una primera versión _Alpha_ que he preparado.
 

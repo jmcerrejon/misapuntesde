@@ -39,10 +39,10 @@ Here we go!...
 
 -   **Android source code for ODROID-C1 available** | [odroid.com](https://odroid.com/dokuwiki/doku.php?id=en:c1_building_android)
 
--   **OpenELEC 5.0.5 & 5.0.1.0 for ODROID (unofficial) released:** [openelec.tv](https://openelec.tv/get-openelec) | Direct Download: [ODROID-C1 OpenELEC 5.0.1.0](https://github.com/zalaare/OpenELEC-Odroid/archive/5.0.1.0.tar.gz)
+-   **OpenELEC 5.0.5 & 5.0.1.0 for ODROID (unofficial) released:** openelec.tv | Direct Download: ODROID-C1 OpenELEC 5.0.1.0
 
 ![RPi Ebook](/images/2015/02/RPi_measure_book.png)
 
 -   **ePub FREE!! Raspberry Pi: Measure, Record, Explore** | [leanpub.com](https://leanpub.com/RPiMRE)
 
--   **Initial state Top 10 tutorials in a pdf** | [initialstate.com > Our Top 10 Raspberry Pi Tutorials](https://blog.initialstate.com/top-10-raspberry-pi-tutorials/)
+-   **Initial state Top 10 tutorials in a pdf** | initialstate.com > Our Top 10 Raspberry Pi Tutorials

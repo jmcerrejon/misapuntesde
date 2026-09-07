@@ -25,7 +25,7 @@ Suelo tener una partición _NTFS_ para compartir archivos entre _OSX, Windows y 
 
 ---
 
-Programas de recuperación de ficheros hay muchos. Mi preferido es [TestDisk](https://www.cgsecurity.org/wiki/TestDisk), pero no es para todo el mundo. Hoy he dado con un enlace en [howtogeek.com](https://www.howtogeek.com/howto/13706/recover-deleted-files-on-an-ntfs-hard-drive-from-a-ubuntu-live-cd/) que te muestra cómo recuperarlos con una aplicación que se encuentra ya instalada en la mayoría de sistemas operativos _Linux_. Se trata de [ntfsundelete](https://linux.die.net/man/8/ntfsundelete).
+Programas de recuperación de ficheros hay muchos. Mi preferido es [TestDisk](https://www.cgsecurity.org/wiki/TestDisk), pero no es para todo el mundo. Hoy he dado con un enlace en howtogeek.com que te muestra cómo recuperarlos con una aplicación que se encuentra ya instalada en la mayoría de sistemas operativos _Linux_. Se trata de [ntfsundelete](https://linux.die.net/man/8/ntfsundelete).
 
 Voy a enumerar los pasos que hay que dar, para que resulte lo más sencillo posible:
 

@@ -23,4 +23,4 @@ _FresyMetal_ vuelve a la carga con otro interesante tutorial en el que utiliza u
 
 Gracias _Nacho_ por avisarme.
 
-Enlace: [fresymetal.com](https://www.fresymetal.com/como-medir-distancias-en-raspberry-con-sensor-de-ultrasonidos/)
+Enlace: fresymetal.com

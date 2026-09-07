@@ -45,4 +45,4 @@ over_voltage_sdram=8
 
 Os pongo el enlace del hilo para leerlo por si os interesa. ¿Habéis probado alguna vez a overclockear vuestra Pi _in extremis_?
 
-Foro: [gp32spain.com > Raspberry Pi](https://www.gp32spain.com/foros/showthread.php?122760-Overclocking&p=1600592#post1600592)
+Foro: gp32spain.com > Raspberry Pi

@@ -26,8 +26,8 @@ Probably the first strategy game of this genre of history. In his time, people s
 
 Forum Link: [raspberrypi.org](https://www.raspberrypi.org/phpBB3/viewtopic.php?f=78&t=48057)
 
-Download: [dunelegacy_0.96.3_armhf.deb](https://www.pandemonium.be/file.php?name=4CE6FC4D6F4F099949A6F42C9473073C5D0916D81CFFDCDD3CD53C10EE90AFB5)
+Download: dunelegacy_0.96.3_armhf.deb
 
-Download: [abandonia.com -
-Dune II - The Building of a Dynasty](https://www.abandonia.com/en/games/36/Dune+II+-+The+Building+of+a+Dynasty.html)
+Download: abandonia.com -
+Dune II - The Building of a Dynasty
 Download: []()

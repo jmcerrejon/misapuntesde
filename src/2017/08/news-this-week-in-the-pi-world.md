@@ -35,13 +35,13 @@ One of those tough weeks in which I didn't have the time until now to give an ov
 
 -   **Your Serverless Raspberry Pi cluster with Docker** | [blog.alexellis.io](https://blog.alexellis.io/your-serverless-raspberry-pi-cluster/)
 
--   **Set up a Raspberry Pi Zero headless** | [aggl.com](https://www.gaggl.com/2017/08/set-up-a-raspberry-pi-zero-headless/)
+-   **Set up a Raspberry Pi Zero headless** | aggl.com
 
 -   **Launching the Speech Commands Dataset** | [research.googleblog.com](https://research.googleblog.com/2017/08/launching-speech-commands-dataset.html)
 
 ![hotspot](/images/2017/08/hotspot.png)
 
--   **Create a Wi-Fi hotspot in less than 10 minutes with the Raspberry Pi!** | [learn.cf](https://www.learn.cf/2017/08/create-wi-fi-hotspot-in-less-than-10.html)
+-   **Create a Wi-Fi hotspot in less than 10 minutes with the Raspberry Pi!** | learn.cf
 
 ![solar](/images/2017/08/solar.png)
 

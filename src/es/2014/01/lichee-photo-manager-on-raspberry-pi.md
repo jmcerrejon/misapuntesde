@@ -25,6 +25,6 @@ og_image: /images/2014/01/lychee.jpg
 
 [Lichee](https://lychee.electerious.com) es una galería para instalar en un servidor web muy fácil de usar, y en cuestión de segundos lo tienes listo. Con ella vas a poder subir tus fotos, gestionarlas como si fuera una aplicación nativa y es bastante vistoso.
 
-Os animo a instalarlo. Los chicos de [pihomeserver.fr](https://www.pihomeserver.fr) os lo enseñan. Tienes una demo [aquí](https://electerious.com/lychee_demo/).
+Os animo a instalarlo. Los chicos de [pihomeserver.fr](https://www.pihomeserver.fr) os lo enseñan. Tienes una demo aquí.
 
 Enlace: [pihomeserver.fr > raspberry-pi-home-server-heberger-toutes-vos-photos](https://www.pihomeserver.fr/es/2014/01/23/raspberry-pi-home-server-heberger-toutes-vos-photos/)

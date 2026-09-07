@@ -34,6 +34,6 @@ cd kaiEngine-7.4.28-raspberry-pi
 ./kaiengine
 ```
 
-Enlace: [teamxlink](https://es.teamxlink.co.uk/)
+Enlace: teamxlink
 
 Enlace: [teamxlink.co.uk > Juegos soportados](https://www.teamxlink.co.uk/?go=games)

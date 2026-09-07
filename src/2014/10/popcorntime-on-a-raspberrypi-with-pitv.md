@@ -44,7 +44,7 @@ To play an episode or movie, select it and wait some seconds for PiTV to load th
 
 Enjoy!
 
-Link: [pitv.pw](https://pitv.pw)
+Link: pitv.pw
 
 Link: [reddit.com > PiTV](https://www.reddit.com/r/PiTV)
 

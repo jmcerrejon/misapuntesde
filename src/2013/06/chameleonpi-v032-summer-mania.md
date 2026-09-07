@@ -32,4 +32,4 @@ In case you do not remember, _ChameleonPi_ is a _Raspbian_ fork ready to emulate
 -   Updated c64 support (developed by AreaScout aka Daniel Mehrwald (Austria)
     thanks to Olli Raatikainen).
 
-Download: [chameleon.v032.img.bz2](https://download.chameleon.enging.com/chameleon.v032.img.bz2)
+Download: chameleon.v032.img.bz2

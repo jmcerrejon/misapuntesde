@@ -29,7 +29,7 @@ Por defecto detectará los emuladores descargados desde la _PiStore_, pero es f�
 
 Como os comentaba, _piFBA_ ha sido actualizado para corregir un error con el teclado que a veces no permitía utilizarlo si estaba el joystick conectado.
 
-Enlace: [PiMenu - Descarga Directa](https://mame4all-pi.googlecode.com/git/pimenu.zip)
+Enlace: PiMenu - Descarga Directa
 
 Enlace: [raspberrypi.org - PiMenu released](https://www.raspberrypi.org/phpBB3/viewtopic.php?f=78&t=51773&p=399293&hilit=pimenu#p399293)
 

@@ -37,4 +37,4 @@ Con esta guía práctica, descubrirá cómo puede transformar su *Raspberry Pi* 
 
 * Utilizar PVR para ver TV en directo y grabación
 
-Enlace: [packtpub.com](https://www.packtpub.com/packt/offers/free-learning)
+Enlace: packtpub.com

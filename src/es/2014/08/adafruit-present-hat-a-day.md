@@ -27,6 +27,6 @@ _Adafruit_ estuvo desarrollando durante la semana pasada un prototipo cada día 
 
 Os dejo unos enlaces por si queréis ampliar información sobre los HAT:
 
-Enlace: [raspberrypi.org > Introducing Pi HATs](https://www.raspberrypi.org/introducing-raspberry-pi-hats/)
+Enlace: raspberrypi.org > Introducing Pi HATs
 
 Enlace: [guía de diseño](https://github.com/raspberrypi/hats/blob/master/designguide.md)

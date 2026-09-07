@@ -33,7 +33,7 @@ The power consumption makes these devices to be connected throughout the day is 
 
 That's why it's a great idea to have a hardware like the _Raspberry Pi_, with software of this kind.
 
-Link: [dbc-customs.com > Installing LemonPOS on the Raspberry Pi](https://dbc-customs.com/?p=77)
+Link: dbc-customs.com > Installing LemonPOS on the Raspberry Pi
 
 Link: [sourceforge.net > LemonPOS users guide](https://sourceforge.net/apps/mediawiki/lemonpos/index.php?title=Users_Guide)
 

@@ -50,7 +50,7 @@ sudo apt install -y exfat-fuse exfat-utils
 
 ![EEPROM](/images/2019/09/eeprom.png)
 
-* **A New bootloader EEPROM is available:** Our *Raspberry Pi* has a memory called *EEPROM* that contains code to start the system and replaces the *bootcode.bin* found in the */boot* partition of the SD card. This file **is ignored in case of a Raspberry Pi 4**. On the new thing that they have incorporated for the new board of the foundation, we have at last support for boot through the network, but I refer you to the changelog [here](https://github.com/raspberrypi/rpi-eeprom/blob/master/firmware/release-notes.md). More info about the *EEPROM* memory on [this link](https://www.raspberrypi.org/documentation/hardware/raspberrypi/booteeprom.md). **You can update it with the following commands if you have the Pi 4**:
+* **A New bootloader EEPROM is available:** Our *Raspberry Pi* has a memory called *EEPROM* that contains code to start the system and replaces the *bootcode.bin* found in the */boot* partition of the SD card. This file **is ignored in case of a Raspberry Pi 4**. On the new thing that they have incorporated for the new board of the foundation, we have at last support for boot through the network, but I refer you to the changelog here. More info about the *EEPROM* memory on [this link](https://www.raspberrypi.org/documentation/hardware/raspberrypi/booteeprom.md). **You can update it with the following commands if you have the Pi 4**:
 
 ```bash
 sudo apt update; sudo apt upgrade; sudo apt install rpi-eeprom
@@ -58,7 +58,7 @@ sudo apt update; sudo apt upgrade; sudo apt install rpi-eeprom
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9NkV9N0aZqU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-* **Revolt for Raspberry Pi:** *Revolt* is a fairly addictive and visually very good radio control car racing game. I remember play this game with my brother in the 90's. Now we'll be able to enjoy it in our Raspi with this simple script that I have prepared for you. If you want to have in your *Raspberry Pi* a particular game that can be carried, put it in the comments, I accept suggestions. Thanks to the *YouTube* channel of [PI LAB](https://www.youtube.com/channel/UCgfQjdc5RceRlTGfuthBs7g) for the effort he's making to bring us all these games. | [github.com > PiKISS > revolt.sh](https://github.com/jmcerrejon/PiKISS/blob/master/scripts/games/revolt.sh)
+* **Revolt for Raspberry Pi:** *Revolt* is a fairly addictive and visually very good radio control car racing game. I remember play this game with my brother in the 90's. Now we'll be able to enjoy it in our Raspi with this simple script that I have prepared for you. If you want to have in your *Raspberry Pi* a particular game that can be carried, put it in the comments, I accept suggestions. Thanks to the *YouTube* channel of [PI LAB](https://www.youtube.com/channel/UCgfQjdc5RceRlTGfuthBs7g) for the effort he's making to bring us all these games. | github.com > PiKISS > revolt.sh
 
 
 Happy weekend!

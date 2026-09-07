@@ -23,9 +23,9 @@ Fin de semana [AFK](https://es.wiktionary.org/wiki/AFK). Vamos a hacer un repasi
 
 ---
 
--   [MagPi núm 12](https://www.themagpi.com/en/issue/12): Esta revista electrónica mensual y con formato también en papel, nos habla esta vez sobre varias distros para nuestra máquina, impresión con CUPS2 y crear música con SCHISM entre otros.
+-   MagPi núm 12: Esta revista electrónica mensual y con formato también en papel, nos habla esta vez sobre varias distros para nuestra máquina, impresión con CUPS2 y crear música con SCHISM entre otros.
 
--   [Actualización XBMC 12.2](https://xbmc.org/natethomas/2013/05/03/xbmc-12-2-even-more-frodo/): Lo interesante para nuestra Pi se encuentra en la actualización de un error con los codecs de video y con el audio. Ya están incluído los cambios en vuestras distros favoritas (OpenELEC, Xbian y Raspbmc), tan sólo tenéis que actualizarlas.
+-   Actualización XBMC 12.2: Lo interesante para nuestra Pi se encuentra en la actualización de un error con los codecs de video y con el audio. Ya están incluído los cambios en vuestras distros favoritas (OpenELEC, Xbian y Raspbmc), tan sólo tenéis que actualizarlas.
 
 -   [FirefoxOS para Raspberry Pi](https://www.philipp-wagner.com/blog/2013/04/firefox-os-for-raspberry-pi-now-available/): Parece que tenemos una imagen para probar esta distribución en nuestras RasPis. No está tan verde como hace unos meses, pero aún no podemos hacer uso de teclado y ratón al parecer. La cosa promete.
 

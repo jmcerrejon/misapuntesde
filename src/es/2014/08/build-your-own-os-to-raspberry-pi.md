@@ -19,13 +19,13 @@ og_image: /images/2014/08/buildroot.png
 
 ![buildroot](/images/2014/08/buildroot.png)
 
-Hoy día es fácil crearte una distro para tu equipo de escritorio o para sistemas embebidos. En el caso de _Linux_ tenemos infinidad de herramientas para crear un sistema operativo acorde a nuestras necesidades y en placas como la _Raspberry Pi_ gracias al uso del proyecto [buildboot](https://buildroot.uclibc.org/), vamos a montarnos el nuestro propio en menos de una hora... ¿No te lo crees?
+Hoy día es fácil crearte una distro para tu equipo de escritorio o para sistemas embebidos. En el caso de _Linux_ tenemos infinidad de herramientas para crear un sistema operativo acorde a nuestras necesidades y en placas como la _Raspberry Pi_ gracias al uso del proyecto buildboot, vamos a montarnos el nuestro propio en menos de una hora... ¿No te lo crees?
 
 ---
 
 Antes de que sigas leyendo, he de avisaros que la función principal de buildroot no es crear un sistema operativo de uso diario, sino uno más específico para proyectos puntuales como se ha hecho con _OpenELEC_ o _NOOBS_.
 
-La idea me ha venido de este post en el blog [delog.wordpress.com](https://delog.wordpress.com/2014/07/15/custom-embedded-linux-system-for-raspberry-pi-with-buildroot-2/). Este proyecto nos va a permitir hacer uso de la [compilación cruzada](https://es.wikipedia.org/wiki/Compilador_cruzado) para generar en nuestro sistema operativo _Linux_ favorito los ficheros necesarios para generar un sistema de arranque y de directorios típica donde alojar nuestras aplicaciones.
+La idea me ha venido de este post en el blog delog.wordpress.com. Este proyecto nos va a permitir hacer uso de la [compilación cruzada](https://es.wikipedia.org/wiki/Compilador_cruzado) para generar en nuestro sistema operativo _Linux_ favorito los ficheros necesarios para generar un sistema de arranque y de directorios típica donde alojar nuestras aplicaciones.
 
 Es necesario tener conexión a internet para descargar varios ficheros a la hora de compilar y utilizar un equipo de escritorio con _Linux_. En mi caso usaré _Ubuntu 14.04 64 bits._
 
@@ -123,17 +123,17 @@ Enlace: [rpi-emulator-buildroot](https://github.com/rmaz/rpi-emulator-buildroot)
 
 Otras ayudas (Actualizado 10/Marzo/2016):
 
-Enlace: [viatech.com](https://www.viatech.com/en/2015/06/buildroot/)
+Enlace: viatech.com
 
 Enlace: [wiki.openwrt.org](https://wiki.openwrt.org/es/doc/howto/build)
 
-Enlace: [Buildroot manual](https://buildroot.uclibc.org/downloads/manual/manual.html)
+Enlace: Buildroot manual
 
 Enlace: [github.com > gamaral/rpi-buildroot](https://github.com/gamaral/rpi-buildroot)
 
 Enlace: [cellux.github.io > DIY Linux with Buildroot](https://cellux.github.io/articles/diy-linux-with-buildroot-part-1/)
 
-Enlace: [git.buildroot.net > raspberrypi](https://git.buildroot.net/buildroot/tree/board/raspberrypi/readme.txt)
+Enlace: git.buildroot.net > raspberrypi
 
 Enlace: [xappsoftware.com >
 How to create a buildroot environment for Raspberry Pi](https://www.xappsoftware.com/wordpress/2013/06/06/how-to-create-a-buildroot-environment-for-raspberry-pi/)

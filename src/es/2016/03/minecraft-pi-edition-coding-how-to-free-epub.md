@@ -21,4 +21,4 @@ og_image: /images/2016/03/minecraft_pi_ed.png
 
 Si te gusta *Minecraft*, hoy puedes conseguir gratis esta guía especialmente creada para la *Raspberry Pi*, desde configurar el entorno hasta consejos para mejorar su velocidad. Con código interesante para que sigas aprendiendo. El libro tiene algunos años, pero es completamente válido (tampoco es que su juego haya cambiado mucho, si la fórmula funciona,...).
 
-Enlace:  [packtpub.com](https://www.packtpub.com/packt/offers/free-learning)
+Enlace:  packtpub.com

@@ -37,7 +37,7 @@ Hace pocos días salió la versión 0.4, y no lo volvería a comentar si no vier
 
 -   Corregidos errores en varios JPO y JPE específicas.
 
-Descarga: [PiStore](https://store.raspberrypi.com/projects/rpix86) | [rpix86 blog](https://rpix86.patrickaalto.com/rdown.html)
+Descarga: PiStore | [rpix86 blog](https://rpix86.patrickaalto.com/rdown.html)
 
 Enlace: [foro](https://www.raspberrypi.org/phpBB3/viewtopic.php?f=78&t=32934)
 

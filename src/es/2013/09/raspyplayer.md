@@ -23,4 +23,4 @@ El otro día buscando reproductores mp3 para la consola, me encontré con este _
 
 Como reproductor utiliza **omxplayer** y tiene paquetes tanto para _Raspbian_ como para _Arch Linux_.
 
-Enlace: [raspyplayer.org](https://raspyplayer.org)
+Enlace: raspyplayer.org

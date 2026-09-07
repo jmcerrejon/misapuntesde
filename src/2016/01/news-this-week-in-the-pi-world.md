@@ -27,7 +27,7 @@ Week of meetings and work. I could not even take out some time to finish incompl
 
 <iframe width="400" height="300" src="https://www.youtube.com/embed/ORSREnUUL5k?rel=0" frameborder="0" allowfullscreen></iframe>
 
--   **Run TeamSpeak 3 Server on Raspberry Pi** | [eltechs.com](https://eltechs.com/run-teamspeak-3-server-on-raspberry-pi/)
+-   **Run TeamSpeak 3 Server on Raspberry Pi** | eltechs.com
 
 ![DockerCon](/images/2016/01/Dockercon.png)
 
@@ -41,6 +41,6 @@ Week of meetings and work. I could not even take out some time to finish incompl
 
 -   **AdvanceMAME 1.4 debs released** | [blog.sheasilverman.com](https://blog.sheasilverman.com/2016/01/friday-post-advancemame-1-4-debs/)
 
--   **VuShell for ODROID-VU7** | [hardkernel.com](https://www.hardkernel.com/main/products/prdt_info.php?g_code=G145154558544)
+-   **VuShell for ODROID-VU7** | hardkernel.com
 
 Heppy weekend!

@@ -29,4 +29,4 @@ Lo que os digo. Todo esto me lo puedo ahorrar ejecutando en mi RasPi un servidor
 
 Acabo de leer un tutorial muy claro donde se explica en breves pasos como instalarlo en tu RasPi o en cualquier otro equipo Linux que tengas. A mi me merece la pena. No me déis las gracias a mi, sino a _Victor_ que nos hace estos fantásticos tutoriales en su web.
 
-Enlace: [Mis experiencias con la Raspberry Pi - DLNA](https://muyraspi.blogspot.com/2013/06/dlna.html)
+Enlace: Mis experiencias con la Raspberry Pi - DLNA

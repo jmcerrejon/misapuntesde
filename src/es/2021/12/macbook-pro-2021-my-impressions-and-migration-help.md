@@ -107,7 +107,7 @@ _iTerm2_ es donde pasamos la mayor parte del tiempo los _DevOps_. Al igual que _
 
 _VSCode_ tiene una opción de sincronizar y es lo que uso sin ningún tipo de problema, por lo que mi entorno lo tengo configurado casi desde el minuto uno. ¡La de veces que habré perdido mis configuraciones antes de esta opción!.
 
-No uso *Docker en macOS* porque en sus inicios era un come _RAM_ de las buenas, aunque ya he leído que la cosa ha cambiado mucho. Lo utilicé hace años y no he vuelto a probar. Para el nuevo chip, el siguiente enlace te puede ayudar: [Docker Desktop for Apple silicon](https://docs.docker.com/desktop/mac/apple-silicon/).
+No uso *Docker en macOS* porque en sus inicios era un come _RAM_ de las buenas, aunque ya he leído que la cosa ha cambiado mucho. Lo utilicé hace años y no he vuelto a probar. Para el nuevo chip, el siguiente enlace te puede ayudar: Docker Desktop for Apple silicon.
 
 Lo último que instalo es _XCode_. Tocará añadir las cuentas y recrear las credenciales, que es lo que menos me gusta, desde dentro de _XCode_, lo cual te facilita mucho las cosas.
 

@@ -25,7 +25,7 @@ La seguridad es uno de los temas que más me apasiona y no le dedico todo el tie
 
 [OpenWRT](https://openwrt.org) básicamente es un sistema operativo diseñado específicamente para dar funcionalidad de red a un equipo o router para que pueda actuar como _firewall_, punto de acceso _WiFi_ o _sniffer_ entre otros. Si, puedes instalarlo en un router _TP-Link o Asus_ o en dispositivos embebidos como la _Raspberry Pi._
 
-[Latch](https://latch.elevenpaths.com/www/service.html) es un servicio online para añadir una capa de seguridad a cualquier proyecto: cuentas bancarias, servidores _Web/ftp_, desarrollos,etc, todo controlado por un panel de forma remota para proteger aquello que más protegemos: **Nuestra privacidad**.
+Latch es un servicio online para añadir una capa de seguridad a cualquier proyecto: cuentas bancarias, servidores _Web/ftp_, desarrollos,etc, todo controlado por un panel de forma remota para proteger aquello que más protegemos: **Nuestra privacidad**.
 
 _Chema_ nos cuenta cómo integrar estas dos tecnologías en un artículo muy detallado y que nos puede servir tanto para el hogar como para proyectos empresariales. No os lo perdáis.
 

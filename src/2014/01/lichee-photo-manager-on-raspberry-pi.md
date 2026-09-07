@@ -25,6 +25,6 @@ Would you like to have all the photos available in a web gallery with a nice env
 
 [Lichee](https://lychee.electerious.com) is a gallery to install on a web server very easy to use, and in seconds you have it ready. With it you will be able to upload your pictures, manage like a native application and is quite attractive.
 
-I encourage you to install it. The guys from [pihomeserver.fr](https://www.pihomeserver.fr) will teach you. You have a demo [here](https://electerious.com/lychee_demo/).
+I encourage you to install it. The guys from [pihomeserver.fr](https://www.pihomeserver.fr) will teach you. You have a demo here.
 
 Link: [pihomeserver.fr > raspberry-pi-home-server-heberger-toutes-vos-photos](https://www.pihomeserver.fr/en/2014/01/23/raspberry-pi-home-server-heberger-toutes-vos-photos/)

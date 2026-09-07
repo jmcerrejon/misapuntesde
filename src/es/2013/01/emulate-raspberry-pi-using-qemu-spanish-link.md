@@ -20,4 +20,4 @@ Es raro encontrar tantos enlaces en Español. Veo que la comunidad hispana se mu
 
 En esta caso, se indica una manera de emular el sistema operativo _Raspbian_ en un _PC_ con una aplicación llamada _QEMU_ bajo _Windows_.
 
-Enlace: [social.unach.edu.ec](https://social.unach.edu.ec/raspberrypi/2013/01/11/raspberry-pi-utilizando-qemu/)
+Enlace: social.unach.edu.ec

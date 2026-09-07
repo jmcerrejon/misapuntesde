@@ -51,8 +51,8 @@ Su autor se llama _Ryad El-Dajani_ y creo que es de los primeros en alcanzar gra
 
 Desde aquí le deseo suerte a su autor, ha sido un placer trabajar contigo.
 
-Enlace: [packtpub.com](https://www.packtpub.com/hardware-and-creative/banana-pi-cookbook)
+Enlace: packtpub.com
 
-Enlace: [blog.eldajani.net](https://blog.eldajani.net/banana-pi-cookbook/)
+Enlace: blog.eldajani.net
 
 Enlace: [Acerca de los autores (pdf)](/res/B04622_FM_ForProof_MJ.pdf)

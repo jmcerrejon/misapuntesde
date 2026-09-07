@@ -25,7 +25,7 @@ og_image: /images/2015/06/ExaGear_Desktop_tr.png
 
 ¿Qué os parecería instalar alguna aplicación de _Linux_ para arquitecturas _x86_ en tu placa favorita?. Seguro que ya has oído hablar de _Exagear Desktop_, un software de pago que te permite lanzar aplicaciones basadas en procesadores _x86 de 32 bits_, aunque tal vez te asalten como a mí, algunas dudas sobre si realmente funciona.
 
-La compañía que lo desarrolla, [Eltechs](https://eltechs.com/?utm_source=misapuntesde&utm_medium=post_part1&utm_campaign=ED_May2015_release), se ha puesto en contacto conmigo para que haga una review sobre su producto. Entre un 5-10% es la diferencia entre la antigua versión de ExaGear v1.0 en comparación con la v1.1. Tan sólo existe una solución similar: _Qemu_, pero el rendimiento comparándolo con _Qemu_ es 5x (500%)!
+La compañía que lo desarrolla, Eltechs, se ha puesto en contacto conmigo para que haga una review sobre su producto. Entre un 5-10% es la diferencia entre la antigua versión de ExaGear v1.0 en comparación con la v1.1. Tan sólo existe una solución similar: _Qemu_, pero el rendimiento comparándolo con _Qemu_ es 5x (500%)!
 
 ¿Estás interesado o sientes curiosidad sobre como funciona?. He visto comparativas y gráficas en varios sites sobre su rendimiento, pero en ningún sitio han hecho pruebas reales de software ejecutándose con este software. Te traigo **en primicia mundial el primer análisis** sobre este producto y veremos en el los próximos dos artículos si realmente merece la pena. Además, **regalaremos 10 licencias gratuítas de Exagear Desktop**.
 
@@ -35,7 +35,7 @@ La compañía que lo desarrolla, [Eltechs](https://eltechs.com/?utm_source=misap
 
 Básicamente implementa en una _Máquina virtual (VM)_, un contenedor para aplicaciones _Linux x86_ en procesadores _ARM_. Es decir, tendrás en tu equipo huésped, también llamado **host** (_RPi, ODROID_, etc), un invitado o **guest** (máquina virtual _x86_).
 
-La versión que estoy testeando es la última versión de [Eltechs ExaGear Desktop 1.1.](https://eltechs.com/product/exagear-desktop/?utm_source=misapuntesde&utm_medium=post_part1&utm_campaign=ED_May2015_release)
+La versión que estoy testeando es la última versión de Eltechs ExaGear Desktop 1.1.
 
 ### [ Requisitos ]
 
@@ -117,7 +117,7 @@ Un detalle a tener en cuenta, es que la máquina invitada comparte usuarios con 
 
 ### [ Concurso ]
 
-Hasta aquí la primera parte de este banco de pruebas. Si te gustaría probar este software, la empresa [Eltechs](https://eltechs.com/?utm_source=misapuntesde&utm_medium=post_part1&utm_campaign=ED_May2015_release) ha tenido la amabilidad de **regalar 10 licencias de Exagear Desktop** para los lectores de este blog. Las bases son sencillas:
+Hasta aquí la primera parte de este banco de pruebas. Si te gustaría probar este software, la empresa Eltechs ha tenido la amabilidad de **regalar 10 licencias de Exagear Desktop** para los lectores de este blog. Las bases son sencillas:
 
 -   Comparte un mensaje en _Twitter, LinkedIn, FaceBook o Google Plus_ con el siguiente texto: **"I want a free license of Exagear Desktop to My Raspberry Pi/Odroid/cubieboard (o la que sea)"**. Es decir, si quieres una licencia para tu _Raspberry Pi 2_, sería: _I want a free license of Exagear Desktop to My Raspberry Pi 2_. Puedes ver las placas soportadas en la web oficial del producto.
 

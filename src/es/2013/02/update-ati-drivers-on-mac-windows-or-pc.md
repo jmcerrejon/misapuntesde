@@ -39,6 +39,6 @@ Algunas características de los drivers _UnifL_ son:
 -   Solución automatizada y fiable para instalar controladores modificados - _DSE._
 -   Manual detallado, que abarca todo lo que necesita saber acerca de los conjuntos de controladores _Leshcat._
 
-Enlace: [Leshcat's Catalyst](https://leshcatlabs.net)
+Enlace: Leshcat's Catalyst
 
-Enlace: [Manual UnifL](https://leshcatlabs.net/manual/)
+Enlace: Manual UnifL

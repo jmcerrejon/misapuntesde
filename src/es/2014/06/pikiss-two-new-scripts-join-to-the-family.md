@@ -27,7 +27,7 @@ Estos días estoy algo atareado con la generación de dos scripts que me han par
 
 ### [ Streaming TV Player ]
 
-Hoy día la única manera que tenemos de ver canales por streaming es instalando en cualquier derivado que use _XBMC (OpenELEC, Raspbmc, etc)_ un plugin para ver dichos canales. Con esto del _Mundial_, se me ocurrió parsear un fichero _xml_ donde vinieran todos los canales y me topé con el creado por _PiKoMule_ [aqui](https://www.compraschinas.net/foro/livestreams/lista-de-canales-para-livestream-solo-plus-liga-y-gol-tv/). Es un fichero bastante actualizado a día de hoy, y lo he usado para crear un menú (que me ha dado más de un quebradero de cabeza) con el que poder ver desde _Raspbian_ o derivados (también funciona en _Ubuntu_) cualquier canal de la lista.
+Hoy día la única manera que tenemos de ver canales por streaming es instalando en cualquier derivado que use _XBMC (OpenELEC, Raspbmc, etc)_ un plugin para ver dichos canales. Con esto del _Mundial_, se me ocurrió parsear un fichero _xml_ donde vinieran todos los canales y me topé con el creado por _PiKoMule_ aqui. Es un fichero bastante actualizado a día de hoy, y lo he usado para crear un menú (que me ha dado más de un quebradero de cabeza) con el que poder ver desde _Raspbian_ o derivados (también funciona en _Ubuntu_) cualquier canal de la lista.
 
 Aviso que el **80% de canales no funcionan a día de hoy**. Espero que _PiKoMule_ vaya actualizando a medida que van "cayendo". No obstante el script está para que lo testeis y las impresiones, a la caja de comentarios.
 
@@ -45,7 +45,7 @@ Para futuras actualizaciones, espero incorporar canales internacionales si me ha
 
 -   Redireccionar la salida de sonido a los altavoces DLNA.
 
-Yo he hecho las pruebas con un _iPhone 4/iPad Mini_ gracias a la aplicación [AcePlayer](https://itunes.apple.com/es/app/aceplayer-powerful-media-player/id463242636?mt=8), y en un televisor Samsung 40" con resultados muy satisfactorios. Valdrá cualquier aplicación que reproduzca contenido _DLNA/UPnP._
+Yo he hecho las pruebas con un _iPhone 4/iPad Mini_ gracias a la aplicación AcePlayer, y en un televisor Samsung 40" con resultados muy satisfactorios. Valdrá cualquier aplicación que reproduzca contenido _DLNA/UPnP._
 
 _TVPlayer_ ya se encuentra en [PiKISS](https://misapuntesde.com/es/2014/05/pikiss-for-raspberry-pi-a-bunch-of-scripts-with-menu-to-make-your-life-easier.html) y Rygel lo estará mañana.
 

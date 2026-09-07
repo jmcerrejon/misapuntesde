@@ -29,18 +29,18 @@ El mundo de las placas de desarrollo se está poniendo cada vez más competitivo
 
 ![rpi_hand](/images/2017/09/rpi_hand.png)
 
--   **Popular Raspberry Pi Clones:** Bueno, unos intentan hacer algo parecido a la Pi, y otros directamente intentan clonarlas mejorando algunas características. He aquí las principales. | [xenstreet.com](https://xenstreet.com/2017/09/26/popular-raspberry-pi-clones/)
+-   **Popular Raspberry Pi Clones:** Bueno, unos intentan hacer algo parecido a la Pi, y otros directamente intentan clonarlas mejorando algunas características. He aquí las principales. | xenstreet.com
 
 -   **Raspberry Pi Zero W Simultaneous AP and Managed Mode Wifi:** Puntos de acceso con _Hostapd y Dnsmasq_ y un par de 0W. Gran post, _Albert Chaharbakhshi_. | [albeec13.github.io](https://albeec13.github.io/2017/09/26/raspberry-pi-zero-w-simultaneous-ap-and-managed-mode-wifi/)
 
 ![eltechs](/images/2017/09/eltechs.png)
 
--   **How to install ExaGear Desktop Trial on Odroid:** Pues ya tenemos la posibilidad de probar una versión _trial_ antes de comprar _Exagear Desktop para ODROID_, lo cual es muy buena noticia para los poseedores de esta placa y si te convence, no lo pienses y adquiere una licencia. | [eltechs.com](https://eltechs.com/exagear-desktop-trial-for-odroid/)
+-   **How to install ExaGear Desktop Trial on Odroid:** Pues ya tenemos la posibilidad de probar una versión _trial_ antes de comprar _Exagear Desktop para ODROID_, lo cual es muy buena noticia para los poseedores de esta placa y si te convence, no lo pienses y adquiere una licencia. | eltechs.com
 
 ![magpi](/images/2017/09/magpi.png)
 
 -   **Nuevo número de The MagPi #62:** Lego Mindstorms, edición de imágenes, proyectos molones para Halloween y algo más en este número. | [raspberrypi.org](https://www.raspberrypi.org/magpi/issues/62/)
 
--   **Hand Gesture Recognition Using Python And OpenCV:** El reconocimiento de gestos interpreta una serie de movimientos para realizar tareas y poder comunicarnos con nuestra máquina mas fácilmente. _Python_ tiene buenas librerías y en este tutorial usan _OpenCV y Numpy_ para lograrlo. | [codesquery.com](https://codesquery.com/gesture-recognition-using-python-opencv/)
+-   **Hand Gesture Recognition Using Python And OpenCV:** El reconocimiento de gestos interpreta una serie de movimientos para realizar tareas y poder comunicarnos con nuestra máquina mas fácilmente. _Python_ tiene buenas librerías y en este tutorial usan _OpenCV y Numpy_ para lograrlo. | codesquery.com
 
 ¡Feliz finde!

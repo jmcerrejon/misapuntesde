@@ -27,4 +27,4 @@ The most notable change is the move to _XBMC 15.2 Kodi_. Updated libraries, kern
 
 There is a problem if you want to share files via Samba through network playing _mkv_ files.
 
-Download: [openelec.tv](https://openelec.tv/get-openelec)
+Download: openelec.tv

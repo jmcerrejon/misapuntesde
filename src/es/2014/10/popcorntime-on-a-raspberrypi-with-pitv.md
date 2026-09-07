@@ -44,7 +44,7 @@ Ahora puedes acceder a la _IP_ de tu RasPi desde un navegador web en tu tablet o
 
 ¡Disfruta!
 
-Enlace: [pitv.pw](https://pitv.pw)
+Enlace: pitv.pw
 
 Enlace: [reddit.com > PiTV](https://www.reddit.com/r/PiTV)
 

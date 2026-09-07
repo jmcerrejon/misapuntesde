@@ -33,7 +33,7 @@ Esta semana ha sido de mucho trabajo, lo cual es bueno para mí. He desconectado
 
 -   **Moebius vuelve a la vida:** Hacía tiempo que no se actualizaba una de las distribuciones más ligeras para la RasPi. Me he enterado gracias a [éste](https://ohdoylerules.com/personal-project/minimal-raspberry-pi-os) estupendo tutorial de _James Doyle_ . Lo que me ha llamado la atención es que este SO ya no se nutre de los repositorios de _Raspbian_, sino que instala algo denominado contenedores, que no es más que grupos de paquetes | [sourceforge.net > moebiuslinux](https://sourceforge.net/projects/moebiuslinux/)
 
--   **14.04.2 LTS (v1.4) para ODROID-C1:** Nueva imagen con [muchas novedades](https://odroid.com/dokuwiki/doku.php?id=en:c1_ubuntu_release_note_v1.4), entre las que destaco las siguientes: Wifi drivers desde el kernel 3.18, **actualizado drivers de la GPU Mali a la versión r5p0**, _IR_ ahora usa _LIRC_, puedes activar la aceleración para la _GPU_ en _Chromium_ | [mirror.golddroid.com](https://mirror.golddroid.com)
+-   **14.04.2 LTS (v1.4) para ODROID-C1:** Nueva imagen con [muchas novedades](https://odroid.com/dokuwiki/doku.php?id=en:c1_ubuntu_release_note_v1.4), entre las que destaco las siguientes: Wifi drivers desde el kernel 3.18, **actualizado drivers de la GPU Mali a la versión r5p0**, _IR_ ahora usa _LIRC_, puedes activar la aceleración para la _GPU_ en _Chromium_ | mirror.golddroid.com
 
 ![Plex Media Server](/images/2015/03/banana-pi-plex-media-server.png)
 

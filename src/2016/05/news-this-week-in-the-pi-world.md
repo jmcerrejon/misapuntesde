@@ -41,7 +41,7 @@ On Friday I did something that every developer must avoid at all costs: **Up to 
 
 ![quake_lan](/images/2016/05/quake_lan.png)
 
--   **Run a lightweight QuakeWorkd server on Raspberry Pi** | [quakeonlan.net](https://www.quakeonlan.net/quakeworld-co-op-edition/)
+-   **Run a lightweight QuakeWorkd server on Raspberry Pi** | quakeonlan.net
 
 Command of the week thanks to [@climagic](https://twitter.com/climagic/):
 

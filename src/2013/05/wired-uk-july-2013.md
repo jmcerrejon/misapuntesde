@@ -23,7 +23,7 @@ _Wired UK_ takes a look at _Raspberry Pi_ and how has conquered the world.
 
 ---
 
-Link: [raspberrypi.org](https://www.raspberrypi.org/archives/4103)
+Link: raspberrypi.org
 
 Magazine: [Wired Magazine](https://www.wired.co.uk/magazine)
 

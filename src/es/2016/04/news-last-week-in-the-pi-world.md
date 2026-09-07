@@ -27,9 +27,9 @@ No quiero que se convierta en una costumbre eso de pasar la sección del Viernes
 
 ![vortron](/images/2016/04/vortongame.png)
 
--   **Vortron for Raspberry Pi:** Remake de _Highway Encounter_, binario [aquí](https://app.box.com/s/a7ja91zvf83i3xvrotnpoqlz9o3e9702) gracias a [Malagueños originales y libres](https://malagaoriginal.blogspot.com.es/2016/03/resucitando-vorton-el-remake-de-highway.html).
+-   **Vortron for Raspberry Pi:** Remake de _Highway Encounter_, binario aquí gracias a [Malagueños originales y libres](https://malagaoriginal.blogspot.com.es/2016/03/resucitando-vorton-el-remake-de-highway.html).
 
--   **Sabayon Linux en Raspberry Pi (preview):** Lleva un mes ya con nosotros, pero esta distro tiene mucho que decir sobre su soporte en nuestras queridas Pis. ¿Alguien la ha probado ya? | [sabayon.org](https://www.sabayon.org/latest)
+-   **Sabayon Linux en Raspberry Pi (preview):** Lleva un mes ya con nosotros, pero esta distro tiene mucho que decir sobre su soporte en nuestras queridas Pis. ¿Alguien la ha probado ya? | sabayon.org
 
 ![MagPi44](/images/2016/04/MagPi44.png)
 
@@ -39,6 +39,6 @@ No quiero que se convierta en una costumbre eso de pasar la sección del Viernes
 
 <iframe width="400" height="225" src="https://www.youtube.com/embed/ONaGV-oAJD4?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
--   **Marcos digitales con Raspberry Pi:** Bastante impresionados quedarán nuestras visitas cuando vean lo he hemos hecho en un fín de semana mientras ellos estaban aburridos en casa viendo la televisión. | [instructables.com > A frame for Openframe](https://www.instructables.com/id/A-Frame-for-Openframe/?ALLSTEPS) - [garagetech.tips > Pi Zero on a digital frame](https://garagetech.tips/pizero-on-digital-frame/)
+-   **Marcos digitales con Raspberry Pi:** Bastante impresionados quedarán nuestras visitas cuando vean lo he hemos hecho en un fín de semana mientras ellos estaban aburridos en casa viendo la televisión. | [instructables.com > A frame for Openframe](https://www.instructables.com/id/A-Frame-for-Openframe/?ALLSTEPS) - garagetech.tips > Pi Zero on a digital frame
 
 Comando de la semana gracias a [@nixcraft](https://twitter.com/nixcraft/):

@@ -33,4 +33,4 @@ Que aprenderás:
 
 * Utilice varios dispositivos ZigBee y un BEAGLEBONE para crear una red inalámbrica de sensores de alarma.
 
-Enlace: [packtpub.com](https://www.packtpub.com/packt/offers/free-learning)
+Enlace: packtpub.com

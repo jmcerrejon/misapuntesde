@@ -38,7 +38,7 @@ Features:
 
 To make it work once installed, go into the game directory and write **_dosbox exec_** where exec is the name of the executable, which is usually a _.EXE_, _.COM_ or _.BAT_
 
-The have available for 2.49 euros in the [PiStore](https://store.raspberrypi.com/projects/fastdosbox), which I recommend, or you can download the compiled free version compiled by myself (steps to compile apps was mentioned in [another post](https://misapuntesde.com/2013/05/we-compile-labbaye-des-morts-for-raspberry-pi-deb-included.html)) from this [link](/res/fastdosbox_1.5-1_armhf.deb).
+The have available for 2.49 euros in the PiStore, which I recommend, or you can download the compiled free version compiled by myself (steps to compile apps was mentioned in [another post](https://misapuntesde.com/2013/05/we-compile-labbaye-des-morts-for-raspberry-pi-deb-included.html)) from this [link](/res/fastdosbox_1.5-1_armhf.deb).
 
 EXTRA!:
 

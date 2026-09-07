@@ -25,4 +25,4 @@ In this case, I'll share an article that the magazine dedicated to the _Raspberr
 
 **_PS:_** I encourage people to buy the publication If you can.
 
-Subscription: [Micro Mart](https://subscribe.micromart.co.uk/)
+Subscription: Micro Mart

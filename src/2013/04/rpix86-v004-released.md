@@ -43,7 +43,7 @@ Thanks a lot from a rpix86 mega-fan!
 
 ![smiley](/css/sm/smiling.png)
 
-Download: [PiStore](https://store.raspberrypi.com/projects/rpix86) | [rpix86 blog](https://rpix86.patrickaalto.com/rdown.html)
+Download: PiStore | [rpix86 blog](https://rpix86.patrickaalto.com/rdown.html)
 
 Link: [forum](https://www.raspberrypi.org/phpBB3/viewtopic.php?f=78&t=32934)
 

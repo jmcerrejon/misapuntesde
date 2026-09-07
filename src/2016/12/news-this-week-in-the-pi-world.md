@@ -37,7 +37,7 @@ Let's take a look at the best of the best in this week in the **Pi World** to fi
 
 -   **Lakka Christmas 2016 release** | [lakka.tv](https://www.lakka.tv/articles/2016/12/22/christmas-2016-release/)
 
--   **Animated Smart Elf on a Shelf with the Raspberry Pi Servo Controller** | [dexterindustries.com](https://www.dexterindustries.com/projects/animate-elf-shelf-raspberry-pi-servo-controller/)
+-   **Animated Smart Elf on a Shelf with the Raspberry Pi Servo Controller** | dexterindustries.com
 
 -   **WiFi-RC-Controller-With-Camera V2 (Youtube)** | [youtube.com](https://www.youtube.com/watch?v=yYZzXwDhog8&feature=youtu.be)
 
@@ -47,10 +47,10 @@ Let's take a look at the best of the best in this week in the **Pi World** to fi
 
 -   **Complete Course on Extreme Wi-Fi Hacking (Youtube)** | [youtube.com](https://www.youtube.com/watch?v=kT13fBe9hAM)
 
--   **Create Raspberry IoT project with Artik IoT platform** | [survivingwithandroid.com](https://www.survivingwithandroid.com/2016/12/artik-iot-platform-tutorial-raspberry.html)
+-   **Create Raspberry IoT project with Artik IoT platform** | survivingwithandroid.com
 
 -   **Raspberry Pi in 2017: New boards, new OSes and more** | [techrepublic.com](https://www.techrepublic.com/article/raspberry-pi-in-2017-new-boards-new-oses-and-more/#a-332d918f-c6f3-4541-86a1-14537924a173)
 
-Command of the week thanks to [@MyITInstructor](https://twitter.com/MyITInstructor/):
+Command of the week thanks to @MyITInstructor:
 
 I wish you a happy new year and I hope continue one year again, and you visit this blog :)

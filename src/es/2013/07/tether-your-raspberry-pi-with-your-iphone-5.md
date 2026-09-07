@@ -33,4 +33,4 @@ Para obtenerlo bajo consola, será cuestión de seguir unos pasos más.
 
 Por cierto, os recomiendo le echéis un vistazo a otros artículos que tiene en su blog. De los más interesantes que he visto últimamente.
 
-Enlace: [daveconroy.com - How to Tether Your Raspberry Pi with your iPhone 5](https://www.daveconroy.com/how-to-tether-your-raspberry-pi-with-your-iphone-5/)
+Enlace: daveconroy.com - How to Tether Your Raspberry Pi with your iPhone 5

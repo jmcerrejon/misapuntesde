@@ -30,7 +30,7 @@ I didn't forget [ZEsarUX](https://github.com/chernandezba/zesarux), I want to ke
 
 If you want some other alternatives to this emulator, I reviewed some emulators years ago in the post [Review: ZX Spectrum on Raspberry Pi](https://misapuntesde.com/2017/04/review-zx-spectrum-on-raspberry-pi.html).
 
-There are minor changes for Linux and RPi. In fact, there is no changes since 0.0.83, but the last version I've used was 0.0.64. If you want to know the changes, visit here the [changelog](https://bitbucket.org/djdron/unrealspeccyp/wiki/changelog).
+There are minor changes for Linux and RPi. In fact, there is no changes since 0.0.83, but the last version I've used was 0.0.64. If you want to know the changes, visit here the changelog.
 
 Keys in emulator:
 

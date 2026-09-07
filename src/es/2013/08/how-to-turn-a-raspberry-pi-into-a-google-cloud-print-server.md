@@ -31,6 +31,6 @@ Hay muchas posibilidades, como imprimir desde tu dispositivo móvil o tablet. Os
 
 Enlace: [howtogeek.com > How to Turn a Raspberry Pi into a Google Cloud Print Server](https://www.howtogeek.com/169566/how-to-turn-a-raspberry-pi-into-a-google-cloud-print-server/)
 
-Enlace: [Google Cloud Print drivers for Windows](https://tools.google.com/dlpage/cloudprintdriver)
+Enlace: Google Cloud Print drivers for Windows
 
 Enlace: [Aplicaciones compatibles con Google Cloud Print](https://www.google.com/cloudprint/learn/apps.html)

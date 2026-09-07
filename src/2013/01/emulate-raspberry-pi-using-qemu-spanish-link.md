@@ -20,4 +20,4 @@ It's unusual to find so many links in Spanish. I see that the Hispanic community
 
 In this case, the blog indicates a way to emulate the OS _Raspbian_ on a _PC_ with an application called _QEMU_ under _Windows_.
 
-Link: [social.unach.edu.ec](https://social.unach.edu.ec/raspberrypi/2013/01/11/raspberry-pi-utilizando-qemu/)
+Link: social.unach.edu.ec

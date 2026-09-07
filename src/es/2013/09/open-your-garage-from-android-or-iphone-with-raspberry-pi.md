@@ -27,6 +27,6 @@ Nos enseña a instalar el software necesario para que todo funcione. También te
 
 **ACTUALIZACIÓN 21/04/14:** Ya tienes disponible la segunda entrega.
 
-Enlace: [flu-project.com > Parte I](https://www.flu-project.com/abre-tu-garaje-desde-android-o-iphone-con-raspberry-pi-parte-i.html)
+Enlace: flu-project.com > Parte I
 
 Enlace: [flu-project.com > Parte II](https://www.flu-project.com/2014/04/abre-tu-garaje-desde-android-o-iphone.html)

@@ -35,6 +35,6 @@ I think this will bring a new world of possibilities for our Pi and interesting 
 
 Link: [recantha.co.uk](https://www.recantha.co.uk/blog/?p=7101)
 
-Link: [Wolfram|Alpha API](https://products.wolframalpha.com/api/)
+Link: Wolfram|Alpha API
 
 Forum: [raspberrypi.org > Mathematica](https://www.raspberrypi.org/phpBB3/viewforum.php?f=94&sid=c1197f61a119abf87346ee7a96ca4d37)

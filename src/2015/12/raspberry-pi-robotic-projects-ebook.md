@@ -27,4 +27,4 @@ Another gift from *Packtpub* (Santa is coming...). In this book you will learn:
 
 * Full of simple, easy-to-understand instructions to bring your Raspberry Pi online for developing robotics projects
 
-Download: [Packtpub.com](https://www.packtpub.com/packt/offers/free-learning)
+Download: Packtpub.com

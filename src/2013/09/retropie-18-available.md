@@ -29,7 +29,7 @@ Great news for the RetroPie followers. New version available with the next updat
 
 -   Updated Emulation Station, x86 emulator, and RetroArch to latest release
 
-Download: [SD Card image (1.3 GB)](https://blog.petrockblock.com/?wpdmdl=17) | [Script](https://blog.petrockblock.com/2012/07/22/retropie-setup-an-initialization-script-for-retroarch-on-the-raspberry-pi/)
+Download: [SD Card image (1.3 GB)](https://blog.petrockblock.com/?wpdmdl=17) | Script
 
 EXTRA!:
 

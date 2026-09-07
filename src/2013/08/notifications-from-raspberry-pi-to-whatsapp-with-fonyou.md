@@ -23,10 +23,10 @@ Interesting what I found searching the net. This is a system to notify any event
 
 ---
 
-The tutorials are made to be used with the [FonYou](https://www.fonyou.es) company, but I think it's not difficult to get the same result with other operators.
+The tutorials are made to be used with the FonYou company, but I think it's not difficult to get the same result with other operators.
 
 Link: [myworldraspberrypi > My raspberry Pi sending whatsapps](https://myworldraspberrypi.blogspot.com.es/2013/02/my-raspberry-pi-sending-whatsapps.html)
 
-Spanish Link: [portallinux.es > Notificaci&oacute;n de la temperatura de la CPU por WhatsApp](https://portallinux.es/raspberry-pi-notificacion-de-la-temperatura-de-la-cpu-por-whatsapp/)
+Spanish Link: portallinux.es > Notificaci&oacute;n de la temperatura de la CPU por WhatsApp
 
 Spanish Link: [rsppi > Uso de WhatsApp para el envio de notificaciones](https://rsppi.blogspot.com.es/2012/10/uso-de-whatsapp-para-el-envio-de.html)

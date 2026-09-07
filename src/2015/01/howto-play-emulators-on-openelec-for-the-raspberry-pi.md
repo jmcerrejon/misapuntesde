@@ -129,7 +129,7 @@ To copy the _ROMS_, we can activate _SAMBA_ protocol and copy from our Desktop c
 
 When playing, press **F1** to enter the options menu of the emulator, and to select an option, press the key **X**, to return to the previous menu, **Z**. Press **ESC** to exit the game.
 
-You can add more emulators. Go to project [lakkatv](https://github.com/lakkatv/Lakka/tree/lakka/packages/lakka) where you will find binaries, although I have not tried this method commented on the [forum](https://openelec.tv/forum/128-addons/72972-retroarch-addon-arm-rpi?start=90#124999), where you can also found _Amstrad, Amiga or ScummVM_ binaries.
+You can add more emulators. Go to project [lakkatv](https://github.com/lakkatv/Lakka/tree/lakka/packages/lakka) where you will find binaries, although I have not tried this method commented on the forum, where you can also found _Amstrad, Amiga or ScummVM_ binaries.
 
 You'll be looking forward to playing with _Joystick_. When you're in the game, plug your pad or joystick and press **F1** option and select _settings > input > Bind all_. You can import your _RetroPie_ configuration and overwrite _retroarch.cfg_ file in the following path: **/.kodi/userdata/addon_data/emulator.tools.retroarch/config/**
 
@@ -141,4 +141,4 @@ I hope you enjoy my first guide of the year ;)
 
 News source: [cria-o-teu-avatar.blogspot.com.br > Retroarch addon no OpenELEC para Raspberry Pi (Pt)](https://cria-o-teu-avatar.blogspot.com.br/2014/12/retroarch-addon-no-openelec-para.html)
 
-Forum: [RetroArch Addon (arm RPI)](https://openelec.tv/forum/128-addons/72972-retroarch-addon-arm-rpi)
+Forum: RetroArch Addon (arm RPI)

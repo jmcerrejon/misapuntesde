@@ -27,8 +27,8 @@ Aunque _Java_ sigue siendo el lenguaje de programación más utilizado muy a mi 
 
 Aún así se merece una oportunidad. La imagen pesa un poco. Ya me contaréis que os parece en los comentarios.
 
-Descarga: [pes-2014-09-22.img.gz (768 MB)](https://pes.mundayweb.com/downloads/pes-2014-09-22.img.gz)
+Descarga: pes-2014-09-22.img.gz (768 MB)
 
 Foro: [raspberrypi.org](https://www.raspberrypi.org/forums/viewtopic.php?f=78&t=87921)
 
-Enlace: [pes.mundayweb.com](https://pes.mundayweb.com/html/index.html)
+Enlace: pes.mundayweb.com

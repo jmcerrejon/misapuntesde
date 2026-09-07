@@ -39,7 +39,7 @@ A veces, incluso te da soluciones que no habías pensado (y al principio te da r
 
 Aunque no todo es tan bonito como parece, porque a veces te da soluciones que no son las mas óptimas, y te toca revisarlas (hay cientos de memes sobre esto, [aquí uno](https://www.reddit.com/r/ProgrammerHumor/comments/obmhe3/ngl_copilot_memes_are/) 😂 ). Pero bueno, es lo que hay este año. El que viene, ya veremos...
 
-Por cierto, en _VSCode_ recuerda instalar las dos extensiones esenciales para sacarle todo el provecho: _GitHub Copilot y GitHub Copilot chat_. También tienes a tu disposición una extensión para usarlo con [GitHub Codespaces](https://marketplace.visualstudio.com/items?itemName=GitHub.codespaces), que te permite usar _Copilot_ en la nube.
+Por cierto, en _VSCode_ recuerda instalar las dos extensiones esenciales para sacarle todo el provecho: _GitHub Copilot y GitHub Copilot chat_. También tienes a tu disposición una extensión para usarlo con GitHub Codespaces, que te permite usar _Copilot_ en la nube.
 
 Te recomiendo que mires las listas de reproducción del canal de [Visual Studio Code](https://www.youtube.com/@code/playlists). Te dejo algunos tips que uso en mi día a día:
 
@@ -91,11 +91,11 @@ _Imagina que tienes un *bot* que te ayuda a hacer tareas repetitivas, como por e
 
 En _Medium_ tienes un topic específico para esto y que puedes encontrar [aquí](https://medium.com/tag/ai-agent). Como referencia, el proyecto [AgentGPT](https://github.com/reworkd/AgentGPT) es un buen ejemplo de lo que te hablo.
 
-Si no tienes tiempo para dedicarlo a programar este tipo de agentes, tu solución puede estar en usar _LLM Pipelines_, que es un servicio que te permite crear agentes de AI sin tener que programar. Echa un vistazo a [este artículo](https://towardsdatascience.com/you-dont-need-an-llm-agent-333bf0eb1019) llamado _You Don’t Need an LLM Agent_.
+Si no tienes tiempo para dedicarlo a programar este tipo de agentes, tu solución puede estar en usar _LLM Pipelines_, que es un servicio que te permite crear agentes de AI sin tener que programar. Echa un vistazo a este artículo llamado _You Don’t Need an LLM Agent_.
 
 ¿Has oído hablar de los _Atomic Agents_? Son un nuevo tipo de agente de _AI_ que se puede usar para automatizar tareas de manera más eficiente. Puedes encontrar más información sobre ellos [aquí en Medium](https://generativeai.pub/forget-langchain-crewai-and-autogen-try-this-framework-and-never-look-back-e34e0b6c8068).
 
-Hoy he descubierto [SWE Development Kit (swekit)](https://docs.composio.dev/swekit/introduction). Es un framework poderoso para construir agentes de Ingeniería de Software utilizando el ecosistema de herramientas de _Composio_. Proporciona herramientas como _Github, Búsqueda en Repositorios, Gestor de Archivos, Gestor de Shell_, etc. Así que creo que es una buena herramienta si quieres construir tus propios agentes.
+Hoy he descubierto SWE Development Kit (swekit). Es un framework poderoso para construir agentes de Ingeniería de Software utilizando el ecosistema de herramientas de _Composio_. Proporciona herramientas como _Github, Búsqueda en Repositorios, Gestor de Archivos, Gestor de Shell_, etc. Así que creo que es una buena herramienta si quieres construir tus propios agentes.
 
 ## Como herramienta de aprendizaje
 
@@ -121,11 +121,11 @@ Dos alternativas destacadas son [Cursor](https://www.cursor.com) y [Bolt](https:
 
 El anteriormente mencionado _Sourcery_ también te puede ayudar en este sentido y es muy fácil implementarlo. Puedes ver la documentación para _VSCode_ [aquí](https://docs.sourcery.ai/Coding-Assistant/Guides/Getting-Started/VSCode/).
 
-¿Conoces [Continue](https://marketplace.visualstudio.com/items?itemName=Continue.continue)?. Es una extensión muy joven para _VSCode_ y _Jetbrains_ tipo _Copilot_, pero en local. Es decir, el modelo se lo debes suministrar tú usando _Ollama_ o similar (listado de modelos [aquí](https://docs.continue.dev/setup/select-model)). Puedes obtener mas info en su [Web](https://www.continue.dev).
+¿Conoces Continue?. Es una extensión muy joven para _VSCode_ y _Jetbrains_ tipo _Copilot_, pero en local. Es decir, el modelo se lo debes suministrar tú usando _Ollama_ o similar (listado de modelos aquí). Puedes obtener mas info en su [Web](https://www.continue.dev).
 
-Exísten muchas webs especializadas en AI para desarrolladores, como [Phind](https://www.phind.com), [Userway](https://userway.org/get/) , pero yo te recomiendo aquellas que puedas usar dentro de tu _IDE_, para que sea mas fácil de usar y "aprenda" a darte código acorde a tu espacio de trabajo.
+Exísten muchas webs especializadas en AI para desarrolladores, como Phind, [Userway](https://userway.org/get/) , pero yo te recomiendo aquellas que puedas usar dentro de tu _IDE_, para que sea mas fácil de usar y "aprenda" a darte código acorde a tu espacio de trabajo.
 
-Otras que no he probado, pero he escuchado que son buenas son: [codeium](https://codeium.com) y [supermaven](https://supermaven.com).
+Otras que no he probado, pero he escuchado que son buenas son: codeium y [supermaven](https://supermaven.com).
 
 ## Palabras finales
 

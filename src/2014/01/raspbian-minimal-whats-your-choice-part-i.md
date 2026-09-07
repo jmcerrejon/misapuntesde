@@ -63,7 +63,7 @@ Sometime as developer or admin with expertise, we need a distro with a few insta
 
 ### Raspbian Wheezy armhf Raspberry Pi minimal image
 
-**Direct Download:** [linuxsystems.it](https://files2.linuxsystems.it/raspbian_wheezy_20130923.img.7z)
+**Direct Download:** linuxsystems.it
 
 **Last file uploaded:** _raspbian_wheezy_20130923.img.7z (123.4 MB)_
 

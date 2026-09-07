@@ -33,7 +33,7 @@ En esta nueva versión tenemos:
 
 Si tienes la versión 0.7, con sólo ejecutar **_./update.sh_** actualizará la distribución.
 
-Descarga: [sourceforge.net - PiMAME 0.7.6.](https://sourceforge.net/projects/pimame/files/pimame-0.7.6.img.zip/download)
+Descarga: sourceforge.net - PiMAME 0.7.6.
 
 ¡EXTRA!:
 

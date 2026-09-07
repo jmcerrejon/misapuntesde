@@ -27,4 +27,4 @@ Our friend from _Diverteka_ posted an article about streaming _TV_ channels. As 
 
 We can see the _TV_ from any web browser in the tablet, mobile phone,...
 
-Link translated: [Diverteka](https://translate.google.com/translate?sl=en&tl=es&js=n&prev=_t&hl=es&ie=UTF-8&u=http%3A%2F%2Fwww.diverteka.com%2F%3Fp%3D1750)
+Link translated: Diverteka

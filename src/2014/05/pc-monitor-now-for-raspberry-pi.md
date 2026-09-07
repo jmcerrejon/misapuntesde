@@ -23,7 +23,7 @@ _PC Monitor gives you complete control of your computers and applications from a
 
 ---
 
-You must create an account [here](https://www.mobilepcmonitor.com/account/register) and generate a configuration file in _/etc/pcmonitor_ (in the same directory you have an example). You have a mobile app to monitor any device and need to install the program in Raspberry that collect the data. The free version allows you to monitor up to 5 devices.
+You must create an account here and generate a configuration file in _/etc/pcmonitor_ (in the same directory you have an example). You have a mobile app to monitor any device and need to install the program in Raspberry that collect the data. The free version allows you to monitor up to 5 devices.
 
 The functions include information about:
 
@@ -41,4 +41,4 @@ The functions include information about:
 
 -   Send commands to Restart/Shut Down the Pi
 
-Download: [mobilepcmonitor.com](https://www.mobilepcmonitor.com/downloads)
+Download: mobilepcmonitor.com

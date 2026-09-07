@@ -19,4 +19,4 @@ og_image: /images/benchmark.jpg
 
 ![benchmarks](/images/benchmark.jpg)
 
-We continue on [crouch.com](https://trouch.com/2013/01/12/raspberry-pi-benchmark/) to show you a series of benchmarks by _Eric_, and demonstrate that curiously, _Java_ is more optimized than _Python_.
+We continue on crouch.com to show you a series of benchmarks by _Eric_, and demonstrate that curiously, _Java_ is more optimized than _Python_.

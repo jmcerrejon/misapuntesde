@@ -27,7 +27,7 @@ A user of [this](https://www.raspberrypi.org/phpBB3/viewtopic.php?f=63&t=29809) 
 -   ZX Spectrum
 -   DOS / Windows 3.1
 -   Commodore 64
--   Apple] [
+-   Apple] 
 -   Oric 1
 -   Atari 2600
 -   ScummVM
@@ -37,8 +37,8 @@ The sound is not very good, but that's we know because the sound card and the su
 
 Enjoy!
 
-Web: [chameleon.enging.com](https://chameleon.enging.com)
+Web: [chameleon.enging.com
 
-Torrent: [torrent](https://chameleon.enging.com/chameleon.img.bz2.torrent)
+Torrent: torrent
 
 Source: [raspi.tv](https://raspi.tv/2013/emulators-galore-on-one-raspbian-image)

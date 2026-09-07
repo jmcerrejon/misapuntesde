@@ -36,4 +36,4 @@ og_image: /images/2017/01/kali.png
 
 * Document, report, and present your verified test results to the relevant authorities in a formal reporting structure.
 
-Download: [packtpub.com](https://www.packtpub.com/packt/offers/free-learning)
+Download: packtpub.com

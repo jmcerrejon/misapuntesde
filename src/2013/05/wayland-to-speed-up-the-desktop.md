@@ -32,4 +32,4 @@ _Wayland_ core running on the video as we mentioned, but in parallel to _OpenGL 
 
 This will be implemented before the end of year, and we will be able to _"play"_ with it in the next version of Raspbian before launch the final release.
 
-Link: [raspberrypi.org](https://www.raspberrypi.org/archives/4053)
+Link: raspberrypi.org

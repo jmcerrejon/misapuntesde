@@ -23,4 +23,4 @@ In December last year, the company _Xindawn_ caught the attention of all of us b
 
 It seems to be online again so you can download the software for _Raspbian_ version. Maybe its the time to make a copy before they disappear again...
 
-Link: [xindawn.com](https://www.xindawn.com/bbs/viewtopic.php?f=5&t=9&sid=33bae6a81e421af25696f3a69f3029cb)
+Link: xindawn.com

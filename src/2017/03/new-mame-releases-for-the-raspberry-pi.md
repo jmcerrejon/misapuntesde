@@ -25,7 +25,7 @@ It seems _Shea Silverman_ upload a [compiled version](https://blog.sheasilverman
 
 ---
 
-In my case, I took advantage to include in the project [PiKISS](https://github.com/jmcerrejon/PiKISS) not only _Advance MAME_, but also **MAME 0.183** compiled the last month by [choccyhobnob.com](https://choccyhobnob.com/mame-0-183-for-raspberry-pi-macos/), so you will not have to deal with any dependency to enjoy it. ~~I hope to update the script today. I'l having problems with GCC dependencies.~~
+In my case, I took advantage to include in the project [PiKISS](https://github.com/jmcerrejon/PiKISS) not only _Advance MAME_, but also **MAME 0.183** compiled the last month by choccyhobnob.com, so you will not have to deal with any dependency to enjoy it. ~~I hope to update the script today. I'l having problems with GCC dependencies.~~
 
 ![All MAME versions on PiKISS!](/images/2017/03/mame_piKiss.png "All MAME versions on PiKISS!")
 

@@ -53,7 +53,7 @@ apk -e info nano # Shows if nano package is installed
 apk stats # Packet statistics
 ```
 
-If you want to check the packages from the comfort of your web browser, you can visit [alpine.pkgs.org](https://alpine.pkgs.org/).
+If you want to check the packages from the comfort of your web browser, you can visit alpine.pkgs.org.
 
 ### [ Upgrading to latest release ]
 

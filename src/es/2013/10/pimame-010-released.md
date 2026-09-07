@@ -27,7 +27,7 @@ Lo más interesante de esta versión es que tiene un video como boot splash y la
 
 ¡EXTRA!:
 
-<a href="https://n64.freeroms.com/n64-roms/2/starfox64.zip">![Starfox 64](/images/2013/10/starfox64.jpg "¡Descarga y juega StarFox 64!")</a>
+![Starfox 64](/images/2013/10/starfox64.jpg "¡Descarga y juega StarFox 64!")
 
 Enlace: [sourceforge.net > pimame-0.7.10.img.zip](https://sourceforge.net/projects/pimame/files/pimame-0.7.10.img.zip/download)
 

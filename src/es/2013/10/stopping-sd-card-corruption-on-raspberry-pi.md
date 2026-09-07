@@ -29,4 +29,4 @@ Afortunadamente estos casos cada vez se dan menos, pero siempre viene bien poder
 
 He leído gracias al _Twitter_ de [@raspipc](https://twitter.com/raspipc) un artículo sobre como detener la corrupción de datos en _Raspbian_. Recomendado para todo el mundo.
 
-Enlace: [ideaheap.com > Stopping SD Card Corruption on Raspberry Pi’s Raspbian](https://www.ideaheap.com/2013/07/stopping-sd-card-corruption-on-a-raspberry-pi/)
+Enlace: ideaheap.com > Stopping SD Card Corruption on Raspberry Pi’s Raspbian

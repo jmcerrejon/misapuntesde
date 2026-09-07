@@ -27,4 +27,4 @@ El cambio más notable es el paso a XBMC Kodi 15.2. Actualizaciones de librería
 
 Al parcer hay problemas si quieres compartir mediante Samba ficheros a través de la red reproduciendo ficheros _mkv_, según reporta un usuario en los comentarios de la noticia.
 
-Descarga: [openelec.tv](https://openelec.tv/get-openelec)
+Descarga: openelec.tv

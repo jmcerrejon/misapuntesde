@@ -23,7 +23,7 @@ Complete Restaurant/Bar - Retail Store Point Of Sale (POS) and store management 
 
 ---
 
-This is where the guys from [YoungPOS](https://www.youngpos.vn/index-en.htm) present their mixture of hard/soft, governed by a _Raspberry Pi_ to lower the cost of the hardware if you're starting a business (or someone close to you)...
+This is where the guys from YoungPOS present their mixture of hard/soft, governed by a _Raspberry Pi_ to lower the cost of the hardware if you're starting a business (or someone close to you)...
 
 More info:
 

@@ -45,8 +45,8 @@ demi = 0.125 * speed
 hemi = 0.0625 * speed
 ```
 
-Still do not know what new features will have this new version, but in the article on [The Mag Pi](https://www.themagpi.com/issue/issue-23/) last month you can read a full article.
+Still do not know what new features will have this new version, but in the article on The Mag Pi last month you can read a full article.
 
-Link: [sonic-pi.net prerelease](https://sonic-pi.net/get-v2.0)
+Link: sonic-pi.net prerelease
 
 Link: [cl.cam.ac.uk > Sonic Pi](https://www.cl.cam.ac.uk/projects/raspberrypi/sonicpi/index.html)

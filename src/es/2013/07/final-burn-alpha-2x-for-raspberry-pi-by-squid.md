@@ -25,15 +25,15 @@ Dignos sucesores han sido [Winkawaks](https://cps2shock.emu-france.info/) para _
 
 ---
 
-_Squid_, que nos ha traído emuladores como [mame4all-pi](https://code.google.com/p/mame4all-pi/) o [pisnes](https://code.google.com/p/pisnes/), ahora nos deleita con este nuevo port. La emulación es perfecta y estoy deseando probarlo :D
+_Squid_, que nos ha traído emuladores como mame4all-pi o [pisnes](https://code.google.com/p/pisnes/), ahora nos deleita con este nuevo port. La emulación es perfecta y estoy deseando probarlo :D
 
-Enlace: [Raspberry Pi App Store](https://store.raspberrypi.com/projects/pifba)
+Enlace: Raspberry Pi App Store
 
 Enlace: [code.google.com - PiFBA](https://code.google.com/p/pifba/)
 
-Enlace: [Lista de juegos compatibles en hoja de cálculo .xls](https://www.denki-den.com/tmp/retroarch-wii/fba_compat_list.xls)
+Enlace: Lista de juegos compatibles en hoja de cálculo .xls
 
-Enlace: [ROMs desde kawaks.net (Borrar después de 24 horas bla, bla, bla)](https://www.kawaks.net/index.html) Usuario: bugme-not | Contraseña: bugmenot
+Enlace: ROMs desde kawaks.net (Borrar después de 24 horas bla, bla, bla) Usuario: bugme-not | Contraseña: bugmenot
 
 ¡EXTRA!:
 

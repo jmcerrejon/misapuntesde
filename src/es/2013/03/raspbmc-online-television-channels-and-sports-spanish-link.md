@@ -19,6 +19,6 @@ og_image: /images/xbmc.jpg
 
 ![raspxbmc](/images/xbmc.jpg)
 
-Un comentario en mi [Google Docs](https://goo.gl/Iwhbq) me ha hecho conocer esta web, su [tienda](https://www.goshield.es/es/39-raspberry-pi) y un tutorial muy interesante sobre cómo ver canales de televisión y de deporte como Gol televisión con un plugin adaptado llamado rmtpGUI+
+Un comentario en mi [Google Docs](https://goo.gl/Iwhbq) me ha hecho conocer esta web, su tienda y un tutorial muy interesante sobre cómo ver canales de televisión y de deporte como Gol televisión con un plugin adaptado llamado rmtpGUI+
 
-Enlace: [blog goshield](https://blog.goshield.es/2013/02/raspmbc-canales-de-television-online-y.html)
+Enlace: blog goshield

@@ -27,8 +27,8 @@ Although _Java_ is still the programming language most widely used in spite of m
 
 Still deserves a chance. The image weighs a little already. Tell me what you think in the comments.
 
-Download: [pes-2014-09-22.img.gz (768 MB)](https://pes.mundayweb.com/downloads/pes-2014-09-22.img.gz)
+Download: pes-2014-09-22.img.gz (768 MB)
 
 Forum: [raspberrypi.org](https://www.raspberrypi.org/forums/viewtopic.php?f=78&t=87921)
 
-Link: [pes.mundayweb.com](https://pes.mundayweb.com/html/index.html)
+Link: pes.mundayweb.com

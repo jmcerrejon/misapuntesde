@@ -47,8 +47,8 @@ Enjoy!
 
 **NOTE:** Thanks to user _Pickle_ for his collaboration.
 
-Download: [uploaded.to > Hurrican_Pi.tar.gz (41.8 MB)](https://ul.to/d7wrn035)
+Download: uploaded.to > Hurrican_Pi.tar.gz (41.8 MB)
 
-Link: [Hurrican website](https://www.poke53280.de)
+Link: Hurrican website
 
 Link: [phoronix.com > forum > Hurrican SDL Port](https://phoronix.com/forums/showthread.php?69804-Hurrican-SDL-Port)

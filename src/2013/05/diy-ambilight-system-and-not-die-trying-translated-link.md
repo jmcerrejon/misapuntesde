@@ -24,4 +24,4 @@ I think a good resource to mount yours is in this link that I propose.
 
 Do you have one installed or plan to do someday? Tell us in the comments.
 
-Link translated: [grabthiscode.com](https://translate.google.com/translate?sl=es&tl=en&js=n&prev=_t&hl=es&ie=UTF-8&eotf=1&u=http%3A%2F%2Fwww.grabthiscode.com%2Fdiy%2Fcomo-montar-tu-sistema-ambilight-en-casa-y-no-morir-en-el-intento%2F)
+Link translated: grabthiscode.com

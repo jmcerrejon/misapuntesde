@@ -21,7 +21,7 @@ og_image: /images/2017/06/kodi.png
 
 La semana pasada hubo un tema bastante controvertido dentro de la scene de este reproductor multimedia. Los add-ons más famosos para ver canales de TV online, torrents y demás contenido, **desaparecían sin dejar rastro**.
 
-Por supuesto son una parte importante de Kodi, pero no es para lo que fue creado. Como siempre digo, a rey muerto, rey puesto. Dudo que sea el fin de _Kodi_. De hecho, no uso ningún addon, aunque algunas veces he instalado [pelisalacarta](https://github.com/tvalacarta/pelisalacarta) ~~que según me comentan, **también desaparecerá el próximo 30 de Junio**.~~
+Por supuesto son una parte importante de Kodi, pero no es para lo que fue creado. Como siempre digo, a rey muerto, rey puesto. Dudo que sea el fin de _Kodi_. De hecho, no uso ningún addon, aunque algunas veces he instalado pelisalacarta ~~que según me comentan, **también desaparecerá el próximo 30 de Junio**.~~
 
 **ACTUALIZACIÓN:** Tras varios rumores Jesús, el desarrollador de _pelisalacarta_, **me confirma que no cierra**, pero cambia ligeramente. Lee el comunicado [aquí](https://www.mimediacenter.info/foro/viewtopic.php?f=6&t=13056).
 

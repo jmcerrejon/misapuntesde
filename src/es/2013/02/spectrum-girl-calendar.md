@@ -23,4 +23,4 @@ Los que vivimos la época del _Spectrum_, soñamos muchas veces con las chicas d
 
 He encontrado un calendario del 2013 con las chicas más sexy del Spectrum. ¡A disfrutar! (pero no demasiado) ;)
 
-Enlace: [Calendario](https://dl.dropbox.com/u/15307433/calendario-retro-spectrum-Tias-2013.pdf)
+Enlace: Calendario

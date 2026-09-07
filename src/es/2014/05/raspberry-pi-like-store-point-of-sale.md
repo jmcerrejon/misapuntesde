@@ -37,7 +37,7 @@ Según fuentes cercanas de una empresa que se dedica a vender este tipo de produ
 
 -   Aplicación TPV. Desde gratuíta a algunas de 200 Euros. Instalación aparte.
 
-Los chicos encargados de esta unión soft/hard se llaman [YoungPOS](https://www.youngpos.vn/index-en.htm) y hablamos de un software con un hardware específico para realizar las tareas de punto de venta y llevar los pedidos de las mesas e incluiría la impresora de tickets y de cocina, escáner de código de barras, tarjetero, caja y pantalla táctil entre otros, como vemos en el diagrama que encabeza el artículo.
+Los chicos encargados de esta unión soft/hard se llaman YoungPOS y hablamos de un software con un hardware específico para realizar las tareas de punto de venta y llevar los pedidos de las mesas e incluiría la impresora de tickets y de cocina, escáner de código de barras, tarjetero, caja y pantalla táctil entre otros, como vemos en el diagrama que encabeza el artículo.
 
 Tenéis más información en los siguientes enlaces:
 

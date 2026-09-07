@@ -46,7 +46,7 @@ A continuación expondré las aplicaciones que a título personal, me parecen la
 
 * Más de **100 millones de llamadas de vídeo** y más de **200 millones de mensajes de voz** se envían diariamente.
 
-El problema principal es que *WhatsApp* no posee aplicación nativa para *Tablets*, por lo que tenemos que buscar alternativas como la que os presento a continuación. Se trata de [WhatsApp para tablets](https://whatsapp.descargar.mobi/whatsapp-para-tablet/), que es una de las más usadas hasta el momento y que te permitirá todas las bondades de su aplicación oficial: envío de fotos o vídeos, notas de voz, tarjetas de contacto, llamadas entre amigos y familiares y un buen nivel de personalización para que puedas incluso ponerle un fondo a las conversaciones acorde a tus preferencias. Lo mejor: **es completamente gratis.**
+El problema principal es que *WhatsApp* no posee aplicación nativa para *Tablets*, por lo que tenemos que buscar alternativas como la que os presento a continuación. Se trata de WhatsApp para tablets, que es una de las más usadas hasta el momento y que te permitirá todas las bondades de su aplicación oficial: envío de fotos o vídeos, notas de voz, tarjetas de contacto, llamadas entre amigos y familiares y un buen nivel de personalización para que puedas incluso ponerle un fondo a las conversaciones acorde a tus preferencias. Lo mejor: **es completamente gratis.**
 
 ![telegram](/images/2017/03/telegram.png)
 
@@ -64,7 +64,7 @@ El problema principal es que *WhatsApp* no posee aplicación nativa para *Tablet
 
 * Google Hangouts: Vale, tal vez esta plataforma nos permita más que nada mantener conversaciones de audio y vídeo, pero también permite chatear. Creo que teniendo más opciones que el contrincante anterior, sería un claro ganador porque viene preinstalado la mayoría de las veces en nuestros dispositivos Android, funciona bien, consume pocos recursos y lo bueno es que las videoconferencias funcionan bastante bien y con una calidad más que decente. Como punto negativo es que necesitas la cuenta de *Google* y la cuenta de *Google* de tus amigos, cosa que no todos tenemos. Para mí, tiene el mismo nivel y prestaciones que Skype, por lo que sería la solución ideal para conversaciones de empresa.
 
-Nada más a destacar por mi parte. Me dejo en el tintero algunas aplicaciones de operadoras u otras también que tuvieron sus días de gloria, pero lo dejo para otro post. Puedes ver la lista de aplicaciones que puedes instalar en [este enlace](https://play.google.com/store/apps/category/COMMUNICATION/collection/topselling_free?hl=es) pero lo más destacado ya lo has podido leer hoy aquí.
+Nada más a destacar por mi parte. Me dejo en el tintero algunas aplicaciones de operadoras u otras también que tuvieron sus días de gloria, pero lo dejo para otro post. Puedes ver la lista de aplicaciones que puedes instalar en este enlace pero lo más destacado ya lo has podido leer hoy aquí.
 
 Gracias por leerlo y mañana os compensaré con alguna noticia interesante sobre las placas de desarrollo.
 

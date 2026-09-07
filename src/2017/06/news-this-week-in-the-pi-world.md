@@ -35,7 +35,7 @@ I'm going in a hurry today. Who would say it about a person who **turns forty**.
 
 -   **Raspberry Pi wins the MacRobert Award** | [raeng.org.uk](https://www.raeng.org.uk/grants-and-prizes/prizes-and-medals/awards/the-macrobert-award)
 
--   **The most affordable high-performance DIY 8TB NAS** | [com.odroid.com](https://com.odroid.com/sigong/blog/blog_list.php?bid=185)
+-   **The most affordable high-performance DIY 8TB NAS** | com.odroid.com
 
 ![computemodule](/images/2017/06/computemodule.png)
 

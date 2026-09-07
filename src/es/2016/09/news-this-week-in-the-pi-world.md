@@ -33,7 +33,7 @@ _Quien no asume grandes riesgos, jamás obtendrá grandes recompensas_, así que
 
 -   **Meet BeagleBone™ Black Wireless, the newest board in the BeagleBone™ family:** Al final tendré que fiarme una de estas plaquitas. Ahora delgaditas y con WiFi incorporado. ¡Móntense en una chiva y comprela! | [beagleboard.org](https://beagleboard.org/blog/2016-09-26-meet-beaglebone-black-wireless/)
 
--   **Make Simple GUIs with the Raspberry Pi using EasyGUI:** Mi proyecto [PiKISS](https://github.com/jmcerrejon/PiKISS) está aún en las cavernas con un entorno no muy lindo... ¡Puya al burro, pues!. A ver si con _EasyGUI_ lo dejo requetelindo. | [raspberrypi.about.com](https://raspberrypi.about.com/od/Projects/ss/Make-Simple-GUIs-with-the-Raspberry-Pi-using-EasyGUI.htm)
+-   **Make Simple GUIs with the Raspberry Pi using EasyGUI:** Mi proyecto [PiKISS](https://github.com/jmcerrejon/PiKISS) está aún en las cavernas con un entorno no muy lindo... ¡Puya al burro, pues!. A ver si con _EasyGUI_ lo dejo requetelindo. | raspberrypi.about.com
 
 -   **How to Build Your Own Penetration Testing Drop Box:** Todos nos hemos querido sentir un poco hacker alguna vez, pero ya basta de intentarlo, so huevón. Ponte ya a hacer algo con tu vida y no me seas un pendejo mal parido. Con esta guía podrás usar tu placa favorita con la distro _Kali_, claro que le podrían haber cambiado el nombre a la distro. No me gusta lo que se cuece allí. | [blackhillsinfosec.com](https://www.blackhillsinfosec.com/?p=5156)
 

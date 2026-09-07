@@ -41,7 +41,7 @@ El sábado pasado fue el [día mundial de la copia de seguridad](https://www.wor
 
 -   **Cross Compiling For Raspbian:** Ya no hace falta compilar en la Pi y llevarte una hora para que luego falle. La primera parte la puedes encontrar [aquí](https://www.get-edi.io/Compiling-for-Embedded-Debian-Target-Systems/). | [get-edi.io](https://www.get-edi.io/Cross-Compiling-for-Raspbian/)
 
--   **No Keyboard, Ethernet & Monitor: Setting up Raspberry Pi in headless Mode:** Pues eso, me ha servido para configurar mi Pi sin tener que enchufarla via _Ethernet_ y demás historias cuando usas un _Raspbian_ recién instalado. | [steinacoz.com](https://steinacoz.com/keyboard-ethernet-monitor-setting-up-raspberry-pi-headless-mode/)
+-   **No Keyboard, Ethernet & Monitor: Setting up Raspberry Pi in headless Mode:** Pues eso, me ha servido para configurar mi Pi sin tener que enchufarla via _Ethernet_ y demás historias cuando usas un _Raspbian_ recién instalado. | steinacoz.com
 
 -   **An Amiga 500 for the 21st century:** Algunos de vosotros que me seguís hace tiempo sabréis que siempre quise tener un _Amiga 500_. Al final me decanté por un _PC/286_ y estos tutoriales me dan ganas de comprar uno por internet y ver qué es capaz de hacer con una Pi conectada. En este tutorial funciona incluso la disquetera. Como, ¿No sabes qué es una disquetera?. Buff!. | [hackaday.com](https://hackaday.com/2018/03/25/an-amiga-500-for-the-21st-century/)
 

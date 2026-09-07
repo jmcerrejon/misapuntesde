@@ -53,7 +53,7 @@ Como curiosidad, comentar que el precio de la **ODROID C1+ ha descendido a 32$**
 
 En conclusión, pienso que la _Pi3_ ha generado bastante _hype_ y por un rendimiento algo mejor (no tanto como proclaman según he leído), no merece el cambio si posees un modelo anterior. Mi compañero _Manuti_ tiene un artículo interesante que las compara [aquí](https://raspberryparatorpes.net/hardware/raspberry-pi-3-vs-odroid-c2-duelo-en-64bits/). _HardKernel_ debe bajar el precio de los gastos de envío de alguna manera. Creo que es la única manera de llegar a mas público y mantener una comunidad tan sólida como tiene su competidor.
 
-Compra: [hardkernel.com > Distribuitors](https://www.hardkernel.com/main/distributor.php)
+Compra: hardkernel.com > Distribuitors
 
 Enlace: [odroid.com > dokuwiki](https://odroid.com/dokuwiki/doku.php?id=en:odroid-c2)
 

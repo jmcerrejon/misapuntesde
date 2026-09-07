@@ -23,4 +23,4 @@ Today is one of those days that excites me. First, today Canonical released a ne
 
 Second because the tutorial that I found today is on diet Raspbian distribution for those who do not get into _LXDE_ for anything, and we connected our Raspi _Ethernet_ cable. These are simple steps, and you lose nothing to try the script that have _element14_ forum.
 
-Link: [Element14](https://www.element14.com/community/blogs/mirandasoft/2013/04/20/raspberry-pi-making-raspbian-os-lite-under-500mb)
+Link: Element14

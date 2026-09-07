@@ -21,8 +21,8 @@ og_image: /images/passwd_02.jpg
 
 Mientras me voy recuperando de un virus que me impide salir de la cama y termino varios artículos interesantes que os había prometido, os dejo con el blog de mi amigo _Bart_ unos enlaces muy interesantes sobre seguridad en la _Raspberry Pi_.
 
-Enlace: [bartbania.com > Raspberry Pi: Initial Setup (Security – Part I)](https://www.bartbania.com/index.php/security2/)
+Enlace: bartbania.com > Raspberry Pi: Initial Setup (Security – Part I)
 
-Enlace: [bartbania.com > Raspberry Pi: iptables (Security – Part II)](https://www.bartbania.com/index.php/iptables-security-part-ii/)
+Enlace: bartbania.com > Raspberry Pi: iptables (Security – Part II)
 
-Enlace: [bartbania.com > Raspberry Pi: fail2ban (Security – Part III)](https://www.bartbania.com/index.php/fail2ban-security-part-iii/)
+Enlace: bartbania.com > Raspberry Pi: fail2ban (Security – Part III)

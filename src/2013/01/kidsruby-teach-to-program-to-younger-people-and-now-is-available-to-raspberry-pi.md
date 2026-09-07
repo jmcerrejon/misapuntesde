@@ -27,6 +27,6 @@ These initiatives are those that lead to the founding creator of the Raspberry P
 
 Kidsruby is a programming environment for kids. It is available in several languages (including Spanish) and a version for our beloved Raspi is available now.
 
-Link: [Kidsruby about](https://kidsruby.com/about)
+Link: Kidsruby about
 
-Package: [.deb](https://s3.amazonaws.com/kidsruby/raspbian/kidsruby-1.3.2-armv6l.deb)
+Package: .deb

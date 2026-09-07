@@ -23,7 +23,7 @@ Tenemos disponible una nueva versión del mejor _Mediacenter_ que podemos tener 
 
 ---
 
-Os paso a resumir las que considero interesantes para nuestra RasPi. Las demás las podéis leer en su [web](https://openelec.tv/news/22-releases/107-openelec-3-2-0-released):
+Os paso a resumir las que considero interesantes para nuestra RasPi. Las demás las podéis leer en su web:
 
 -   Muchas mejoras de características y correcciones de errores para XBMC Frodo, incluyendo un número de backports de Gotham y **mejoras de velocidad para los usuarios Raspberry Pi**
 
@@ -51,4 +51,4 @@ El cambio más visible son los nuevos ajustes de _addon_ y las mejoras en el asi
 
 Podéis actualizar directamente si tenéis activa la opción _auto-update_ o descargar la nueva imagen.
 
-Enlace: [OpenELEC-RPi.arm-3.2.0.img.zip (92 MB)](https://resources.pichimney.com/OpenELEC/official_images/OpenELEC-RPi.arm-3.2.0.img.zip)
+Enlace: OpenELEC-RPi.arm-3.2.0.img.zip (92 MB)

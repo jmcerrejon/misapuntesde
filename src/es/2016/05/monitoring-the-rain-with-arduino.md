@@ -23,4 +23,4 @@ Bueno, ya he sobrepasado los 700 post en el blog y dentro de muy poco sobrepasar
 
 Hoy os voy a recomendar así de pasada un artículo que me ha gustado por lo sencillo y original. Se trata de usar un sensor de lluvia para abrir/cerrar el techo de una terraza usando _Arduino_ y lo mejor, que el artículo está en español.
 
-Enlace: [domoticadiy.com](https://www.domoticadiy.com/monitorizando-la-lluvia/)
+Enlace: domoticadiy.com

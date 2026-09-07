@@ -23,4 +23,4 @@ _FresyMetal_ returns with another interesting tutorial that uses an ultrasound s
 
 Thanks _Nacho_.
 
-Translated Link: [fresymetal.com](https://translate.google.com/translate?sl=es&tl=en&js=n&prev=_t&hl=es&ie=UTF-8&u=http%3A%2F%2Fwww.fresymetal.com%2Fcomo-medir-distancias-en-raspberry-con-sensor-de-ultrasonidos%2F)
+Translated Link: fresymetal.com

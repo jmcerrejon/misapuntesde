@@ -21,4 +21,4 @@ og_image: /images/magpi13.jpg
 
 We have a few days the new issue of the magazine **_The MagPi_**. From what I've been able to view, there's a contest for you to play a _Raspberry Pi_. We also have an article about making music with _Schism_, _Elite_ for _RiscOS_, follow programming with _Scratch_ and also continue with the course of _Python_.
 
-Link: [The MagPi](https://www.themagpi.com/en/issue/13)
+Link: The MagPi

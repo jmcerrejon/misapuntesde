@@ -30,11 +30,11 @@ og_image: /images/2018/01/rpi_car.png
 
 ![libreelec.png](/images/2017/05/libreelec.png)
 
-* **LibreELEC (Krypton) 8.2.3 MR:** Hacía ya tiempo que no me daba por buscar información sobre este *Media Center* que corrige algunos errores con *Samba*. | [libreelec.tv](https://libreelec.tv/2018/01/libreelec-krypton-8-2-3-mr/)
+* **LibreELEC (Krypton) 8.2.3 MR:** Hacía ya tiempo que no me daba por buscar información sobre este *Media Center* que corrige algunos errores con *Samba*. | libreelec.tv
 
 ![dietpi_logo](/images/2018/01/dietpi_logo.jpg)
 
-* **DietPi v6.0:** Si tienes que montar un servidor o necesitas el sistema operativo mas rápido, DietPi basado en Debian Stretch es para tí. Dentro de muy poco sacarán una nueva versión muy optimizada. Si ya la tienes instalada, deberás bajarla de nuevo ya que no se actualizará debido a los grandes cambios que tiene. | [github.com](https://github.com/Fourdee/DietPi/issues/1355#issue-285207849)
+* **DietPi v6.0:** Si tienes que montar un servidor o necesitas el sistema operativo mas rápido, DietPi basado en Debian Stretch es para tí. Dentro de muy poco sacarán una nueva versión muy optimizada. Si ya la tienes instalada, deberás bajarla de nuevo ya que no se actualizará debido a los grandes cambios que tiene. | github.com
 
 ![pine64_hdr](/images/2018/01/pine64_hdr.png)
 
@@ -48,7 +48,7 @@ og_image: /images/2018/01/rpi_car.png
 
 * **The MagPi num 66:** Tienes para no aburrirte. Media centers, culter de SBC, | [raspberrypi.org/magpi](https://www.raspberrypi.org/magpi/issues/66/)
 
-* **Raspberry Pi Zero WiFi Car:** Simple y conciso. Este DIY parece tan fácil que querrás hacerte uno en este fin de semana. ¿Te atreves? | [omkarjr.in](https://omkarjr.in/posts/projects/Rpi0-WiFi/)
+* **Raspberry Pi Zero WiFi Car:** Simple y conciso. Este DIY parece tan fácil que querrás hacerte uno en este fin de semana. ¿Te atreves? | omkarjr.in
 
 
 

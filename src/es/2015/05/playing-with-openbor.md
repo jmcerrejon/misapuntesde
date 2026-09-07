@@ -47,7 +47,7 @@ cd openbor
 
 ![estructura](/images/2015/05/openbor_structure.png)
 
-Dentro encontraréis los ejecutables para vuestro sistema favorito. Os toca buscar [por internet](https://mega.co.nz/#F!4xMgTDTA!bnfrA4RapYRvS31jSak3IQ) los ficheros _.pak_ y copiarlos en la carpeta **Paks/**.
+Dentro encontraréis los ejecutables para vuestro sistema favorito. Os toca buscar por internet los ficheros _.pak_ y copiarlos en la carpeta **Paks/**.
 Una vez copiados, ejecutad el script del directorio raíz llamado **./unpak.sh**
 
 ![OpenBOR_SuperH](/images/2015/05/seyia.jpg)
@@ -75,4 +75,4 @@ Ya puedes pegarle yoyas a todo el que se te ponga por delante. Si algún lector 
 
 Enlace: [raspberrypi.org > Street Of Rage Remake](https://www.raspberrypi.org/forums/viewtopic.php?f=78&t=26859&sid=d78d6f6af03fcd57177ac469c5a8ec96)
 
-MODs: [mega.co.nz > OpenBOR games](https://mega.co.nz/#F!4xMgTDTA!bnfrA4RapYRvS31jSak3IQ)
+MODs: mega.co.nz > OpenBOR games

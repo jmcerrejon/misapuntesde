@@ -43,7 +43,7 @@ Alguna de sus características:
 
 -   Plex Media Server para streaming de video
 
-Uno de los servicios con los que quiero "jugar" es el de descarga automática de mis series favoritas vía _torrent_ usando [SickRage](https://github.com/SiCKRAGETV/SickRage) o [CouchPotato](https://couchpota.to/). Hace poco me lo pidieron por correo electrónico y nunca me he puesto a configurar automáticamente mi RPi para estos menesteres, ya que suelo descargar desde [uploaded.net](https://ul.to/ref/8900882), para mí el rey indiscutible de este tipo de servicio.
+Uno de los servicios con los que quiero "jugar" es el de descarga automática de mis series favoritas vía _torrent_ usando [SickRage](https://github.com/SiCKRAGETV/SickRage) o [CouchPotato](https://couchpota.to/). Hace poco me lo pidieron por correo electrónico y nunca me he puesto a configurar automáticamente mi RPi para estos menesteres, ya que suelo descargar desde uploaded.net, para mí el rey indiscutible de este tipo de servicio.
 
 ¿Os interesaría algún tutorial sobre descargas automáticas de vuestras series favoritas?. ¿Qué método usáis actualmente para descargar vuestras series?
 

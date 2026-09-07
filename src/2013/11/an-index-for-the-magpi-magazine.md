@@ -27,4 +27,4 @@ This link that I put at the end of the post is to put in your favorites. It's a 
 
 Happy Friday!
 
-Link: [magpiindex](https://magpiindex.steverigg.co.uk/)
+Link: magpiindex

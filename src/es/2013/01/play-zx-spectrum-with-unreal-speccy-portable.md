@@ -38,8 +38,8 @@ Puedes jugar en cualquier plataforma: _Windows/Linux/Mac/Symbian/WinMobile/Dingo
 
 No te digo más. Te dejo los enlaces. Simplemente descomprime, ejecuta el fichero y ..¡A jugar!
 
-Enlace: [Wiki](https://code.google.com/p/unrealspeccyp/wiki/readme)
+Enlace: Wiki
 
 Enlace: [Notas Raspberry Pi](https://code.google.com/p/unrealspeccyp/wiki/readme_rpi)
 
-Descarga: [Todas las plataformas](https://code.google.com/p/unrealspeccyp/downloads/list) | [The Pi Store](https://store.raspberrypi.com/projects/unreal_speccy_portable)
+Descarga: [Todas las plataformas](https://code.google.com/p/unrealspeccyp/downloads/list) | The Pi Store

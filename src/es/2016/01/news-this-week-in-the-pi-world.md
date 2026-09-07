@@ -27,11 +27,11 @@ Semana de reuniones y trabajo. No he podido ni sacar algo de tiempo para acabar 
 
 <iframe width="400" height="300" src="https://www.youtube.com/embed/ORSREnUUL5k?rel=0" frameborder="0" allowfullscreen></iframe>
 
--   **Ejecuta TeamSpeak 3 Server en la Raspberry Pi:** Ya sabemos que no puedes ejecutar _TeamSpeak_ debido a la falta de binarios en _ARM_, pero como bien sabrás ya que lo hemos mencionado por aquí en mas de una ocasión, _Eltechs_ dispone de un software para poder emular un sistema operativo _X86_ en tu _RPi o ODROID_ | [eltechs.com](https://eltechs.com/run-teamspeak-3-server-on-raspberry-pi/)
+-   **Ejecuta TeamSpeak 3 Server en la Raspberry Pi:** Ya sabemos que no puedes ejecutar _TeamSpeak_ debido a la falta de binarios en _ARM_, pero como bien sabrás ya que lo hemos mencionado por aquí en mas de una ocasión, _Eltechs_ dispone de un software para poder emular un sistema operativo _X86_ en tu _RPi o ODROID_ | eltechs.com
 
 ![DockerCon](/images/2016/01/Dockercon.png)
 
--   **HypriotOS o sistema operativo para Docker:** _Hypriot OS_ es un _minimal OS_ basado en _Debian Jessie_ para _Raspberry Pi y ODROID entre otros_ que proporciona un entorno optimizado para el funcionamiento de [Docker](https://docs.docker.com/mac/). Es muy fácil de instalar y utilizar. Viene con versiones muy recientes del _kernel_ de Linux y todo el software incluido. Una vez arrancado, podrás acceder con el usuario _pirate_ y contraseña _hypriot_ | [blog.hypriot.com](https://blog.hypriot.com/post/how-to-get-docker-working-on-your-favourite-arm-board-with-hypriotos/)
+-   **HypriotOS o sistema operativo para Docker:** _Hypriot OS_ es un _minimal OS_ basado en _Debian Jessie_ para _Raspberry Pi y ODROID entre otros_ que proporciona un entorno optimizado para el funcionamiento de Docker. Es muy fácil de instalar y utilizar. Viene con versiones muy recientes del _kernel_ de Linux y todo el software incluido. Una vez arrancado, podrás acceder con el usuario _pirate_ y contraseña _hypriot_ | [blog.hypriot.com](https://blog.hypriot.com/post/how-to-get-docker-working-on-your-favourite-arm-board-with-hypriotos/)
 
 -   **Communication entre Raspberry Pi y Arduino via I2C, usando Python:** - _¿Qué le dice una Raspberry Pi a una Arduino Uno?..._ Si lo quieres saber, este artículo te despejará de dudas | [helloraspberrypi.blogspot.pe](https://helloraspberrypi.blogspot.pe/2014/12/communication-between-raspberry-pi-and.html?m=1)
 
@@ -43,6 +43,6 @@ Semana de reuniones y trabajo. No he podido ni sacar algo de tiempo para acabar 
 
 -   **AdvanceMAME 1.4 debs:** Para terminar, un post que se me había pasado comentar la semana anterior. Se trata de nuevos binarios para _Raspbian_ con los que poder emular MAME. | [blog.sheasilverman.com](https://blog.sheasilverman.com/2016/01/friday-post-advancemame-1-4-debs/)
 
--   **VuShell para ODROID-VU7:** Me ha encantado esta carcasa para poder montar este ordenador basado en la _ODROID_. Todo pensado para que puedas instalar la pantalla, un disco duro _SSD_, la placa... | [hardkernel.com](https://www.hardkernel.com/main/products/prdt_info.php?g_code=G145154558544)
+-   **VuShell para ODROID-VU7:** Me ha encantado esta carcasa para poder montar este ordenador basado en la _ODROID_. Todo pensado para que puedas instalar la pantalla, un disco duro _SSD_, la placa... | hardkernel.com
 
 ¡Feliz finde!

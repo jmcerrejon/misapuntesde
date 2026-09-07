@@ -35,7 +35,7 @@ We quickly moved on to the important thing cause I'm going on vacation and broug
 
 ![libreELEC](/images/2017/05/libreelec.png)
 
--   **LibreELEC for Raspberry Pi 4:** Kodi 18.3 for the brand new version of this OS. | [libreelec.tv](https://libreelec.tv/raspberry-pi-4/)
+-   **LibreELEC for Raspberry Pi 4:** Kodi 18.3 for the brand new version of this OS. | libreelec.tv
 
 -   **Raspberry Pi 4 iUniker Low Profile Heatsink/Fan Test - Review (Youtube):** Not a week goes by in which some Youtuber does not test a cooler system for the Pi 4. The video of the week is dedicated to that but I could not stop commenting on the test offered by the channel _ETA PRIME_. | [youtube.com](https://www.youtube.com/watch?v=Wwk4HR9G51Y)
 

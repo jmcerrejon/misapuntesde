@@ -31,6 +31,6 @@ It will be a day to enjoy and learn a lot from our beloved Pi and other boards t
 
 The entrance, all the conferences and workshops **are free**. You can now sign (limited capacity) in the following link:
 
-[eventbrite.co.uk](https://www.eventbrite.co.uk/e/entradas-raspberry-pi-jam-barcelona-15926580832)
+eventbrite.co.uk
 
 We wait for you!

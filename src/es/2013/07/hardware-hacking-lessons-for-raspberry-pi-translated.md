@@ -41,6 +41,6 @@ Además, en su web podemos encontrar otros artículos muy interesantes sobre _Ar
 
 Suerte a los chicos de _Hardware Hacking_ y... ¡Qué sigan en la brecha!
 
-Enlace: [hardware-hackingmx.com](https://hardware-hackingmx.com/raspberry-pi/)
+Enlace: hardware-hackingmx.com
 
 Twitter: [@hardwarehackmx](https://twitter.com/hardwarehackmx)

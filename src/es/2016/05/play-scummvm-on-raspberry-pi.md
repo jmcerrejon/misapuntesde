@@ -72,4 +72,4 @@ Si quieres juegos gratuítos, [aquí](https://www.scummvm.org/games/) podrás en
 
 ![game](/images/2016/05/game.jpg)
 
-Enlace: [gist.github.com > A Bash script to install SDL2 on the Raspberry Pi (Raspbian)](https://gist.github.com/blacktm/8268a468f933eba46f80)
+Enlace: gist.github.com > A Bash script to install SDL2 on the Raspberry Pi (Raspbian)

@@ -25,7 +25,7 @@ How about a **CONTEST** to win a **book about Raspberry Pi?**. Let's go!
 
 ---
 
--   **Armiga: Amiga with a heart of Raspberry Pi:** A new _Crowdfunding_ campaign from _Spanish_ guys to take our money. It's a _Rasberry Pi + expansion board + floppy_ to read _Amiga_ disk among others. More info on [indiegogo.com](https://www.indiegogo.com/projects/armiga-project)
+-   **Armiga: Amiga with a heart of Raspberry Pi:** A new _Crowdfunding_ campaign from _Spanish_ guys to take our money. It's a _Rasberry Pi + expansion board + floppy_ to read _Amiga_ disk among others. More info on indiegogo.com
 
 -   **7 games that can help you become a better programmer:** Not directly related, but I found an post that collect what is called today the [Gamification](https://en.wikipedia.org/wiki/Gamification) to learn a programming languaje with games. Detail in the next translated link from [genbetadev.com](https://translate.google.com/translate?sl=es&tl=en&js=n&prev=_t&hl=es&ie=UTF-8&u=http%3A%2F%2Fwww.genbetadev.com%2Ftrabajar-como-desarrollador%2Faprende-jugando-siete-juegos-que-te-pueden-ayudar-a-ser-mejor-programador)
 
@@ -69,7 +69,7 @@ I thought a good gift can be one of the books that have been written about _Rasp
 
 -   Raspberry Pi Cookbook
 
--   [Others from Amazon](https://www.amazon.com/gp/search/ref=sr_nr_p_n_feature_browse-b_mrr_0?rh=n%3A283155%2Ck%3Araspberry+pi%2Cp_n_feature_browse-bin%3A2656022011&keywords=raspberry+pi&ie=UTF8&qid=1395922837&rnid=618072011)
+-   Others from Amazon
 
 **The contest are in the entire World**, so any person in this world can participate regardless of age.
 

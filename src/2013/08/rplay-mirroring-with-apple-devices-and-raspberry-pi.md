@@ -42,7 +42,7 @@ It's a _daemon_ running on boot once you've installed. You need to download the 
 
 Easy. Now It's free. Just register a user in the forum and ask for it. In a short time you will get in your mailbox account with instructions needed to make it work on your Pi.
 
-Link: [Forum](https://www.vmlite.com/index.php?option=com_kunena&Itemid=158&func=view&catid=23&id=11658)
+Link: Forum
 
 ### [ Prerequisites ]
 
@@ -88,4 +88,4 @@ A picture speaks a thousand words: I present my first _Youtube_ video related wi
 
 Link: [vmlite.com](https://www.vmlite.com)
 
-Related Links: [Problems with audio](https://cagewebdev.com/index.php/raspberry-pi-getting-audio-working/)
+Related Links: Problems with audio

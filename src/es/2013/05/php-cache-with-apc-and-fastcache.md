@@ -45,7 +45,7 @@ Primero es necesario conocer si la versión _PHP_ que tenemos instalada es _ts(t
 
 ![thread_safe](/images/2013/05/thread_safe.jpg)
 
-Luego nos vamos a la página [dev.freshite.pl](https://dev.freshsite.pl/php-accelerators/apc.html) y descargamos la versión acorde a tu sistema operativo _Windows_ y si es _thread safe o no._
+Luego nos vamos a la página dev.freshite.pl y descargamos la versión acorde a tu sistema operativo _Windows_ y si es _thread safe o no._
 
 La copiamos a la carpeta _php/ext_ y modificamos nuestro **_php.ini_** para incluir la extensión. En mi caso **_php_apc_3114_beta_php54.dll_** ya que estoy usando una instancia de _XAMPP_:
 
@@ -55,7 +55,7 @@ extension=php_apc_3114_beta_php54.dll
 
 Reiniciamos _Apache_ y listo. Para asegurarnos ejecutamos de nuevo el phpinfo y buscamos la sección _APC_.
 
-**_NOTA:_** En el fichero _php.ini_ podéis configurar otros parámetros, pero los valores por defecto están bien. Si quieres conocerlos en [php.net](https://www.php.net/manual/es/apc.configuration.php) los tienes todos.
+**_NOTA:_** En el fichero _php.ini_ podéis configurar otros parámetros, pero los valores por defecto están bien. Si quieres conocerlos en php.net los tienes todos.
 
 ### Instalación en Debian/Ubuntu
 
@@ -114,13 +114,13 @@ También hay otras formas de utilizarlo también como puede ser cachear las llam
 
 Nada más. Si tenéis alguna duda, después de ampliar la información con los enlaces que os pongo debajo, podéis comentarlas.
 
-Enlace: [Librerías APC para Windows](https://dev.freshsite.pl/php-accelerators/apc.html)
+Enlace: Librerías APC para Windows
 
-Enlace: [PHP caching: shm vs. apc vs. memcache vs. mysql vs. file cache](https://we-love-php.blogspot.com.es/2013/02/php-caching-shm-apc-memcache-mysql-file-cache.html)
+Enlace: PHP caching: shm vs. apc vs. memcache vs. mysql vs. file cache
 
-Enlace: [Optimizar PHP con APC](https://webplusplus.blogspot.com.es/2011/10/optimizar-php-con-apc.html)
+Enlace: Optimizar PHP con APC
 
-Enlace: [dev.freshite.pl - Binarios para Windows de aceleradores PHP](https://dev.freshsite.pl/php-accelerators/apc.html)
+Enlace: dev.freshite.pl - Binarios para Windows de aceleradores PHP
 
 Enlace: [Fastcache](https://www.phpfastcache.com)
 

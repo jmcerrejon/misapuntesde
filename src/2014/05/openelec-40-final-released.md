@@ -37,4 +37,4 @@ I have supported this distribution always compared to others with the same purpo
 -   Use _128MB GPU_ even on _Raspberry Pi model A_ with _256MB_.
 -   Auto resizing _SD_ card.
 
-Download disk image: [openelec.tv > OpenELEC-RPI.arm-4.0.0.img.gz](https://openelec.tv/get-openelec/finish/10-raspberry-pi-builds/315-diskimage-openelec-stable-raspberry-pi-arm)
+Download disk image: openelec.tv > OpenELEC-RPI.arm-4.0.0.img.gz

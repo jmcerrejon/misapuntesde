@@ -21,4 +21,4 @@ og_image: /images/iwebiop.jpg
 
 El proyecto personal de Eric es _WebIOPi_, un framework basado en peticiones _REST_ para controlar los puertos _GPIO_ de la _Raspberry Pi_ a través de un entorno web.
 
-Enlace: [https://trouch.com](https://trouch.com/category/webiopi/)
+Enlace: https://trouch.com

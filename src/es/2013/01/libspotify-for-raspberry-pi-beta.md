@@ -25,6 +25,6 @@ Ha salido una beta release de la librería/biblioteca libspotify 12.1.103 para e
 
 Esto va a permitir futuras aplicaciones para conectar con nuestras cuentas (sólo premium), y poder disfrutar de este estupendo servicio con millones de usuarios.
 
-Enlace: [Anuncio blog Spotify](https://developer.spotify.com/blog/)
+Enlace: Anuncio blog Spotify
 
-Librería: [descarga](https://developer.spotify.com/technologies/libspotify/#download)
+Librería: descarga

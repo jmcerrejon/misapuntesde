@@ -25,7 +25,7 @@ _Inferno_ remember me to those operating systems but hey, I'll tell you a little
 
 ---
 
-Created by the company [Bell Labs](https://en.wikipedia.org/wiki/Bell_Labs) and now maintained by [Vita Nuova Holdings](https://en.wikipedia.org/wiki/Vita_Nuova_Holdings), offers an _RTOS_ environment that can be adapted to any computer. _Limbo_ is used as a language and is based on three principles: **Resources as files**: all resources are represented as files in a hierarchical system, **Namespaces** and **standard communication protocol** called _Styx_ to access files on local or remote.
+Created by the company [Bell Labs](https://en.wikipedia.org/wiki/Bell_Labs) and now maintained by Vita Nuova Holdings, offers an _RTOS_ environment that can be adapted to any computer. _Limbo_ is used as a language and is based on three principles: **Resources as files**: all resources are represented as files in a hierarchical system, **Namespaces** and **standard communication protocol** called _Styx_ to access files on local or remote.
 
 A company has compiled _Inferno OS_ for the Pi. Although it's an _Alpha_, you can already try it but you can't do anything with it, because the mouse still does not work.
 

@@ -51,7 +51,7 @@ Puede comprar el Kit en las siguientes tiendas:
 ### USA
 
 * [PiShop](https://www.pishop.us/product/raspberry-pi-ai-kit/?src=raspberrypi) $85 (excl. VAT)
-* [Vilros](https://vilros.com/products/raspberry-pi-ai-kit?src=raspberrypi) $70 (excl. VAT)
+* Vilros $70 (excl. VAT)
 * [CanaKit](https://www.canakit.com/raspberry-pi-ai-kit.html?cid=USD&src=raspberrypi) $70 or with case, fan and heat sink $99.95 (excl. VAT)
 * [Sparkfun](https://www.sparkfun.com/products/25827) $70 (excl. VAT)
 

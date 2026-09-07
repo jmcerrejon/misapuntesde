@@ -38,4 +38,4 @@ gunzip -c xxx.img.gz | dd of=/dev/xxx conv=sync,noerror bs=4m
 
 Para otros sistemas operativos que no sea _OSX_, en bs usar una M mayúscula.
 
-Fuente: [pihomeserver.wordpress.com](https://pihomeserver.wordpress.com/2013/02/07/astuce-sauvegarder-et-compresser-en-meme-temps-avec-dd-et-gzip/)
+Fuente: pihomeserver.wordpress.com

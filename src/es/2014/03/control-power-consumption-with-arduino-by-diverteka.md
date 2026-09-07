@@ -35,4 +35,4 @@ En fin, debería haber escrito dos post y no restarle protagonísmo a este fant�
 
 Le deseo toda la suerte del mundo.
 
-Enlace: [Diverteka](https://www.diverteka.com/?p=1966)
+Enlace: Diverteka

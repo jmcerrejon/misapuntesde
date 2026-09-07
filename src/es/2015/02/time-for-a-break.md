@@ -61,7 +61,7 @@ No es la única solución para esta forma de crear, tenemos disponibles otras co
 
 ![godot](/images/2015/02/vgames_04.png)
 
-Como motor de juego que ahora mismo tiene una comunidad que va creciendo día a día y se encuentra en una versión estable, tenemos [GODOT Engine](https://www.godotengine.org/wp/), también multiplataforma y podrás crear juegos 2D/3D desde un mismo entorno con un lenguaje de programación específicamente desarrollado para crear videojuegos utilizando motores de física, totalmente gratuíto, exportación a iOS/Android/HTML5 entre otros, podrás programar en tu SO favorito y hay muchos vídeos y tutoriales que podrás seguir. **RECOMENDADO**.
+Como motor de juego que ahora mismo tiene una comunidad que va creciendo día a día y se encuentra en una versión estable, tenemos GODOT Engine, también multiplataforma y podrás crear juegos 2D/3D desde un mismo entorno con un lenguaje de programación específicamente desarrollado para crear videojuegos utilizando motores de física, totalmente gratuíto, exportación a iOS/Android/HTML5 entre otros, podrás programar en tu SO favorito y hay muchos vídeos y tutoriales que podrás seguir. **RECOMENDADO**.
 
 El que probablemente sea el más utilizado a día de hoy es [Unity](https://unity3d.com/es), también respaldado por una amplia comunidad, aunque si tu juego es algo ambicioso, tendrás que [pasar por caja](https://store.unity3d.com/es/). Como lenguaje de programación se usa _C#_.
 
@@ -73,7 +73,7 @@ Lo bueno de esta librería es su portabilidad a múltiples plataformas, gran can
 
 ### Allegro
 
-[Allegro](https://alleg.sourceforge.net/readme.html) es otra solución que empezó a mediados de los 90, y soporta incluso programación en iOS y Android.
+Allegro es otra solución que empezó a mediados de los 90, y soporta incluso programación en iOS y Android.
 
 ### SFML
 
@@ -81,13 +81,13 @@ Multiplataforma que además, te permite utilizar tu lenguaje de programación fa
 
 ### Otras
 
-Hay muchas. Me he topado con [love2D](https://love2d.org), [Marshmallow](https://guillermoamaral.com/marshmallow_h/), [awe6](https://code.google.com/p/awe6/), [Cocos 2D](https://cocos2d.org), [stencyl](https://www.stencyl.com/download/), [openfl](https://www.openfl.org),...
+Hay muchas. Me he topado con [love2D](https://love2d.org), Marshmallow, [awe6](https://code.google.com/p/awe6/), Cocos 2D, stencyl, [openfl](https://www.openfl.org),...
 
-Si te han parecido pocos motores, pásate por [esta wiki](https://content.gpwiki.org/index.php/Game_Engines).
+Si te han parecido pocos motores, pásate por esta wiki.
 
 ### HTML5 y WebGL
 
-Pues si, cada vez se está usando más el navegador como plataforma de juegos, y sinceramente pienso que es el futuro de los desarrolladores. _Engines_ como _Unity_ tienen su propias herramientas de exportación hacia _HTML5_, aunque tienes otros como [biz.turbulenz.com](https://biz.turbulenz.com/samples), [Tululoo Game Maker](https://www.tululoo.com), [createjs](https://www.createjs.com/EaselJS) o [threejs](https://threejs.org).
+Pues si, cada vez se está usando más el navegador como plataforma de juegos, y sinceramente pienso que es el futuro de los desarrolladores. _Engines_ como _Unity_ tienen su propias herramientas de exportación hacia _HTML5_, aunque tienes otros como biz.turbulenz.com, Tululoo Game Maker, [createjs](https://www.createjs.com/EaselJS) o [threejs](https://threejs.org).
 
 ### Desarrollo para smartphones
 
@@ -111,21 +111,21 @@ Tal vez lo mejor de este artículo sea ésta sección, donde podrás encontrar t
 
 Cursos:
 
--   [Curso Desarrollo de Videojuegos (Español)](https://www.cursodesarrollovideojuegos.com/ed2012/index.php?sec=material)
+-   Curso Desarrollo de Videojuegos (Español)
 
 -   [Taller Crea tu propio juego de Spectrum](https://www.elmundodelspectrum.com/taller.php)
 
--   [Curso Experto en Desarrollo de Videojuegos (gratuíto y en Español)](https://www.cursodesarrollovideojuegos.com/ed2012/index.php?sec=material)
+-   Curso Experto en Desarrollo de Videojuegos (gratuíto y en Español)
 
 Artículos & Blogs:
 
--   [gamedev.net](https://www.gamedev.net/page/index.html)
+-   gamedev.net
 
--   [mode7games.com > How to Be an Indie Game Developer](https://www.mode7games.com/blog/2012/06/12/how-to-be-an-indie-game-developer/)
+-   mode7games.com > How to Be an Indie Game Developer
 
 -   [gamedev.tutsplus.com](https://gamedev.tutsplus.com)
 
--   [https://aigamedev.com](https://aigamedev.com)
+-   https://aigamedev.com
 
 -   [https://devmag.org.za](https://devmag.org.za)
 
@@ -133,7 +133,7 @@ Artículos & Blogs:
 
 -   [https://stratos-ad.com (español)](https://stratos-ad.com)
 
--   [2D Game Art programming using InkScape, GIMP](https://2dgameartforprogrammers.blogspot.in)
+-   2D Game Art programming using InkScape, GIMP
 
 ### Conclusión
 

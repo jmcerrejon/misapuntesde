@@ -29,6 +29,6 @@ En la web de _linuxplained.com_ han comparado de nuevo las últimas versiones ov
 
 Si queréis mi opinión personal, he testeado estas tres soluciones desde que tengo la RasPi y siempre vuelvo a _OpenELEC_. Por algo será. Por cierto, ¿Cuál sueles usar tú?
 
-Enlace: [OpenELEC-RPi.arm-3.1.7.img.zip](https://resources.pichimney.com/OpenELEC/test_images/OpenELEC-RPi.arm-3.1.7.img.zip)
+Enlace: OpenELEC-RPi.arm-3.1.7.img.zip
 
 Enlace: [htpcbeginner > Overclocked OpenELEC vs Xbian for Raspberry Pi](https://www.htpcbeginner.com/overclocked-openelec-vs-xbian-raspberry-pi/)

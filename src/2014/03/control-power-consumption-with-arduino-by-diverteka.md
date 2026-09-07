@@ -33,4 +33,4 @@ From here I **call you** If you have a project and you need a developer. No matt
 
 Now I leave you with this fantastic course by _Diverteka_ where we can learn to control our spending power devices from a theoretical and practical base.
 
-Translated Link: [Diverteka](https://translate.google.com/translate?sl=es&tl=en&js=n&prev=_t&hl=es&ie=UTF-8&u=http%3A%2F%2Fwww.diverteka.com%2F%3Fp%3D1966)
+Translated Link: Diverteka

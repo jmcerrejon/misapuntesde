@@ -42,7 +42,7 @@ However, if you're a fighter like me, let's see how to customize a distro _Raspb
 
 The version that we start to use will create a base system, in this case with preset for use as a server, but is valid for any other use, installing the latest packages from _Raspbian_ downloaded at the time of filesystem generation.
 
--   Download the next file: [raspbian-ua-netinst-latest.zip](https://hifi.iki.fi/raspbian-ua-netinst/raspbian-ua-netinst-latest.zip)
+-   Download the next file: raspbian-ua-netinst-latest.zip
 
 -   Extract the _.zip_ content on _SD card_ previously formatted with _FAT32_.
 

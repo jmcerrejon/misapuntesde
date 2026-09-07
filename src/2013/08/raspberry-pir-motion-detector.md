@@ -21,7 +21,7 @@ og_image: /images/2013/08/PIR.jpg
 
 In summer you have to be careful with the house if we go on vacation. My dream has always been to have a robot created by the [OCP](https://www.youtube.com/watch?v=A9l9wxGFl4k) who guard the house from thieves.
 
-_Nacho Sanchez_ from [fresymetal.com](https://www.fresymetal.com) send us to mail a new article that is sure to interest our readers: A motion detector with _Raspberry Pi_...
+_Nacho Sanchez_ from fresymetal.com send us to mail a new article that is sure to interest our readers: A motion detector with _Raspberry Pi_...
 
 ---
 
@@ -29,4 +29,4 @@ He surprise us before with an extraordinary tutorial about [intrusion detection 
 
 Thanks for sharing the article, Nacho!
 
-Link: [fresymetal.com](https://www.fresymetal.com/raspberry-pir-detector-de-movimientos/)
+Link: fresymetal.com

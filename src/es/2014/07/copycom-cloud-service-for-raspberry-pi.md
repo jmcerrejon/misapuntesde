@@ -89,4 +89,4 @@ Enlace: [Copy.com](https://copy.com?r=ygbyvm)
 
 Descarga: [Copy.tgz](https://copy.com/install/linux/Copy.tgz)
 
-Relacionado: [planetubuntu.es > Como Instalar Copy en Ubuntu 14.04 y Linux](https://planetubuntu.es/post/como-instalar-copy-en-ubuntu-14-04-y-linux-mint-17)
+Relacionado: planetubuntu.es > Como Instalar Copy en Ubuntu 14.04 y Linux

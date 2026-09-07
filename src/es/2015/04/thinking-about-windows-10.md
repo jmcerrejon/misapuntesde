@@ -33,7 +33,7 @@ Esta semana cambio la sección de mañana por una reflexión sobre Windows...
 
 ![Edge](/images/2015/04/Edge_r.png)
 
--   Navegador [Edge](https://www.omicrono.com/2015/04/microsoft-edge/) (tarde, pero veremos cómo se desenvuelve)
+-   Navegador Edge (tarde, pero veremos cómo se desenvuelve)
 
 -   Facilitarán portar aplicaciones de _Android/iOS_ a _Windows 10_
 
@@ -45,7 +45,7 @@ Esta semana cambio la sección de mañana por una reflexión sobre Windows...
 
 -   Windows Store
 
--   Alianza con [Arduino](https://blog.arduino.cc/2015/04/30/microsoft-and-arduino-new-partnership/) y la _Fundación Raspberry Pi_, y todo lo referente al _IoT_ ([+ info](https://ms-iot.github.io/content/Downloads.htm))
+-   Alianza con [Arduino](https://blog.arduino.cc/2015/04/30/microsoft-and-arduino-new-partnership/) y la _Fundación Raspberry Pi_, y todo lo referente al _IoT_ (+ info)
 
 -   [Project HoloLens](https://www.xataka.com/otros/el-futuro-de-windows-es-holografico-y-espectacular) para proyectar objetos en medio de elementos reales. Me ha encantado.
 
@@ -55,6 +55,6 @@ Os espero en los comentarios...
 
 Enlace: [Lifehacker > All the Important Stuff Microsoft Announced at Build 2015 Today](https://lifehacker.com/all-the-important-stuff-microsoft-announced-at-build-20-1700943959)
 
-Enlace: [orlandoalonzo.com.mx > Microsoft Build 2015: Edge, Continuum, Hololens, apps portables y mucho más](https://www.orlandoalonzo.com.mx/tecnologia/microsoft-build-2015-edge-continuum-hololens-apps-portables-y-mucho-mas/)
+Enlace: orlandoalonzo.com.mx > Microsoft Build 2015: Edge, Continuum, Hololens, apps portables y mucho más
 
 enlace: [engadget.com > Get your Windows 10 preview for Raspberry Pi 2 while it's hot](https://www.engadget.com/2015/04/30/windows-10-preview-raspberry-pi-2/)

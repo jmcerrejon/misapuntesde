@@ -60,7 +60,7 @@ Obviously this is a _B+ model_ cut in benefits to give your projects a system le
 
 In my humble opinion, they are still fail putting only _256MB RAM_. They should have taken advantage and launch the plate with _512MB_, I'm sure sales would reach the top. What do you think about it?
 
-Link: [linuxvoice.com > CHEAPER, SMALLER, CURVIER; THE ALL NEW RASPBERRY PI A+](https://www.linuxvoice.com/raspberry-pi-model-a/)
+Link: linuxvoice.com > CHEAPER, SMALLER, CURVIER; THE ALL NEW RASPBERRY PI A+
 
 ALL: [Rpi models comparative thanks to Element14](/res/Rpi%20Model%20Comparison.pdf)
 
@@ -68,10 +68,10 @@ Recommended websites to buy it:
 
 -   Spain: [Raspipc.es](https://www.raspipc.es/public/home/index.php?ver=tienda&accion=verArticulo&idProducto=1174)
 
--   USA: [mcmelectronics.com](https://www.mcmelectronics.com/product/83-16459)
+-   USA: mcmelectronics.com
 
 -   UK: [The Pi Hut](https://thepihut.com/collections/new-products/products/raspberry-pi-model-a-a-plus)
 
 -   UK:[uk.farnell.com](https://uk.farnell.com/raspberry-pi/raspbrry-moda-256m/sbc-raspberry-pi-model-a-256mb/dp/2447906?Ntt=Model+A%2B)
 
--   UK:[uk.rs-online.com](https://uk.rs-online.com/web/p/processor-microcontroller-development-kits/8332699/)
+-   UK:uk.rs-online.com

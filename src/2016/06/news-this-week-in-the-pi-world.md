@@ -31,11 +31,11 @@ Come on boys and girls, stop what you are doing. It's time to take a break. To c
 
 -   **Sticky Finger's Kali-Pi - The pocket size hacking machine** | [whitedome.com.au](https://whitedome.com.au/re4son/sticky-fingers-kali-pi/)
 
--   **ARM Cortex-A73 might support HDR & 4K@120 Hz** | [nextpowerup.com](https://www.nextpowerup.com/news/28666/arm-cortex-a73-might-support-hdr-and-4k-uhd-at-120-hz/)
+-   **ARM Cortex-A73 might support HDR & 4K@120 Hz** | nextpowerup.com
 
 ![nanopi](/images/2016/06/nanopi.jpg)
 
--   **10 alternatives to the Raspberry Pi** | [zdnet.com](https://www.zdnet.com/pictures/10-alternatives-to-the-raspberry-pi/?ftag=TRE17cfd61&bhid=)
+-   **10 alternatives to the Raspberry Pi** | zdnet.com
 
 <iframe width="400" height="225" src="https://www.youtube.com/embed/-Z1IEhdqE2M?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 

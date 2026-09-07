@@ -23,7 +23,7 @@ Este fin de semana tenemos una misión importante. No importa el emulador ni el 
 
 ---
 
-Y en nuestro caso, _Raspberry Pi_ se está convirtiendo [un año](https://www.raspberrypi.org/archives/3375) después de su lanzamiento, en una plataforma para juegos, media center y proyectos muy interesantes.
+Y en nuestro caso, _Raspberry Pi_ se está convirtiendo un año después de su lanzamiento, en una plataforma para juegos, media center y proyectos muy interesantes.
 
 _ChameleonPi_ es un remix de _Raspbian_ sin entorno gráfico que usa su propio lanzador para ejecutar emuladores de ordenadores antiguos, arcades y consolas.
 
@@ -39,7 +39,7 @@ Esta nueva versión trae como novedades:
 
 -   Corrección de errores
 
-La [imagen](https://chameleon.enging.com/chameleon.v03.img.bz2) sólo estará disponible este fin de semana como descarga directa.
+La imagen sólo estará disponible este fin de semana como descarga directa.
 
 _PiMAME_ es algo parecido, pero orientado sólo a _MAME_ y más optimizado para este sistema. Las novedades de esta versión Beta son:
 
@@ -53,6 +53,6 @@ _PiMAME_ es algo parecido, pero orientado sólo a _MAME_ y más optimizado para 
 
 -   Imagen más pequeña que debería caber en una tarjeta de 2 GB.
 
-Enlace: [ChameleonPi 0.3](https://chameleon.enging.com/?q=node/68)
+Enlace: ChameleonPi 0.3
 
 Enlace: [PiMAME 0.6 Beta](https://blog.sheasilverman.com/pimame-raspberry-pi-os-download/)

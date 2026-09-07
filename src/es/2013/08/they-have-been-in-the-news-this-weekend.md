@@ -27,11 +27,11 @@ Varios días AFTK, esto es lo que me he encontrado a mi vuelta...
 
 Nuevo número. Esta vez dedicado a lo que más nos gusta, los emuladores y las máquinas recreativas...
 
-Enlace: [TheMagPi](https://www.themagpi.com/en/issue/15)
+Enlace: TheMagPi
 
 ### Primeros pasos en Python en IDLE
 
-Algo básico pero muy bien explicado. Nos lo enseña los chicos de [hardware-hackingmx.com](https://hardware-hackingmx.com/2013/07/29/leccion-6-raspberry-pi-primeros-pasos-con-python-en-idle/)
+Algo básico pero muy bien explicado. Nos lo enseña los chicos de hardware-hackingmx.com
 
 ### Cómo crear un servidor de impresión
 

@@ -35,7 +35,7 @@ Emulators list:
 
 -   DGEN sdl 1.32
 
--   gngeo 0.8 y pifba ([BIOS](https://app.box.com/s/u5whbrrp3gupopi3kh6r))
+-   gngeo 0.8 y pifba (BIOS)
 
 -   gpsp 0.91
 

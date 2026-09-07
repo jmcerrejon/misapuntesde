@@ -44,7 +44,7 @@ Reiniciamos y con suerte ya te debe funcionar.
 
 ### [ Errores y soluciones ]
 
-Si por algún motivo no ves a la hora de detectar redes wifi cercanas el _SSID_ que has introducido, tal vez el controlador preinstalado en la configuración no te funcione o tu adaptador no pueda ejercer de punto de acceso. Debemos asegurarnos que nuestro adaptador _WiFi_ permite el _modo AP_. Puedes echar un vistazo a esta tabla en [linuxwireless.org](https://linuxwireless.org/en/users/Drivers/). Para saber el chipset que usa tu adaptador, escribe los siguiente comandos en la terminal:
+Si por algún motivo no ves a la hora de detectar redes wifi cercanas el _SSID_ que has introducido, tal vez el controlador preinstalado en la configuración no te funcione o tu adaptador no pueda ejercer de punto de acceso. Debemos asegurarnos que nuestro adaptador _WiFi_ permite el _modo AP_. Puedes echar un vistazo a esta tabla en linuxwireless.org. Para saber el chipset que usa tu adaptador, escribe los siguiente comandos en la terminal:
 
 ```bash
 iw list | grep 'AP' # Saber si tu dispositivo Wireless permite AP (Access Point)
@@ -69,4 +69,4 @@ reboot
 
 Si quieres hacer los mismos pasos en la distro oficial o quieres ampliar la información, te invito al siguiente post donde puedes seguir los pasos de una forma más detallada para _Raspbian_.
 
-Enlace: [roboticaeuropa.org > SIMPLE WIRELESS REPEATER WITH RASPBIAN JESSIE](https://roboticaeuropa.org/meetup/simple-wireless-repeater-raspbian-jessie)
+Enlace: roboticaeuropa.org > SIMPLE WIRELESS REPEATER WITH RASPBIAN JESSIE

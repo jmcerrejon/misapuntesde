@@ -27,6 +27,6 @@ The second is a home automation with the _RasPi._
 
 Welcome to this exciting world, Javier.
 
-Link: [Unboxing Raspberry PI](https://jpardobl.com/2013/02/20/abriendo-mi-rasberry-pi/)
+Link: Unboxing Raspberry PI
 
-Link: [Domotic with Rasberry PI](https://jpardobl.com/2013/02/25/domotica-con-la-rasberry-pi/)
+Link: Domotic with Rasberry PI

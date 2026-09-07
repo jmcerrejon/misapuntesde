@@ -44,10 +44,10 @@ sudo apt-get install -y git-core build-essential autoconf bison flex libelf-dev 
 ./Autobuild.sh -t rpi
 ```
 
-You can get the *.sqfs* file [here](https://movian.tv/builds/movian) and overwrite it in the image below.
+You can get the *.sqfs* file here and overwrite it in the image below.
 
-RPi Download: [sd-2.4.7.img (260 MB)](https://movian.tv/downloads/stos)
+RPi Download: sd-2.4.7.img (260 MB)
 
-Link: [Movian](https://movian.tv/)
+Link: Movian
 
-Forum: [movian.tv](https://movian.tv/projects/movian/boards)
+Forum: movian.tv

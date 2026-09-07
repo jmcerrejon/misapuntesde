@@ -40,6 +40,6 @@ We have three versions to download:
 
 -   lessbian-tiny-2014.09.18: absolute minimal image with kernel 3.16 and wifi support
 
-Link: [sourceforge.net > lessbian](https://sourceforge.net/projects/lessbian/)
+Link: sourceforge.net > lessbian
 
 Forum: [raspberrypi.org](https://www.raspberrypi.org/forums/viewtopic.php?f=66&t=86844)

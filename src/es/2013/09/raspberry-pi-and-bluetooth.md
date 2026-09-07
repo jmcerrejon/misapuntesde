@@ -23,6 +23,6 @@ La configuración de dispositivos _Bluetooth_ es de las tareas que más dolores 
 
 Desde su significado y funcionamiento hasta la instalación y puesta en marcha de tu _dongle_. Ya podrás pasar tus fotos desde _Android_ o conectar ese teclado BT que te regalaron en Navidades sin problemas.
 
-Enlace Parte I: [Diverteka](https://www.diverteka.com/?p=1880)
+Enlace Parte I: Diverteka
 
-Enlace Parte II: [Diverteka](https://www.diverteka.com/?p=1903)
+Enlace Parte II: Diverteka

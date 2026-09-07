@@ -44,7 +44,7 @@ Esta semana os dejo algunos enlaces sobre el software Etcher o ejecutar *MS-DOS 
 
 ![unlock](/images/2018/04/unlock.png)
 
-* **How to implement door unlocking system with Raspberry Pi, iPhone and service in cloud:** ¿Qué puedes hacer con una Pi, un iPhone y una puerta?. No es un chiste, pero parece el comienzo de uno, ¿Verdad?. | [blog.infullmobile.com](https://blog.infullmobile.com/how-to-implement-door-unlocking-system-with-raspberry-pi-iphone-and-service-in-cloud-3f55b76d700a)
+* **How to implement door unlocking system with Raspberry Pi, iPhone and service in cloud:** ¿Qué puedes hacer con una Pi, un iPhone y una puerta?. No es un chiste, pero parece el comienzo de uno, ¿Verdad?. | blog.infullmobile.com
 
 ![pibutton](/images/2018/04/pibutton.png)
 

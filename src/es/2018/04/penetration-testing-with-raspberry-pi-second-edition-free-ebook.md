@@ -42,4 +42,4 @@ Comenzarás instalando y afinando *Kali Linux 2 en Raspberry Pi 3* y continuará
 
 * Convierta un Pi 3 en un honeypot para capturar información sensible.
 
-Descarga (registro requerido): [packtpub.com](https://www.packtpub.com/packt/offers/free-learning)
+Descarga (registro requerido): packtpub.com

@@ -39,6 +39,6 @@ Main advantages:
 -   Automated and reliable workaround to install modified drivers - _DSE._
 -   Detailed manual, which covers all you need to know about _Leshcat’s driver_ sets.
 
-Link: [Leshcat's Catalyst](https://leshcatlabs.net)
+Link: Leshcat's Catalyst
 
-Link: [UnifL manual](https://leshcatlabs.net/manual/)
+Link: UnifL manual

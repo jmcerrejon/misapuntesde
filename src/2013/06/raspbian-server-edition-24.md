@@ -25,4 +25,4 @@ Probably his _Server Edition_ is the most famous to make our Pi connect to the w
 
 This time has minified the image size from _1 GB_ occupying the _version 2.3_ to a little over **_650 MB_**. It would be nice if someone [donate](https://www.paypalobjects.com/en_AU/i/btn/btn_donateCC_LG.gif) some money to the cause.
 
-Link: [Raspbian Server Edition 2.4](https://sirlagz.net/wp-content/plugins/download-monitor/download.php?id=21)
+Link: Raspbian Server Edition 2.4

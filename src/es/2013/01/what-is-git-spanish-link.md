@@ -31,10 +31,10 @@ Algo tan simple de entender, y hay gente que aún le tiene miedo. He recopilado 
 
 Os dejo varios enlaces para que no os perdáis nada de este sistema de control de versiones.
 
-¿Qué es Git?: [fuenteabierta](https://fuenteabierta.teubi.co/2013/01/de-romances-y-asiaticas-que-es-git-y-un.html)
+¿Qué es Git?: fuenteabierta
 
-Mini-manual de Git: [ubuntu-españa.org](https://ubuntu-españa.org/content/mini-manual-de-git)
+Mini-manual de Git: ubuntu-españa.org
 
-Servidor Git con Gitolite: [paraisolinux.com](https://paraisolinux.com/como-servidor-git-con-gitolite/)
+Servidor Git con Gitolite: paraisolinux.com
 
-Aprender Git en 15 minutos (inglés): [try.github.com](https://try.github.com/levels/1/challenges/1)
+Aprender Git en 15 minutos (inglés): try.github.com

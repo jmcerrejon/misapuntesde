@@ -19,6 +19,6 @@ og_image: /images/xbmc.jpg
 
 ![raspxbmc](/images/xbmc.jpg)
 
-A comment on my [Google Docs](https://goo.gl/Iwhbq) has made me know this site, their [shop](https://www.goshield.es/es/39-raspberry-pi) and a very interesting tutorial about how to watch TV channels and TV sport with a plugin called rmtpGUI + modified.
+A comment on my [Google Docs](https://goo.gl/Iwhbq) has made me know this site, their shop and a very interesting tutorial about how to watch TV channels and TV sport with a plugin called rmtpGUI + modified.
 
-Link: [goshield blog](https://blog.goshield.es/2013/02/raspmbc-canales-de-television-online-y.html)
+Link: goshield blog

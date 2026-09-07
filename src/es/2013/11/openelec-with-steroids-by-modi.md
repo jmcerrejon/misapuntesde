@@ -25,7 +25,7 @@ Por suerte y gracias a _MoDi_, nos encontramos con un _OpenELEC_ supervitaminado
 
 ---
 
-Esta compilación está basada en las builds realizadas por el usuario [RBEJ](https://netlir.dk/rbej/builds/index.php) sobre _Frodo (v12)_ y ~~viene con overclock a _900 Mhz_~~. En el foro tienes las instrucciones detalladas y cargado con los siguientes addons:
+Esta compilación está basada en las builds realizadas por el usuario RBEJ sobre _Frodo (v12)_ y ~~viene con overclock a _900 Mhz_~~. En el foro tienes las instrucciones detalladas y cargado con los siguientes addons:
 
 PROGRAMAS:
 
@@ -73,6 +73,6 @@ Desde aquí le damos las gracias a _Modi_ y esperamos que siga mejorando esta co
 
 **ACTUALIZADO A 24 JUL/2014:**
 
-Descarga: [mediafire.com](https://www.mediafire.com/download/zloy1vxwd81t4t4/OpenElec_MoDi_v12.1.rar)
+Descarga: mediafire.com
 
 Enlace: [Foro raspberrypi.org](https://www.raspberrypi.org/phpBB3/viewtopic.php?p=490147#p490147)

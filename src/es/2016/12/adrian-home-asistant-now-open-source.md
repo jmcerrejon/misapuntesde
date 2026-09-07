@@ -25,6 +25,6 @@ Sobre este proyecto, debo decir que es **gratis**, open source, lleva una _Raspb
 
 <iframe width="400" height="225" src="https://www.youtube.com/embed/XEnu-aotG2s?rel=0" frameborder="0" allowfullscreen></iframe>
 
-Este último fin de semana se ha vuelto open source y ahora puedes obtener la imagen (3.4 GB) [aquí](https://www.theadrianproject.com/download).
+Este último fin de semana se ha vuelto open source y ahora puedes obtener la imagen (3.4 GB) aquí.
 
-Enlace: [theadrianproject.com > Hardware Installation ](https://www.theadrianproject.com/documentation/hardware-installation/)
+Enlace: theadrianproject.com > Hardware Installation 

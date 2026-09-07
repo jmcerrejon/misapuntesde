@@ -17,7 +17,7 @@ og_image: https://dz13w8afd47il.cloudfront.net/sites/default/files/imagecache/do
 
 # Raspberry Pi Robotic Projects - Third Edition (free Ebook TODAY)
 
-![RPi Robotic Projects](https://dz13w8afd47il.cloudfront.net/sites/default/files/imagecache/dotd_main_image/7966cov_.png)
+RPi Robotic Projects
 
 This book will allow you to take full advantage of Raspberry Pi Zero and Raspberry Pi 3 by building both simple and complex robotic projects. The book takes a mission-critical approach to show you how to build amazing robots and helps you decide which board to use for which type of robot. The book puts a special emphasis on designing mobile (or movable) robots using the Raspberry Pi Zero. The projects will show inexpensive, yet powerful, ways to take full advantage. It will teach you how to program Raspberry Pi, control the movement of your robot, and add features to your robots.
 
@@ -38,4 +38,4 @@ This book will allow you to take full advantage of Raspberry Pi Zero and Raspber
 
 * Include wireless communication so that you can see what the robot is seeing and control the robot from a distance.
 
-Download (need registration): [packtpub.com > Raspberry Pi Robotic Projects - Third Edition](https://www.packtpub.com/packt/offers/free-learning)
+Download (need registration): packtpub.com > Raspberry Pi Robotic Projects - Third Edition

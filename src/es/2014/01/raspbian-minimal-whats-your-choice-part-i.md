@@ -63,7 +63,7 @@ A veces como desarrollador o administrador con experiencia, necesitamos una dist
 
 ### Raspbian Wheezy armhf Raspberry Pi minimal image
 
-**Descarga directa:** [linuxsystems.it](https://files2.linuxsystems.it/raspbian_wheezy_20130923.img.7z)
+**Descarga directa:** linuxsystems.it
 
 **Último fichero:** _raspbian_wheezy_20130923.img.7z (123.4 MB)_
 

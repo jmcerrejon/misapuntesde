@@ -44,4 +44,4 @@ og_image: /images/2017/11/rpi0_book.png
 
 * Descubra cómo construir una mano robótica y un cuadrangular.
 
-Descarga: [packtpub.com](https://www.packtpub.com/packt/offers/free-learning)
+Descarga: packtpub.com

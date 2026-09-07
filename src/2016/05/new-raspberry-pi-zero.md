@@ -29,7 +29,7 @@ Links who talking about the new Zero:
 
 ---
 
-Link: [theinquirer.net](https://www.theinquirer.net/inquirer/news/2458277/raspberry-pi-zero-now-comes-with-built-in-camera-connector)
+Link: theinquirer.net
 
 Link: [raspi.tv](https://raspi.tv/2016/raspberry-pi-zero-1-3-with-camera-port)
 

@@ -23,4 +23,4 @@ og_image: /images/2016/03/minecraft_pi_ed.png
 
 *This book will take you through a number of clear recipes showing you how to set up a Raspberry Pi, introduce you to the Python programming language, and show you how to make the Minecraft world communicate with the real world.*
 
-Link:  [packtpub.com](https://www.packtpub.com/packt/offers/free-learning)
+Link:  packtpub.com

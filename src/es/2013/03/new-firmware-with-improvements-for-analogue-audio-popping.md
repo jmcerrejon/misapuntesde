@@ -21,4 +21,4 @@ og_image: /images/firmware.jpg
 
 Según comentan en el foro de _Raspbmc_, ha salido un nuevo _firmware_ y unos ficheros que soluciona los "claks" antes y después de cada sonido. Una buena noticia para todos. ¿Alguien lo prueba en Raspbian y comenta?
 
-Enlace: [stmlabs.com](https://forum.stmlabs.com/showthread.php?tid=4573&pid=59568#pid59568)
+Enlace: stmlabs.com

@@ -19,7 +19,7 @@ og_image: /images/2015/06/lamp.png
 
 ![lamp](/images/2015/06/lamp.png)
 
-Lately I suffer [distrohopper](https://es.urbandictionary.com/define.php?term=distrohopper). This has force me to install [Manjaro](https://manjaro.github.io/), based on _Arch Linux_ and leave a little aside to _Debian_, with whom I was delighted, but with _Manjaro_ was love at first sight. I did not think that an operating system could be as fast on a computer that is already 4 years.
+Lately I suffer distrohopper. This has force me to install [Manjaro](https://manjaro.github.io/), based on _Arch Linux_ and leave a little aside to _Debian_, with whom I was delighted, but with _Manjaro_ was love at first sight. I did not think that an operating system could be as fast on a computer that is already 4 years.
 
 So back again and configure everything from scratch. This time **I've installed Apache+PHP+MariaDB**, the trouble is I did not know I was going to give so many headaches.
 

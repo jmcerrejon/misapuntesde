@@ -21,4 +21,4 @@ og_image: /images/iwebiop.jpg
 
 The current personal project is _WebIOPi_, a _REST_ framework and webapp to control the _Raspberry Pi_ and its _GPIO_ through the web.
 
-Link: [https://trouch.com](https://trouch.com/category/webiopi/)
+Link: https://trouch.com

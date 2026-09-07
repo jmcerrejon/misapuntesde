@@ -48,4 +48,4 @@ sudo bash -c 'echo /usr/local/bin/bash >> /etc/shells'
 chsh -s /usr/local/bin/bash
 ```
 
-Link: [admon.org > New Features in Bash-4.0](https://www.admon.org/scripts/new-features-in-bash-4-0/)
+Link: admon.org > New Features in Bash-4.0

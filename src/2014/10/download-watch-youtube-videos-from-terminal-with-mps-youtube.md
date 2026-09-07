@@ -66,6 +66,6 @@ p,n # back page (p) & next (n)
 ```
 
 Link:
-[github.com > mps-youtube](https://github.com/np1/mps-youtube)
+github.com > mps-youtube
 
 Link: [xmodulo.com > How to access popular search engines from the command line on Linux](https://xmodulo.com/access-popular-search-engines-command-line-linux.html)

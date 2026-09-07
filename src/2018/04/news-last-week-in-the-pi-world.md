@@ -39,7 +39,7 @@ Last Saturday was [World Backup Day](https://www.worldbackupday.com/), and this 
 
 -   **Cross Compiling For Raspbian:** There's no need to compile on the Pi and take an hour for it to fail. You can find the first part [here](https://www.get-edi.io/Compiling-for-Embedded-Debian-Target-Systems/). | [get-edi.io](https://www.get-edi.io/Cross-Compiling-for-Raspbian/)
 
--   **No Keyboard, Ethernet & Monitor: Setting up Raspberry Pi in headless Mode:** Well, it's helped me to set up my Pi without having to plug it in via _Ethernet_ and other stories when you use a _Raspbian_ just installed. | [steinacoz.com](https://steinacoz.com/keyboard-ethernet-monitor-setting-up-raspberry-pi-headless-mode/)
+-   **No Keyboard, Ethernet & Monitor: Setting up Raspberry Pi in headless Mode:** Well, it's helped me to set up my Pi without having to plug it in via _Ethernet_ and other stories when you use a _Raspbian_ just installed. | steinacoz.com
 
 -   **An Amiga 500 for the 21st century:** Some of you who have been following me for a long time will know that I always wanted to have an _Amiga 500_. In the end I opted for a _PC/286_ and these tutorials make me want to buy one online and see what it can do with a connected Pi. In this tutorial even the floppy drive works. WAit for, you don't know what a floppy drive is? Buff!. | [hackaday.com](https://hackaday.com/2018/03/25/an-amiga-500-for-the-21st-century/)
 

@@ -29,7 +29,7 @@ First wanted to say thanks as always to the public that occasionally or not, has
 
 ![bartop_ferran](/images/2016/07/bartopferran.jpg)
 
--   **How to build your own bartop arcade with Raspberry Pi** | [madeformakers.org](https://madeformakers.org/2016/07/18/build-bartop-arcade-raspberry-pi/)
+-   **How to build your own bartop arcade with Raspberry Pi** | madeformakers.org
 
 ![odroid-c1-checker.jpg](/images/2016/07/odroid-c1-checker.jpg)
 
@@ -37,7 +37,7 @@ First wanted to say thanks as always to the public that occasionally or not, has
 
 -   **Electronic Starter Kit for Raspberry Pi** | [amazon.co.uk](https://www.amazon.co.uk/Electronic-Starter-Kit-Raspberry-Pi/dp/B00IT6AYJO/)
 
--   **PicoPi** | [PicoPi](https://guillermoamaral.com/read/picopi/)
+-   **PicoPi** | PicoPi
 
 ![MagPi](/images/2016/07/magpi_minecraft.png)
 

@@ -31,4 +31,4 @@ Poner toda esta información para el aprendizaje en en zonas desprovistas de int
 
 Si queréis ver una demo online, pulsad [aquí](https://rachel.worldpossible.org)
 
-Enlace: [pi.worldpossible.org](https://pi.worldpossible.org/howto.html)
+Enlace: pi.worldpossible.org

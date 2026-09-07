@@ -51,8 +51,8 @@ Its author is called _Ryad El-Dajani_ and I think that is among the first to ach
 
 From here I wish luck to the author, it has been a pleasure working with you.
 
-Link: [packtpub.com](https://www.packtpub.com/hardware-and-creative/banana-pi-cookbook)
+Link: packtpub.com
 
-Link: [blog.eldajani.net](https://blog.eldajani.net/banana-pi-cookbook/)
+Link: blog.eldajani.net
 
 Link: [Acerca de los autores (pdf)](/res/B04622_FM_ForProof_MJ.pdf)

@@ -27,12 +27,12 @@ We are still recovering from yesterday's news, but the world of _Raspberry Pi_ c
 
 ![PSOne](/images/2015/11/PiStation.png)
 
--   **Build your own Raspberry PiStation** | [pi-supply.com](https://www.pi-supply.com/make/build-raspberry-pistation/?v=04c19fa1e772)
+-   **Build your own Raspberry PiStation** | pi-supply.com
 
 ![PiBoy](/images/2015/11/boy_proyect.png)
 
 -   **8 great Raspberry Pi projects created by kids** | [techradar.com](https://www.techradar.com/news/computing/8-great-raspberry-pi-projects-created-by-kids-1143243)
 
--   **Digital Quake3 Frame** | [ogprojects.wordpress.com](https://ogprojects.wordpress.com/digital-quake3-frame/)
+-   **Digital Quake3 Frame** | ogprojects.wordpress.com
 
 Happy weekend!

@@ -29,4 +29,4 @@ La saga tiene varias partes bastante adictivas dada su dificultad. Yo he probado
 
 Os dejo el enlace de la web con todas las partes. ¡Espero que los disfrutéis!.
 
-Enlace: [sqrxz](https://www.sqrxz.de/) | [Invitar al equipo a un café o mas](https://www.sqrxz.de/coffee/)
+Enlace: [sqrxz](https://www.sqrxz.de/) | Invitar al equipo a un café o mas

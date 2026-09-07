@@ -27,7 +27,7 @@ These days I'm kinda busy with the generation of two scripts that have seemed to
 
 ### [ Streaming Spanish TV Player ]
 
-Today, the only way we have to watch streaming channels is installing on _XBMC (OpenELEC, Raspbmc,...)_ a plugin to view it. With the _World Cup_, I've parsed a xml file where come all channels created by _PiKoMule_ [here](https://www.compraschinas.net/foro/livestreams/lista-de-canales-para-livestream-solo-plus-liga-y-gol-tv/). It's a fairly updated today file, and have been used to create a menu (which has given me more of a headache).
+Today, the only way we have to watch streaming channels is installing on _XBMC (OpenELEC, Raspbmc,...)_ a plugin to view it. With the _World Cup_, I've parsed a xml file where come all channels created by _PiKoMule_ here. It's a fairly updated today file, and have been used to create a menu (which has given me more of a headache).
 
 Notice that **80% of channels do not work today.** I hope _PiKoMule_ update as soon as they "fall". However the script is here for you to test and comment.
 
@@ -45,7 +45,7 @@ For future updates, I hope to incorporate international channels if I get anothe
 
 -   Redirect sound output to DLNA speakers.
 
-I've done tests with an _iPhone 4/iPad Mini_ with the [AcePlayer](https://itunes.apple.com/es/app/aceplayer-powerful-media-player/id463242636?mt=8) App, and a 40" Samsung TV with very satisfactory results. You can use any application with _DLNA/UPnP support._
+I've done tests with an _iPhone 4/iPad Mini_ with the AcePlayer App, and a 40" Samsung TV with very satisfactory results. You can use any application with _DLNA/UPnP support._
 
 _TVPlayer_ is already in [PiKISS](https://misapuntesde.com/2014/05/pikiss-for-raspberry-pi-a-bunch-of-scripts-with-menu-to-make-your-life-easier.html) and Rygel will be tomorrow.
 

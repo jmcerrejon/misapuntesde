@@ -25,8 +25,8 @@ Sólo un apunte rápido para comentaros que _PetRockBlog_ ha actualizado los bin
 
 También he leído en su _timeline_ un manual bastante claro de como crearte tu propio adaptador para mandos originales de consola y conectarla directamente al _GPIO_ de tu RasPi.
 
-Enlace: [RetroPie Setup Script Binaries](https://blog.petrockblock.com/download/retropie-setup-script-binaries/)
+Enlace: RetroPie Setup Script Binaries
 
-Enlace: [The RetroPie GPIO Adapter](https://blog.petrockblock.com/2012/10/21/the-retropie-gpio-adapter/)
+Enlace: The RetroPie GPIO Adapter
 
-Enlace: [PetRockBlock Pie – A (Gaming) Raspberry Pi Case](https://blog.petrockblock.com/2012/08/07/petrockblock-pie-a-gaming-raspberry-pi-case/)
+Enlace: PetRockBlock Pie – A (Gaming) Raspberry Pi Case

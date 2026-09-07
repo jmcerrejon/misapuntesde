@@ -25,7 +25,7 @@ og_image: /images/2015/06/ExaGear_Desktop_tr.png
 
 Hemos aprendido un poco el funcionamiento de este software, su instalación y cómo ejecutarlo. Hoy ejecutaremos su máquina virtual y algunos programas.
 
-Recuerda que junto con [eltechs.com](https://eltechs.com/?utm_source=misapuntesde&utm_medium=post_part1&utm_campaign=ED_May2015_release), sorteamos **10 licencias de [Exagear-desktop v.1.1.](https://eltechs.com/product/exagear-desktop/?utm_source=misapuntesde&utm_medium=post_part1&utm_campaign=ED_May2015_release)** (más info en la [primera parte del artículo](https://misapuntesde.com/es/2015/06/exagear-desktop-run-x86-apps-on-raspberry-pi-armv7-part-igiveaway.html)).
+Recuerda que junto con eltechs.com, sorteamos **10 licencias de Exagear-desktop v.1.1.** (más info en la [primera parte del artículo](https://misapuntesde.com/es/2015/06/exagear-desktop-run-x86-apps-on-raspberry-pi-armv7-part-igiveaway.html)).
 
 ---
 
@@ -118,7 +118,7 @@ Lo seguiré intentando y ampliaré esta sección en un futuro.
 
 ### [ Conclusión ]
 
-[Exagear Desktop](https://eltechs.com/product/exagear-desktop/?utm_source=misapuntesde&utm_medium=post_part1&utm_campaign=ED_May2015_release) hace lo que promete: Ejecutar aplicaciones de _Linux x86_ en procesadores _ARMv7_. Cuando ves que una aplicación programada para otra arquitectura funciona en tu placa, parece cosa de magia. No lo es tanto. Estamos acostumbrados a ejecutar emuladores de otras máquinas y consolas antiguas, aquí se hace lo mismo. Un dato curioso es que pensaba que el procesador iba a ponerse a 100% cada vez que ejecutaba una aplicación virtualizada, y apenas llegaba al 60% de carga. Después de estar varios días probándolo, puedo extraer las siguientes conclusiones:
+Exagear Desktop hace lo que promete: Ejecutar aplicaciones de _Linux x86_ en procesadores _ARMv7_. Cuando ves que una aplicación programada para otra arquitectura funciona en tu placa, parece cosa de magia. No lo es tanto. Estamos acostumbrados a ejecutar emuladores de otras máquinas y consolas antiguas, aquí se hace lo mismo. Un dato curioso es que pensaba que el procesador iba a ponerse a 100% cada vez que ejecutaba una aplicación virtualizada, y apenas llegaba al 60% de carga. Después de estar varios días probándolo, puedo extraer las siguientes conclusiones:
 
 PROS:
 
@@ -144,8 +144,8 @@ Hasta aquí llegamos. Si queréis expresar vuestras impresiones o que pruebe alg
 
 Espero que os haya gustado la review.
 
-Enlace: [eltechs.com > exagear-desktop](https://eltechs.com/product/exagear-desktop/?utm_source=misapuntesde&utm_medium=post_part1&utm_campaign=ED_May2015_release)
+Enlace: eltechs.com > exagear-desktop
 
-Enlace: [eltechs.com](https://eltechs.com/?utm_source=misapuntesde&utm_medium=post_part1&utm_campaign=ED_May2015_release)
+Enlace: eltechs.com
 
-Enlace: [forum.eltechs.com > ExaGear Desktop](https://forum.eltechs.com/viewforum.php?f=4&sid=4cf5f1b3dc6734f54787c7dee2e5c842)
+Enlace: forum.eltechs.com > ExaGear Desktop

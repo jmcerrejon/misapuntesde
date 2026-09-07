@@ -25,4 +25,4 @@ En este caso, voy a poneros el artículo que sale en la revista dedicada a la _R
 
 **_PD:_** Animo a la gente que pueda, compre la revista o mejor se suscriba a ella.
 
-Suscripción: [Micro Mart](https://subscribe.micromart.co.uk/)
+Suscripción: Micro Mart

@@ -35,6 +35,6 @@ Its basic features are:
 
 ![moebius2](/images/moebius2.jpg)
 
-Link: [Target Audience for Moebius Linux](https://moebiuslinux.sourceforge.net/release/target-audience-for-moebius-linux/)
+Link: Target Audience for Moebius Linux
 
 Download: [Moebius 1.1.1](https://sourceforge.net/projects/moebiuslinux/files/raspberry.stable/)

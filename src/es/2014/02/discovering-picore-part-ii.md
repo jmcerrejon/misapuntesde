@@ -93,7 +93,7 @@ Repasando la lista de paquetes insteresantes, estas son las que más me han llam
 <img width="324" src="/images/2014/02/picore_desktop_02_min.jpg">
 </a>
 
-Aunque estos son los primeros pasos para entender este sistema operativo, tiene muchas posibilidades más que sin duda vas a poder leer en el manual en pdf que puedes encontrar [aquí](https://tinycorelinux.net/~curaga/corebook.pdf). Aún faltan muchos paquetes que suelen estar en otras distribuciones y que faltan en el repositorio o la posibilidad de ver vídeos también se echa de menos. Esperemos que llegue pronto.
+Aunque estos son los primeros pasos para entender este sistema operativo, tiene muchas posibilidades más que sin duda vas a poder leer en el manual en pdf que puedes encontrar aquí. Aún faltan muchos paquetes que suelen estar en otras distribuciones y que faltan en el repositorio o la posibilidad de ver vídeos también se echa de menos. Esperemos que llegue pronto.
 
 Como sistema operativo diario prefiero _Raspbian_, pero para algún proyecto específico como manejo de control domótico, pequeño servidor web, cámaras de seguridad o conexión con el puerto _GPIO_, sin duda tiene mucho potencial.
 

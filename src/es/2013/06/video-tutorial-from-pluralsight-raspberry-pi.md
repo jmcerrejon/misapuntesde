@@ -25,10 +25,10 @@ _Raspberry Pi es una plataforma de computación de bajo costo que ofrece una for
 
 Más info: [pluralsight.com](https://pluralsight.com/training/Courses/TableOfContents/raspberry-pi-for-developers)
 
-Enlace 1: [Raspberry Pi for Developers - uploaded](https://uploaded.net/file/8pmkgi5k/Pluralsight%20-%20Raspberry%20Pi%20for%20Developers.part1.rar)
+Enlace 1: Raspberry Pi for Developers - uploaded
 
-Enlace 2: [Raspberry Pi for Developers - uploaded](https://uploaded.net/file/obab2ioc/Pluralsight%20-%20Raspberry%20Pi%20for%20Developers.part2.rar)
+Enlace 2: Raspberry Pi for Developers - uploaded
 
-Enlace 3: [Raspberry Pi for Developers - uploaded](https://uploaded.net/file/aac0jjor/Pluralsight%20-%20Raspberry%20Pi%20for%20Developers.part3.rar)
+Enlace 3: Raspberry Pi for Developers - uploaded
 
-Enlace 4: [Raspberry Pi for Developers - uploaded](https://uploaded.net/file/3xeum8up/Pluralsight%20-%20Raspberry%20Pi%20for%20Developers.part4.rar)
+Enlace 4: Raspberry Pi for Developers - uploaded

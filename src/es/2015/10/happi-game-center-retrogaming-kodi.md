@@ -47,6 +47,6 @@ Está basado en _Emulation Station_ y entre las características más importante
 
 La web está en francés, pero es fácil buscar la imagen y descargarla. Que funcionen los emuladores perfectamente dependerá de la placa en la que la usemos. Las _BIOS_ no vienen incluídas. La última versión disponible es la versión _3.2.3_.
 
-Enlace: [happi-game-center.com](https://happi-game-center.com/)
+Enlace: happi-game-center.com
 
-Foro: [happi-game-center.com > forum](https://www.happi-game-center.com/_forum/)
+Foro: happi-game-center.com > forum

@@ -113,6 +113,6 @@ Enlace: [forums.debian.net](https://forums.debian.net/viewtopic.php?f=20&t=12015
 
 Enlace: [wikipedia.org > systemd](https://es.wikipedia.org/wiki/Systemd)
 
-Enlace: [freedesktop.org > systemd](https://www.freedesktop.org/wiki/Software/systemd/)
+Enlace: freedesktop.org > systemd
 
 Enlace: [wiki.debian.org > Debate initsystem upstart](https://wiki.debian.org/Debate/initsystem/upstart)

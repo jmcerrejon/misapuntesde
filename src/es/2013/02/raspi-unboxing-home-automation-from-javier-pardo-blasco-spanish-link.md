@@ -27,6 +27,6 @@ El segundo empieza a hacer uso de ella para algo tan útil de implementar como l
 
 Le doy la bienvenida a este apasionante mundo. ¡Nos leemos!
 
-Enlace: [Abriendo mi Raspberry PI](https://jpardobl.com/2013/02/20/abriendo-mi-rasberry-pi/)
+Enlace: Abriendo mi Raspberry PI
 
-Enlace: [Domotica con la Rasberry PI](https://jpardobl.com/2013/02/25/domotica-con-la-rasberry-pi/)
+Enlace: Domotica con la Rasberry PI

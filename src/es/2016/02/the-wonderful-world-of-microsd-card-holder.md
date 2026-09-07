@@ -25,11 +25,11 @@ og_image: /images/2016/02/41dcKy9VLuL._SY300_.png
 
 <iframe width="400" height="225" src="https://www.youtube.com/embed/4Up-QRcQUVM?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-Enlace: [Amazon > sd card holder list ](https://www.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Daps&field-keywords=sd+card+holder)
+Enlace: Amazon > sd card holder list 
 
 ![press-image](/images/2016/02/press-image.png)
 
-Enlace: [dimedium.com > DiMeCard™ micro8™ microSD Card Holder For Consumers](https://dimedium.com/dimecard-micro8-microsd-card-holder-for-consumers/)
+Enlace: dimedium.com > DiMeCard™ micro8™ microSD Card Holder For Consumers
 
 ![1-PC-Black-22-SDHC-MMC-CF-Micro-SD-Memory-Card-Storage-Carrying-Zipper-Pouch-Case](/images/2016/02/1-PC-Black-22-SDHC-MMC-CF-Micro-SD-Memory-Card-Storage-Carrying-Zipper-Pouch-Case.png)
 

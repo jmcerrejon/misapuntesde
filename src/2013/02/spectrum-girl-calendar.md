@@ -23,4 +23,4 @@ Those who live in the _Spectrum's_ era, usually dream with cover girls from the 
 
 I found a 2013 calendar with the sexiest girls from Spectrum. Enjoy! ;)
 
-Link: [Calendar](https://dl.dropbox.com/u/15307433/calendario-retro-spectrum-Tias-2013.pdf)
+Link: Calendar

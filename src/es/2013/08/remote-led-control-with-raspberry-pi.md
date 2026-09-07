@@ -32,4 +32,4 @@ Enlace: [Control remoto de un led con Raspberry Pi Parte 2](https://riverajefer.
 
 Enlace: [Control remoto de un led con Raspberry Pi Parte 3](https://riverajefer.blogspot.com.es/2013/08/control-remoto-de-un-led-con-raspberry.html)
 
-Enlace: [Pdf](https://jeffersonrivera.com/pi/Proyecto_raspberry_pi.pdf)
+Enlace: Pdf

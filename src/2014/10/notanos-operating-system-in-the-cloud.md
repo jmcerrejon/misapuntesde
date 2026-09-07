@@ -19,7 +19,7 @@ og_image: /images/2014/10/notanos.png
 
 ![NotanOS](/images/2014/10/notanos.png)
 
-NotanOS is an _operating system_ on _Alpha_ state that has caught my attention and reminded me to [EyeOS](https://www.eyeos.com).
+NotanOS is an _operating system_ on _Alpha_ state that has caught my attention and reminded me to EyeOS.
 
 Imagine install an app based on _Node.JS_ and make available in any web browser a front-end with a entire graphic desktop...
 

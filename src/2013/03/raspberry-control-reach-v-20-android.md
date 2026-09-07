@@ -34,6 +34,6 @@ It's available for _Android_ a new version of this software to control various a
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CQX_3g62is4" frameborder="0" allowfullscreen></iframe>
 
-Download: [Google Play](https://play.google.com/store/apps/details?id=com.skalski.raspberry.control)
+Download: Google Play
 
-Link: [Website with instructions](https://lukasz-skalski.com/index.php/projekty-inne/raspberry-control-control-raspberry-pi-with-your-android-device.html)
+Link: Website with instructions

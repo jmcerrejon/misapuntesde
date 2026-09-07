@@ -27,4 +27,4 @@ He encontrado un post bastante curioso sobre un proyecto de domótica que quiero
 >
 > _Entonces para realizar este proyecto pensé en realizar una maqueta de una vivienda y simular la domótica de la misma._
 
-Enlace: [Mis experiencias con la Raspberry Pi](https://muyraspi.blogspot.com.es/2013/03/domotica-con-la-raspberry-pi.html)
+Enlace: Mis experiencias con la Raspberry Pi

@@ -25,4 +25,4 @@ Nuestro amigo _Nacho_ de _fresymetal.com_ nos cuenta:
 
 _"Hoy tengo en mente controlar un coche de radiocontrol pero sin el mando, directamente desde la raspberry así que necesitaba poder usar el motor del coche y el motor de la dirección."_
 
-Enlace: [Como controlar 2 motores con la Raspberry Pi](https://www.fresymetal.com/como-controlar-2-motores-con-raspberry/)
+Enlace: Como controlar 2 motores con la Raspberry Pi

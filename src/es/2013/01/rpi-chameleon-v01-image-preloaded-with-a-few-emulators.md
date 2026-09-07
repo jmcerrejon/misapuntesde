@@ -27,7 +27,7 @@ Un usuario de [este](https://www.raspberrypi.org/phpBB3/viewtopic.php?f=63&t=298
 -   ZX spectrum
 -   DOS / Windows 3.1
 -   Commodore 64
--   Apple ][
+-   Apple ]
 -   Oric 1
 -   Atari 2600
 -   ScummVM
@@ -37,8 +37,8 @@ El sonido no va muy bien, pero eso es culpa como sabemos del soporte a la tarjet
 
 ¡Disfrutad!
 
-Web: [chameleon.enging.com](https://chameleon.enging.com)
+Web: [chameleon.enging.com
 
-Torrent: [torrent](https://chameleon.enging.com/chameleon.img.bz2.torrent)
+Torrent: torrent
 
 Fuente: [raspi.tv](https://raspi.tv/2013/emulators-galore-on-one-raspbian-image)

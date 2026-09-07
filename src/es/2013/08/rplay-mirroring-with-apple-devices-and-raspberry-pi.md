@@ -41,7 +41,7 @@ En esencia es un _daemon_ que se ejecuta en el arranque una vez lo hayas instala
 
 Fácil. Ahora que está en estado beta es gratis. Tan sólo regístrate en el foro y pídela. En poco tiempo la tendrás en tu correo con las instrucciones necesaria para hacerlo funcionar en tu RasPi.
 
-Enlace: [Foro](https://www.vmlite.com/index.php?option=com_kunena&Itemid=158&func=view&catid=23&id=11658)
+Enlace: Foro
 
 ### [Requisitos previos]
 
@@ -87,4 +87,4 @@ Como una imagen vale más que mil palabras os presento en primicia mi primer ví
 
 Enlace: [vmlite.com](https://www.vmlite.com)
 
-Enlace relacionado: [Problemas con el audio](https://cagewebdev.com/index.php/raspberry-pi-getting-audio-working/)
+Enlace relacionado: Problemas con el audio

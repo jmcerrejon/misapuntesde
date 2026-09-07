@@ -22,4 +22,4 @@ og_image: /images/picamera.jpg
 
 I just read on _Twitter_ and I can't believe it. The guys from [raspipc.es](https://raspipc.es) have the desired camera to your projects. Run to take one!
 
-Link: [raspipc.es - Raspberry PI camera module](https://raspipc.es/tienda.php?ver=articulo&id=1081)
+Link: raspipc.es - Raspberry PI camera module

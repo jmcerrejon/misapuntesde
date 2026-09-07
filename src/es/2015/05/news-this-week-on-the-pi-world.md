@@ -33,6 +33,6 @@ og_image: /images/2015/05/teradeep.png
 
 -   **rpix86 vuelve:** _Pate_ continúa el desarrollo tras un año sabático del mejor emulador de _MS-DOS_ para _Raspberry Pi_ | [rpix86.patrickaalto.com](https://rpix86.patrickaalto.com/rblog.html)
 
--   **Reconocimiento de objetos en la palma de tu mano con una ODROID:** Impresionante este proyecto en Github. Es una aplicación que trabaja con una cámara+OpenCV y está basado en un framework llamado [Torch](https://torch.ch/) que trabaja con el lenguaje _LUA_. Es capaz de reconocer **más de 10 millones de objetos** cotidianos, y puedes usarlo en tus propios diseños. | [github.com > Teradeep may 2015 top neural network for large-scale object recognition](https://github.com/teradeep/demo-apps)
+-   **Reconocimiento de objetos en la palma de tu mano con una ODROID:** Impresionante este proyecto en Github. Es una aplicación que trabaja con una cámara+OpenCV y está basado en un framework llamado [Torch](https://torch.ch/) que trabaja con el lenguaje _LUA_. Es capaz de reconocer **más de 10 millones de objetos** cotidianos, y puedes usarlo en tus propios diseños. | github.com > Teradeep may 2015 top neural network for large-scale object recognition
 
 ¡Feliz finde!

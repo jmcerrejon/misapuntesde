@@ -27,4 +27,4 @@ The basic problem is to hear the microphone through the _TV_ and play the .kar a
 
 The method requires two _SSH_ connections and install a few packages. Fun is guaranteed.
 
-Link: [Pi-Fun](https://www.pi-fun.com/index.php/blog/dextrusblogs/karaoke-revisited/)
+Link: Pi-Fun

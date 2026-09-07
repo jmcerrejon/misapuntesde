@@ -33,4 +33,4 @@ Website is in _spanish_, but the app is entirely in english.
 
 Link: [apticon.wordpress.com](https://apticon.wordpress.com/2014/09/27/eve-pi-0-1-2/)
 
-Download: [Dropbox > Eve_Pi_0.1.2_Raspbian_EN.zip](https://dl.dropboxusercontent.com/u/7948220/Pi/rasbian/eve/Eve_Pi_0.1.2_Raspbian_EN.zip)
+Download: Dropbox > Eve_Pi_0.1.2_Raspbian_EN.zip

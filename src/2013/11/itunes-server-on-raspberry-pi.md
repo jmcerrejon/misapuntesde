@@ -53,4 +53,4 @@ For more information you have the forum and the project readme below.
 
 Forum: [raspberrypi.org > Improved forked-daapd (iTunes server)](https://www.raspberrypi.org/phpBB3/viewtopic.php?f=66&t=49928)
 
-Link: [forked-daapd.README](https://gyfgafguf.dk/raspbian/forked-daapd.README)
+Link: forked-daapd.README

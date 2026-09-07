@@ -23,7 +23,7 @@ The day has come!. I am pleased to announce that I will develop together with th
 
 This webinar **will be online and free** for everyone through the _Keep Coding_ platform and will be aimed at system administrators and developers in general. What we usually call _devops_. It will be something basic, although I've spent a lot of hours to get it right and we all learn to take advantage of that _Raspberry Pi_ you have in a forgotten drawer. I will be accompanied by _Fernando Rodriguez_ ([@frr149](https://twitter.com/frr149), co-founder of the platform and instructor.
 
-Don't you have a Raspberry Pi? I can't believe it! But if that's your case, thanks to our sponsor and friend [raspipc.es](https://www.raspipc.es/public/home/) **we'll raffle a Raspberry Pi 3 Starter Kit** among all attendees via _Twitter_. To stay informed, you can follow my account at [@ulysess10](https://twitter.com/ulysess10) or [@KeepCoding_en](https://twitter.com/KeepCoding_en).
+Don't you have a Raspberry Pi? I can't believe it! But if that's your case, thanks to our sponsor and friend [raspipc.es](https://www.raspipc.es/public/home/) **we'll raffle a Raspberry Pi 3 Starter Kit** among all attendees via _Twitter_. To stay informed, you can follow my account at [@ulysess10](https://twitter.com/ulysess10) or @KeepCoding_en.
 
 It will be the next **September 20th at 21:30**, Madrid time.
 

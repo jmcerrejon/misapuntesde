@@ -19,7 +19,7 @@ og_image: /images/raspbian.jpg
 
 ![Debian](/images/raspbian.jpg)
 
-When we have enough experience to manage with the _Raspbian_ operating system, it's time to become independent of it. Here are some tips to make you feel comfortable with other _Debian_ based distribution, in this case we will use [PipaOS](https://pipaos.mitako.eu).
+When we have enough experience to manage with the _Raspbian_ operating system, it's time to become independent of it. Here are some tips to make you feel comfortable with other _Debian_ based distribution, in this case we will use PipaOS.
 
 ---
 

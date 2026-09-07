@@ -63,7 +63,7 @@ Nada más por hoy... Podéis comentar vuestras impresiones si queréis.
 
 ¡Hasta mañana!.
 
-**PD:** La iniciativa pertenece al blog [elbinario.net](https://elbinario.net/2014/04/21/semana-negra-sobrevivir-en-la-shell/), de obligatoria lectura :)
+**PD:** La iniciativa pertenece al blog elbinario.net, de obligatoria lectura :)
 
 Enlace: [weechat.org > WeeChat Quick Start Guide](https://www.weechat.org/files/doc/devel/weechat_quickstart.es.html) | [User guide](https://www.weechat.org/files/doc/stable/weechat_user.en.html)
 

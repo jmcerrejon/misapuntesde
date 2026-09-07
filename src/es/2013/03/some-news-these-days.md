@@ -37,7 +37,7 @@ Os dejo con algunas noticias que me han parecido interesantes recopilarlas aquí
 
 -   [Control de LEDs RGB por SPI](https://rsppi.blogspot.com.es/2013/03/control-de-leds-rgb-por-spi.html)
 
--   [Lighttpd con php](https://muyraspi.blogspot.com.es/2013/03/lighttpd-con-php.html) o [Nginx](https://muyraspi.blogspot.com.es/2013/03/nginx.html)
+-   Lighttpd con php o Nginx
 
 -   [Top 10 Things to Connect to Your Raspberry Pi](https://www.raspberrypi-spy.co.uk/2013/03/top-10-things-to-connect-to-your-raspberry-pi/)
 

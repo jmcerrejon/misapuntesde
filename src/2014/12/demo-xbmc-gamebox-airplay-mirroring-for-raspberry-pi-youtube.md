@@ -45,6 +45,6 @@ The conclusion I reach is that if you want to use _Airplay mirroring_ technology
 
 What if I want to run Gamebox from _Raspbian_ to take advantages from _Airplay Mirroring_ protocol?. You can. Follow the instructions in the next post in the forum.
 
-Forum: [xindawn.com](https://www.xindawn.com/bbs/viewtopic.php?f=5&t=9&sid=33bae6a81e421af25696f3a69f3029cb)
+Forum: xindawn.com
 
-Download: [xindawn.com > Release 1.0.1 (2014-10-30)](https://www.xindawn.com/download.php)
+Download: xindawn.com > Release 1.0.1 (2014-10-30)

@@ -27,7 +27,7 @@ Ready?...
 
 ---
 
-Before the end of the year I'd planned to make a tutorial. I wanted to see if this new version is easier than [before](https://wiki.openelec.tv/index.php?title=Bluez-tools_how-to). The answer is yes.
+Before the end of the year I'd planned to make a tutorial. I wanted to see if this new version is easier than before. The answer is yes.
 
 The first thing to do is buy a _Bluetooth_ module if you have not one already. You can purchase the _Conceptronic USB Bluetooth_ which has been tested in the online shop [raspipc.es](https://raspipc.es) through [this](https://goo.gl/F6khBE) link in Spain. In my case I'll use one from _Trust_:
 

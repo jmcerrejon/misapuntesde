@@ -23,9 +23,9 @@ Weekend [AFK](https://en.wiktionary.org/wiki/AFK). Let's do a review of what hap
 
 ---
 
--   [MAGPI Num. 12](https://www.themagpi.com/en/issue/12): This monthly electronic magazine available in paper format too, this time talks about various distros for our machine, printing with CUPS2 and making music with SCHISM.
+-   MAGPI Num. 12: This monthly electronic magazine available in paper format too, this time talks about various distros for our machine, printing with CUPS2 and making music with SCHISM.
 
--   [Update XBMC 12.2](https://xbmc.org/natethomas/2013/05/03/xbmc-12-2-even-more-frodo/): The interesting thing for our Pi is in an error with video codecs and audio. Changes are already included in your favorite distros (OpenELEC, Xbian and Raspbmc), you only have to update them.
+-   Update XBMC 12.2: The interesting thing for our Pi is in an error with video codecs and audio. Changes are already included in your favorite distros (OpenELEC, Xbian and Raspbmc), you only have to update them.
 
 -   [FirefoxOS for Raspberry Pi](https://www.philipp-wagner.com/blog/2013/04/firefox-os-for-raspberry-pi-now-available/): Looks like we have an image to test this new OS. Not as mature as a few months ago, but we can not make use of keyboard and mouse apparently. The thing promised.
 

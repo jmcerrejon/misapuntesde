@@ -33,13 +33,13 @@ Hello, I am the same person but it has been a few years, we are in 2017 and I am
 
 -   **The MagPi Magazine Jun #58** | [raspberrypi.org](https://www.raspberrypi.org/magpi/issues/58/)
 
--   **Start Web Development And Deployment On Raspberry Pi** | [yashballani.com](https://yashballani.com/blog/start-web-development-and-deployment-on-raspberry-pi)
+-   **Start Web Development And Deployment On Raspberry Pi** | yashballani.com
 
--   **Search a RPi Zero in the World at thepilocator.com** | [thepilocator.com](https://www.thepilocator.com/)
+-   **Search a RPi Zero in the World at thepilocator.com** | thepilocator.com
 
 ![libreelec](/images/2017/05/libreelec.png)
 
--   **LibreELEC (Krypton) v8.0.2 is out** | [libreelec.tv](https://libreelec.tv/2017/05/libreelec-krypton-v8-0-2-mr/)
+-   **LibreELEC (Krypton) v8.0.2 is out** | libreelec.tv
 
 -   **XU4 DRAM OverClocking** | [forum.odroid.com](https://forum.odroid.com/viewtopic.php?f=93&t=27117)
 

@@ -29,7 +29,7 @@ Some time ago we saw an article about Wayland [here](https://misapuntesde.com/20
 
 I leave several links for further information.
 
-Link: [linux.com](https://www.linux.com/news/featured-blogs/200-libby-clark/738632-raspberry-pis-eben-upton-demos-wayland-support-on-the-pi/)
+Link: linux.com
 
 Link: [phoronix.com](https://www.phoronix.com/scan.php?page=news_item&px=MTQ2NDU)
 

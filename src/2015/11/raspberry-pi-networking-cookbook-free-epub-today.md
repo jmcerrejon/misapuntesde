@@ -38,4 +38,4 @@ In case you do not know, [Packt](https://www.packtpub.com) is a publisher of boo
 
 This book is for anybody who wants to learn how they can utilize the Raspberry Pi to its full potential without having to immediately dive into programming. It's full of step-by-step instructions and detailed descriptions in language that is appropriate for computer enthusiasts and experts alike.
 
-Download: [packtpub.com > Raspberry Pi Networking Cookbook](https://www.packtpub.com/packt/offers/free-learning)
+Download: packtpub.com > Raspberry Pi Networking Cookbook

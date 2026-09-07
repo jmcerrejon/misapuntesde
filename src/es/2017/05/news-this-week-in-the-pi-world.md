@@ -33,13 +33,13 @@ Hola, soy la misma persona pero ya han pasado unos años, estamos en el 2017 y l
 
 -   **The MagPi Magazine Junio num. 58:** Projectos dentro del vasto universo que compone Minecraft, y que nunca me ha dado a mí por jugar, oye. Mira que mi hija está enganchada. También aprenderemos a dar nuestros primeros pasos para crear un videojuego, o construir un servidor web. Brillante el número de este mes, ¿No?, aunque no estemos aún en Junio. | [raspberrypi.org](https://www.raspberrypi.org/magpi/issues/58/)
 
--   **Start Web Development And Deployment On Raspberry Pi:** Todos hemos querido contar algo que sabemos hacer a través de un blog. Vuestra Raspberry Pi os puede servir para montar una web sin muchos esfuerzos y en este primer contacto, nos enseñan a configurar tu sistema operativo para acceder via SSH. | [yashballani.com](https://yashballani.com/blog/start-web-development-and-deployment-on-raspberry-pi)
+-   **Start Web Development And Deployment On Raspberry Pi:** Todos hemos querido contar algo que sabemos hacer a través de un blog. Vuestra Raspberry Pi os puede servir para montar una web sin muchos esfuerzos y en este primer contacto, nos enseñan a configurar tu sistema operativo para acceder via SSH. | yashballani.com
 
--   **Busca en el mundo una RPi Zero con thepilocator.com:** Pues eso, tienes enlace directo con las tiendas en el mundo que venden esta placa que no era fácil de encontrar. | [thepilocator.com](https://www.thepilocator.com/)
+-   **Busca en el mundo una RPi Zero con thepilocator.com:** Pues eso, tienes enlace directo con las tiendas en el mundo que venden esta placa que no era fácil de encontrar. | thepilocator.com
 
 ![libreelec](/images/2017/05/libreelec.png)
 
--   **LibreELEC (Krypton) v8.0.2 liberado:** _Kodi v17.3_ con actualizaciones de Kernel, firmwares y mejoras de rendimiento y estabilidad. Además, corrige la grave vulnerabilidad de [Samba](https://www.samba.org/samba/security/CVE-2017-7494.html) que, por si no lo sabéis, es bastante grave por lo que se ha leído esta semana. | [libreelec.tv](https://libreelec.tv/2017/05/libreelec-krypton-v8-0-2-mr/)
+-   **LibreELEC (Krypton) v8.0.2 liberado:** _Kodi v17.3_ con actualizaciones de Kernel, firmwares y mejoras de rendimiento y estabilidad. Además, corrige la grave vulnerabilidad de [Samba](https://www.samba.org/samba/security/CVE-2017-7494.html) que, por si no lo sabéis, es bastante grave por lo que se ha leído esta semana. | libreelec.tv
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vTYqBW9MX0Y?rel=0" frameborder="0" allowfullscreen></iframe>
 

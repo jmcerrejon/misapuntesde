@@ -25,4 +25,4 @@ Our friend _Nacho_ from _fresymetal.com_ tells us:
 
 _"Today I have in mind control a car radio but without the command directly from the raspberry so I needed to use the car's engine and engine management."_
 
-Translated link: [Como controlar 2 motores con la Raspberry Pi](https://translate.google.com/translate?sl=es&tl=en&js=n&prev=_t&hl=es&ie=UTF-8&u=http%3A%2F%2Fwww.fresymetal.com%2Fcomo-controlar-2-motores-con-raspberry%2F)
+Translated link: Como controlar 2 motores con la Raspberry Pi

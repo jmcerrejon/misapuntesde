@@ -21,7 +21,7 @@ og_image: /images/2020/06/doom_heretic.png
 
 **POST ACTUALIZADO:** Añadido *Snes9X, L'Abbaye des Morts, DOSBox-X, mGBA, Mednafen y ScummVM*.
 
-Estoy actualizando ahora que tengo algo de tiempo diversos emuladores y scripts que se han quedado algo desfasados. Es una tarea algo aburrida eso de ir mirando todos los scripts del proyecto, pero una vez lo tenga y sea estable, espero ir aumentando la compatibilidad con la *Raspberry Pi 4* y añadir algunos nuevos. Por cierto, le estoy dando poco a poco soporte con [TwisterOS](https://raspbian-x.com/).
+Estoy actualizando ahora que tengo algo de tiempo diversos emuladores y scripts que se han quedado algo desfasados. Es una tarea algo aburrida eso de ir mirando todos los scripts del proyecto, pero una vez lo tenga y sea estable, espero ir aumentando la compatibilidad con la *Raspberry Pi 4* y añadir algunos nuevos. Por cierto, le estoy dando poco a poco soporte con TwisterOS.
 
 - - -
 Os dejo los enlaces por si queréis probar los binarios de alguno de ellos. Como siempre, todos los podrás ejecutar sin problemas, instalándote dependencias o lo que necesite con [PiKISS](https://github.com/jmcerrejon/PiKISS), para que no te agobies.

@@ -27,9 +27,9 @@ A bit late, but I bring a post load of information relevant to your brain. I als
 
 <iframe width="400" height="225" src="https://www.youtube.com/embed/xiQX0YXYuqU?rel=0" frameborder="0" allowfullscreen></iframe>
 
--   **OpenELEC 8.0.1 released** | [openelec.tv](https://openelec.tv/news/22-releases/184-stable-openelec-8-0-released)
+-   **OpenELEC 8.0.1 released** | openelec.tv
 
--   **Raspberry Pi Course** | [suntimebox.com](https://www.suntimebox.com/raspberry-pi-tutorial-course/)
+-   **Raspberry Pi Course** | suntimebox.com
 
 ![ODROID](https://u75174878@misapuntesde.com/images/2017/04/odroid_mag.jpg)
 

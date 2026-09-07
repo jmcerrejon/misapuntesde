@@ -40,4 +40,4 @@ Este libro contiene proyectos IoT tales como la construcción de un controlador 
 
 Recordad que el libro está disponible **por un tiempo limitado** y debes registrarte.
 
-Descarga: [packtpub.com > Smart Internet of Things Projects](https://www.packtpub.com/packt/offers/free-learning)
+Descarga: packtpub.com > Smart Internet of Things Projects

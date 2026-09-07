@@ -55,6 +55,6 @@ Aquí están algunas de sus características:
 
 Básicamente, se pre-configura un scan y luego sólo tiene que conectar la Raspberry Pi en la red de destino. Esta herramienta viene como una imagen _IMG_ precargada y lista para usar.
 
-Descarga .img: [sourceforge.net > scoutbot](https://sourceforge.net/projects/scoutbot/)
+Descarga .img: sourceforge.net > scoutbot
 
-Enlace: [lansec.net > scoutbot](https://lansec.net/project/scoutbot/)
+Enlace: lansec.net > scoutbot

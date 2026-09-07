@@ -29,4 +29,4 @@ It's explained more clearly in the next blog.
 
 Link: [learn.adafruit.com > Synergy on Raspberry Pi](https://learn.adafruit.com/synergy-on-raspberry-pi?view=all)
 
-Link: [sonof8bits.com > Running Synergy on Raspberry Pi (Raspbian) at boot](https://sonof8bits.com/running-synergy-on-raspberry-pi-raspbian-at-boot/2013/09)
+Link: sonof8bits.com > Running Synergy on Raspberry Pi (Raspbian) at boot

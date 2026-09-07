@@ -27,7 +27,7 @@ Primero quería dar las gracias como siempre a ese público que, ocasionalmente 
 
 <iframe width="400" height="225" src="https://www.youtube.com/embed/NCth5oqSYBk?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
--   **How to build your own bartop arcade with Raspberry Pi:** Otra de las guías a tener en cuenta para crearnos un _Bartop_, actualizado y bastante resultón. Ferran, eres un artísta, te ha quedado muy bien. | [madeformakers.org](https://madeformakers.org/2016/07/18/build-bartop-arcade-raspberry-pi/)
+-   **How to build your own bartop arcade with Raspberry Pi:** Otra de las guías a tener en cuenta para crearnos un _Bartop_, actualizado y bastante resultón. Ferran, eres un artísta, te ha quedado muy bien. | madeformakers.org
 
 ![odroid-c1-checker.jpg](/images/2016/07/odroid-c1-checker.jpg)
 
@@ -35,7 +35,7 @@ Primero quería dar las gracias como siempre a ese público que, ocasionalmente 
 
 -   **Electronic Starter Kit for Raspberry Pi:** Un kit bastante económico para empezar a trastear este verano con la Pi. | [amazon.co.uk](https://www.amazon.co.uk/Electronic-Starter-Kit-Raspberry-Pi/dp/B00IT6AYJO/)
 
--   **PicoPi:** Pico-8 es una consola para crear y jugar a juegos pixelados gracias al lenguaje LUA. Se trata de una imagen para que funcione nada más arrancar la Pi o la Pi2. Aviso que los ficheros que se necesita para funcionar, el emulador en sí, [es de pago](https://www.lexaloffle.com/pico-8.php). | [PicoPi](https://guillermoamaral.com/read/picopi/)
+-   **PicoPi:** Pico-8 es una consola para crear y jugar a juegos pixelados gracias al lenguaje LUA. Se trata de una imagen para que funcione nada más arrancar la Pi o la Pi2. Aviso que los ficheros que se necesita para funcionar, el emulador en sí, [es de pago](https://www.lexaloffle.com/pico-8.php). | PicoPi
 
 ![MagPi](/images/2016/07/magpi_minecraft.png)
 

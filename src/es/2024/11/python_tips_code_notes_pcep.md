@@ -208,4 +208,4 @@ print(new_list)
 
 ## Enlaces interesantes
 
--   [Medium > Most Developers Failed with this Senior-Level Python Interview Question](https://programming.earthonline.us/interviewer-what-is-the-difference-between-0-3-and-0-0-0-in-python-f642a0c93a11)
+-   Medium > Most Developers Failed with this Senior-Level Python Interview Question

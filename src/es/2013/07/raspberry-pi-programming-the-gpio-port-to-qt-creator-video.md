@@ -24,4 +24,4 @@ Video: [Youtube](https://www.youtube.com/watch?v=WdA-mIvBBTw)
 
 Enlace: [Beginner’s guide to cross-compile Qt5 on RaspberryPi](https://qt-project.org/wiki/RaspberryPi_Beginners_guide)
 
-Enlace: [Qt Blog](https://blog.qt.digia.com/)
+Enlace: Qt Blog

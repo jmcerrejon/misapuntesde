@@ -127,7 +127,7 @@ Para copiar las _ROMS_, podemos activar _SAMBA_ y copiarlos desde nuestro equipo
 
 Cuando estés jugando, pulsando **F1** y entrarás al menú de opciones del emulador, y para seleccionar una opción, pulsa la **tecla X**, para volver al menú anterior, **Z**. Pulsa **ESC** para salir del juego.
 
-Puedes agregar más emuladores. Ve al proyecto [lakkatv](https://github.com/lakkatv/Lakka/tree/lakka/packages/lakka) donde encontrarás los binarios, aunque todavía no he probado este método que han comentado en los [foros](https://openelec.tv/forum/128-addons/72972-retroarch-addon-arm-rpi?start=90#124999), donde también he encontrado binarios para _Amstrad, Amiga o ScummVM_.
+Puedes agregar más emuladores. Ve al proyecto [lakkatv](https://github.com/lakkatv/Lakka/tree/lakka/packages/lakka) donde encontrarás los binarios, aunque todavía no he probado este método que han comentado en los foros, donde también he encontrado binarios para _Amstrad, Amiga o ScummVM_.
 
 Estarás deseando jugar con _Joystick_. Cuando estés en el juego, conecta tu control pad o joystick, pulsa **F1** y elige la opción _settings > input > all_. Puedes importar de tu configuración de RetroPie el fichero _retroarch.cfg_ y sobreescribirlo en la siguiente ruta: **/.kodi/userdata/addon_data/emulator.tools.retroarch/config/**
 
@@ -139,4 +139,4 @@ Espero que os haya gustado esta primera guía del año, y que hayáis sido bueno
 
 Fuente de la noticia: [cria-o-teu-avatar.blogspot.com.br > Retroarch addon no OpenELEC para Raspberry Pi (Pt)](https://cria-o-teu-avatar.blogspot.com.br/2014/12/retroarch-addon-no-openelec-para.html)
 
-Foro: [RetroArch Addon (arm RPI)](https://openelec.tv/forum/128-addons/72972-retroarch-addon-arm-rpi)
+Foro: RetroArch Addon (arm RPI)

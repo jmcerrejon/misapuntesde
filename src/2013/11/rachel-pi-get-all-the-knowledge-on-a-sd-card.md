@@ -31,4 +31,4 @@ It's for schools with few resources where they can't get an internet connection 
 
 If you want to try a demo, press [here](https://rachel.worldpossible.org)
 
-Link: [pi.worldpossible.org](https://pi.worldpossible.org/howto.html)
+Link: pi.worldpossible.org

@@ -33,7 +33,7 @@ It seems _Microsoft_ is looking for allies everywhere and in all communities. So
 
 ![Edge](/images/2015/04/Edge_r.png)
 
--   Browser [Edge](https://money.cnn.com/2015/04/29/technology/microsoft-edge-windows-build/index.html?section=money_news_international) (late, but we'll see how it unfolds)
+-   Browser Edge (late, but we'll see how it unfolds)
 
 -   Facilitate port applications from _Android/iOS_ to _Windows 10_
 
@@ -45,7 +45,7 @@ It seems _Microsoft_ is looking for allies everywhere and in all communities. So
 
 -   Windows Store
 
--   Partnership with [Arduino](https://blog.arduino.cc/2015/04/30/microsoft-and-arduino-new-partnership/), the _Raspberry Pi Foundation_, and everything related with _IoT_ ([+ info](https://ms-iot.github.io/content/Downloads.htm))
+-   Partnership with [Arduino](https://blog.arduino.cc/2015/04/30/microsoft-and-arduino-new-partnership/), the _Raspberry Pi Foundation_, and everything related with _IoT_ (+ info)
 
 -   [Project HoloLens](https://www.wired.com/2015/01/microsoft-hands-on/) to project objects through real elements. I loved it.
 

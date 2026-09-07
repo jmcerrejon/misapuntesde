@@ -35,9 +35,9 @@ Versión 1.6 Beta.
 
 -   Script mejorado para cambiar entre resoluciones.
 
-Descarga: [Retropie 1.6 Beta](https://blog.petrockblock.com/download/retropie-project-sd-card-image-v1-6-beta/)
+Descarga: Retropie 1.6 Beta
 
-Foro: [RetroPie](https://blog.petrockblock.com/forums/forum/retropie-project-forum/emulators/)
+Foro: RetroPie
 
 ¡EXTRA!:
 

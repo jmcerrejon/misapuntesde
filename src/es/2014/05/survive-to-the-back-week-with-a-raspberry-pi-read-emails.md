@@ -53,7 +53,7 @@ Para escribir, primero cambia el usuario luser por el nombre de tu nick con: **s
 
 El cliente de correo que usaré será _cone_, lo podréis instalar desde los repositorios con: **sudo apt-get install cone**
 
-Lo usaré con una cuenta de _Gmail_ a través de _IMAP_, que es el más común, pero puedes configurarlo con cualquier otra cuenta. Sólo debes saber que para acceder vía _pop/imap_ a tu cuenta de _Gmail_ debes tener esta opción habilitada desde tu cuenta (leer [aquí](https://support.google.com/mail/troubleshooter/1668960?hl=es#ts=1665119)).
+Lo usaré con una cuenta de _Gmail_ a través de _IMAP_, que es el más común, pero puedes configurarlo con cualquier otra cuenta. Sólo debes saber que para acceder vía _pop/imap_ a tu cuenta de _Gmail_ debes tener esta opción habilitada desde tu cuenta (leer aquí).
 
 Para configurar una nueva cuenta de correo, basta con seguir estas indicaciones: **Pulsar M (MAIN MENU) > N (NEW ACCOUNT) > I (IMAP)**. En la siguiente captura pongo mi configuración de correo (con password inventado para despistar en el numero de caracteres, jeje).
 

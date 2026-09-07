@@ -24,7 +24,7 @@ Imagen creada por el prestigioso blog [cnx-software](https://www.cnx-software.co
 
 Algo que siempre me ha gustado es cada vez que sale una nueva versión de _Ubuntu_, personalizarla para crear una _iso_ con mis paquetes preferidos: drivers propietarios, paquetes actualizados, aplicaciones esenciales para mí... También hacía lo mismo con XP y el _XPLite_ (¿Os acordáis de esta aplicación?, ¡Qué tiempos!).
 
-Esto es una asignatura pendiente que he tenido en mente estos días después de ver el extraordinario trabajo que está haciendo [@Manel Alonso](https://twitter.com/drkbcn) para la _Cubieboard_ y su distro [Cubieez](https://www.belinuxmyfriend.com/2013/07/cubieez-debian-para-cubieboard-a10.html). ¡Mi enhorabuena!.
+Esto es una asignatura pendiente que he tenido en mente estos días después de ver el extraordinario trabajo que está haciendo [@Manel Alonso](https://twitter.com/drkbcn) para la _Cubieboard_ y su distro Cubieez. ¡Mi enhorabuena!.
 
 El proyecto _Yocto_ es una plataforma que nos va a permitir construir una distribución de _Linux_ embebida que coincide exactamente con las necesidades de nuestros proyectos.
 

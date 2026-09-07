@@ -31,6 +31,6 @@ Por ahora solo se ejecuta en consola, así que sal del entorno de escritorio y p
 
 Enlace: [rpix86 blog](https://rpix86.patrickaalto.com/rblog.html)
 
-Enlace: [rpix86 Pi Store](https://store.raspberrypi.com/projects/rpix86)
+Enlace: rpix86 Pi Store
 
 Link: [Compatibility list](https://dsx86compatibility.pbworks.com/w/page/26738915/Compatibility%20List)

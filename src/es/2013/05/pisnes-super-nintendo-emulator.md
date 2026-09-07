@@ -33,7 +33,7 @@ Juegos que no funcionan: _Yoshi's Island, Street Fighter Alpha 2, Star Fox, Supe
 
 Enlace: [PiSNES](https://code.google.com/p/pisnes/)
 
-Enlace: [PiSNES en PiStore](https://store.raspberrypi.com/projects/pisnes)
+Enlace: PiSNES en PiStore
 
 ¡EXTRA!:
 

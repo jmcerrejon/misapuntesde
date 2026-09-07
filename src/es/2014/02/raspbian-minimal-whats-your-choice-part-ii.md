@@ -27,7 +27,7 @@ Recuerda que ya escribí la primera parte que puedes leer en [este artículo](ht
 
 ###  pipaOS es una distribución _Debian_ basada en _Raspian_ para la _Raspberry Pi_.
 
-**Descarga pipaOS:** [512MB](https://pipaos.mitako.eu/download/pipaos-2.6-tiny500mb.img.gz) | [1GB](https://pipaos.mitako.eu/download/pipaos-2.6-small1gb.img.gz)
+**Descarga pipaOS:** 512MB | 1GB
 
 **Último fichero actualizado en Mayo, 2014.**
 

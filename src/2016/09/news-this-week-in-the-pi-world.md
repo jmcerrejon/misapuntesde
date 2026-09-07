@@ -33,7 +33,7 @@ Nothing to declare. News, news, news and read it quickly...
 
 -   **Meet BeagleBone Black Wireless, the newest board in the BeagleBone family** | [beagleboard.org](https://beagleboard.org/blog/2016-09-26-meet-beaglebone-black-wireless/)
 
--   **Make Simple GUIs with the Raspberry Pi using EasyGUI** | [raspberrypi.about.com](https://raspberrypi.about.com/od/Projects/ss/Make-Simple-GUIs-with-the-Raspberry-Pi-using-EasyGUI.htm)
+-   **Make Simple GUIs with the Raspberry Pi using EasyGUI** | raspberrypi.about.com
 
 -   **How to Build Your Own Penetration Testing Drop Box** | [blackhillsinfosec.com](https://www.blackhillsinfosec.com/?p=5156)
 

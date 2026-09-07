@@ -23,4 +23,4 @@ En Diciembre del pasado año, la compañía _Xindawn_ llamó la atención de tod
 
 Pues bien, parece que vuelven a estar operativos los foros y podéis descargar el software para _Raspbian_. Yo de vosotros aprovecharía para hacer una copia antes de que vuelvan a desaparecer...
 
-Enlace: [xindawn.com](https://www.xindawn.com/bbs/viewtopic.php?f=5&t=9&sid=33bae6a81e421af25696f3a69f3029cb)
+Enlace: xindawn.com

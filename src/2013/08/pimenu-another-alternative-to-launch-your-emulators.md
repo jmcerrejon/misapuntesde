@@ -29,7 +29,7 @@ By default emulators detect emulators downloaded from the _PiStore_, but it is e
 
 As I said, _piFBA_ has been updated to fix a bug. The problem was the keyboard would not work if no joystick was plugged in.
 
-Link: [PiMenu - DD](https://mame4all-pi.googlecode.com/git/pimenu.zip)
+Link: PiMenu - DD
 
 Link: [raspberrypi.org - PiMenu released](https://www.raspberrypi.org/phpBB3/viewtopic.php?f=78&t=51773&p=399293&hilit=pimenu#p399293)
 

@@ -25,7 +25,7 @@ Fortunately, thanks to spanish user _MoDi_, we have a custom OpenELEC build that
 
 ---
 
-This compilation is based on builds made by the user [RBEJ](https://netlir.dk/rbej/builds/index.php) and is based on _Frodo (v12)_. ~~It comes with a _900 Mhz overclock_~~. In the forum you have detailed instructions and comes loaded with the following addons:
+This compilation is based on builds made by the user RBEJ and is based on _Frodo (v12)_. ~~It comes with a _900 Mhz overclock_~~. In the forum you have detailed instructions and comes loaded with the following addons:
 
 PROGRAMS:
 
@@ -73,6 +73,6 @@ From here we thanks to _Modi_ and hope to continue to improve this compilation.
 
 **UPDATED 24 JUL/2014**
 
-Download: [mediafire.com](https://www.mediafire.com/download/zloy1vxwd81t4t4/OpenElec_MoDi_v12.1.rar)
+Download: mediafire.com
 
 Link: [raspberrypi.org spanish forum](https://www.raspberrypi.org/phpBB3/viewtopic.php?p=490147#p490147)

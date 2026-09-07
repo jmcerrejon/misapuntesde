@@ -41,6 +41,6 @@ In addition, you can find other very interesting articles about _Arduino_ and el
 
 Good luck to the guys at _Hardware Hacking_ and... keep at it!
 
-Translated Link: [hardware-hackingmx.com](https://translate.google.com/translate?sl=es&tl=en&js=n&prev=_t&hl=es&ie=UTF-8&u=http%3A%2F%2Fhardware-hackingmx.com%2Fraspberry-pi%2F)
+Translated Link: hardware-hackingmx.com
 
 Twitter: [@hardwarehackmx](https://twitter.com/hardwarehackmx)

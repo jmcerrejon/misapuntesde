@@ -20,4 +20,4 @@ tag:
 
 Un usuario llamado _Jason Birch_ ha creado un prototipo documentado para obtener una videoconsola _MAME_ portátil. Es un proyecto realmente simple, pero que cualquiera puede adaptar a sus necesidades, y el costo total no llega a 48€. Todos los detalles en el siguiente enlace.
 
-Enlace: [newsdownload.co.uk](https://www.newsdownload.co.uk/pages/RPiMameHandHeld.html)
+Enlace: newsdownload.co.uk

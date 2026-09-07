@@ -17,7 +17,7 @@ og_image: https://raw.githubusercontent.com/bite-your-idols/gamestarter-openelec
 
 # GameStarter: Retro Gaming installation for Raspberry Pi (OpenELEC)
 
-![GameStarter](https://raw.githubusercontent.com/bite-your-idols/gamestarter-openelec/master/assets/gamestarter-logo.jpg)
+GameStarter
 
 **UPDATE:** New install method through addon.
 
@@ -30,7 +30,7 @@ You have three options:
 
 * With an addon that you can download [here](https://github.com/bite-your-idols/gamestarter/releases/download/2.0.0/script.gamestarter-v2.0.0.zip).
 
-* You can use an image with everything you need available at [MEGA](https://mega.nz/#F!aMcBHaBS!zAi2_Iz_zPzxWeLxJzEA4g).
+* You can use an image with everything you need available at MEGA.
 
 * Run the script with the following command, always *SSH*:
 

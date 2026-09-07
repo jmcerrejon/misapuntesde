@@ -69,7 +69,7 @@ Let's see the parameters passed to the file:
 
 I created the file in a short time, everything will depend on your computer.
 
-**NOTE**: You can add the _-zX_ parameter to compress the image, where X indicates the compression level 1-9. To see these levels, read [this](https://www.fsarchiver.org/Compression) section.
+**NOTE**: You can add the _-zX_ parameter to compress the image, where X indicates the compression level 1-9. To see these levels, read this section.
 
 As an additional note, if you want to backup the system known as _MBR_, will be sufficient to run the following (now we would use the command _dd_):
 
@@ -89,6 +89,6 @@ The option _id=0_ indicates that you restore the first file system found.
 
 Obviously there are many other parameters, but these are enough. If you want more information I refer you to the following links. Thank you!.
 
-Link: [fsarchiver.org](https://www.fsarchiver.org/Main_Page)
+Link: fsarchiver.org
 
-Link: [Quick Start](https://www.fsarchiver.org/QuickStart)
+Link: Quick Start

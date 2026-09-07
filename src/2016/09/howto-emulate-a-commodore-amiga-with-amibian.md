@@ -33,7 +33,7 @@ One afternoon I went to play a board game called _Warhammer_ at home from a frie
 
 I cursed the day I bought my first _PC 286_, but soon came to me the games with _VGA 256 colors palette_ (_Xenon II or Rick Dangerous II_) and could play very well, although it sounds weird due my _PC Speaker_ until I bought to another friend the _Sound Blaster PRO_. But that is another story.
 
-All this to say that a few days ago in the weekly _Pi World News_, _Dan Wood_ showed us a video about how to install the perfect _Amiga_ emulator for the Pi: As easy as download the image [here](https://bit.ly/Amibiandownload), get the _Kickstart ROMs_ on the internet and copy some games. It's based on _Raspbian_ and only need at the first boot expand the filesystem.
+All this to say that a few days ago in the weekly _Pi World News_, _Dan Wood_ showed us a video about how to install the perfect _Amiga_ emulator for the Pi: As easy as download the image here, get the _Kickstart ROMs_ on the internet and copy some games. It's based on _Raspbian_ and only need at the first boot expand the filesystem.
 
 Of course, if you want to emulate in your own _Raspbian_ without having to use another SD, you have a [PiKISS](https://github.com/jmcerrejon/PiKISS) script that compiles or installs the emulator updated recently with the latest version _UAE4ARM 0.5_ version.
 

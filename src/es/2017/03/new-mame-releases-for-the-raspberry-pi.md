@@ -25,7 +25,7 @@ Parece ser que _Shea Silverman_ vuelve a la carga con una [versión compilada](h
 
 ---
 
-En mi caso, quiero aprovechar para incluir en el proyecto [PiKISS](https://github.com/jmcerrejon/PiKISS) tanto éste emulador (aviso, no se ejecuta con las X, así que tendrás que salir del entorno de escritorio) como la **versión de MAME 0.183** compilada el mes pasado por [choccyhobnob.com](https://choccyhobnob.com/mame-0-183-for-raspberry-pi-macos/), así no tendrás que lidiar con ninguna dependencia a la hora de disfrutar de ellos. ~~Estoy teniendo problemas con _MAME 0.183_ ya que necesita _GCC 6_ y la versión que viene por defecto en _Raspbian_ es la _4.9.2_.~~
+En mi caso, quiero aprovechar para incluir en el proyecto [PiKISS](https://github.com/jmcerrejon/PiKISS) tanto éste emulador (aviso, no se ejecuta con las X, así que tendrás que salir del entorno de escritorio) como la **versión de MAME 0.183** compilada el mes pasado por choccyhobnob.com, así no tendrás que lidiar con ninguna dependencia a la hora de disfrutar de ellos. ~~Estoy teniendo problemas con _MAME 0.183_ ya que necesita _GCC 6_ y la versión que viene por defecto en _Raspbian_ es la _4.9.2_.~~
 
 ![¡Todas las versiones de Mame en PiKISS!](/images/2017/03/mame_piKiss.png "¡Todas las versiones de Mame en PiKISS!")
 

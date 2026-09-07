@@ -29,7 +29,7 @@ Hay muchas formas de realizar esta tarea y varios servicios que te pueden ayudar
 
 ### [ Instalación y configuración ]
 
-Las instrucciones son bastante claras para todas las plataformas y la puedes ver [aquí](https://github.com/git-ftp/git-ftp/blob/develop/INSTALL.md). En mi caso uso [brew](https://brew.sh/) en _OSX_:
+Las instrucciones son bastante claras para todas las plataformas y la puedes ver aquí. En mi caso uso [brew](https://brew.sh/) en _OSX_:
 
 ```bash
 brew install curl --with-ssl --with-libssh2

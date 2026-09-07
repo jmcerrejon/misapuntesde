@@ -23,4 +23,4 @@ No suelo postear proyectos que tengan que ver con GPS ni hardware específico, y
 
 Nuestro amigo _Mario Gómez_ está trabajando en un data-logger para guardar el recorrido de un vehículo... ¡A más de 150 Km/h!. Para esto se valdrá del chip _Venus638FLPx-L_.
 
-Enlace: [fuenteabierta.teubi.co](https://fuenteabierta.teubi.co/2013/05/conectando-el-gps-venus-la-raspberry-pi.html)
+Enlace: fuenteabierta.teubi.co

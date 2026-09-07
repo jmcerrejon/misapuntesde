@@ -31,7 +31,7 @@ Este mismo lunes 31 de Julio empezarán a distribuir esta placa desarrollada por
 
 ![hosters](/images/download1.png)
 
--   **Descarga desde webs de intercambio de ficheros (uploaded, MEGA, freakshare) en tu Raspberry Pi:** Hacía tiempo que no usaba la Pi para descargas directas desde _file hosters_. Voy a aprovechar la cuenta premium que tengo en [uploaded](https://ul.to/ref/8900882) para descargar desde la terminal ~~mi serie favorita~~ mis videos vacacionales usando este post actualizado de mi propia cosecha. | [misapuntesde.com](https://misapuntesde.com/es/2013/08/download-from-file-sharing-sites-uploaded-mega-freakshare-on-your-raspberry-pi.html)
+-   **Descarga desde webs de intercambio de ficheros (uploaded, MEGA, freakshare) en tu Raspberry Pi:** Hacía tiempo que no usaba la Pi para descargas directas desde _file hosters_. Voy a aprovechar la cuenta premium que tengo en uploaded para descargar desde la terminal ~~mi serie favorita~~ mis videos vacacionales usando este post actualizado de mi propia cosecha. | [misapuntesde.com](https://misapuntesde.com/es/2013/08/download-from-file-sharing-sites-uploaded-mega-freakshare-on-your-raspberry-pi.html)
 
 ![gate](/images/2017/07/gate.png)
 

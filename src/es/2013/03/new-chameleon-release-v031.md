@@ -24,4 +24,4 @@ Se han parcheado varios bugs, eliminado el modo de texto de selector de rom y to
 
 La verdad es que es digno de elogio el entorno gráfico tan currado que han preparado. ¿Lo vais a probar? ;)
 
-Descargas: [Torrent](https://chameleon.enging.com/?q=download) | [Descarga directa](https://chameleon.enging.com/chameleon.v031.img.bz2)
+Descargas: Torrent | Descarga directa

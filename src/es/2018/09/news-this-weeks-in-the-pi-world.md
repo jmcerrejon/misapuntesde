@@ -31,7 +31,7 @@ og_image: /images/2018/09/dukenukem.png
 
 ![DietPi](/images/2018/09/dietpi.png)
 
--   **DietPi v. 6.13:** Actualizada esta distro que uso a diario como _NAS_ con muchas novedades que podéis leer [aquí](https://github.com/Fourdee/DietPi/pull/2011#issue-208266750). Por cierto, si tienes cuenta premium en algún hoster como _Uploaded_, mi tutorial para usar [plowdown](https://misapuntesde.com/es/2013/08/download-from-file-sharing-sites-uploaded-mega-freakshare-on-your-raspberry-pi.html) sigue funcionando. Si lo intentas instalar en _DietPi_, necesitarás los paquetes _git-core_ y _build-essential_. | [dietpi.com](https://dietpi.com/)
+-   **DietPi v. 6.13:** Actualizada esta distro que uso a diario como _NAS_ con muchas novedades que podéis leer aquí. Por cierto, si tienes cuenta premium en algún hoster como _Uploaded_, mi tutorial para usar [plowdown](https://misapuntesde.com/es/2013/08/download-from-file-sharing-sites-uploaded-mega-freakshare-on-your-raspberry-pi.html) sigue funcionando. Si lo intentas instalar en _DietPi_, necesitarás los paquetes _git-core_ y _build-essential_. | [dietpi.com](https://dietpi.com/)
 
 ![Lakka](/images/2014/11/lakka.png)
 
@@ -67,7 +67,7 @@ og_image: /images/2018/09/dukenukem.png
 
 -   **ANESE (Another NES Emulator):** He estado leyendo la curiosa característica que tiene este emulador para generar los mapas de scroll de algunos juegos de la _NES_. Lo mejor es entrar en el repo para saber de qué estoy hablando. ¿Os gustaría que lo portara a la Pi?. Venga, animadme en los comentarios. | [github.com > ANESE](https://github.com/daniel5151/ANESE)
 
--   **TensorFlow 1.19 compatible with Raspberry Pi:** Gracias a la colaboración con la _Raspberry Pi Foundation_, la última versión de _TensorFlow_ se puede instalar desde ejecutables precompilados usando el sistema de empaquetado pip de _Python_. Amplía la información en [este](https://www.tensorflow.org/install/install_raspbian) enlace y si usas _Raspbian 9 Stretch_, puedes instalarlo ejecutando estos dos comandos desde un terminal:
+-   **TensorFlow 1.19 compatible with Raspberry Pi:** Gracias a la colaboración con la _Raspberry Pi Foundation_, la última versión de _TensorFlow_ se puede instalar desde ejecutables precompilados usando el sistema de empaquetado pip de _Python_. Amplía la información en este enlace y si usas _Raspbian 9 Stretch_, puedes instalarlo ejecutando estos dos comandos desde un terminal:
 
 ```bash
 sudo apt install libatlas-base-dev

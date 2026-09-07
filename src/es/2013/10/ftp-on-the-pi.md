@@ -27,20 +27,20 @@ El post lo iré actualizando a medida que vaya encontrando más tutoriales.
 
 ### Espa&ntilde;ol
 
--   [es.wikihow.com > Cómo hacer un servidor web Raspberry Pi](https://es.wikihow.com/hacer-un-servidor-web-Raspberry-Pi)
+-   es.wikihow.com > Cómo hacer un servidor web Raspberry Pi
 
 -   [geekytheory.com > TUTORIAL RASPBERRY PI - 9. SERVIDOR FTP](https://geekytheory.com/tutorial-raspberry-pi-9-servidor-ftp/)
 
 ### English
 
--   [ducky-pond.com > How to setup an FTP server with vsftpd on Raspberry Pi](https://www.ducky-pond.com/posts/2013/Aug/install-an-ftp-server-on-rpi/)
+-   ducky-pond.com > How to setup an FTP server with vsftpd on Raspberry Pi
 
--   [resources.intenseschool.com > Turn Your Raspberry Pi into a TFTP Server](https://resources.intenseschool.com/introduction-to-raspberry-pi/)
+-   resources.intenseschool.com > Turn Your Raspberry Pi into a TFTP Server
 
 -   [thelinuxguy.nl > How to create an FTP Server with Raspberry Pi and ArchLinux ARM/Linux](https://www.thelinuxguy.nl/how-tos/how-to-create-an-ftp-server-with-raspberry-pi-and-archlinux-armlinux/)
 
--   [eeweb.com > The Raspberry Pi Part IV: Setting up a Simple Server (Arch Linux)](https://www.eeweb.com/blog/kyle_olive/the-raspberry-pi-part-iv-setting-up-a-simple-server)
+-   eeweb.com > The Raspberry Pi Part IV: Setting up a Simple Server (Arch Linux)
 
--   [russelldavis.org > Setting up sftp on the raspberry pi (and on other linux systems)](https://russelldavis.org/2013/08/18/setting-up-sftp-on-the-raspberry-pi-and-on-other-linux-systems-2/)
+-   russelldavis.org > Setting up sftp on the raspberry pi (and on other linux systems)
 
--   [reviews.cnet.co.uk > How to make a Raspberry Pi solar-powered FTP server](https://reviews.cnet.co.uk/desktops/how-to-make-a-raspberry-pi-solar-powered-ftp-server-50009923/)
+-   reviews.cnet.co.uk > How to make a Raspberry Pi solar-powered FTP server

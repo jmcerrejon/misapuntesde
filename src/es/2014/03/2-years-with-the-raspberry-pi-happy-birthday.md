@@ -41,4 +41,4 @@ Creo que tampoco la necesitamos por ahora. Muchas veces no nos paramos a pensar 
 
 Yo aún tengo muchos proyectos pensados para usarla y en un año que lleva este blog, no me he aburrido de ella y ni tan siquiera he pensado que necesito otra que tenga más potencia como la _BeagleBone_, aunque sí hecho de menos que pudiera ejecutar _Android_ correctamente o tener un navegador web decente, pero ya llegará, estoy seguro.
 
-Foto de portada: [sci-fi-london.com](https://www.sci-fi-london.com/news/games/2012/05/eben-upton-talks-raspberry-pi-sfls-horizons-event)
+Foto de portada: sci-fi-london.com

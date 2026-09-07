@@ -25,6 +25,6 @@ He's out a beta release of the library libspotify 12.1.103 for ARMv6 processor, 
 
 This will enable future applications to connect to our accounts (premium only), and enjoy this great service with millions of users.
 
-Enlace: [Anuncio blog Spotify](https://developer.spotify.com/blog/)
+Enlace: Anuncio blog Spotify
 
-Librería: [descarga](https://developer.spotify.com/technologies/libspotify/#download)
+Librería: descarga

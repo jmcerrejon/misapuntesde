@@ -31,7 +31,7 @@ I remember I bought a _Sound Blaster Pro_ to a friend to fully enjoy this game o
 
 We felt powerful with that shotgun or the chainsaw. The good news is that there have been many _ports_ along the years, and our Pi could not disappoint us.
 
-The best existing version to run on our beloved _Pi_ is _Chocolate Doom_. You can download from the [Pi Store](https://store.raspberrypi.com/projects/chocodoom). This version supports _Dispmanx_ under _SDL 1.2_, using the _GPU_ acceleration to play the game.
+The best existing version to run on our beloved _Pi_ is _Chocolate Doom_. You can download from the Pi Store. This version supports _Dispmanx_ under _SDL 1.2_, using the _GPU_ acceleration to play the game.
 
 Enjoy!.
 

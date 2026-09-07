@@ -23,8 +23,8 @@ Sometimes compiling an application by ourselves can even cause more of a headach
 
 In this case, a user has created a _Raspbian_ version of this music server using _AirPlay V 1.0_ protocol running like an _AirPort Express_ station. You can have your entire music collection on a desktop computer, _iGatgets_ or _Android_ and play from _Raspberry Pi_.
 
-It has been tested with [Airfoil (PC/Mac)](https://rogueamoeba.com/airfoil/) and [Honey Player (Android)](https://play.google.com/store/apps/details?id=de.rah.airstream&feature=search_result).
+It has been tested with [Airfoil (PC/Mac)](https://rogueamoeba.com/airfoil/) and Honey Player (Android).
 
 Link: [snippets.khromov.se](https://snippets.khromov.se/preconfigured-airplay-speaker-shairport-downloadable-raspberry-pi-image/)
 
-Download: [1.73 GB image file](https://snippets.khromov.se/files/shairport-configured-latest.tar.gz)
+Download: 1.73 GB image file

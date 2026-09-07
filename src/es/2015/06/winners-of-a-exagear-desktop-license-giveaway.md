@@ -23,7 +23,7 @@ og_image: /images/2015/06/ExaGear_Desktop_tr.png
 
 ![Exagear](/images/2015/06/ExaGear_Desktop_tr.png)
 
-Ya tenemos la lista de los 10 ganadores para el producto [Exagear Desktop v.1.1](https://eltechs.com/product/exagear-desktop/?utm_source=misapuntesde&utm_medium=post_part1&utm_campaign=ED_May2015_release) de la compañía [Eltechs](https://eltechs.com/?utm_source=misapuntesde&utm_medium=post_part1&utm_campaign=ED_May2015_release). Gracias a todos por participar. Tras el salto, los afortunados...
+Ya tenemos la lista de los 10 ganadores para el producto Exagear Desktop v.1.1 de la compañía Eltechs. Gracias a todos por participar. Tras el salto, los afortunados...
 
 ---
 

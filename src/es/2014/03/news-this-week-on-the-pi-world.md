@@ -23,7 +23,7 @@ og_image: /images/cam.jpg
 
 ---
 
--   **Nuevos modos para la Cámara-Pi:** Parece que han optimizado el software para soportar resoluciones más altas y mejor usabilidad, además de corregir algún que otro bug con el modo _preview_. Podéis ampliar la noticia en [raspberrypi.org](https://www.raspberrypi.org/archives/6475)
+-   **Nuevos modos para la Cámara-Pi:** Parece que han optimizado el software para soportar resoluciones más altas y mejor usabilidad, además de corregir algún que otro bug con el modo _preview_. Podéis ampliar la noticia en raspberrypi.org
 
 -   **Servidor Git privado en tu RPi:** Tengo un servidor _Git_ privado super secreto para mi uso y disfrute que no comparto con nadie. Me costó mucho ponerlo online, pero ahora tú puedes tenerlo también gracias a estos sencillos pasos que nos explican en [instructables.com](https://www.instructables.com/id/GitPi-A-Private-Git-Server-on-Raspberry-Pi/?ALLSTEPS)
 

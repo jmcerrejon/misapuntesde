@@ -23,4 +23,4 @@ The other day looking for MP3 players for the console, I found this _front-end_ 
 
 As a player uses **omxplayer** and has packages for both _Raspbian_ to _Arch Linux_.
 
-Link: [raspyplayer.org](https://raspyplayer.org)
+Link: raspyplayer.org

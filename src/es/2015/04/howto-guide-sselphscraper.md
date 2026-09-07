@@ -47,7 +47,7 @@ brew update && brew upgrade
 brew install go
 ```
 
-Linux, Raspberry Pi, ODROID (Ubuntu) [(+ info)](https://ask.xmodulo.com/install-go-language-linux.html):
+Linux, Raspberry Pi, ODROID (Ubuntu) (+ info):
 
 ```bash
 Ubuntu/Debian: sudo apt-get install golang

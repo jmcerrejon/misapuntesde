@@ -21,7 +21,7 @@ og_image: /images/2013/08/PIR.jpg
 
 En verano hay que tener cuidado con las casas si nos vamos de vacaciones. Mi sueño siempre ha sido tener un robot casero creado por la [OCP](https://www.youtube.com/watch?v=A9l9wxGFl4k) y que se despachara a gusto con los ladrones.
 
-_Nacho Sánchez_ de la web [fresymetal.com](https://www.fresymetal.com) nos vuelve a enviar al correo un nuevo artículo que seguro que interesa a nuestros lectores: Un detector de movimientos con nuestra _Raspberry Pi_...
+_Nacho Sánchez_ de la web fresymetal.com nos vuelve a enviar al correo un nuevo artículo que seguro que interesa a nuestros lectores: Un detector de movimientos con nuestra _Raspberry Pi_...
 
 ---
 
@@ -29,4 +29,4 @@ Ya nos deleitó con un extraordinario tutorial sobre [detección de intrusión e
 
 ¡Gracias por compartir el artículo, Nacho!
 
-Enlace: [fresymetal.com](https://www.fresymetal.com/raspberry-pir-detector-de-movimientos/)
+Enlace: fresymetal.com

@@ -41,7 +41,7 @@ They recommend using _Jetbrains Fleet_, a perfect _IDE_ for _Kotlin Multiplatfor
 
 ![Android Studio with Gemini AI](/images/2024/05/android_studio_gemini_ai.png "Android Studio with Gemini AI")
 
-If you prefer to use _Visual Studio Code_, install the _Kotlin language extension_ [here](https://marketplace.visualstudio.com/items?itemName=mathiasfrohlich.Kotlin), but only recommended for advanced users.
+If you prefer to use _Visual Studio Code_, install the _Kotlin language extension_ here, but only recommended for advanced users.
 
 The only way to develop apps for _macOS_, is installing _Xcode_. Take it into account.
 
@@ -57,7 +57,7 @@ brew remove kdoctor <-- cleaning da hause!
 
 ![Kotlin Multiplatform Wizard](/images/2024/05/firefox_kotlin_wizard.png "Kotlin Multiplatform Wizard")
 
-They recommend using the _Kotlin Multiplatform Wizard_, so visit [https://kmp.jetbrains.com](https://kmp.jetbrains.com) and follow the steps.
+They recommend using the _Kotlin Multiplatform Wizard_, so visit https://kmp.jetbrains.com and follow the steps.
 
 You can choose `Create an App with shared logic`, or the `Compose Multiplatform UI`. With the latest, you can implement the user interface once and then use it for all the platforms you target: _iOS, Android, desktop,..._ It's the one I chose for this article.
 

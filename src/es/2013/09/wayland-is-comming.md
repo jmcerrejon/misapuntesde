@@ -29,9 +29,9 @@ En su día ya vimos un artículo dedicado a Wayland [aquí](https://misapuntesde
 
 Os dejo varios enlaces para ampliar información.
 
-Enlace: [linux.com](https://www.linux.com/news/featured-blogs/200-libby-clark/738632-raspberry-pis-eben-upton-demos-wayland-support-on-the-pi/)
+Enlace: linux.com
 
-Enlace: [linuxadictos.com](https://www.linuxadictos.com/wayland-es-el-futuro-asegura-fundador-de-la-fundacion-raspberry-pi.html)
+Enlace: linuxadictos.com
 
 Enlace: [phoronix.com](https://www.phoronix.com/scan.php?page=news_item&px=MTQ2NDU)
 

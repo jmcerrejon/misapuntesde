@@ -25,7 +25,7 @@ I can not stop thinking about everything that is happening in the Pi World and t
 
 <iframe width="400" height="225" src="https://www.youtube.com/embed/Aatp5gCskvk?rel=0" frameborder="0" allowfullscreen></iframe>
 
--   **Pi-Light - Raspberry PI Powered Smart Light** | [jamespoole.me](https://jamespoole.me/2016/10/11/pilight-raspberry-pi-powered-smart-light/)
+-   **Pi-Light - Raspberry PI Powered Smart Light** | jamespoole.me
 
 ![rpi2bRev](/images/2016/11/rpi2bRev.jpg)
 

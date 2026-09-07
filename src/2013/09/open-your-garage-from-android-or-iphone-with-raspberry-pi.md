@@ -25,6 +25,6 @@ The following article is hosted on Blog [flu-proyect.com](https://www.flu-projec
 
 Teaches us to install the necessary software to make everything work. We also have some _Python_ code that will help us connect with the [RPIO](https://pythonhosted.org/RPIO/) library (yes, with **R**).
 
-Translated link: [flu-project.com > Part I](https://translate.google.com/translate?sl=es&tl=en&js=n&prev=_t&hl=es&ie=UTF-8&u=http%3A%2F%2Fwww.flu-project.com%2Fabre-tu-garaje-desde-android-o-iphone-con-raspberry-pi-parte-i.html)
+Translated link: flu-project.com > Part I
 
 Translated link: [flu-project.com > Part II](https://translate.google.com/translate?sl=es&tl=en&js=y&prev=_t&hl=es&ie=UTF-8&u=http%3A%2F%2Fwww.flu-project.com%2F2014%2F04%2Fabre-tu-garaje-desde-android-o-iphone.html&edit-text=)

@@ -33,7 +33,7 @@ Games that will not work, for example, are Yoshi's Island, Street Fighter Alpha 
 
 Link: [PiSNES](https://code.google.com/p/pisnes/)
 
-Link: [PiSNES on PiStore](https://store.raspberrypi.com/projects/pisnes)
+Link: PiSNES on PiStore
 
 EXTRA!:
 

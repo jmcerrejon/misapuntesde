@@ -47,7 +47,7 @@ cd openbor
 
 ![estructura](/images/2015/05/openbor_structure.png)
 
-Inside you will find the executable for your favorite system. Now we need to seek on the [internet](https://mega.co.nz/#F!4xMgTDTA!bnfrA4RapYRvS31jSak3IQ) the _.pak files_ and copy them inside the **Paks/** folder.
+Inside you will find the executable for your favorite system. Now we need to seek on the internet the _.pak files_ and copy them inside the **Paks/** folder.
 
 Once copied, run the script from the root directory called **./unpak.sh**
 
@@ -76,4 +76,4 @@ Now you can hit to everyone who put in front of you. If any reader know _OpenBOR
 
 Link: [raspberrypi.org > Street Of Rage Remake](https://www.raspberrypi.org/forums/viewtopic.php?f=78&t=26859&sid=d78d6f6af03fcd57177ac469c5a8ec96)
 
-MODs: [mega.co.nz > OpenBOR games](https://mega.co.nz/#F!4xMgTDTA!bnfrA4RapYRvS31jSak3IQ)
+MODs: mega.co.nz > OpenBOR games

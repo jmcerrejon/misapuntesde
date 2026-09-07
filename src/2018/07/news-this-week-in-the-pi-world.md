@@ -39,13 +39,13 @@ Sorry I can not entertain myself to crop and upload the images, but I leave you 
 
 -   **Audio Injector Ultra 2 (Kickstarter)** | [kickstarter.com](https://www.kickstarter.com/projects/1250664710/audio-injector-ultra-2-sound-card/?ref=eelec)
 
--   **FE-PI POE V1.3** | [fe-pi.com](https://fe-pi.com/products/fe-pi-poe-v1)
+-   **FE-PI POE V1.3** | fe-pi.com
 
 -   **96-core ARM supercomputer using the NanoPi-Fire3** | [climbers.net](https://climbers.net/sbc/nanopi-fire3-arm-supercomputer/)
 
 -   **Displaying weather forecast on a Raspberry Pi Inky screen** | [raspicolas.wordpress.com](https://raspicolas.wordpress.com/2018/06/03/displaying-weather-forecast-on-a-raspberry-pi-inky-screen/)
 
--   **Framed Raspberry Pi Keeps Tabs on Spotify** | [jonashcroft.co.uk](https://jonashcroft.co.uk/2018/06/07/now-playing-screen-spotify-raspberry-pi-es6/)
+-   **Framed Raspberry Pi Keeps Tabs on Spotify** | jonashcroft.co.uk
 
 -   **Finding illegal content with just 10 Watts of power** | [blog.haschek.at](https://blog.haschek.at/post/f0a4e)
 

@@ -23,6 +23,6 @@ _Diverteka_ nos vuelve a traer un tutorial que nos viene bastante bien a los pos
 
 ---
 
-Para hacerlo ya nos explicó en [éste enlace](https://www.diverteka.com/?p=1750) como configurar un receptor de satélite USB _(DVB-T)_ con el plugin tvheadend encargado de emitir la señal.
+Para hacerlo ya nos explicó en éste enlace como configurar un receptor de satélite USB _(DVB-T)_ con el plugin tvheadend encargado de emitir la señal.
 
-Enlace: [diverteka.com > Raspberry emite TV en iPad](https://www.diverteka.com/?p=1930)
+Enlace: diverteka.com > Raspberry emite TV en iPad

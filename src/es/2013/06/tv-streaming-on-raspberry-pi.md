@@ -27,4 +27,4 @@ Nuestro amigo de _Diverteka_ ha publicado un artículo sobre streaming de canale
 
 Podremos ver la _TV_ desde cualquier navegador web, en la tablet, en el móvil,...
 
-Enlace: [Diverteka](https://www.diverteka.com/?p=1750)
+Enlace: Diverteka

@@ -35,7 +35,7 @@ More than once I have commented on the blog: I'm obsessed with optimization. Alr
 
 As it says on its website: _Small. Simple. Secure. Alpine Linux is a security-oriented, lightweight Linux distribution_. It usually takes up very little space since its goal is to run in _RAM_ and be very secure. It is built with the [musl libc](https://www.musl-libc.org/intro.html) LIBRARY and [BusyBox](https://es.wikipedia.org/wiki/Busybox). It doesN't usually take up more than _130Mb_ once installed. The _BusyBox_ is an executable with many utilities to 'talk' to the Linux _Kernel_ and replaces more than 300 common commands. _ALPINE_ comes with its own package manager and repositories maintained by themselves and the community. It has support for _Raspberry Pi 4_ since November and takes advantage of all potential that our beloved board offers on 64 bits.
 
-The version I'm going to use is the _3.11.3_ released on January 16th of this year. I don't bore you too much with this, but if you are interested, I leave the [release info post](https://git.alpinelinux.org/cgit/aports/log/?h=v3.11.3) for you to see the changes.
+The version I'm going to use is the _3.11.3_ released on January 16th of this year. I don't bore you too much with this, but if you are interested, I leave the release info post for you to see the changes.
 
 ### [ Meet ALPINOS ]
 
@@ -49,7 +49,7 @@ The goal is the following: I burn my _alpinOS_ distro, put the SD in the Pi, run
 
 ### [ Alternatives running in RAM ]
 
-This is not the first time we have encountered an operating system that runs on the _RAM_. I have commented more than once on the distribution [piCore](https://misapuntesde.com/2014/02/discovering-picore-part-ii.html) or on desktop computers we have some very recognized as [CoreOS](https://coreos.com) or [Tiny Core Linux](https://tinycorelinux.net). You can visit [Wikipedia](https://en.wikipedia.org/wiki/List_of_Linux_distributions_that_run_from_RAM) to get some more references.
+This is not the first time we have encountered an operating system that runs on the _RAM_. I have commented more than once on the distribution [piCore](https://misapuntesde.com/2014/02/discovering-picore-part-ii.html) or on desktop computers we have some very recognized as [CoreOS](https://coreos.com) or Tiny Core Linux. You can visit [Wikipedia](https://en.wikipedia.org/wiki/List_of_Linux_distributions_that_run_from_RAM) to get some more references.
 
 Next week we will start rolling up our sleeves to get down to business and start developing my (our) ideal operating system. For now I leave you with the repo of a first Alpha version that I have prepared.
 

@@ -23,7 +23,7 @@ We have available a new version of the best Mediacenter we can install in our _R
 
 ---
 
-I'm going to summarize what I consider interesting for our Pi. You can read the rest on the [website](https://openelec.tv/news/22-releases/107-openelec-3-2-0-released):
+I'm going to summarize what I consider interesting for our Pi. You can read the rest on the website:
 
 number of backports from Gotham and **speed improvements for RaspberryPi users**
 
@@ -51,4 +51,4 @@ The most visible change is the new addon settings and the _Wizard_ when you star
 
 You can upgrade directly from it if you have activated the _auto-update_ or download the new image that you will find here when it comes out.
 
-Link: [OpenELEC-RPi.arm-3.2.0.img.zip (92 MB)](https://resources.pichimney.com/OpenELEC/official_images/OpenELEC-RPi.arm-3.2.0.img.zip)
+Link: OpenELEC-RPi.arm-3.2.0.img.zip (92 MB)

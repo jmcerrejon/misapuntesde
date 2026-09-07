@@ -20,7 +20,7 @@ tag:
 
 Here's my intervention in _Raspberry JAM_ held this past Saturday in Barcelona. I think it sounds good, but sometimes leave the plane due the fixed camera, sorry.
 
-I would have to thank everyone who visit us and to Ferran Fabregas [(projectlog.ferranfabregas.info)](https://projectlog.ferranfabregas.info), her mate Manuela, as well as Antonio Monaco Osado [(peatonet.com)](https://peatonet.com) and Karla. So glad to do a thousand kilometers ;)
+I would have to thank everyone who visit us and to Ferran Fabregas (projectlog.ferranfabregas.info), her mate Manuela, as well as Antonio Monaco Osado [(peatonet.com)](https://peatonet.com) and Karla. So glad to do a thousand kilometers ;)
 
 Thank you!
 

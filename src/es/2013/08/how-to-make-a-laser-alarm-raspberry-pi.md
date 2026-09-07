@@ -23,4 +23,4 @@ La web _Fresy Metal_ nos presenta otro tutorial. Esta vez sobre hacer una alarma
 
 Como siempre, en su web.
 
-Enlace: [fresymetal.com](https://www.fresymetal.com/como-hacer-una-alarma-laser-con-raspberry/)
+Enlace: fresymetal.com

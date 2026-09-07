@@ -57,13 +57,13 @@ Link: [PiMAME forum](https://pimame.org/forum/discussion/382/how-to-installrun-c
 
 We have other PCBs which as you know, they are making a dent in the market. In this article it present some of them.
 
-Link: [electronicproducts.com](https://www.electronicproducts.com/Computer_Systems/Standalone_Mobile/Beginner_s_Guide_to_Selecting_a_Development_Board.aspx)
+Link: electronicproducts.com
 
 ### Paula Juiz Blog: Projects come true
 
 I found this profile from [Twitter](https://twitter.com/paula_juiz_) by chance, and although his blog has little content, I think we will surprise more than one in the future. For now teaches us to install _Postfix_ as a mail server and install a video surveillance system. Good luck Paula!
 
-Spanish Link: [paulajuiz.16mb.com](https://paulajuiz.16mb.com/proyectos-con-raspberry-pi/)
+Spanish Link: paulajuiz.16mb.com
 
 ### Scanning old films using a Raspberry Pi
 
@@ -87,4 +87,4 @@ Link: [indiegogo.com](https://igg.me/at/9duino/x/4152104)
 
 We have new distro based on _Debian Wheezy_ with many features that make it interesting: kernel 3.6.11, fits 512 cards or 1 GB, support WIFI dongles, **_login screen in 10 seconds_**, ext2,...
 
-Link: [pipaOS](https://pipaos.mitako.eu)
+Link: pipaOS

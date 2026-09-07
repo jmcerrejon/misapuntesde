@@ -33,6 +33,6 @@ Os dejo con el video de la campaña.
 
 <iframe width="420" height="315" src="//www.youtube.com/embed/3Isc_6hSCJg" frameborder="0" allowfullscreen></iframe>
 
-Enlace: [indiegogo.com > INDIEGO! - transform any Amiga, Mac, PC and Raspberry into a video game console](https://www.indiegogo.com/projects/indiego-transform-any-amiga-mac-pc-and-raspberry-into-a-video-game-console/x/4152104)
+Enlace: indiegogo.com > INDIEGO! - transform any Amiga, Mac, PC and Raspberry into a video game console
 
-Enlace: [indiego-gaming.com](https://www.indiego-gaming.com)
+Enlace: indiego-gaming.com

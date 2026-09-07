@@ -39,7 +39,7 @@ Includes _Stella (Atari 2600 emulator)_ and the famous _Cavestory_. Remember tha
 
 -   AdvanceMAME 1.2
 
-Download: [pimame-0.7.5.img.zip (1.1 GB)](https://sourceforge.net/projects/pimame/files/pimame-0.7.5.img.zip/download)
+Download: pimame-0.7.5.img.zip (1.1 GB)
 
 EXTRA!:
 

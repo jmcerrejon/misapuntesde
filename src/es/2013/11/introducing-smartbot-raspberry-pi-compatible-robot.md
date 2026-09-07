@@ -27,7 +27,7 @@ En este caso, teniendo un móvil haciendo de "cerebro" de la bestia, podrás con
 
 La próxima revolución se llama SmartBot. Se conecta a nuestro móvil a través del Jack de audio (entre otros) y permite utilizar todas las bondades de tu dispositivo móvil (_GPS, BT, acelerómetro_) para controlar la base que presentamos.
 
-Batalla de robots, Juegos, aprendizaje o usarlo como mascota. Las posibilidades son infinitas y lo más interesante es que es programable y tiene su propio [SDK](https://www.overdriverobotics.com/SmartBot/smartbot-development-section/smartbot-sdk/). Podemos montar como veréis en el vídeo presentación un _Arduino_ u otra placa de desarrollo.
+Batalla de robots, Juegos, aprendizaje o usarlo como mascota. Las posibilidades son infinitas y lo más interesante es que es programable y tiene su propio SDK. Podemos montar como veréis en el vídeo presentación un _Arduino_ u otra placa de desarrollo.
 
 <iframe width="420" height="315" src="//www.youtube.com/embed/JtX8Y7_eFJA" frameborder="0" allowfullscreen></iframe>
 

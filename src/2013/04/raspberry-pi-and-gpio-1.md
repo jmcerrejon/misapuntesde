@@ -29,4 +29,4 @@ It teaches how the _Raspberry Pi_ communicates with the world, the hardware asso
 
 An article to save favorites and keep it in mind.
 
-Link: [Diverteka - GPIO](https://www.diverteka.com/?p=1455)
+Link: Diverteka - GPIO

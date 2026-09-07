@@ -29,4 +29,4 @@ The saga has several parts given its quite addictive difficulty. I tried the ver
 
 I leave the link to the web with all parts. Hope you enjoy!
 
-Link: [sqrxz](https://www.sqrxz.de/) | [Invite the team to a coffee](https://www.sqrxz.de/coffee/)
+Link: [sqrxz](https://www.sqrxz.de/) | Invite the team to a coffee

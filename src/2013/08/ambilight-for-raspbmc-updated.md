@@ -44,4 +44,4 @@ Greetings!
 
 Link: [MisApuntesde... Ambilight Guide](https://misapuntesde.com/2013/06/ambilight-with-raspberry-pi-the-guide-spanish-pdf.html)
 
-Link: [raspbmc](https://www.raspbmc.com)
+Link: raspbmc

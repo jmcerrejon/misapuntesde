@@ -31,4 +31,4 @@ Link: [attractmode.org](https://attractmode.org/about.html)
 
 Link: [github.com > Compiling on the Raspberry Pi (Rasbian Wheezy)](https://github.com/mickelson/attract/wiki/Compiling-on-the-Raspberry-Pi-%28Rasbian-Wheezy%29)
 
-Forum: [forum.attractmode.org > RPI 1&2 Attractmode image](https://forum.attractmode.org/index.php?topic=223.0)
+Forum: forum.attractmode.org > RPI 1&2 Attractmode image

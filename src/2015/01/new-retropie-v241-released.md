@@ -73,4 +73,4 @@ What I liked is the resolution changes in each emulator to fit your screen perfe
 
 Overall it is progressing rapidly and I think will become in the favorite system of many gamers.
 
-Link: [RetroPie > RetroPie SD-Card Image V2.4.1, BETA (610 MB - 2 GB uncompressed)](https://blog.petrockblock.com/download/retropie-sd-card-image-v2-4-small-beta/)
+Link: RetroPie > RetroPie SD-Card Image V2.4.1, BETA (610 MB - 2 GB uncompressed)

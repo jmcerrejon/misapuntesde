@@ -21,4 +21,4 @@ og_image: /images/firmware.jpg
 
 As discussed in _Raspbmc's forum_, a new firmware has been release and fix the pop sound before and after played media. Good news for all. Did anyone test it on Raspbian and want to comment?
 
-Link: [stmlabs.com](https://forum.stmlabs.com/showthread.php?tid=4573&pid=59568#pid59568)
+Link: stmlabs.com

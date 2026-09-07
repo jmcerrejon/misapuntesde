@@ -43,4 +43,4 @@ Como curiosidad, al autor del artículo con una RPi sin overlock le ha dado los 
 
 Os recuerdo que podéis conocer detalles más técnicos con la herramienta **nbench**, que se encuentra disponible para su instalación a través de [PiKISS](https://github.com/jmcerrejon/PiKISS/blob/master/scripts/info/bmark.sh).
 
-Enlace: [awesomeweirdness.com > Calculation of Pi](https://www.awesomeweirdness.com/projects-diy/calculation-pi/)
+Enlace: awesomeweirdness.com > Calculation of Pi

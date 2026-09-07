@@ -27,8 +27,8 @@ The application displays information about _CPU, RAM_ or temperature through an 
 
 You need to install a server program on the _Pi_.
 
-I encourage everyone to try and I'm pretty sure the developer would appreciate feedback through their _Twitter_ [@laux_es](https://twitter.com/laux_es) or in the _Google Play_.
+I encourage everyone to try and I'm pretty sure the developer would appreciate feedback through their _Twitter_ @laux_es or in the _Google Play_.
 
-Download: [Google Play - Raspberry Simple Monitor Early](https://play.google.com/store/apps/details?id=com.rpimonitor.app)
+Download: Google Play - Raspberry Simple Monitor Early
 
 More info: [GitHub - RPi-Simple-Monitor](https://github.com/Angelmmiguel/RPi-Simple-Monitor)

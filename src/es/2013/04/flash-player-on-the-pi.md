@@ -20,4 +20,4 @@ Ahora recuerdo porqué me compré un _Mac_. Estos días he estado atareado confi
 
 Pero en fin, culpa mía. Poca cosa he encontrado de valor, así que os dejo con unos pasos para poder hacer funcionar _Adobe Flash Player_ en la _Raspberry Pi_, que se que os gusta mucho.
 
-Enlace: [mrpiworld.wordpress.com](https://mrpiworld.wordpress.com/2013/04/13/adobe-flash-player-works-on-pi/)
+Enlace: mrpiworld.wordpress.com

@@ -40,4 +40,4 @@ This book contains IoT projects such as building a smart temperature controller,
 
 Remember that the book is available **for a limited time** and you must to sign up.
 
-Download: [packtpub.com > Smart Internet of Things Projects](https://www.packtpub.com/packt/offers/free-learning)
+Download: packtpub.com > Smart Internet of Things Projects

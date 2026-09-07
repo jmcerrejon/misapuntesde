@@ -27,7 +27,7 @@ In this case, having a mobile making "brain" of the beast, you can control a rob
 
 The next revolution is called _SmartBot_. It connects to your mobile phone via the audio jack (among others) and to use all the advantages of your mobile device (_GPS, BT, accelerometer_) to control the base presented.
 
-Battle robots, games, learning or using it as a pet. The possibilities are endless and the most interesting is that it is programmable and has its own [SDK](https://www.overdriverobotics.com/SmartBot/smartbot-development-section/smartbot-sdk/). We can build as you will see in the video presentation an _Arduino_ or other development board.
+Battle robots, games, learning or using it as a pet. The possibilities are endless and the most interesting is that it is programmable and has its own SDK. We can build as you will see in the video presentation an _Arduino_ or other development board.
 
 <iframe width="420" height="315" src="//www.youtube.com/embed/JtX8Y7_eFJA" frameborder="0" allowfullscreen></iframe>
 

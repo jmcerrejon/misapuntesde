@@ -35,7 +35,7 @@ Los sistemas operativos que han actualizado su imagen recientemente son:
 
 -   [piCorePlayer 1.18b](https://sites.google.com/site/picoreplayer/home/download) (Nov)
 
--   [Slackware](https://rpi.fatdog.eu/index.php?p=downloads) (Nov)
+-   Slackware (Nov)
 
 -   PiPlay (PiMAME) (Oct)
 
@@ -45,11 +45,11 @@ Los sistemas operativos que han actualizado su imagen recientemente son:
 
 -   [XBian 1 RC 3](https://sourceforge.net/projects/xbian/) (Sep)
 
--   [Kali Linux 1.0.9a](https://cdimage.kali.org/kali-latest/armhf/kali-linux-1.0.9a-armhf.img.xz) (Sep)
+-   Kali Linux 1.0.9a (Sep)
 
--   [OpenSUSE 13.1](https://download.opensuse.org/repositories/devel:/ARM:/13.1:/Contrib:/RaspberryPi/images/) (Sep)
+-   OpenSUSE 13.1 (Sep)
 
--   [PiBOX 0.9.0](https://www.graphics-muse.org/archives/pibox/0.9.0/) (Sep)
+-   PiBOX 0.9.0 (Sep)
 
 -   [Sonic Pi 2.0.1](https://github.com/samaaron/sonic-pi/releases/tag/v2.0.1) (Sep)
 
@@ -67,7 +67,7 @@ Los sistemas operativos que han actualizado su imagen recientemente son:
 
 -   [Diet Pi](https://fuzon.co.uk/phpbb/viewtopic.php?f=8&t=5) (Jul)
 
--   [RetroPie 2.3](https://blog.petrockblock.com/download/retropie-project-image/) (Jul)
+-   RetroPie 2.3 (Jul)
 
 -   ArkOS (Jul)
 

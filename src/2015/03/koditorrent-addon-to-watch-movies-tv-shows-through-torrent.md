@@ -34,6 +34,6 @@ I had already comment on some occasion [these alternatives](https://misapuntesde
 
 The menus are loaded faster on a *Raspberry Pi 2* with no overclock. I've tested with *OpenELEC 5.0.6* and usually **takes about 40 seconds with a 20 Mbps** connection to load on buffer.
 
-Download Add-on: [github.com > jmarth/plugin.video.kmediatorrent - Source code (zip)](https://github.com/jmarth/plugin.video.kmediatorrent/releases)
+Download Add-on: github.com > jmarth/plugin.video.kmediatorrent - Source code (zip)
 
-Link: [seo-michael.co.uk > Tutorial How to Install and Configure KMediaTorrent XBMC Kodi](https://seo-michael.co.uk/how-to-install-kmediatorrent-for-xbmc-kodi/)
+Link: seo-michael.co.uk > Tutorial How to Install and Configure KMediaTorrent XBMC Kodi

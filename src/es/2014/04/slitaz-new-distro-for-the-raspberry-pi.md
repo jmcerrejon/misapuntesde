@@ -27,7 +27,7 @@ Otra de las distribuciones que se pasa a dispositivos _ARM_.
 
 Es un sistema operativo que trabaja en memoria como es el caso de _PiCore_ que ya vimos en artículos recientes [aquí](https://misapuntesde.com/es/2014/02/picore-52-for-raspberry-pi.html) y [aquí](https://misapuntesde.com/es/2014/02/discovering-picore-part-ii.html) y que usa un sistema de ficheros initramfs/initrd. Lo increíble es que se cargará todo el sistema en tan sólo **20MB de la RAM disponible**.
 
-Aún tiene una lista de [paquetes soportados](https://arm.slitaz.org/tools.cgi?pkgs) bastante escasa, pero su funcionalidad para ejercer de servidor aprovechando el potencial de la _Raspberry Pi_ es indudable. Incluso puede ser generada con una herramienta propia y obtener un nuevo sabor de frambuesa :P
+Aún tiene una lista de paquetes soportados bastante escasa, pero su funcionalidad para ejercer de servidor aprovechando el potencial de la _Raspberry Pi_ es indudable. Incluso puede ser generada con una herramienta propia y obtener un nuevo sabor de frambuesa :P
 
 Necesitarás descomprimir el paquete base y crear en tu _SD_ tres particiones: _boot, swap y root_. Luego ejecuta el _installer_ y se copiarán los ficheros a la tarjeta de almacenamiento.
 

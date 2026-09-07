@@ -25,8 +25,8 @@ Hoy os dejo unos enlaces para ver si es posible leer o mandar mensajes desde _Tw
 
 Pues sí, y para no repetirme, creo que hay unos posts muy claros (aunque en inglés) sobre el tema que voy a dejaros. Si tenéis algún problema para eso están los comentarios.
 
-Twitter: [xmodulo.com > How to access Twitter from the command line on Linux](https://xmodulo.com/2013/12/access-twitter-command-line-linux.html)
+Twitter: xmodulo.com > How to access Twitter from the command line on Linux
 
-Facebook: [xmodulo.com > How to access Facebook from the command line on Linux](https://xmodulo.com/2014/01/access-facebook-command-line-linux.html)
+Facebook: xmodulo.com > How to access Facebook from the command line on Linux
 
 Chat con finch: [bhavyanshu.me > Use facebook and gtalk chat using terminal console](https://bhavyanshu.me/tutorials/use-fbgtalk-chat-using-terminal-console/12/07/2013/)

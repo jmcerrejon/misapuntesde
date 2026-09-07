@@ -39,8 +39,8 @@ Version 1.5
 
 I think it's time to create a new tutorial about this. What do you think?, Have you installed or played RetroPie?.
 
-Link: [RetroPie](https://blog.petrockblock.com/download/retropie-project-image/)
+Link: RetroPie
 
-Link: [Google Docs - Testing games on the RetroPie](https://docs.google.com/spreadsheet/ccc?key=0ApduqOApj8sodDIwMXRxbHc1ZmtfVVF4dDU0NW9IN3c#gid=0)
+Link: Google Docs - Testing games on the RetroPie
 
 Link: [LifeHacker - How to Build an All-In-One Retro Game Console for $35, the Easy Way](https://lifehacker.com/how-to-turn-your-raspberry-pi-into-a-retro-game-console-498561192)

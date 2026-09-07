@@ -38,10 +38,10 @@ gpu_mem=64
 
 ```
 
-Enlace: [Descarga desde la Pi Store](https://store.raspberrypi.com/projects/mame4all_pi)
+Enlace: Descarga desde la Pi Store
 
-Enlace: [Noticias, configuración, información sobre el emula](https://code.google.com/p/mame4all-pi/)
+Enlace: Noticias, configuración, información sobre el emula
 
 Enlace: [Útil hilo sobre errores con AdvMAME](https://www.raspberrypi.org/phpBB3/viewtopic.php?f=78&t=14645)
 
-Enlace: [ROMS-que-debes-borrar-en-24-horas](https://www.romnation.net)
+Enlace: ROMS-que-debes-borrar-en-24-horas

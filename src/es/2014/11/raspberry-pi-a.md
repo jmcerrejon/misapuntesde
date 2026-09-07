@@ -59,7 +59,7 @@ Obviamente se trata de un modelo B+ recortado en prestaciones para otorgar a tus
 
 En mi opinión, se siguen quedando corto con los _256MB RAM_. Deberían haber aprovechado y sacarlo con _512MB_, estoy seguro que las ventas se dispararían. ¿Qué os parece a vosotros?
 
-Enlace: [linuxvoice.com > CHEAPER, SMALLER, CURVIER; THE ALL NEW RASPBERRY PI A+](https://www.linuxvoice.com/raspberry-pi-model-a/)
+Enlace: linuxvoice.com > CHEAPER, SMALLER, CURVIER; THE ALL NEW RASPBERRY PI A+
 
 PDF: [Comparativa todos los modelos de Raspberry Pi gracias a Element14](/res/Rpi%20Model%20Comparison.pdf)
 
@@ -67,10 +67,10 @@ Webs recomendadas para comprarla:
 
 -   España: [Raspipc.es](https://www.raspipc.es/public/home/index.php?ver=tienda&accion=verArticulo&idProducto=1174)
 
--   USA: [mcmelectronics.com](https://www.mcmelectronics.com/product/83-16459)
+-   USA: mcmelectronics.com
 
 -   UK: [The Pi Hut](https://thepihut.com/collections/new-products/products/raspberry-pi-model-a-a-plus)
 
 -   UK:[uk.farnell.com](https://uk.farnell.com/raspberry-pi/raspbrry-moda-256m/sbc-raspberry-pi-model-a-256mb/dp/2447906?Ntt=Model+A%2B)
 
--   UK:[uk.rs-online.com](https://uk.rs-online.com/web/p/processor-microcontroller-development-kits/8332699/)
+-   UK:uk.rs-online.com

@@ -39,8 +39,8 @@ Versión 1.5
 
 Creo que va siendo hora de crear un nuevo tutorial sobre esto. ¿Qué os parece la idea?, ¿Habéis instalado o jugado a RetroPie?.
 
-Enlace: [RetroPie](https://blog.petrockblock.com/download/retropie-project-image/)
+Enlace: RetroPie
 
-Enlace: [Google Docs - Listado de juegos testeados](https://docs.google.com/spreadsheet/ccc?key=0ApduqOApj8sodDIwMXRxbHc1ZmtfVVF4dDU0NW9IN3c#gid=0)
+Enlace: Google Docs - Listado de juegos testeados
 
 Enlace: [LifeHacker - Contruir una máquina retro arcade todo-en-uno por 35$ de forma fácil](https://lifehacker.com/how-to-turn-your-raspberry-pi-into-a-retro-game-console-498561192)

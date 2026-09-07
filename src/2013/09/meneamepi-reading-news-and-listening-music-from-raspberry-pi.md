@@ -27,4 +27,4 @@ _Joan_ show us on his blog a script that play with _mpg123_ random songs and int
 
 Thanks _Joan_.
 
-Link: [jcatala.net > meneamepi-leyendo-noticias-y-escuchando-musica-desde-raspberry-pi](https://jcatala.net/categoria-gnulinux/meneamepi-leyendo-noticias-y-escuchando-musica-desde-raspberry-pi)
+Link: jcatala.net > meneamepi-leyendo-noticias-y-escuchando-musica-desde-raspberry-pi

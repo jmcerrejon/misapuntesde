@@ -35,6 +35,6 @@ Sobre _RetroPie_, la última versión 1.9.1 corrige varios fallos que hemos teni
 
 Sobre _OpenELEC_, en estos momentos esta la web en mantenimiento y no he podido acceder a las características de esta nueva versión, pero os la podéis bajar en el enlace que dejo o como siempre, teniéndo la opción de actualizaciones automáticas activada.
 
-Descarga: [OpenELEC-RPi.arm-3.2.4.img.zip (89 MB)](https://resources.pichimney.com/OpenELEC/official_images/OpenELEC-RPi.arm-3.2.4.img.zip)
+Descarga: OpenELEC-RPi.arm-3.2.4.img.zip (89 MB)
 
 Descarga: [RetroPieImage_ver1.9.1.zip (1.6 GB)](https://blog.petrockblock.com/?wpdmdl=17)

@@ -23,7 +23,7 @@ Por si no os habéis dado cuenta, no tenemos nueva versión desde hace medio añ
 
 ---
 
-Si bien la web [openelec.tv](https://openelec.tv/news) no se actualiza desde Mayo, no existe una confirmación oficial tal vez debido a los partners que sustentan el proyecto.
+Si bien la web openelec.tv no se actualiza desde Mayo, no existe una confirmación oficial tal vez debido a los partners que sustentan el proyecto.
 
 ![openelec_commits](/images/2016/10/openelec_commits.png)
 

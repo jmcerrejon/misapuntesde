@@ -100,7 +100,7 @@ He testeado emuladores de *Nintendo64, PSX y Wii*. Van todos genial con alguna q
 
 Enlaces de interés:
 
-* [MiniOS10 LTSC UEFI (es) desde windowsminios.org ](https://www.windowsminios.org/descargas-minios/)
+* MiniOS10 LTSC UEFI (es) desde windowsminios.org 
 
 * [reddit.com/r/Atomic_Pi](https://www.reddit.com/r/Atomic_Pi/comments/bib9pc/windows_10_video_driver/)
 

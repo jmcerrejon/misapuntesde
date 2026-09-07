@@ -29,4 +29,4 @@ The engine allows post tweets, change voice, download videos from your Dropbox a
 
 ![carriots](/images/carrios_toy.jpg)
 
-Link: [Instructions](https://www.carriots.com/community/domokun_iot_example_internet_stuffed_toy)
+Link: Instructions

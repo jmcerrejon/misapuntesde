@@ -31,7 +31,7 @@ It seems I've found some news about other boards beyond _Raspberry Pi_ this week
 
 ![ODROID](/images/2015/07/odroid-xu4_02.jpg)
 
--   **ODROID-XU4 discount ($20):** | [hardkernel.com](https://www.hardkernel.com/main/products/prdt_info.php?g_code=G143452239825)
+-   **ODROID-XU4 discount ($20):** | hardkernel.com
 
 ![RecalBox](/images/2015/03/recalbox.png)
 

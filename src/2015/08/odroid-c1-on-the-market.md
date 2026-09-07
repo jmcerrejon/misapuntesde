@@ -39,4 +39,4 @@ With three weeks delay [according to my predictions](https://misapuntesde.com/20
 
 -   Improved SD-card compatibility
 
-Link: [hardkernel.com > ODROID-C1+](https://www.hardkernel.com/main/products/prdt_info.php?g_code=G143703355573)
+Link: hardkernel.com > ODROID-C1+

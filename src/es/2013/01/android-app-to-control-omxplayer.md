@@ -21,4 +21,4 @@ og_image: /images/rpi-remote.jpg
 
 Esta aplicación llamada _Raspberry Pi Control Remoto_, con versión gratis y de pago, te permitirá controlar vía _SSH_ las películas que cargues con _omxplayer_. En sí la aplicación no es nada del otro mundo, pero funciona :)
 
-Enlace: [androidpit.es](https://www.androidpit.es/es/android/market/aplicaciones/aplicacion/com.raspberry.remote/Raspberry-Pi-Control-Remoto)
+Enlace: androidpit.es

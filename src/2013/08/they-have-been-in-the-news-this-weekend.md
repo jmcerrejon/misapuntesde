@@ -27,7 +27,7 @@ Several days AFTK, this is what I found on my return...
 
 New number. This time writes about what we like, emulators.
 
-Link: [TheMagPi](https://www.themagpi.com/en/issue/15)
+Link: TheMagPi
 
 ### PiMAME 0.7.7
 

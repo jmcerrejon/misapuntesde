@@ -29,12 +29,12 @@ I have tested several engines looking for maximum portability to all platforms. 
 
 In the video you can see above, it is admirable to see the speed when running 2D games. It is also not so bad in 3D, but presumably it will improve. Think that is not easy to run in a X window content directly from the _GPU_.
 
-Forgive my enthusiasm, but since it went public this engine, I have dreamed that I could run on the _Raspberry Pi_. It allows import from _Blender_ your models and has a whole environment to create your own video games with a programming language adapted called _GDScript_. With a community on [Facebook](https://www.facebook.com/groups/godotengine/) where you can chat with the developers and other developers. In [this](https://www.godotengine.org/forum/viewtopic.php?f=9&t=1541&start=10) thread you can see the progress being made to our beloved Pi.
+Forgive my enthusiasm, but since it went public this engine, I have dreamed that I could run on the _Raspberry Pi_. It allows import from _Blender_ your models and has a whole environment to create your own video games with a programming language adapted called _GDScript_. With a community on [Facebook](https://www.facebook.com/groups/godotengine/) where you can chat with the developers and other developers. In this thread you can see the progress being made to our beloved Pi.
 
 ![GODOT Engine](/images/2015/02/vgames_04.png)
 
 I leave the executable for _Raspbian_ compiled by the guy who made the video. From here I give to this user my congratulations and I hope that in the future, this engine have official support from _OKAM Studio_.
 
-Download (safe): [cloud.jonnywe.de > godot.x11.opt.tools.32 (21.2 MB)](https://cloud.jonnywe.de/index.php/s/INZpEYuC06IjwDH)
+Download (safe): cloud.jonnywe.de > godot.x11.opt.tools.32 (21.2 MB)
 
-Link: [Godot Engine](https://www.godotengine.org/wp/)
+Link: Godot Engine

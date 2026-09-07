@@ -39,4 +39,4 @@ Let's not forget a port of a web browser based on _Epiphany_ and _Wayland_ suppo
 
 I have many projects for use it and in a year running this blog, I have not bored of it and I have not even thought that I need another having more power like the _BeagleBone Black_, although I miss that could run _Android_ properly or have a decent web browser, but it will come, I'm sure.
 
-Image on the top: [sci-fi-london.com](https://www.sci-fi-london.com/news/games/2012/05/eben-upton-talks-raspberry-pi-sfls-horizons-event)
+Image on the top: sci-fi-london.com

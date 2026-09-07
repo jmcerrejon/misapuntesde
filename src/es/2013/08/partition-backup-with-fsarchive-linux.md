@@ -69,7 +69,7 @@ Vamos a ver los comandos pasados al programa:
 
 Te creará el fichero en poco tiempo, todo dependerá de tu ordenador.
 
-**NOTA**: Podéis agregar el parámetro _-zX_ para comprimir la imagen, donde X es el nivel de compresión de 1 a 9. Para ver estos niveles, leeros [este](https://www.fsarchiver.org/Compression) apartado.
+**NOTA**: Podéis agregar el parámetro _-zX_ para comprimir la imagen, donde X es el nivel de compresión de 1 a 9. Para ver estos niveles, leeros este apartado.
 
 Como apunte adicional, si queréis hacer una copia del arranque del sistema conocido como _MBR_, os bastaría con ejecutar lo siguiente (aquí si haríamos uso del comando _dd_):
 
@@ -89,6 +89,6 @@ La opción _id=0_ indica que se debe restaurar el primer sistema de ficheros que
 
 Obviamente, hay muchos parámetros, pero con estos son suficientes. Ahora nuestras copias ocuparán mucho menos. Para más información os remito a los siguientes enlaces. ¡Gracias!.
 
-Enlace: [fsarchiver.org](https://www.fsarchiver.org/Main_Page)
+Enlace: fsarchiver.org
 
-Enlace: [Quick Start](https://www.fsarchiver.org/QuickStart)
+Enlace: Quick Start

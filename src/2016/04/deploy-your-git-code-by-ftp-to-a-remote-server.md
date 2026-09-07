@@ -27,7 +27,7 @@ Not always will be lords and masters of a _VPS_ with _SSH_ connection to upload 
 
 ### [ Installation and setup ]
 
-The instructions are pretty clear for all platforms as you can see [here](https://github.com/git-ftp/git-ftp/blob/develop/INSTALL.md). I use [brew](https://brew.sh/) with _OSX_:
+The instructions are pretty clear for all platforms as you can see here. I use [brew](https://brew.sh/) with _OSX_:
 
 ```bash
 brew install curl --with-ssl --with-libssh2

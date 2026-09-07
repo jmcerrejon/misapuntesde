@@ -43,6 +43,6 @@ Características resumidas. Para verlas ampliadas acudir a la web:
 
 -   Red: NFS ,Samba, UPnP / DLNA, servidor HTTP/FTP/SSH, Utorrent (cliente y gui sobre http)
 
-Descarga: [geexbox-3.1.raspberrypi.tar.bz2 (128 MB)](https://www.geexbox.org/wp-content/plugins/download-monitor/download.php?id=geexbox-3.1.raspberrypi.tar.bz2)
+Descarga: geexbox-3.1.raspberrypi.tar.bz2 (128 MB)
 
 Enlace: [geexbox.org](https://www.geexbox.org/2013/11/01/geexbox-3-1/)

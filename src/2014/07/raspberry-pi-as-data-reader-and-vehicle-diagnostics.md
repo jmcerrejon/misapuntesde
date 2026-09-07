@@ -27,4 +27,4 @@ I've found a very easy manual for anyone by using a _Frontend_. Moreover, the pr
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/UAwiVERLmDo" frameborder="0" allowfullscreen></iframe>
 
-Link: [cowfishstudios.com](https://www.cowfishstudios.com/blog/obd-pi-raspberry-pi-displaying-car-diagnostics-obd-ii-data-on-an-aftermarket-head-unit)
+Link: cowfishstudios.com

@@ -35,8 +35,8 @@ Well, I compiled the links that I consider interesting. If anyone has found any 
 
 -   [Using Android as a wireless mouse or keyboard](https://www.rpiblog.com/2013/11/using-android-as-wireless-mouse-keyboard.html) - If you have a tablet or _Android_ phone, we can install this application to control our Pi with them.
 
--   [Xmaspi](https://xmaspi.com/?page_id=21) - Interesting to remotely control a Christmas tree through the web browser. You have all the steps in the post.
+-   Xmaspi - Interesting to remotely control a Christmas tree through the web browser. You have all the steps in the post.
 
 -   [Configuring a Raspberry Pi as an access point](https://learn.adafruit.com/setting-up-a-raspberry-pi-as-a-wifi-access-point?view=all) - I think I have compiled several of these tutorials.
 
--   [Rasppi - Dropbox](https://open.umich.edu/wiki/Rasppi-Dropbox) - You are not misguided. A tutorial to access _Dropbox_ using [Drop2PI](https://github.com/GuoJing/Drop2PI).
+-   Rasppi - Dropbox - You are not misguided. A tutorial to access _Dropbox_ using [Drop2PI](https://github.com/GuoJing/Drop2PI).

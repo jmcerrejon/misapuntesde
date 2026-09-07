@@ -19,7 +19,7 @@ og_image: /images/2015/04/jdownloader.png
 
 ![jDownloader](/images/2015/04/jdownloader.png)
 
-I do not usually use the _Pi_ for my daily downloads, but I discovered that many of you it does: _torrent_, _Emule_, and few use hosters as _Freakshare_ or [uploaded](https://ul.to/ref/8900882). Today we will install _jDownloader_ on the Raspberry Pi.
+I do not usually use the _Pi_ for my daily downloads, but I discovered that many of you it does: _torrent_, _Emule_, and few use hosters as _Freakshare_ or uploaded. Today we will install _jDownloader_ on the Raspberry Pi.
 
 ---
 
@@ -29,4 +29,4 @@ Raad the next guide published by _Draco_ in his blog _informaticamateur.blogspot
 
 Link (translated): [informaticamateur.blogspot.com.es](https://translate.google.com/translate?sl=auto&tl=en&js=y&prev=_t&hl=es&ie=UTF-8&u=http%3A%2F%2Finformaticamateur.blogspot.com.es%2F2015%2F04%2Finstalar-jdownloader-en-raspberry.html&edit-text=)
 
-<p><a href="https://ul.to/ref/8900882"><img src="https://uploaded.net/img/public/234x60.jpg" alt="uploaded" /></a></p>
+<p><img src="https://uploaded.net/img/public/234x60.jpg" alt="uploaded" /></p>

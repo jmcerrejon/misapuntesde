@@ -23,4 +23,4 @@ When you log into a _Linux_ system, a message appears with information relevant 
 
 Let's see how to change it with this nice tutorial thanks to the guys from _infognu.com.ar_.
 
-Translated Link: [infognu.com.ar](https://translate.google.com/translate?hl=es&sl=es&tl=en&u=http%3A%2F%2Fwww.infognu.com.ar%2F2013%2F08%2Fraspberry-pi-increible-motd.html)
+Translated Link: infognu.com.ar

@@ -25,15 +25,15 @@ A worthy successors are [Winkawaks](https://cps2shock.emu-france.info/) for _Win
 
 ---
 
-_Squid_, which has ported to us emulators like [MAME4ALL-pi](https://code.google.com/p/mame4all-pi/) or [pisnes](https://code.google.com/p/pisnes/), surprises us with _Finalburn Alpha X2_. The emulation is perfect and I can't wait to try it :D
+_Squid_, which has ported to us emulators like MAME4ALL-pi or [pisnes](https://code.google.com/p/pisnes/), surprises us with _Finalburn Alpha X2_. The emulation is perfect and I can't wait to try it :D
 
-Link: [Raspberry Pi App Store](https://store.raspberrypi.com/projects/pifba)
+Link: Raspberry Pi App Store
 
 Link: [code.google.com - PiFBA](https://code.google.com/p/pifba/)
 
-Link: [.xls compatibility list](https://www.denki-den.com/tmp/retroarch-wii/fba_compat_list.xls)
+Link: .xls compatibility list
 
-Enlace: [ROMs from kawaks.net (Delete after 24 hours blah, blah, blah)](https://www.kawaks.net/index.html) User: bugme-not | Password: bugmenot
+Enlace: ROMs from kawaks.net (Delete after 24 hours blah, blah, blah) User: bugme-not | Password: bugmenot
 
 EXTRA!:
 

@@ -29,4 +29,4 @@ Nos enseñará como se comunica nuestra _Raspberry_ con el mundo exterior, el ha
 
 Un artículo para guardar en los favoritos y tenerlo presente.
 
-Enlace: [Diverteka - GPIO](https://www.diverteka.com/?p=1370)
+Enlace: Diverteka - GPIO

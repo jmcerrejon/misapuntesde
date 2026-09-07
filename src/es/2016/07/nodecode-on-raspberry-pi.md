@@ -27,4 +27,4 @@ En el vídeo, véis la salida de un botón unidos a dos leds. El botón está en
 
 Un proyecto interesante al que sacarle bastante partido aunque aún está en una fase temprana de desarrollo.
 
-Enlace: [nodecode.io](https://nodecode.io/)
+Enlace: nodecode.io

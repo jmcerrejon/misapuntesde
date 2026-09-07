@@ -27,4 +27,4 @@ This first post, I leave an updated link comparing these three distributions bas
 
 What is your favorite?
 
-Link: [goshawknest](https://goshawknest.wordpress.com/2013/02/19/openelec-vs-raspbmc-vs-xbian/)
+Link: goshawknest

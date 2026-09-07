@@ -22,4 +22,4 @@ Al parecer _Hexxeh_, el principal y activo usuario que estaba portando el sistem
 
 Esperemos que saque tiempo y nos muestre uno de estos días, una imagen que valga la pena probar.
 
-Noticia: [Hexxeh's Blog](https://blog.hexxeh.net/)
+Noticia: Hexxeh's Blog

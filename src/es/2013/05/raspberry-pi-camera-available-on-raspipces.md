@@ -21,4 +21,4 @@ og_image: /images/picamera.jpg
 
 Lo acabo de leer en _Twitter_ y no me lo creo. Los chicos de [raspipc.es](https://raspipc.es) tienen la ansiada cámara para tus proyectos. ¡Corre que vuelan!
 
-Enlace tienda: [raspipc.es - Raspberry PI camera module](https://raspipc.es/tienda.php?ver=articulo&id=1081)
+Enlace tienda: raspipc.es - Raspberry PI camera module

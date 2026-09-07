@@ -23,6 +23,6 @@ og_image: /images/prosody.jpg
 
 _Prosody_ es un servidor para crear salas de chat basado en el protocolo _XMPP (Jabber)_. Es el usado por _Google Talk_ por ejemplo, y con estos simples pasos, vamos a poder tener nuestra propia sala de chat. Bastante útil para clubs, webs o reuniones privadas.
 
-Enlace: [russelldavis.org](https://russelldavis.org/2013/01/18/setting-up-prosody-on-the-raspberry-pi-for-house-apartment-secret-club-house-wide-chatroom/)
+Enlace: russelldavis.org
 
 Información extendida: [Install and configure Prosody XMPP server on Debian/Ubuntu ](https://www.techytalk.info/install-configure-prosody-xmpp-jabber-server-on-debian-ubuntu-linux/)

@@ -23,4 +23,4 @@ No me había dado cuenta de que han traducido el número 7 de Noviembre en Espa�
 
 Les deseo suerte y muchos ánimos.
 
-Enlace: [The MagPi](https://www.themagpi.com/es/)
+Enlace: The MagPi

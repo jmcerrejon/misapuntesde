@@ -21,4 +21,4 @@ og_image: /images/twitter.jpg
 
 _"Yesterday I was trying to write a small python script to track tweets about traffic here in my country, and I was thinking that it would be really interesting to control the Raspberry PI using my twitter status."_
 
-Link: [fuenteabierta](https://fuenteabierta.teubi.co/2013/01/controlling-raspberry-pi-via-twitter.html)
+Link: fuenteabierta

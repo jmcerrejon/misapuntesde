@@ -35,4 +35,4 @@ Eltechs has contacted me to inform you that has come a new version of this progr
 
 The update is free if you are a customer. Note that run on others _ARM_ devices like _ODROID_.
 
-Link: [eltechs.com](https://eltechs.com/run-x86-apps-on-raspberry-pi-odroid-and-other-arm-devices-with-exagear-desktop-v1-2/)
+Link: eltechs.com

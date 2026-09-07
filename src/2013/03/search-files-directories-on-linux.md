@@ -61,6 +61,6 @@ As a final command, the following will search the folder sizes ordered from lowe
 
 ```
 
-Link: [BUSCANDO FICHEROS EN GNU/LINUX: COMANDO FIND](https://flossblog.wordpress.com/2012/11/30/buscando-ficheros-en-gnulinux-comando-find/)
+Link: BUSCANDO FICHEROS EN GNU/LINUX: COMANDO FIND
 
 Link: [Tamaño de las carpetas ordenado de menor a mayor](https://snipt.net/serialsito/tamano-de-las-carpetas-ordenado-de-menor-a-mayor/)

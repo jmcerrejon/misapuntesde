@@ -27,11 +27,11 @@ Aún estamos recuperándonos de la noticia de ayer, pero el mundo de la _Raspber
 
 ![GearPi](/images/2015/11/gearPi.png)
 
--   **GEARPI - La consola portátil GameGear con Raspberry Pi 2:** Yo también tengo una _Game Gear_ que me regaló mi hermano este año, así que esta guía no me vendrá nada mal para tunearla un poco | [arananet-net.kinja.com](https://arananet-net.kinja.com/gearpi-la-consola-portatil-gamegear-con-raspberry-pi-1742518721?rev=1447518753878)
+-   **GEARPI - La consola portátil GameGear con Raspberry Pi 2:** Yo también tengo una _Game Gear_ que me regaló mi hermano este año, así que esta guía no me vendrá nada mal para tunearla un poco | arananet-net.kinja.com
 
 ![PSOne](/images/2015/11/PiStation.png)
 
--   **Construye tu propia Raspberry PiStation:** Todos tenemos una videoconsola vieja (o dos) que apenas usamos como acabo de comentar. En el caso de mi _PS2_, la lente ya no lee ni de cerca ni de lejos, así que no estaría mal usarla para abrigar a mi RPi. Esta guía puede sernos de utilidad. Lo más interesante es que aprovecha las tripas de una _PSOne_ | [pi-supply.com](https://www.pi-supply.com/make/build-raspberry-pistation/?v=04c19fa1e772)
+-   **Construye tu propia Raspberry PiStation:** Todos tenemos una videoconsola vieja (o dos) que apenas usamos como acabo de comentar. En el caso de mi _PS2_, la lente ya no lee ni de cerca ni de lejos, así que no estaría mal usarla para abrigar a mi RPi. Esta guía puede sernos de utilidad. Lo más interesante es que aprovecha las tripas de una _PSOne_ | pi-supply.com
 
 ![PiBoy](/images/2015/11/boy_proyect.png)
 
@@ -39,6 +39,6 @@ Aún estamos recuperándonos de la noticia de ayer, pero el mundo de la _Raspber
 
 -   **Mediacenter + Emulador para Raspberry 2:** No lo he probado, pero un usuario del foro llamado _AikonCWD_ parece que ha hecho un estupendo trabajo creando una versión personalizada de _OpenELEC_ con algún que otro plugin y... ¡Emuladores! | [raspberrypi.org](https://www.raspberrypi.org/forums/viewtopic.php?f=76&t=126203)
 
--   **Digital Quake3 Frame:** El vídeo que acompaña hoy la sección es de un usuario que ha logrado ejecutar en la pantalla oficial de 7" para la Pi, nada más y nada menos que _Quake III_. En el siguiente post nos deja la guía | [ogprojects.wordpress.com](https://ogprojects.wordpress.com/digital-quake3-frame/)
+-   **Digital Quake3 Frame:** El vídeo que acompaña hoy la sección es de un usuario que ha logrado ejecutar en la pantalla oficial de 7" para la Pi, nada más y nada menos que _Quake III_. En el siguiente post nos deja la guía | ogprojects.wordpress.com
 
 ¡Feliz Finde!

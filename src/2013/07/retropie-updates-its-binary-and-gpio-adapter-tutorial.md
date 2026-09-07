@@ -25,8 +25,8 @@ Just a quick note to tell you that _PetRockBlog_ your script binaries for all of
 
 Also I read in his _timeline_ how to create your own adapter original control console and connect it directly to the _GPIO_.
 
-Link: [RetroPie Setup Script Binaries](https://blog.petrockblock.com/download/retropie-setup-script-binaries/)
+Link: RetroPie Setup Script Binaries
 
-Link: [The RetroPie GPIO Adapter](https://blog.petrockblock.com/2012/10/21/the-retropie-gpio-adapter/)
+Link: The RetroPie GPIO Adapter
 
-Link: [PetRockBlock Pie – A (Gaming) Raspberry Pi Case](https://blog.petrockblock.com/2012/08/07/petrockblock-pie-a-gaming-raspberry-pi-case/)
+Link: PetRockBlock Pie – A (Gaming) Raspberry Pi Case

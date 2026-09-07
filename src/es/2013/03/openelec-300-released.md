@@ -27,10 +27,10 @@ Viene con el último _XBMC 12.1 Frodo_ y aunque disponible para varias plataform
 
 ¿A qué esperas para probarla?
 
-Enlace: [Anuncio en la web oficial](https://openelec.tv/news/22-releases/86-openelec-3-0-0-released)
+Enlace: Anuncio en la web oficial
 
-Descarga: [img para la SD actualizada](https://resources.pichimney.com/OpenELEC/official_images/OpenELEC-RPi.arm-3.0.0.img.zip)
+Descarga: img para la SD actualizada
 
-Descarga: [OpenELEC 3.0.0](https://openelec.tv/get-openelec/viewcategory/10-raspberry-pi-builds)
+Descarga: OpenELEC 3.0.0
 
-Enlace: [Instrucciones de instalación](https://wiki.openelec.tv/index.php?title=Installing_OpenELEC_on_Raspberry_Pi)
+Enlace: Instrucciones de instalación

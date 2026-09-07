@@ -42,4 +42,4 @@ El extra del que os hablaba es la actualización de todos los cores de los emula
 
 Descarga: [dropbox.com > OpenELEC-Retroarch.img.gz (340 MB)](https://www.dropbox.com/s/pbqnzcktn3jh9ya/OpenELEC-Retroarch.img.gz?dl=0)
 
-Cores actualizados: [mega.co.nz > emulator.tools.retroarch-1.0.3.zip](https://mega.co.nz/#!lA5E0CxA!u0PfBwGjw0yHznMX9D5ZIOZ1QUMqT9sMcrccXOTxIMQ)
+Cores actualizados: mega.co.nz > emulator.tools.retroarch-1.0.3.zip

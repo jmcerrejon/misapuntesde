@@ -47,7 +47,7 @@ Performance according to the board is:
 
 Images can be downloaded from [sourceforge](https://sourceforge.net/projects/nas4free/files/NAS4Free-ARM/10.1.0.2.1707/).
 
-Link: [wiki.nas4free.org](https://www.zoonsweb.nl/wiki/doku.php)
+Link: wiki.nas4free.org
 
 Forum: [forums.nas4free.org](https://forums.nas4free.org/)
 

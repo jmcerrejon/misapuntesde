@@ -31,7 +31,7 @@ A ver si te haces con una de las **30 mil unidades** que han sacado. Yo dudo que
 
 Enlaces que comentan los cambios y mejoras:
 
-Enlace: [theinquirer.net](https://www.theinquirer.net/inquirer/news/2458277/raspberry-pi-zero-now-comes-with-built-in-camera-connector)
+Enlace: theinquirer.net
 
 Enlace: [raspi.tv](https://raspi.tv/2016/raspberry-pi-zero-1-3-with-camera-port)
 

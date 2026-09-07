@@ -19,7 +19,7 @@ og_image: /images/raspbian.jpg
 
 ![Debian](/images/raspbian.jpg)
 
-Cuando ya tenemos la experiencia suficiente en controlarnos con el sistema operativo _Raspbian_, llega la hora de independizarse de él. Te damos unos consejos para que te sientas cómodo con otra distribución basada en _Debian_, en este caso lo haremos con [PipaOS](https://pipaos.mitako.eu).
+Cuando ya tenemos la experiencia suficiente en controlarnos con el sistema operativo _Raspbian_, llega la hora de independizarse de él. Te damos unos consejos para que te sientas cómodo con otra distribución basada en _Debian_, en este caso lo haremos con PipaOS.
 
 ---
 

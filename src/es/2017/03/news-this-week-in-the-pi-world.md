@@ -37,7 +37,7 @@ La semana que viene os tengo preparado un nuevo sorteo y una review. Mientras, p
 
 ![Exagear](/images/2017/03/exagear_cap_09_min.jpg)
 
--   **ExaGear 2.0 has just been released!:** Ya os voy **dando pistas** de qué tratará el concurso y la review de la semana que viene. Los chicos de Eltechs han sacado nueva versión con soporte 3D en el escritorio. ¿Merecerá la pena?. Atentos el lunes que viene...| [Exagear](https://www.simplerses.com/redir?red=https%3A%2F%2Feltechs.com%2Fnew-era-of-gaming-on-raspberry-pi%2F%3Futm_source%3Demail_parnters_on_releasedate%26utm_medium%3Dnew_era_of_gaming_on_raspberry_pi&mod=eyJ1Ijo4MTEsImMiOjI0MzUsInQiOjI2NDMsImoiOjY1NjYsImUiOlsidWx5c2Vzc0BnbWFpbC5jb20iXSwidiI6ImNsaWNrcyIsImgiOjE0OTA4OTMyMDB9)
+-   **ExaGear 2.0 has just been released!:** Ya os voy **dando pistas** de qué tratará el concurso y la review de la semana que viene. Los chicos de Eltechs han sacado nueva versión con soporte 3D en el escritorio. ¿Merecerá la pena?. Atentos el lunes que viene...| Exagear
 
 Tweet de la semana gracias a [@lakkatv](https://twitter.com/lakkatv/):
 

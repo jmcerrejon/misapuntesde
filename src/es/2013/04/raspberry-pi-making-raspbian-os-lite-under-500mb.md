@@ -23,4 +23,4 @@ Hoy es uno de esos días que me emociona. Primero porque aunque tenga sentimient
 
 Segundo porque el tutorial que hoy he encontrado es sobre adelgazar la distribución _Raspbian_ para todos aquellos que no entramos en _LXDE_ para nada, y tenemos conectados por cable _Ethernet_ nuestra RasPi. Son pasos sencillos, y no pierdes nada en probar el script que han puesto en el foro de _Element14_.
 
-Enlace: [Element14](https://www.element14.com/community/blogs/mirandasoft/2013/04/20/raspberry-pi-making-raspbian-os-lite-under-500mb)
+Enlace: Element14

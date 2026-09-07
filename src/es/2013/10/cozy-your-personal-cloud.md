@@ -39,4 +39,4 @@ Enlace: [cozy.io](https://cozy.io)
 
 Enlace: [Demo](https://demo.cozycloud.cc/#home)
 
-Enlace: [Setup Cozy on your Raspberry Pi](https://cozy.io/host/raspberry.html)
+Enlace: Setup Cozy on your Raspberry Pi

@@ -43,8 +43,8 @@ I found in a forum about **OpenELEC, a flavor based on the latest version 5.0.8*
 
 The truth is that I only use to install two addons on XBMC: _pelisalacarta_ and _Youtube_. What are your favorites addons?
 
-Download: [OpenELEC for Raspberry Pi A, B y B+](https://www.mediafire.com/download/4ig1tc78hdt1ict/OpenELEC-RPi.arm-5.0.8_By_PK.rar)
+Download: OpenELEC for Raspberry Pi A, B y B+
 
 Download: [OpenELEC for Raspberry Pi2](https://www.mediafire.com/download/h8b686l0d6f3g5g/OpenELEC-RPi2.arm-5.0.8_By_PK.rar)
 
-Source: [xbmcmania.com](https://www.xbmcmania.com/index.php?PHPSESSID=1e5d9b9ef4f62df7cf2cc182258e037c&topic=3812.0)
+Source: xbmcmania.com

@@ -23,13 +23,13 @@ New collection of Operating Systems that have been recently updated and has grow
 
 ---
 
--   [pipaOS ver. 2.6](https://pipaos.mitako.eu) (05/14)
+-   pipaOS ver. 2.6 (05/14)
 
--   [OpenELEC - OpenELEC-RPi.arm-4.img.zip](https://openelec.tv/get-openelec/finish/10-raspberry-pi-builds/315-diskimage-openelec-stable-raspberry-pi-arm) (05/14)
+-   OpenELEC - OpenELEC-RPi.arm-4.img.zip (05/14)
 
--   [Arch Linux - ArchLinuxARM-rpi-latest.zip](https://archlinuxarm.org/os/ArchLinuxARM-rpi-latest.zip) (05/14)
+-   Arch Linux - ArchLinuxARM-rpi-latest.zip (05/14)
 
--   [Inferno-Pi - inferno-raspberry-pi-beta1.img.zip](https://tor.lynxline.com/inferno-raspberry-pi-beta1.img.zip) (05/14)
+-   Inferno-Pi - inferno-raspberry-pi-beta1.img.zip (05/14)
 
 -   [PiDora - Pidora-2014-R1.zip](https://downloads.raspberrypi.org/pidora_latest) (04/14)
 
@@ -37,31 +37,31 @@ New collection of Operating Systems that have been recently updated and has grow
 
 -   [PiPlay (PiMAME) - piplay-0.8-beta3-img.zip](https://sourceforge.net/projects/pimame/files/latest/download?source=files) (04/14)
 
--   [RaspBMC - raspbmc-final.img.gz](https://download.raspbmc.com/downloads/bin/filesystem/prebuilt/raspbmc-final.img.gz) (04/14)
+-   RaspBMC - raspbmc-final.img.gz (04/14)
 
 -   [Volumio](https://sourceforge.net/projects/volumio/files/latest/download?source=files) (04/14)
 
--   [Coder - coder_v0.6.zip](https://storage.googleapis.com/coder-images/coder_v0.6.zip) (04/14)
+-   Coder - coder_v0.6.zip (04/14)
 
--   [SqueezePlug V 7.07 - squeezeplug_rpi_707.zip](https://www.squeezeplug.eu/?page_id=52) (04/14)
+-   SqueezePlug V 7.07 - squeezeplug_rpi_707.zip (04/14)
 
--   [arkOS](https://nyus.mirror.arkos.io/os/latest-rpi.tar.gz) (03/14)
+-   arkOS (03/14)
 
 -   [SliTaz Raspberry Pi](https://mirror.slitaz.org/arm/rpi/) (03/14)
 
--   [PiBox - pibox-0.8.0_Fedora19_201403151958.tar.gz](https://www.graphics-muse.org/archives/pibox/0.8.0/pibox-0.8.0_Fedora19_201403151958.tar.gz) (03/14)
+-   PiBox - pibox-0.8.0_Fedora19_201403151958.tar.gz (03/14)
 
 -   [minepeon - MinePeon-0.2.4.6.img.zip](https://sourceforge.net/projects/minepeon/files/latest/download?source=files) (03/14)
 
 -   [RISC OS - riscos-2014-02-26-RC12.zip](https://downloads.raspberrypi.org/riscos_latest) (02/14)
 
--   [kali-linux - kali-linux-1.0.6-armhf.img.xz](https://cdimage.kali.org/kali-latest/armhf/kali-linux-1.0.6-armhf.img.xz) (01/14)
+-   kali-linux - kali-linux-1.0.6-armhf.img.xz (01/14)
 
 -   [Raspbian - 2014-01-07-wheezy-raspbian.zip](https://downloads.raspberrypi.org/raspbian_latest) (01/14)
 
 -   [Music Box - musicbox0.4.3.zip](https://www.woutervanwijk.nl/pimusicbox/musicbox0.4.3.zip) (01/14)
 
--   [Kali Linux - kali-linux-1.0.6a-rpi.img.xz](https://images.offensive-security.com/kali-linux-1.0.6a-rpi.img.xz) (01/14)
+-   Kali Linux - kali-linux-1.0.6a-rpi.img.xz (01/14)
 
 The images have not been updated have long been:
 
@@ -85,12 +85,12 @@ The images have not been updated have long been:
 
 -   [PwnPi - pwnpi-3.0.img.7z](https://sourceforge.net/projects/pwnpi/files/pwnpi-3.0.img.7z/download) (12/12)
 
--   [Slackware - raspi-slack-installer_01Aug12.img.xz](https://www.daves-collective.co.uk/raspi/images/raspi-slack-installer_01Aug12.img.xz) (08/12)
+-   Slackware - raspi-slack-installer_01Aug12.img.xz (08/12)
 
--   [Puppy - raspi-sd-4gb-sap6-5.105.img.xz](https://distro.ibiblio.org/quirky/arm/test/raspi-sap6-5.105-alpha4/raspi-sd-4gb-sap6-5.105.img.xz) (07/12)
+-   Puppy - raspi-sd-4gb-sap6-5.105.img.xz (07/12)
 
 Daily builds:
 
--   [geexbox](https://download.geexbox.org/snapshots/geexbox-xbmc-bcm2708-raspberrypi/latest/binaries.raspberrypi/)
+-   geexbox
 
 -   [PiCore](https://distro.ibiblio.org/tinycorelinux/5.x/armv6/release_candidates/)

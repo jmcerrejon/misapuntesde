@@ -22,4 +22,4 @@ _Hexxeh_, the main and active user who was porting the Google operating system t
 
 We hope he get time and show us an image one of these days.
 
-New: [Hexxeh's Blog](https://blog.hexxeh.net/)
+New: Hexxeh's Blog

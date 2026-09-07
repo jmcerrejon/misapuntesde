@@ -19,6 +19,6 @@ og_image: /images/01_RaspberryPi.jpg
 
 ![Raspberry Pi](/images/01_RaspberryPi.jpg)
 
-Maybe you're new, maybe don't you know what is a _Raspberry Pi_. If you want to know, [unadocenade.com](https://unadocenade.com) have made a series of questions with answers about what we can achieve with this machine.
+Maybe you're new, maybe don't you know what is a _Raspberry Pi_. If you want to know, unadocenade.com have made a series of questions with answers about what we can achieve with this machine.
 
-Link: [unadocenade.com](https://unadocenade.com/una-docena-de-preguntas-para-descubrir-raspberry-pi/)
+Link: unadocenade.com

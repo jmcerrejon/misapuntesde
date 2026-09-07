@@ -35,4 +35,4 @@ En ella hablan de lo siguiente:
 
 **_PD:_** Animo a la gente que pueda, compre la revista o mejor se suscriba a ella.
 
-Suscripción: [Custom PC](https://gb.zinio.com/browse/publications/index.jsp?productId=500602138&sch=true)
+Suscripción: Custom PC

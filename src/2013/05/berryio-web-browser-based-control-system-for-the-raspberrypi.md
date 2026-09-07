@@ -79,4 +79,4 @@ sudo berryio email_ip
 
 Definitely an interesting project that is updated fairly regularly.
 
-Link: [BerryIO](https://frozenmist.co.uk/downloads/berryio/)
+Link: BerryIO

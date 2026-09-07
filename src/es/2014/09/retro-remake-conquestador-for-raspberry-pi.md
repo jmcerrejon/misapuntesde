@@ -19,7 +19,7 @@ og_image: /images/2014/09/3luces.png
 
 ![3 luces](/images/2014/09/3luces.png)
 
-[Las Tres Luces de Glaurung](https://es.wikipedia.org/wiki/Las_tres_luces_de_Glaurung) fue un juego mítico para ordenadores de 8 bits creado por _TOPO Soft_ en la [Edad Dorada del software español](https://www.videoshock.es/articulos/2012/04/edad-de-oro-del-videojuego-espanol/).
+[Las Tres Luces de Glaurung](https://es.wikipedia.org/wiki/Las_tres_luces_de_Glaurung) fue un juego mítico para ordenadores de 8 bits creado por _TOPO Soft_ en la Edad Dorada del software español.
 
 Hoy podréis jugar al remake creado por los chicos de [masoftware](https://www.masoftware.es/) que he portado a la _Raspberry Pi_ para vosotros.
 
@@ -49,4 +49,4 @@ Enlace: [Mapa](https://www.masoftware.es/juegos/glaurung/mapeado.jpg)
 
 Más Info: [computeremuzone.com](https://computeremuzone.com/ficha.php?id=274)
 
-Enlace: [videoshock.es > Las Tres Luces de Glaurung, la gestación de Topo Soft](https://www.videoshock.es/criticas/2013/10/las-tres-luces-de-glaurung-la-gestacion-de-topo-soft/)
+Enlace: videoshock.es > Las Tres Luces de Glaurung, la gestación de Topo Soft

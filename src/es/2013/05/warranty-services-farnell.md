@@ -33,7 +33,7 @@ _Felipe Maza_ nos cuenta en unos pocos pasos el desenlace de esta historia, que 
 
 -   Tras 10 meses, el pasado **_6 de Mayo_** dejó de funcionar mi _Raspberry Pi_, después de diversas pruebas cambiando cables, tarjetas y demás; pude determinar que era la placa la que no funcionaba correctamente.
 
--   El día **_8 de Mayo_** escribo al servicio técnico de _Farnell en España_ ([enlace](https://es.farnell.com/jsp/support/support.jsp?formpage=farnell/es_ES/support/webhelp/returnaproduct.jsp)), explicando todas las pruebas que he realizado.
+-   El día **_8 de Mayo_** escribo al servicio técnico de _Farnell en España_ (enlace), explicando todas las pruebas que he realizado.
 
 -   El mismo día me responden de _Farnell UK_ disculpándose porque el dispositivo falla y me dan **_un código_** para adjuntarlo en el paquete que _UPS_ va a pasar a recoger por la dirección que les diga.
 

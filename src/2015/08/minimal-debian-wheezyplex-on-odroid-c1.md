@@ -79,7 +79,7 @@ sed -e 's/validateTranscoder:function(e,t){if(!e.canDirectPlay)/validateTranscod
 
 Although you can play multimedia content now, it is important to set some parameters to provide an extra security layer:
 
--   Create an account on [Plex](https://plex.tv/users/sign_up) website and add your user to _Settings > Server > General_. This allow you for example to log in remotely.
+-   Create an account on Plex website and add your user to _Settings > Server > General_. This allow you for example to log in remotely.
 
 -   Change the _Plex_ computer name: It is done from _Settings > Server > General > family name_
 

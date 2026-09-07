@@ -27,4 +27,4 @@ _Petrockblog_ ha cambiado el servidor donde alojaba los binarios, opción deshab
 
 Por cierto, ha incluído el emulador de Macintosh 64K [Basilisk II](https://basilisk.cebix.net/).
 
-Enlace: [RetroPie installer script](https://blog.petrockblock.com/2012/07/22/retropie-setup-an-initialization-script-for-retroarch-on-the-raspberry-pi/)
+Enlace: RetroPie installer script

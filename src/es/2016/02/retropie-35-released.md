@@ -39,6 +39,6 @@ La tenemos disponible como iso o como fichero para instalar con Berryboot y así
 
 -   Diversas mejoras en la imagen pre-built – Desactivado parpadeo de pantallas, boot mas rápido y sistema de ficheros expandido en el primer arranque.
 
-Descarga: blog.petrockblock.com (876 MB) > [Pi1](https://blog.petrockblock.com/retropie/retropie-downloads/retropie-image-for-raspberry-pi-1/) | [Pi2](https://blog.petrockblock.com/retropie/retropie-downloads/retropie-sd-card-image-for-raspberry-pi-2-2/)
+Descarga: blog.petrockblock.com (876 MB) > Pi1 | Pi2
 
 Enlace: [RetroPie > First Installation](https://github.com/retropie/RetroPie-Setup/wiki/First-Installation)

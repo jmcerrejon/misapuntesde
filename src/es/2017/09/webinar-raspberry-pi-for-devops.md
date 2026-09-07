@@ -23,7 +23,7 @@ og_image: /images/2017/09/RPi_20SEPT.png
 
 Dicho webinar **será online y gratuíto** para todos a través de la plataforma que tiene _Keep Coding_ y estará orientado a administradores de sistemas y desarrolladores en general. Lo que solemos llamar _devops_. Será algo básico, aunque le he dedicado muchas horas para que salga bien y todos aprendamos a sacarle partido a esa _Raspberry Pi_ que tienes en un cajón olvidada. Me acompañará _Fernando Rodríguez_ ([@frr149](https://twitter.com/frr149)), co-fundador de la plataforma e instructor.
 
-¿No tienes una _Raspberry Pi_?. ¡No me lo puedo creer!. Pero si es tu caso, gracias a nuestro patrocinador y amigo [raspipc.es](https://www.raspipc.es/public/home/) **sortearemos un Kit de Inicio Raspberry Pi 3** entre todos los asistentes via _Twitter_. Para estar informado, puedes seguir mi cuenta [@ulysess10](https://twitter.com/ulysess10) o la de [@KeepCoding_es](https://twitter.com/KeepCoding_es).
+¿No tienes una _Raspberry Pi_?. ¡No me lo puedo creer!. Pero si es tu caso, gracias a nuestro patrocinador y amigo [raspipc.es](https://www.raspipc.es/public/home/) **sortearemos un Kit de Inicio Raspberry Pi 3** entre todos los asistentes via _Twitter_. Para estar informado, puedes seguir mi cuenta [@ulysess10](https://twitter.com/ulysess10) o la de @KeepCoding_es.
 
 Será el próximo **20 de Septiembre a las 21:30**, hora española.
 

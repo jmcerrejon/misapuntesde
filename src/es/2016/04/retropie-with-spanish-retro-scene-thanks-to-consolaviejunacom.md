@@ -19,7 +19,7 @@ og_image: /images/2016/04/consolaviejuna.png
 
 ![ConsolaViejuna](/images/2016/04/consolaviejuna.png)
 
-**ACTUALIZACIÓN:** Novedades sobre el script. Pincha [aquí](https://www.consolaviejuna.com/2016/04/21/el-script-se-actualiza-esp-soft/) para ampliar información.
+**ACTUALIZACIÓN:** Novedades sobre el script. Pincha aquí para ampliar información.
 
 Sigo esta semana hablando de emuladores y juegos. Esta vez con un proyecto bastante curioso por su originalidad de la mano de [@ConsolaViejuna](https://twitter.com/ConsolaViejuna/): **Script para configurar la escene retro actual española en RetroPie**. Con este script que nos preparan, podremos tener emuladores de _Spectrum, Amstrad, Software español_, etc listos para jugarlos. ¿Te parece interesante la iniciativa?. Pues sigue leyendo...
 
@@ -40,4 +40,4 @@ Te aparecerá un menú con las opciones de instalación/actualización del scrip
 
 El proyecto es muy reciente, pero seguirá creciendo y estoy seguro que será todo un éxito. Los jugones que ya tenemos unos años y nos resistimos al paso del tiempo agradecemos iniciativas como ésta.
 
-Enlace: [consolaviejuna.com](https://www.consolaviejuna.com/)
+Enlace: consolaviejuna.com

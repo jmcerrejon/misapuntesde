@@ -28,7 +28,7 @@ Remember I start to write about some minimal Raspbian based distribution on [thi
 
 ### pipaOS. A Debian Raspian based distribution for the Raspberry Pi board computer.
 
-**Download pipaOS:** [512MB](https://pipaos.mitako.eu/download/pipaos-2.6-tiny500mb.img.gz) | [1GB](https://pipaos.mitako.eu/download/pipaos-2.6-small1gb.img.gz)
+**Download pipaOS:** 512MB | 1GB
 
 **Last file updated on May, 2014.**
 

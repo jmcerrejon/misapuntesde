@@ -21,6 +21,6 @@ og_image: /images/motiond.jpg
 
 *Motio*n technology takes years between us. It allows us to perform certain actions upon detecting a change in an image or video.
 
-The tutorial I found seems interesting, and who knows, maybe I make a tutorial about it. Here we discuss _Sergio Costa_ uses [Motion](https://www.lavrsen.dk/foswiki/bin/view/Motion/WebHome) as capture engine, and [Realtime](https://www.xrtml.org/) for system messages on the server.
+The tutorial I found seems interesting, and who knows, maybe I make a tutorial about it. Here we discuss _Sergio Costa_ uses Motion as capture engine, and [Realtime](https://www.xrtml.org/) for system messages on the server.
 
-Link: [sergiocosta.me](https://sergiocosta.me/post/49453141093/raspberrypi-motion-detector-realtime-python)
+Link: sergiocosta.me

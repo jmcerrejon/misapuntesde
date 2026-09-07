@@ -27,7 +27,7 @@ This month I have to pick a project based on [Laravel](https://laravel.com/) (A 
 
 1. Install manually [vagrant](https://www.vagrantup.com/downloads.html) and [VirtualBox](https://www.virtualbox.org/wiki/Downloads).
 
-2. Install [composer](https://en.wikipedia.org/wiki/Composer_(software)) and type the next command to config the environment:
+2. Install composer) and type the next command to config the environment:
 
 ```bash
 curl -sS https://getcomposer.org/installer | php

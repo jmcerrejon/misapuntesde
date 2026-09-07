@@ -24,7 +24,7 @@ Image created by the prestigious blog [cnx-software](https://www.cnx-software.co
 
 Something that I've always liked it every time a new version of _Ubuntu_, customize it to create an _iso_ image with my favorite packages: proprietary drivers, upgraded, essential applications to me... Also did the same with XP and _XPlite_ (Do you remember this application?, What times!).
 
-This is a pending task I had in mind these days after seeing the extraordinary work being done by [@Manel Alonso](https://twitter.com/drkbcn) to _Cubieboard_ with his own distro called [Cubieez](https://www.belinuxmyfriend.com/2013/07/cubieez-debian-para-cubieboard-a10.html). Congratulations!.
+This is a pending task I had in mind these days after seeing the extraordinary work being done by [@Manel Alonso](https://twitter.com/drkbcn) to _Cubieboard_ with his own distro called Cubieez. Congratulations!.
 
 The _Yocto Project_ is a platform that will allow us to build an embedded _Linux_ distribution that exactly matches the needs of our projects.
 

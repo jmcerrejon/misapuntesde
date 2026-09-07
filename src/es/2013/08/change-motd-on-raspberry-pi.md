@@ -23,4 +23,4 @@ Cuando inicias sesión en un sistema _Linux_, aparece un mensaje con informació
 
 Vamos a ver como cambiarlo con este interesante tutorial gracias a los chicos de _infognu.com.ar_.
 
-Enlace: [infognu.com.ar](https://www.infognu.com.ar/2013/08/raspberry-pi-increible-motd.html)
+Enlace: infognu.com.ar

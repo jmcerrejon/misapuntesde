@@ -21,4 +21,4 @@ og_image: /images/twitter.jpg
 
 Cito:_"El día de ayer, estaba intentando escribir un pequeño script en Python para llevar el registro del tráfico aquí en mi país, estaba pensado que podría ser realmente interesante si pudiera controlar la Raspberry PI usando mi estado en Twitter."_
 
-Enlace: [fuenteabierta](https://fuenteabierta.teubi.co/2013/01/controlando-la-raspberry-pi-desde.html)
+Enlace: fuenteabierta

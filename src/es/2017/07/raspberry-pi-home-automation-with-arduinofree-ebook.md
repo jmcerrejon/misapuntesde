@@ -40,4 +40,4 @@ Esta referencia esencial le guiará a través de una serie de interesantes proye
 
 ¡Date prisa y reclama tu eBook gratis por tiempo limitado!
 
-Enlace: [packtpub.com > free-learning](https://www.packtpub.com/packt/offers/free-learning)
+Enlace: packtpub.com > free-learning

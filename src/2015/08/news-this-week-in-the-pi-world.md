@@ -19,13 +19,13 @@ og_image: /images/2015/08/astropi2.png
 
 ![astropi2.png](/images/2015/08/astropi2.png)
 
-Best of this week has been the incorporation into the Raspberry Pi foundation of a new _HAT_ used in the project [Astro Pi](https://astro-pi.org/hardware/), and you can buy it now. But there are other things to talk about...
+Best of this week has been the incorporation into the Raspberry Pi foundation of a new _HAT_ used in the project Astro Pi, and you can buy it now. But there are other things to talk about...
 
 ---
 
 <iframe width="400" height="225" src="https://www.youtube.com/embed/Z9EJICJh6oQ?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
--   **OpenELEC 6.0 Beta 4 released** | [openelec.tv](https://openelec.tv/news/22-releases/168-beta-openelec-6-0-beta-4-released)
+-   **OpenELEC 6.0 Beta 4 released** | openelec.tv
 
 ![RPi-Repeater-Controll-Concept-300x154.jpg](/images/2015/08/RPi-Repeater-Controll-Concept-300x154.jpg)
 

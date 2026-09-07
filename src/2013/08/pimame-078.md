@@ -31,6 +31,6 @@ Remember that if you have version 0.7+, running **./update.sh** you update the d
 
 EXTRA!:
 
-<a href="https://www.fauxgame.com/streemerz-v02.zip">![streemerz](/images/2013/08/streemerz-boite.jpg "Download and play Streemerz!")</a>
+![streemerz](/images/2013/08/streemerz-boite.jpg "Download and play Streemerz!")
 
 Download: [PiMAME 0.7.8](https://sourceforge.net/projects/pimame/files/pimame-0.7.8.img.zip/download)

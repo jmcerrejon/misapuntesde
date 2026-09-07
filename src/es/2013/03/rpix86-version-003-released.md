@@ -37,6 +37,6 @@ Esta versión contiene las siguientes mejoras.
 
 Enlace: [rpix86 blog](https://rpix86.patrickaalto.com/rblog.html)
 
-Enlace: [Pi Store](https://store.raspberrypi.com/projects/rpix86)
+Enlace: Pi Store
 
 Enlace: [rpix86 download](https://rpix86.patrickaalto.com/rdown.html)

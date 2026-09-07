@@ -35,7 +35,7 @@ Rápidamente pasamos a lo importante que me voy de vacas y adelanto este post un
 
 ![libreELEC](/images/2017/05/libreelec.png)
 
--   **LibreELEC for Raspberry Pi 4:** No he probado si sigue siendo una alfa, pero ya tenemos la imagen funcional para poder testearla con nuestra Pi. Es la versión de Kodi 18.3. | [libreelec.tv](https://libreelec.tv/raspberry-pi-4/)
+-   **LibreELEC for Raspberry Pi 4:** No he probado si sigue siendo una alfa, pero ya tenemos la imagen funcional para poder testearla con nuestra Pi. Es la versión de Kodi 18.3. | libreelec.tv
 
 -   **Raspberry Pi 4 iUniker Low Profile Heatsink/Fan Test - Review (Youtube):** No pasa una semana en que algún Youtuber no pruebe un disipador para la Pi 4. El vídeo de la semana está dedicado a eso pero no podía dejar de comentar el test ofrecido por el canal _ETA PRIME_. | [youtube.com](https://www.youtube.com/watch?v=Wwk4HR9G51Y)
 

@@ -32,4 +32,4 @@ _Wayland_ se ejecuta en el core de vídeo como hemos mencionado, pero en paralel
 
 Una buena noticia que estará implementada antes de final de año, y con la que podremos _"jugar"_ en la próxima versión de Raspbian antes de su lanzamiento.
 
-Enlace: [raspberrypi.org](https://www.raspberrypi.org/archives/4053)
+Enlace: raspberrypi.org

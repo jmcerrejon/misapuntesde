@@ -35,11 +35,11 @@ Maybe it's my mind, I don't know, but none of this makes me want to keep keeping
 
 ![LibreELEC](/images/2017/05/libreelec.png)
 
--   **LibreELEC (Krypton) 8.2.4 MR:** I missed this new version adapted to _Pi 3B+_ that came out last week. Check it out! | [libreelec.tv](https://libreelec.tv/2018/03/libreelec-krypton-8-2-4-mr/)
+-   **LibreELEC (Krypton) 8.2.4 MR:** I missed this new version adapted to _Pi 3B+_ that came out last week. Check it out! | libreelec.tv
 
-![raspbian-raspberry-pi-software-300](https://eltechs.com/wp-content/uploads/2017/10/raspbian-raspberry-pi-software-300.jpg)
+raspbian-raspberry-pi-software-300
 
--   **The ultimate Guide to Raspbian and other Raspberry Pi Software:** An extensive article for the new owners of a _Raspberry Pi_ board where you will learn something of its official operating system called _Raspbian_ and the alternatives available to you. Very complete and well explained. | [eltechs.com](https://eltechs.com/raspbian-and-other-raspberry-pi-software/)
+-   **The ultimate Guide to Raspbian and other Raspberry Pi Software:** An extensive article for the new owners of a _Raspberry Pi_ board where you will learn something of its official operating system called _Raspbian_ and the alternatives available to you. Very complete and well explained. | eltechs.com
 
 ![4dos](/images/2018/03/4dos.png)
 
@@ -47,6 +47,6 @@ Maybe it's my mind, I don't know, but none of this makes me want to keep keeping
 
 -   **Benchmarking the Raspberry Pi 3 B+:** New test bench for the _Pi 3B+_ where we will learn that heat is more distributed at high temperatures and not so much focused on the CPU and how it performs better with each new version they release. | [medium.com](https://medium.com/@ghalfacree/benchmarking-the-raspberry-pi-3-b-plus-44122cf3d806)
 
-Tweet of the week thanks to [@nmaas87](https://twitter.com/nmaas87):
+Tweet of the week thanks to @nmaas87:
 
 Happy weekend!

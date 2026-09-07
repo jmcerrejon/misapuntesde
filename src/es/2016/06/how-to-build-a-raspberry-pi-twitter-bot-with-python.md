@@ -23,4 +23,4 @@ Con este simple tutorial , un poco de tiempo y una *Raspberry Pi* (cualquier pla
 
 **PD:** Hoy es un día especial: Mi hija Laura cumple 6 años. Si algún día lees ésto, desde aquí deseo que pases un día genial con tus amig@s y familia. Te queremos y estamos muy orgullosos de tí.
 
-Enlace: [devcereal.com](https://devcereal.com/how-to-build-raspberry-pi-twitter-bot-python/)
+Enlace: devcereal.com

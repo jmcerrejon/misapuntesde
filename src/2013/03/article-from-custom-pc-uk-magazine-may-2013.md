@@ -35,4 +35,4 @@ Happy reading!
 
 **_PS:_** If you can I encourage people to buy the magazine or subscribe to it better.
 
-Subscription: [Custom PC](https://gb.zinio.com/browse/publications/index.jsp?productId=500602138&sch=true)
+Subscription: Custom PC

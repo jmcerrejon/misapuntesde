@@ -35,4 +35,4 @@ Hoy os quiero pasar un enlace sobre el manejo de _screen_, un gestor de ventanas
 
 ![screen](/images/2013/12/screen.jpg)
 
-Enlace: [bartbania.com > Using Command Line like a boss with screen](https://www.bartbania.com/index.php/linux-screen/)
+Enlace: bartbania.com > Using Command Line like a boss with screen

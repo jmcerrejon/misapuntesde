@@ -35,6 +35,6 @@ Creo que esto va a traer un nuevo mundo de posibilidades para nuestra RasPi y de
 
 Enlace: [recantha.co.uk](https://www.recantha.co.uk/blog/?p=7101)
 
-Enlace: [Wolfram|Alpha API](https://products.wolframalpha.com/api/)
+Enlace: Wolfram|Alpha API
 
 Foro: [raspberrypi.org > Mathematica](https://www.raspberrypi.org/phpBB3/viewforum.php?f=94&sid=c1197f61a119abf87346ee7a96ca4d37)

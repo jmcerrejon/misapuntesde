@@ -23,4 +23,4 @@ I missed the MagPi translated into Spanish. They are looking for translators, in
 
 I wish you lucky and much encouragement.
 
-Link: [The MagPi](https://www.themagpi.com/es/)
+Link: The MagPi

@@ -18,6 +18,6 @@ tag:
 
 Como veréis, hace días que no actualizo.
 
-Mi mujer ha tenido una operación delicada en la que casi pierde la vida ya que ha sufrido un derrame cerebral con 35 años. Afortunadamente, gracias a una [arteriografía](https://www.cdyte.com/pacientes/glosario/arteriografia/) llevada a cabo en el _Hospital Vírgen del Rocío de Sevilla_, encontraron tres [aneurísmas](https://www.arteriasyvenas.org/index/aneurismas) y han cerrado dos. Esperemos que en un par de semanas estemos en casa y pueda seguir actualizando la web.
+Mi mujer ha tenido una operación delicada en la que casi pierde la vida ya que ha sufrido un derrame cerebral con 35 años. Afortunadamente, gracias a una [arteriografía](https://www.cdyte.com/pacientes/glosario/arteriografia/) llevada a cabo en el _Hospital Vírgen del Rocío de Sevilla_, encontraron tres aneurísmas y han cerrado dos. Esperemos que en un par de semanas estemos en casa y pueda seguir actualizando la web.
 
 ¡Gracias!

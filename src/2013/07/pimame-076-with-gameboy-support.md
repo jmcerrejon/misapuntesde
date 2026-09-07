@@ -31,7 +31,7 @@ New in this version:
 
 -   ScummVM - A point and click adventure game engine.
 
-Link: [sourceforge.net - PiMAME 0.7.6.](https://sourceforge.net/projects/pimame/files/pimame-0.7.6.img.zip/download)
+Link: sourceforge.net - PiMAME 0.7.6.
 
 EXTRA!:
 

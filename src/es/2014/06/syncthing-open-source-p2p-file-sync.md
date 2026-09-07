@@ -43,4 +43,4 @@ Alguna de sus características son:
 
 Tienes más información en los siguientes enlaces:
 
-Enlaces: [webupd8.org](https://www.webupd8.org/2014/06/syncthing-open-source-bittorrent-sync.html) | [syncthing > syncthing-linux-armv6-v0.8.13.tar.gz](https://github.com/calmh/syncthing/releases/latest)
+Enlaces: webupd8.org | [syncthing > syncthing-linux-armv6-v0.8.13.tar.gz](https://github.com/calmh/syncthing/releases/latest)

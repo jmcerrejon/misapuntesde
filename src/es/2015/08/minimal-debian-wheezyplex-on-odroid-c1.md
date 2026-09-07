@@ -81,7 +81,7 @@ sed -i 's/validateTranscoder:function(e,t){if(!e.canDirectPlay)/validateTranscod
 
 Aunque desde ya puedes reproducir contenido multimedia, es importante ajustar algunos parámetros para ofrecer más seguridad:
 
--   Crearte una cuenta en la web de [Plex](https://plex.tv/users/sign_up) y añadir tu usuario en _Ajustes > Servidor > General_. Ésto te permitirá por ejemplo iniciar sesión de forma remota.
+-   Crearte una cuenta en la web de Plex y añadir tu usuario en _Ajustes > Servidor > General_. Ésto te permitirá por ejemplo iniciar sesión de forma remota.
 
 -   Cambiar nombre del equipo _Plex_: Se hace desde _Ajustes > Servidor > General > Nombre familiar_
 

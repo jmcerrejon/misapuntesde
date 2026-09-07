@@ -29,7 +29,7 @@ English:
 
 -   [Quick Start Guide - pdf](https://www.raspberrypi.org/wp-content/uploads/2012/04/quick-start-guide-v2_1.pdf)
 
--   [Intertech's Complete Raspberry Pi Class Materials - Lab 1 - docx](https://www.intertech.com/downloads/CompleteRaspberryPi/CRPi-ch01-Setup.docx)
+-   Intertech's Complete Raspberry Pi Class Materials - Lab 1 - docx
 
 Espa&ntilde;ol:
 
@@ -41,20 +41,20 @@ Fran&ccedil;ais:
 
 -   [Articles Gnu/Linux Magazine France: Raspberry Pi from scratch - pdf](https://www.blaess.fr/christophe/articles/files-glmf/)
 
--   [Le RaspberryPi : Personnalisation du syst&egrave;me Gnu/Linux (Raspbian) de base - pdf](https://www.mon-club-elec.fr/mes_downloads/doc_raspberrypi/rasperrypi_personnalisation_du_systeme_de_base.pdf)
+-   Le RaspberryPi : Personnalisation du syst&egrave;me Gnu/Linux (Raspbian) de base - pdf
 
--   [Guide - Raspberry PI - pdf](https://tge.cmaisonneuve.qc.ca/barbaud/Références%20techniques/Raspberry%20Pi/Raspi.pdf)
+-   Guide - Raspberry PI - pdf
 
 Deutsch:
 
--   [Der Raspberry Pi Computer](https://bikertravel.dyndns.info/bike/raspberrypi/raspberry_de.pdf)
+-   Der Raspberry Pi Computer
 
--   [Vorbereitung des Raspberry Pi](https://a-thinnes.de/wlanthermometer/Debian_Paket/0.1.0-3/usr/share/doc/WLANThermo/Anleitung/Anleitung_fuer_den_Aufbau_eines_WLAN-Thermometer_Rel_0_1_0-3.pdf)
+-   Vorbereitung des Raspberry Pi
 
 Portugu&ecirc;s:
 
--   [Raspberry PiManual do Usu&aacute;rio (Cap&iacute;tulo de exemplo) - pdf](https://novatec.com.br/livros/raspberry-pi-manual/capitulo9788575223512.pdf)
+-   Raspberry PiManual do Usu&aacute;rio (Cap&iacute;tulo de exemplo) - pdf
 
--   [Primeiros Passos com o Raspberry Pi (Cap&iacute;tulo de exemplo) - pdf](https://www.novatec.com.br/livros/raspberrypi/capitulo9788575223451.pdf)
+-   Primeiros Passos com o Raspberry Pi (Cap&iacute;tulo de exemplo) - pdf
 
 _Developing the post..._

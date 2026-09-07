@@ -54,4 +54,4 @@ sudo bash -c 'echo /usr/local/bin/bash >> /etc/shells'
 chsh -s /usr/local/bin/bash
 ```
 
-Enlace: [admon.org > New Features in Bash-4.0](https://www.admon.org/scripts/new-features-in-bash-4-0/)
+Enlace: admon.org > New Features in Bash-4.0

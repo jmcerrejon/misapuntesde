@@ -31,13 +31,13 @@ En este post voy a ir recopilando todas las configuraciones que he ido viendo pa
 
 [TP-Link TL-WN725N](https://www.amazon.es/review/R34JA1NC9O4LWT/ref=cm_cr_dp_title?ie=UTF8&ASIN=B008B7PZU4&channel=detail-glance&nodeID=667049031&store=computers&tag=masmanuti-21)
 
-[SURF N150](https://www.diverteka.com/?p=1026)
+SURF N150
 
-[RTL8188CUS](https://fuenteabierta.teubi.co/2013/01/configurando-el-wi-fi-usb-en-la.html) [Otro post RTL8188CUS](https://cuadernodelviaje.blogspot.com.es/2013/01/configurar-wifi-usb-en-raspberry-pi.html)
+RTL8188CUS [Otro post RTL8188CUS](https://cuadernodelviaje.blogspot.com.es/2013/01/configurar-wifi-usb-en-raspberry-pi.html)
 
-[RTL8188CUS](https://fuenteabierta.teubi.co/2013/01/configurando-el-wi-fi-usb-en-la.html)
+RTL8188CUS
 
-[OvisLink EVO-W541USB](https://www.korsoblog.com/2012/08/activar-wifi-en-raspberrypi.html)
+OvisLink EVO-W541USB
 
 ![en](/css/images/us.png)
 
@@ -45,11 +45,11 @@ En este post voy a ir recopilando todas las configuraciones que he ido viendo pa
 
 [rt2561,rt2661,rt2860,rt2870,rt3070,rt3071,rt3090](https://mitchtech.net/realtek-wireless-dongle-rt3070-on-the-raspberry-pi/)
 
-[W311U](https://blog.modmypi.com/2012/06/installing-tenda-w311u-mini-wireless.html)
+W311U
 
 [RT5370](https://raspberry-pi-notes.blogspot.com.es/2012/05/rt5370-cheap-micro-usb-wireless-dongle.html) [Otro post RT5370](https://lucsmall.com/2012/09/21/ralink-rt5370-usb-wifi-dongle-raspberry-pi/#more-333)
 
-[Airlink 101 Wireless N 150](https://uly.me/setup-wireless-on-raspberry-pi/)
+Airlink 101 Wireless N 150
 
 [RTL8187L](https://sirlagz.net/2012/08/30/planned-script-to-install-wifi-drivers-and-configure-wifi/)
 

@@ -41,6 +41,6 @@ I forgot to mention it yesterday, but after the jump I show you the changes of t
 
 -   Lots of other improvements / bug fixes from the 2.6 release.
 
-Link: [blog.petrockblock.com](https://blog.petrockblock.com/2015/08/11/retropie-3-0-is-released/)
+Link: blog.petrockblock.com
 
-Downloads: [blog.petrockblock.com > Downloads (723.5 MB)](https://blog.petrockblock.com/retropie/retropie-downloads/)
+Downloads: blog.petrockblock.com > Downloads (723.5 MB)

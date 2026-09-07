@@ -27,4 +27,4 @@ I found a pretty curious post about home automation project that I want to show 
 >
 > _So for this project I thought of making a model of a home and simulate home automation._
 
-Link: [Mis experiencias con la Raspberry Pi](https://muyraspi.blogspot.com.es/2013/03/domotica-con-la-raspberry-pi.html)
+Link: Mis experiencias con la Raspberry Pi

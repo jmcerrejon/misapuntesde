@@ -42,7 +42,7 @@ No obstante, si eres un luchador como yo, vamos a ver la manera de personalizar 
 
 La versión de la que vamos a partir nos va a crear un sistema base mínimo, en este caso con preset para usarse como servidor, aunque es válido para cualquier otro uso, instalando los últimos paquetes de _Raspbian_ que se descargarán en el momento de generación del sistema de ficheros.
 
--   Descarga el siguiente fichero: [raspbian-ua-netinst-latest.zip](https://hifi.iki.fi/raspbian-ua-netinst/raspbian-ua-netinst-latest.zip)
+-   Descarga el siguiente fichero: raspbian-ua-netinst-latest.zip
 
 -   Descomprime el contenido del .zip en una tarjeta SD previamente formateada con _FAT32_.
 

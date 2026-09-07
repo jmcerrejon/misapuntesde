@@ -29,6 +29,6 @@ _linuxplained.com_ have compared again the latest versions, especially of _Xbian
 
 If you want my personal opinion, I tested these three solutions since I have the Raspi and I always come back to _OpenELEC_. There must be a reason. By the way, What's your favourite distro to use like media center?
 
-Link: [OpenELEC-RPi.arm-3.1.7.img.zip](https://resources.pichimney.com/OpenELEC/test_images/OpenELEC-RPi.arm-3.1.7.img.zip)
+Link: OpenELEC-RPi.arm-3.1.7.img.zip
 
 Link: [htpcbeginner > Overclocked OpenELEC vs Xbian for Raspberry Pi](https://www.htpcbeginner.com/overclocked-openelec-vs-xbian-raspberry-pi/)

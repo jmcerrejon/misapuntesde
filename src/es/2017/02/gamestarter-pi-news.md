@@ -42,4 +42,4 @@ Lo mejor: **totalmente compatible con OpenELEC y LibreELEC** en sus versions 6 y
 
 Os invitamos a que lo testeéis y nos déis vuestras opiniones, como siempre, en los comentarios ;)
 
-Enlace: [github.com > Gamestarter-Pi](https://github.com/bite-your-idols/Gamestarter-Pi/blob/master/README-ES.md)
+Enlace: github.com > Gamestarter-Pi

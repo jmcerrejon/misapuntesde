@@ -23,4 +23,4 @@ Cuando instalas la distribución _Arch Linux_ en vez de _Raspbian_, muchos usuar
 
 En esta guía, te enseñan afortunadamente a instalar _XFCE_, un escritorio liviano (casi tanto como _LXDE_ de _Raspbian_) y estable.
 
-Enlace: [blog.adityapatawari.com](https://blog.adityapatawari.com/2013/01/arch-linux-on-raspberry-pi.html)
+Enlace: blog.adityapatawari.com

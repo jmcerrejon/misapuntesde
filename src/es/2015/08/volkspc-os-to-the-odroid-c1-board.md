@@ -31,7 +31,7 @@ La pena es que se trataba de una campaña en _Indiegogo_ que ya finalizó sin co
 
 -   Android soporta _GPU_ y aplicaciones _OpenGL ES_. _Debian_ no soporta _GPU_.
 
-Descarga: [mega.nz > volkspcimg.zip (613 MB)](https://mega.nz/#!iFsyFYoC!Rn-2735qnG4TlrUPwju646vzKBSwjkecfmzxg3lSuQA)
+Descarga: mega.nz > volkspcimg.zip (613 MB)
 
 Enlace: [indiegogo.com > Port VOLKSPC OS to the ODROID-C1 board](https://www.indiegogo.com/projects/port-volkspc-os-to-the-odroid-c1-board#/story)
 

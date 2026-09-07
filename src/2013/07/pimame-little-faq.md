@@ -110,7 +110,7 @@ In this calibration app, do not touch any buttons until prompted. First set the 
 
 This version is a port of _MAME 0.37b5_:
 
--   [List of supported games](https://code.google.com/p/imame4all/wiki/GameList)
+-   List of supported games
 
 If it does not work the ROM you want, try the _AdvanceMAME_.
 
@@ -120,7 +120,7 @@ Search on the internet, or the links below as the law of your country allows it 
 
 -   [Romhustler.net](https://romhustler.net/roms/mame)
 
--   [Romnation.net](https://www.romnation.net/srv/roms/mame103.html)
+-   Romnation.net
 
 ### [End words]
 

@@ -45,10 +45,10 @@ sudo apt-get install -y git-core build-essential autoconf bison flex libelf-dev 
 ./Autobuild.sh -t rpi
 ```
 
-Otra opción es descargar el fichero que puedes obtener desde las builds [aquí](https://movian.tv/builds/movian) y sobreescribirlo en la imagen SD.
+Otra opción es descargar el fichero que puedes obtener desde las builds aquí y sobreescribirlo en la imagen SD.
 
-Descarga Raspberry Pi: [sd-2.4.7.img (260 MB)](https://movian.tv/downloads/stos)
+Descarga Raspberry Pi: sd-2.4.7.img (260 MB)
 
-Enlace: [Movian](https://movian.tv/)
+Enlace: Movian
 
-Foro: [movian.tv](https://movian.tv/projects/movian/boards)
+Foro: movian.tv

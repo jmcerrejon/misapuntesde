@@ -61,4 +61,4 @@ chmod -R 755 /var/www/blog
 
 Iré completando el post. Si necesitáis algún que otro consejo o sois expertos en este sistema operativo de *Red Hat*, os leo en los comentarios.
 
-Enlace: [wiki.centos.org > FAQ](https://wiki.centos.org/FAQ/CentOS7)
+Enlace: wiki.centos.org > FAQ

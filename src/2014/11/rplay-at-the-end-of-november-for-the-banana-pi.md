@@ -35,6 +35,6 @@ The price of this software is not yet confirmed but will be around **$5-10**. Pr
 
 The software will run on any version of _Android 4.3+_.
 
-It will be available on the [bananapi.com](https://bananapi.com) website and probably I'll get one license.
+It will be available on the bananapi.com website and probably I'll get one license.
 
-More info: [vmlite.com](https://www.vmlite.com/index.php?option=com_kunena&Itemid=158&func=view&catid=23&id=17973&limit=6&limitstart=6)
+More info: vmlite.com

@@ -27,4 +27,4 @@ En la empresa no me centro: llamadas, correo, radio, jefes... ya sabéis de qué
 
 Este artículo refleja la realidad: Desde casa, puedo levantarme y empezar a trabajar a las 5 de la mañana. Soy más productivo, programo mejor y sin distracciones.
 
-Enlace: [baquia.com](https://www.baquia.com/posts/2013-01-16-por-que-los-programadores-trabajan-mejor-de-noche)
+Enlace: baquia.com

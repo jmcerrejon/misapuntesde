@@ -35,7 +35,7 @@ Now I'm back from my vacation and I wish to do/learn new things. The Pi World ha
 
 -   **Boot Switcher - Software** | [forum.odroid.com](https://forum.odroid.com/viewtopic.php?f=136&t=20002)
 
--   **Mirror a monitor connected to a Raspberry Pi on a Mac** | [stevencombs.com](https://www.stevencombs.com/raspberrypi/2016/03/24/mirror-raspi-monitor-on-mac.html)
+-   **Mirror a monitor connected to a Raspberry Pi on a Mac** | stevencombs.com
 
 -   **QML based Raspberry Pi compositor with CEC input.** Check out the next link: [s3.amazonaws.com](https://s3.amazonaws.com/spuddrepo/arch/arch_instructions.html)
 

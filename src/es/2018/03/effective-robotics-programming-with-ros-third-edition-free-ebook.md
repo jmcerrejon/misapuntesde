@@ -42,5 +42,5 @@ Comienza con la instalación y los conceptos básicos, luego continúa con módu
 
 * Añadir capacidades de percepción 3D al robot utilizando la última versión de PCL.
 
-Descarga: [packtpub.com](https://www.packtpub.com/packt/offers/free-learning)
+Descarga: packtpub.com
 

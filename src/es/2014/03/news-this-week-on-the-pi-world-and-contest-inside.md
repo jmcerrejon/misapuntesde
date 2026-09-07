@@ -23,9 +23,9 @@ Finalizamos el mes de _Marzo_ con nuevos y apasionantes temas a tratar que, aunq
 
 ---
 
--   **Armiga: Amiga con corazón de Raspberry Pi:** Una nueva campaña de _Crowdfunding_ de unos chicos españoles para sacarnos los cuartos que he visto en [gizmologia.com](https://gizmologia.com/imagen-del-dia/armiga-raspberry-pi). Se trata de una _RasPi + tarjeta de expansión + disquetera_ para leer discos de Amiga entre otras cosas. Podréis obetener más información en [indiegogo.com](https://www.indiegogo.com/projects/armiga-project)
+-   **Armiga: Amiga con corazón de Raspberry Pi:** Una nueva campaña de _Crowdfunding_ de unos chicos españoles para sacarnos los cuartos que he visto en gizmologia.com. Se trata de una _RasPi + tarjeta de expansión + disquetera_ para leer discos de Amiga entre otras cosas. Podréis obetener más información en indiegogo.com
 
--   **7 juegos que te pueden ayudar a ser mejor programador:** No está directamente relacionado, pero me ha parecido una iniciativa interesante recopilar eso que llaman hoy día la [gamificación](https://es.wikipedia.org/wiki/Ludificación) para aprender un lenguaje de programación jugando. Detalles en [genbetadev.com](https://www.genbetadev.com/trabajar-como-desarrollador/aprende-jugando-siete-juegos-que-te-pueden-ayudar-a-ser-mejor-programador)
+-   **7 juegos que te pueden ayudar a ser mejor programador:** No está directamente relacionado, pero me ha parecido una iniciativa interesante recopilar eso que llaman hoy día la gamificación para aprender un lenguaje de programación jugando. Detalles en [genbetadev.com](https://www.genbetadev.com/trabajar-como-desarrollador/aprende-jugando-siete-juegos-que-te-pueden-ayudar-a-ser-mejor-programador)
 
 -   **Linux Commands Cheat Sheet:** Algunos de vosotros recordaréis el [CuboPuntes](https://misapuntesde.com/es/2013/04/misapuntesde-present-notesbox.html). Me encantan las chuletas donde se recopilan comandos y siempre es bueno tenerlas a mano. En [Linoxide.com](https://linoxide.com/linux-command/linux-commands-cheat-sheet/) hay una que os será muy útil con comandos de _Linux_.
 
@@ -67,7 +67,7 @@ He pensado que un buen regalo puede ser uno de los libros en papel que se han es
 
 -   Raspberry Pi Cookbook
 
--   [Otros desde Amazon](https://www.amazon.com/gp/search/ref=sr_nr_p_n_feature_browse-b_mrr_0?rh=n%3A283155%2Ck%3Araspberry+pi%2Cp_n_feature_browse-bin%3A2656022011&keywords=raspberry+pi&ie=UTF8&qid=1395922837&rnid=618072011)
+-   Otros desde Amazon
 
 **El concurso será internacional**, por lo que podrá participar cualquier persona de este mundo sin importar edad.
 

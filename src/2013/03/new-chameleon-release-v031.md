@@ -24,4 +24,4 @@ _We have patched a lot of bugs, removed that horrible text-mode rom selector, mo
 
 _Hope all you like as much as we enjoyed creating it._
 
-Downloads: [Torrent](https://chameleon.enging.com/?q=download) | [Direct download](https://chameleon.enging.com/chameleon.v031.img.bz2)
+Downloads: Torrent | Direct download

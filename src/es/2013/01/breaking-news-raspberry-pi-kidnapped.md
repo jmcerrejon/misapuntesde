@@ -23,6 +23,6 @@ _El Sr. Pi ha sido capturado y encarcelado. Fue visto por última vez vistiendo 
 
 Así comienza un concurso que tiene como objetivo traer de vuelta a su hogar al Sr Pi. Muy divertida la iniciativa. Tenéis todos los detalles en el siguiente enlace.
 
-Enlace: [liberation](https://thomasloughlin.com/liberation/)
+Enlace: liberation
 
-Más info: [thomasloughlin.com](https://thomasloughlin.com/liberate-mr-pi-contest-day-1-update/)
+Más info: thomasloughlin.com

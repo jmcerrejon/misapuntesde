@@ -60,4 +60,4 @@ chown -R apache.apache /var/www/blog
 chmod -R 755 /var/www/blog
 ```
 
-Link: [wiki.centos.org > FAQ](https://wiki.centos.org/FAQ/CentOS7)
+Link: wiki.centos.org > FAQ

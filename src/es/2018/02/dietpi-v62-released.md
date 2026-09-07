@@ -29,6 +29,6 @@ og_image: /images/2018/02/dietpi.png
 
 -   DietPi-LetsEncrypt | En Stretch, renueva automáticamente el certificado. Debes ejecutar "dietpi-letsencrypt".
 
--   DietPi-Software | AmiBerry: Actualización masiva a la versión v2.14 con SDL2. Actualmente solo para RPi's con Debian Stretch, pero tienen intención de ir añadiendo nuevas placas. [Más info](https://dietpi.com/phpbb/viewtopic.php?f=8&t=5&p=64#p64).
+-   DietPi-Software | AmiBerry: Actualización masiva a la versión v2.14 con SDL2. Actualmente solo para RPi's con Debian Stretch, pero tienen intención de ir añadiendo nuevas placas. Más info.
 
-Enlace: [github.com > DietPi](https://github.com/Fourdee/DietPi/pull/1532#issue-169843265)
+Enlace: github.com > DietPi

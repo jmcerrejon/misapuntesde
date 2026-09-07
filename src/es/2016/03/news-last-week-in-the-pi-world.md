@@ -43,7 +43,7 @@ max_usb_current=1
 
 Visto en [modmypi.com](https://www.modmypi.com/blog/boost-usb-current)
 
--   **Mirror a monitor connected to a Raspberry Pi on a Mac:** La semana pasada os pasaba un artículo sobre alternativas usando _VNC_ y esta semana os propongo otra alternativa nueva que para mi gusto es la mejor de todas. | [stevencombs.com](https://www.stevencombs.com/raspberrypi/2016/03/24/mirror-raspi-monitor-on-mac.html)
+-   **Mirror a monitor connected to a Raspberry Pi on a Mac:** La semana pasada os pasaba un artículo sobre alternativas usando _VNC_ y esta semana os propongo otra alternativa nueva que para mi gusto es la mejor de todas. | stevencombs.com
 
 -   **QML based Raspberry Pi compositor with CEC input:** Termino mencionando el vídeo que acompaña la sección que me ha llamado bastante la atención donde un usuario utiliza _Arch Linux+QML+QT+Wayland_ en un experimento que puede ayudaros en algún proyecto. Las instrucciones en el siguiente enlace: [s3.amazonaws.com](https://s3.amazonaws.com/spuddrepo/arch/arch_instructions.html)
 

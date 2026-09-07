@@ -57,6 +57,6 @@ Example: _wget -b -P /home/john/ -r ftp://johnftp:rpi43v3r\!@misapuntesde.com_
 
 -   _wget_ is a little faster than _lftp_.
 
-Link: [russbrooks.com > LFTP Cheatsheet](https://russbrooks.com/2010/11/19/lftp-cheetsheet)
+Link: russbrooks.com > LFTP Cheatsheet
 
 Link: [stackoverflow.com > Using wget to download select directories from ftp server](https://stackoverflow.com/questions/20751286/using-wget-to-download-select-directories-from-ftp-server)

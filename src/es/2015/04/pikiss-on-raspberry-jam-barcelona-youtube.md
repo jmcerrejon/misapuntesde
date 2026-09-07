@@ -22,6 +22,6 @@ Aquí tenéis la que fue mi intervención en la _Raspberry JAM_ celebrada este S
 
 Los que no hayáis podido asistir, tranquilos que habrá más ediciones y se anunciará con antelación suficiente.
 
-Me gustaría agradecer desde aquí a todos los que se pasaron por esta edición, a Ferrán Fábregas [(projectlog.ferranfabregas.info)](https://projectlog.ferranfabregas.info), a su pareja Manuela, así como a Antonio Mónaco Osado [(peatonet.com)](https://peatonet.com) y a Karla por el trato recibido. Así da gusto hacer mil Kilómetros ;)
+Me gustaría agradecer desde aquí a todos los que se pasaron por esta edición, a Ferrán Fábregas (projectlog.ferranfabregas.info), a su pareja Manuela, así como a Antonio Mónaco Osado [(peatonet.com)](https://peatonet.com) y a Karla por el trato recibido. Así da gusto hacer mil Kilómetros ;)
 
 ¡Gracias!

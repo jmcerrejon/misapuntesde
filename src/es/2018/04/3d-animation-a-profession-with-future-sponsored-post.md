@@ -21,7 +21,7 @@ og_image: /images/2018/04/3d_anim.jpg
 
 Hoy en día tanto las tecnologías digitales como Internet han dado pie a nuevos comportamientos. Que, como es lógico, influyen directamente en la forma que tienen los usuarios de consumir, entender y compartir los contenidos. Independientemente de su tipología.
 
-Los nuevos hábitos de consumo afectan tanto a sectores de información como de entretenimiento. Y es aquí donde entra en juego una modalidad que ha cobrado protagonismo: La [animación 3d, juegos y entornos interactivos](https://www.esne.es/oferta-academica/ciclos-formativos-grado-superior/animaciones-3d-juegos-y-entornos-interactivos/) , _que están en pleno auge_. Sobre todo gracias a los videojuegos, el cine y los escenarios en los que se requieren efectos especiales.
+Los nuevos hábitos de consumo afectan tanto a sectores de información como de entretenimiento. Y es aquí donde entra en juego una modalidad que ha cobrado protagonismo: La animación 3d, juegos y entornos interactivos , _que están en pleno auge_. Sobre todo gracias a los videojuegos, el cine y los escenarios en los que se requieren efectos especiales.
 
 ---
 
@@ -35,7 +35,7 @@ Pero, ¿dónde más se mueve la animación 3D? ¿Esta tecnología es realmente n
 
 Teniendo en cuenta la crisis, ¿realmente es ésta una profesión de futuro? Hay quienes piensan que se trata de una moda pasajera. Sin embargo, la animación 3D se ha convertido en una profesión cada vez más útil.
 
-De hecho, la animación 3D va mucho más allá de las producciones de cine y de los videojuegos. Es un terreno que [genera mucho empleo](https://www.esne.es/oferta-academica/ciclos-formativos-grado-superior/animaciones-3d-juegos-y-entornos-interactivos/) en industrias como la televisión, la arquitectura y en la automoción.
+De hecho, la animación 3D va mucho más allá de las producciones de cine y de los videojuegos. Es un terreno que genera mucho empleo en industrias como la televisión, la arquitectura y en la automoción.
 
 Por no hablar de que tiene salidas en la propia medicina. ¿Lo imaginabas? Verás, el sector sanitario es uno de los grandes beneficiados de la animación 3D. Esta tecnología genera diferentes utensilios que sirven para mejorar la calidad de vida de los pacientes.
 
@@ -45,7 +45,7 @@ El mundo del videojuego ha conseguido facturar hasta [85.000 millones de euros](
 
 ### [ Las profesiones más difíciles de encontrar son... ]
 
-En el mundo de la [animación 3d, juegos y entornos interactivos](https://www.esne.es/) todavía queda mucho por experimentar. Tanto es así que ya existen perfiles muy demandados y, por desgracia, aún existen pocos especialistas para cubrir esos puestos.
+En el mundo de la animación 3d, juegos y entornos interactivos todavía queda mucho por experimentar. Tanto es así que ya existen perfiles muy demandados y, por desgracia, aún existen pocos especialistas para cubrir esos puestos.
 
 Entre ellos, los _riggers y los expertos en character FX_ son algunos de los expertos más complicados de encontrar. Son los responsables de diseñar los esqueletos de los personajes. Son los que determinan sus proporciones para que puedan ser animados. Además, también se encargan de simular telas, cabellos y músculos.
 

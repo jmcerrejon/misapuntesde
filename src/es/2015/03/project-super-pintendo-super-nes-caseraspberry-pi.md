@@ -23,7 +23,7 @@ Hoy Domingo os presento un proyecto que ha elaborado **mi hermano Rafael Cerrej�
 
 ---
 
-![img](https://blog.petrockblock.com/wp-content/uploads/2014/07/theming_system.jpg)
+img
 
 Bueno, pues aquí presento mi Proyecto que habré tardado más o menos un mes en terminarlo (aunque debo reconocer que casi he tardado más a nivel de software que en montarlo).
 Todo es muy chapucero porque ADVIERTO, es la primera vez que hago un mod o como lo queráis llamar, los más PRO se llevarán las manos a la cabeza con algunas cosas, pero he puesto lo mejor de mi y he aprendido mucho eso si :D

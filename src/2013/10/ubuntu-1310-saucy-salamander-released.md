@@ -35,8 +35,8 @@ Download: [releases.ubuntu.com/saucy/](https://releases.ubuntu.com/saucy/)
 
 Link: [https://ubuntu-manual.org](https://ubuntu-manual.org)
 
-Link: [webupd8.org > UBUNTU 13.10 AVAILABLE FOR DOWNLOAD](https://www.webupd8.org/2013/10/ubuntu-1310-available-for-download.html)| [8 THINGS TO DO AFTER INSTALLING UBUNTU 13.10 (SAUCY SALAMANDER)](https://www.webupd8.org/2013/10/8-things-to-do-after-installing-ubuntu.html)
+Link: webupd8.org > UBUNTU 13.10 AVAILABLE FOR DOWNLOAD| 8 THINGS TO DO AFTER INSTALLING UBUNTU 13.10 (SAUCY SALAMANDER)
 
 Link: [lifehacker.com > What's New In Ubuntu 13.10 "Saucy Salamander," for Desktop and Phones](https://lifehacker.com/whats-new-in-ubuntu-13-10-saucy-salamander-for-desk-1446455217)
 
-Link: [Ubuntu 13.10 (Saucy Salamander) review: Smart Scopes in, Mir out](https://www.zdnet.com/ubuntu-13-10-saucy-salamander-review-smart-scopes-in-mir-out-7000022022/)
+Link: Ubuntu 13.10 (Saucy Salamander) review: Smart Scopes in, Mir out

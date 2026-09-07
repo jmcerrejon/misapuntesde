@@ -24,4 +24,4 @@ _Dom Cobley_ y *Ben Aviso*n son dos gurús de la RasPi. Ambos han estado trabaja
 
 Esperemos que las mejoras se incorporen pronto y podamos disfrutar mejor de nuestros media center.
 
-Fuente: [raspberrypi.org](https://www.raspberrypi.org/archives/4986)
+Fuente: raspberrypi.org

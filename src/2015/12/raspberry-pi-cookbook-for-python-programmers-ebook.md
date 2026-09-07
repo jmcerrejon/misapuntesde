@@ -32,4 +32,4 @@ og_image: /images/2015/12/rpi%20python.png
 
 Get them all!
 
-Download: [packtpub.com](https://www.packtpub.com/packt/offers/free-learning)
+Download: packtpub.com

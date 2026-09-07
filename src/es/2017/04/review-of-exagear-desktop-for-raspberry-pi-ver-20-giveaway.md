@@ -21,13 +21,13 @@ og_image: /images/2017/03/exagear_cap_09_min.jpg
 
 ![Exagear_Unreal](/images/2017/03/exagear_cap_09_min.jpg)
 
-Con [Eltechs ExaGear Desktop](https://eltechs.com/product/exagear-desktop/?utm_source=misapuntesde&utm_medium=Review_Exagear_RPi_ver2) puedes ejecutar aplicaciones _Intel x86_ en tu _ARM-based Mini PC_. Es una máquina virtual que implementa un contenedor _x86 en ARM_, lo que permite interpretar aplicaciones _Intel x86_ en _ARM_.
+Con Eltechs ExaGear Desktop puedes ejecutar aplicaciones _Intel x86_ en tu _ARM-based Mini PC_. Es una máquina virtual que implementa un contenedor _x86 en ARM_, lo que permite interpretar aplicaciones _Intel x86_ en _ARM_.
 
-[Eltechs](https://eltechs.com/product/exagear-desktop/?utm_source=misapuntesde&utm_medium=Review_Exagear_RPi_ver2) me ha enviado su versión más reciente del software (sin presiones). Ya escribí varios artículos sobre este software en el pasado y puedes visitarlos [aquí (I)](https://misapuntesde.com/es/2015/06/exagear-desktop-run-x86-apps-on-raspberry-pi-armv7-part-igiveaway.html) y [aquí (II)](https://misapuntesde.com/es/2015/06/exagear-desktop-run-x86-apps-on-raspberry-pi-armv7-part-ii.html). Es el momento de compartir mis impresiones sobre este software que promete **mejoras en la aceleración 3D** y contarte las bases para **participar en un sorteo de 5 licencias** al final del post. ¡Allá vamos!.
+Eltechs me ha enviado su versión más reciente del software (sin presiones). Ya escribí varios artículos sobre este software en el pasado y puedes visitarlos [aquí (I)](https://misapuntesde.com/es/2015/06/exagear-desktop-run-x86-apps-on-raspberry-pi-armv7-part-igiveaway.html) y [aquí (II)](https://misapuntesde.com/es/2015/06/exagear-desktop-run-x86-apps-on-raspberry-pi-armv7-part-ii.html). Es el momento de compartir mis impresiones sobre este software que promete **mejoras en la aceleración 3D** y contarte las bases para **participar en un sorteo de 5 licencias** al final del post. ¡Allá vamos!.
 
 ---
 
-Recuerda que puedes usar _Exagear_ en otras placas basadas en _ARM_ como [ODROID, Cubieboard, Banana Pi](https://eltechs.com/product/exagear-desktop/?utm_source=misapuntesde&utm_medium=Review_Exagear_RPi_ver2), etc. Hoy voy a probar la versión para _Raspberry Pi_, pero si tienes una _ODROID XU4_, este software debe ejecutarse mucho mas rápido.
+Recuerda que puedes usar _Exagear_ en otras placas basadas en _ARM_ como ODROID, Cubieboard, Banana Pi, etc. Hoy voy a probar la versión para _Raspberry Pi_, pero si tienes una _ODROID XU4_, este software debe ejecutarse mucho mas rápido.
 
 ### [ Instalación y configuración ]
 

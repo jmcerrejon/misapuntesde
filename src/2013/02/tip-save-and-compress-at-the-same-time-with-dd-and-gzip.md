@@ -38,4 +38,4 @@ gunzip -c xxx.img.gz | dd of=/dev/xxx conv=sync,noerror bs=4m
 
 For other operating system than _OSX_, use capital M.
 
-Source: [pihomeserver.wordpress.com](https://pihomeserver.wordpress.com/2013/02/07/astuce-sauvegarder-et-compresser-en-meme-temps-avec-dd-et-gzip/)
+Source: pihomeserver.wordpress.com

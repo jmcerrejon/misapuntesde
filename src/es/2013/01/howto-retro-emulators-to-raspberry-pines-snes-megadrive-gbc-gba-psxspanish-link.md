@@ -21,4 +21,4 @@ og_image: /images/retropieprojectlogofinish.jpg
 
 Fantástico tutorial para instalar Retro-Pie, el emulador all-in-one que te permitirá jugar a casi cualquier emulador con _"soltura"_ ejem!
 
-Enlace: [Edoyle.net](https://www.edoyle.net/emuladores-retro-para-raspberry-con-retropie-setup-nes-snes-megadrive-gbc-gba-psx-mame-neo-geo/)
+Enlace: Edoyle.net

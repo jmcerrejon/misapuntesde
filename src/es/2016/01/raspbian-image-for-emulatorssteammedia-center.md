@@ -55,7 +55,7 @@ Recomiendo comprar la RPiv2 en [www.raspipc.es](https://www.raspipc.es) además 
 
 Para saber donde enchufar el **ventilador de 5V**, mira el siguiente gráfico:
 
-![](https://www.element14.com/community/servlet/JiveServlet/previewBody/73950-102-4-309126/GPIO_Pi2.png)
+
 
 ### [ CONTENIDO DEL MEDIACENTER ]
 
@@ -173,7 +173,7 @@ TuneIn Radio -> Escuchando emisoras internacionales
 
 **_PASO 1: INSTALACIÓN_**
 
--   Nos descargamos la imagen ya configurada: [Mediacenter-AikonCWD-v4.img](https://mega.nz/#!URYFhLDY!qd2Vt93KZI0IjIe2sN_-LaXbg9cutR9dZCQESDgPu8E)
+-   Nos descargamos la imagen ya configurada: Mediacenter-AikonCWD-v4.img
 -   Grabar la imagen utilizando [win32diskimager](https://sourceforge.net/projects/win32diskimager/) (Windows). Los usuarios de **Linux** podéis utilizar el comando **dd**:
 
 ```bash

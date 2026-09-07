@@ -25,6 +25,6 @@ About this project, I must to see that It’s **FREE**, open source and has a mo
 
 <iframe width="400" height="225" src="https://www.youtube.com/embed/XEnu-aotG2s?rel=0" frameborder="0" allowfullscreen></iframe>
 
-The last weekend goes open source and now you can grab the image (3.4 GB) [here](https://www.theadrianproject.com/download).
+The last weekend goes open source and now you can grab the image (3.4 GB) here.
 
-Link: [theadrianproject.com > Hardware Installation ](https://www.theadrianproject.com/documentation/hardware-installation/)
+Link: theadrianproject.com > Hardware Installation 

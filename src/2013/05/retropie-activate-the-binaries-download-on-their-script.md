@@ -27,4 +27,4 @@ _Petrockblog_ has changed the server where he hosted the binaries files, disable
 
 It's has been incorporated the 68k Macintosh Emulator [Basilisk II](https://basilisk.cebix.net/).
 
-Link: [RetroPie installer script](https://blog.petrockblock.com/2012/07/22/retropie-setup-an-initialization-script-for-retroarch-on-the-raspberry-pi/)
+Link: RetroPie installer script

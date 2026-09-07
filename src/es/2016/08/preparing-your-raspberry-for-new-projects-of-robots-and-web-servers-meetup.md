@@ -21,4 +21,4 @@ og_image: /images/2016/03/meetup.png
 
 Este Jueves volvemos a tener una cita en Sevilla con [Bernardo Ronquillo](https://twitter.com/brjapon) para hablar sobre herramientas para configurar el primer arranque de nuestra _Raspberry Pi_. Para animar a los asistentes, se realizará un sorteo donde poder ganar algunos premios interesantes. Os remito al blog para ampliar información.
 
-Enlace: [raspberryhack.com](https://raspberryhack.com/meetup/preparando-tu-raspberry-para-nuevos-proyectos-de-robots-y-servidores-web)
+Enlace: raspberryhack.com

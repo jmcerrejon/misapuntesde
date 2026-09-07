@@ -31,8 +31,8 @@ Será un día para pasarlo muy bien y aprender mucho de nuestra querida RasPi y 
 
 Seguiré informando cuando tenga más datos que ofreceros. La entrada, todas las charlas y talleres **son gratuítos**. Ya podéis apuntaros (aforo limitado) en el siguiente enlace, donde podéis conocer las charlas y talleres que se impartirán:
 
-[eventbrite.co.uk](https://www.eventbrite.co.uk/e/entradas-raspberry-pi-jam-barcelona-15926580832)
+eventbrite.co.uk
 
-Más info: [projectlog.ferranfabregas.info](https://projectlog.ferranfabregas.info/raspberry-pi-jam-barcelona/)
+Más info: projectlog.ferranfabregas.info
 
 ¡Os esperamos!

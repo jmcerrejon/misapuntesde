@@ -51,6 +51,6 @@ The price included built-in fan and power supply. If you go to the product page,
 
 Still, I think it is a very full board and in the context of price where it moves is hardly be beaten.
 
-Link: [hardkernel.com](https://www.hardkernel.com/main/products/prdt_info.php?g_code=G143452239825&tab_idx=1)
+Link: hardkernel.com
 
 Link: [cnx-software.com](https://www.cnx-software.com/2015/07/14/odroid-xu4-board-is-a-smaller-and-cheaper-version-of-odroid-xu3/)

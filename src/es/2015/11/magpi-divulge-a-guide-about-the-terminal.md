@@ -25,4 +25,4 @@ Aprovecho el espacio para meter [aquí un artículo](https://www.elblogderigo.in
 
 Este tipo de guías pueden ser usadas en cualquier distribución, así que aunque no tengas una _Raspberry Pi_, pero usas _Linux_ o una _ODROID_, no te cuesta nada ojearlo. Seguro que hay algo nuevo que aprendes ;)
 
-Descarga: [Conquer The Command Line](https://www.raspberrypi.org/magpi-issues/Essentials_Bash_v1.pdf)
+Descarga: Conquer The Command Line

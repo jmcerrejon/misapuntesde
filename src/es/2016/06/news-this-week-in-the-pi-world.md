@@ -31,15 +31,15 @@ Venga chic@s, dejad lo que estáis haciendo que ha llegado el momento de relajar
 
 -   **Sticky Finger’s Kali-Pi – The pocket size hacking machine:** Kali es una de las mejores distribuciones en el mundo del Hacking en general. Hace tiempo que está disponible para la Pi. Con una pantalla táctil y algo de ingenio, puedes usarla en entornos muy diversos. | [whitedome.com.au](https://whitedome.com.au/re4son/sticky-fingers-kali-pi/)
 
--   **ARM Cortex-A73 reproduciría contenido HDR y 4K @ 120 Hz:** Lo he leído en el blog de [elchapuzasinformatico.com](https://elchapuzasinformatico.com/2016/06/arm-cortex-a73-reproduciria-contenido-hdr-4k-120-hz/). Este procesador sería el más avanzado hasta la fecha y sus especificaciones son increíbles. ¿Os imagináis la potencia de las futuras _SBC_?. | [nextpowerup.com](https://www.nextpowerup.com/news/28666/arm-cortex-a73-might-support-hdr-and-4k-uhd-at-120-hz/)
+-   **ARM Cortex-A73 reproduciría contenido HDR y 4K @ 120 Hz:** Lo he leído en el blog de [elchapuzasinformatico.com](https://elchapuzasinformatico.com/2016/06/arm-cortex-a73-reproduciria-contenido-hdr-4k-120-hz/). Este procesador sería el más avanzado hasta la fecha y sus especificaciones son increíbles. ¿Os imagináis la potencia de las futuras _SBC_?. | nextpowerup.com
 
 ![nanopi](/images/2016/06/nanopi.jpg)
 
--   **10 alternativas a la Raspberry Pi:** Y vamos con uno de esos recopilatorios que tanto nos gusta para sofocar este caluroso verano que estamos teniendo. | [zdnet.com](https://www.zdnet.com/pictures/10-alternatives-to-the-raspberry-pi/?ftag=TRE17cfd61&bhid=)
+-   **10 alternativas a la Raspberry Pi:** Y vamos con uno de esos recopilatorios que tanto nos gusta para sofocar este caluroso verano que estamos teniendo. | zdnet.com
 
 <iframe width="400" height="225" src="https://www.youtube.com/embed/-Z1IEhdqE2M?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
--   **ODROID SHOW 2 Demo (HardKernel):** El vídeo que veis sobre estas líneas enseña el nuevo display que tiene a la venta _HardKernel_ llamado [ODROID-SHOW2](https://www.hardkernel.com/main/products/prdt_info.php?g_code=G141743018597). Se muestra alguno de los proyectos que podríais hacer con él.
+-   **ODROID SHOW 2 Demo (HardKernel):** El vídeo que veis sobre estas líneas enseña el nuevo display que tiene a la venta _HardKernel_ llamado ODROID-SHOW2. Se muestra alguno de los proyectos que podríais hacer con él.
 
 -   **Blog sobre Raspberry Pi entre otros:** Me ha gustado este blog donde su autor nos enseña diversos sistemas operativos y trucos para la _Raspberry Pi_. Tenemos desde _Yocto Project_ pasando por _Android TV o Tizen_. | [geektillithertz.com](https://geektillithertz.com/wordpress/)
 

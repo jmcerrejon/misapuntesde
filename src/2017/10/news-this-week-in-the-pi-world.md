@@ -42,7 +42,7 @@ fbset -vyres 1440
 ./canoe-shvc rom_name.sfrom
 ```
 
-It seems to be very faithful to the original _SNES_, but the sound is not as good as it should be. In this emulator, _ROMs_ have the _.sfrom_ extension. Download it on [misapuntesde.com > canoe-shvc](/res/canoe-shvc) | [clusterrr.com > SNES-mini-roms.zip](https://clusterrr.com/temp/SNES-mini-roms.zip)
+It seems to be very faithful to the original _SNES_, but the sound is not as good as it should be. In this emulator, _ROMs_ have the _.sfrom_ extension. Download it on [misapuntesde.com > canoe-shvc](/res/canoe-shvc) | clusterrr.com > SNES-mini-roms.zip
 
 ![titelbild](/images/2017/10/titelbild.png)
 
@@ -54,6 +54,6 @@ It seems to be very faithful to the original _SNES_, but the sound is not as goo
 
 -   **The MagPi Nov:** _Pi-Top, Pi-powered turtle rover_, and another DIY for build a Machine arcade from scratch. | [raspberrypi.org](https://www.raspberrypi.org/magpi/build-arcade-machine-magpi-63/)
 
-Tweet of the week thanks to [@pb48k](https://twitter.com/pb48k):
+Tweet of the week thanks to @pb48k:
 
 Happy weekend!

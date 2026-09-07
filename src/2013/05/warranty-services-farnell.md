@@ -33,7 +33,7 @@ _Felipe Maza_ tells us their story, maybe it can help more than one:
 
 -   After 10 months, the last **_May, 6_** my _Raspberry Pi_ stop working, after several tests changing cables, cards and so forth, could determine that the _PCB_ was not working correctly.
 
--   On **_May, 8_** I write to the technical service _Farnell in Spain_ ([link](https://es.farnell.com/jsp/support/support.jsp?formpage=farnell/es_ES/support/webhelp/returnaproduct.jsp)) explaining all the tests I've done.
+-   On **_May, 8_** I write to the technical service _Farnell in Spain_ (link) explaining all the tests I've done.
 
 -   The same day _Farnell UK_ responds with apologizing that the device fails and give me **_a code_** to attach to the package with _UPS_ shipping to pick in the direction they say.
 

@@ -34,4 +34,4 @@ You can update the cores thanks to the user *Nasp* (07/27/15). Just uncompress t
 
 Download: [dropbox.com > OpenELEC-Retroarch.img.gz (340 MB)](https://www.dropbox.com/s/pbqnzcktn3jh9ya/OpenELEC-Retroarch.img.gz?dl=0)
 
-Updated cores: [mega.co.nz > emulator.tools.retroarch-1.0.3.zip](https://mega.co.nz/#!lA5E0CxA!u0PfBwGjw0yHznMX9D5ZIOZ1QUMqT9sMcrccXOTxIMQ)
+Updated cores: mega.co.nz > emulator.tools.retroarch-1.0.3.zip

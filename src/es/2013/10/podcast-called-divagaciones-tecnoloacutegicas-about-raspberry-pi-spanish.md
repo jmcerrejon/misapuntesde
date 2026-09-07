@@ -19,7 +19,7 @@ og_image: /images/2013/10/PrimiumCM.jpg
 
 ![divagaciones_tecnologicas](/images/2013/10/PrimiumCM.jpg)
 
-_Miguel Ángel_ es una de esas personas con las que te llevarías conversando durante horas sobre cualquier tema tecnológico. Su afán de conocimiento le ha llevado a crear este fantástico podcast llamado [Divagaciones Tecnológicas](https://divagacionestecnologicas.com) y para el capítulo número 46, me invitó para que charlara con él sobre qué era la _Raspberry Pi_...
+_Miguel Ángel_ es una de esas personas con las que te llevarías conversando durante horas sobre cualquier tema tecnológico. Su afán de conocimiento le ha llevado a crear este fantástico podcast llamado Divagaciones Tecnológicas y para el capítulo número 46, me invitó para que charlara con él sobre qué era la _Raspberry Pi_...
 
 ---
 
@@ -31,6 +31,6 @@ Desde aquí mando un saludo a _Miguel Ángel_ ([@PrimiumCM](https://twitter.com/
 
 ![happy_smiling](/css/sm/happy_smiling.png)
 
-Enlace al podcast: [divagacionestecnologicas.com Núm. 46 > Raspberry Pi](https://divagacionestecnologicas.com/2013/10/raspberry-pi/)
+Enlace al podcast: divagacionestecnologicas.com Núm. 46 > Raspberry Pi
 
 Twitter: [@DivTecnologicas](https://www.twitter.com/DivTecnologicas)

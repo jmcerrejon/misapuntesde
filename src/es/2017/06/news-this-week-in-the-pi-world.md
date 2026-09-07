@@ -29,13 +29,13 @@ Hoy voy con algo de prisa. Quién lo diría de una persona que cumple **cuarenta
 
 ![eth](/images/2017/06/eth.png)
 
--   **Ethereum Setup on Raspberry Pi 3 (Youtube):** ¿Aún no sabes qué es esto de la criptomoneda?. [Aquí](https://www.pedroventura.com/internet/minar-ethereum-windows-linux/) _Pedro Ventura_ lo explica muy bien, pero el siguiente vídeo nos permite configurarlo en nuestra Pi. | [Youtube](https://www.youtube.com/watch?v=hFWfr78T22U)
+-   **Ethereum Setup on Raspberry Pi 3 (Youtube):** ¿Aún no sabes qué es esto de la criptomoneda?. Aquí _Pedro Ventura_ lo explica muy bien, pero el siguiente vídeo nos permite configurarlo en nuestra Pi. | [Youtube](https://www.youtube.com/watch?v=hFWfr78T22U)
 
 ![price](/images/2017/06/price.png)
 
 -   **Raspberry Pi wins the MacRobert Award:** Pues será un gran premio de esos muy British. Se merecen el mérito de haber logrado que todos nos interesemos por estas placas que algún día serán del tamaño de una moneda... Espera un momento... | [raeng.org.uk](https://www.raeng.org.uk/grants-and-prizes/prizes-and-medals/awards/the-macrobert-award)
 
--   **The most affordable high-performance DIY 8TB NAS:** Uno no sabe la potencia que tiene a veces en sus manos. Lo demuestra un usuario que ha decidido conectarle a una XU4 nada más y nada menos que 8TB. | [com.odroid.com](https://com.odroid.com/sigong/blog/blog_list.php?bid=185)
+-   **The most affordable high-performance DIY 8TB NAS:** Uno no sabe la potencia que tiene a veces en sus manos. Lo demuestra un usuario que ha decidido conectarle a una XU4 nada más y nada menos que 8TB. | com.odroid.com
 
 ![computemodule](/images/2017/06/computemodule.png)
 

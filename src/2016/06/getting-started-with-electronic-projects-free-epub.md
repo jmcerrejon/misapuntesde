@@ -33,4 +33,4 @@ What You Will Learn:
 
 * Use several ZigBee devices and a BeagleBone to create a wireless network of alarm sensors.
 
-Link: [packtpub.com](https://www.packtpub.com/packt/offers/free-learning)
+Link: packtpub.com

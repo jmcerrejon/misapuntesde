@@ -37,8 +37,8 @@ You can play on any platform: _Windows / Linux / Mac / Symbian / WinMobile / Din
 
 I do not say more. You have the links below. Just unzip, run the file and... play!
 
-Link: [Wiki](https://code.google.com/p/unrealspeccyp/wiki/readme)
+Link: Wiki
 
 Link: [Readme Raspberry Pi](https://code.google.com/p/unrealspeccyp/wiki/readme_rpi)
 
-Download: [All platforms](https://code.google.com/p/unrealspeccyp/downloads/list) | [The Pi Store](https://store.raspberrypi.com/projects/unreal_speccy_portable)
+Download: [All platforms](https://code.google.com/p/unrealspeccyp/downloads/list) | The Pi Store

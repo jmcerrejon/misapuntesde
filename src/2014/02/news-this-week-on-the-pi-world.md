@@ -23,9 +23,9 @@ Always good to know the most relevant news about our Raspi. This week has been o
 
 ---
 
--   **Wolfram Alpha** present a demo about its new programming language: It will incorporated directly on the Raspberry Pi and give us access to all the information offered by this great _engine of knowledge_. [venturebeat.com](https://venturebeat.com/2014/02/24/knowledge-based-programming-wolfram-releases-first-demo-of-new-language-30-years-in-the-making/)
+-   **Wolfram Alpha** present a demo about its new programming language: It will incorporated directly on the Raspberry Pi and give us access to all the information offered by this great _engine of knowledge_. venturebeat.com
 
--   **Tutorial: Using Telegram from Terminal**: An article quite carefully worked about this new system messaging clients on the desktop and web. [raspberrypihelp.net](https://raspberrypihelp.net/tutorials/51-telegram-for-raspberry-pi)
+-   **Tutorial: Using Telegram from Terminal**: An article quite carefully worked about this new system messaging clients on the desktop and web. raspberrypihelp.net
 
 -   **PiTFT, an elegant way to integrate a touch screen with a Raspberry Pi**: If you want to have a touch screen for your projects with a resolution of _320x240 pixels_ and _2.8 inch_, on [xatakahome.com (translated)](https://translate.google.com/translate?sl=es&tl=en&js=n&prev=_t&hl=es&ie=UTF-8&u=http%3A%2F%2Fwww.xatakahome.com%2Ftrucos-y-bricolaje-smart%2Fpitft-y-pitft-pibow-una-elegante-forma-de-integrar-una-pantalla-tactil-con-tu-raspberry-pi) talk about it and its possibilities along with a case to fit.
 

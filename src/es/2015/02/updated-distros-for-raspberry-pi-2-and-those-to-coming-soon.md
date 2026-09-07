@@ -33,23 +33,23 @@ Distribuciones Actualizadas:
 
 -   [Raspbian y NOOBS](https://www.raspberrypi.org/downloads/): Era de esperar que la distribución oficial estuviera ya adaptada al cambio. Lo que más me ha gustado es el boot de inicio con las 4 frambuesas simbolizando los 4 cores del nuevo procesador.
 
--   [Debbian Jessie](https://sjoerd.luon.net/posts/2015/02/debian-jessie-on-rpi2/): Una de las cosas que necesito es el cambio de _Wheezy a Jessie_ en las distros basadas en _Debian_ para estar a la última en cuanto a paquetería. Bueno, pues ya tenemos una versión que probar con _Kernel 3.18+firmware_ que ocupa 3 GB.
+-   Debbian Jessie: Una de las cosas que necesito es el cambio de _Wheezy a Jessie_ en las distros basadas en _Debian_ para estar a la última en cuanto a paquetería. Bueno, pues ya tenemos una versión que probar con _Kernel 3.18+firmware_ que ocupa 3 GB.
 
--   [Snappy Ubuntu Core](https://www.raspberrypi.org/downloads/): Sinceramente lo que tengo más ganas de probar en cuanto me llegue la RPi2 será esta distribución minimalista que también ha revolucionado estos días la red. Más info en la web de [Ubuntu](https://developer.ubuntu.com/en/snappy/).
+-   [Snappy Ubuntu Core](https://www.raspberrypi.org/downloads/): Sinceramente lo que tengo más ganas de probar en cuanto me llegue la RPi2 será esta distribución minimalista que también ha revolucionado estos días la red. Más info en la web de Ubuntu.
 
--   [OpenELEC](https://openelec.tv/news/22-releases/154-openelec-5-0-1-released): Nuestra distribución favorita para el ocio y el entretenimiento ya se ha actualizado con el cambio de Kernel a la versión 3.18 y funciona realmente bien como puedes ver en el vídeo que acompaña el artículo.
+-   OpenELEC: Nuestra distribución favorita para el ocio y el entretenimiento ya se ha actualizado con el cambio de Kernel a la versión 3.18 y funciona realmente bien como puedes ver en el vídeo que acompaña el artículo.
 
 -   [OSMC](https://osmc.tv/2015/02/raspberry-pi-2-released-with-osmc-support/): Anteriormente conocida como _Raspbmc_ es otra distribución para ejecutar _XBMC_ basado en Raspbian aunque aún no está muy optimizado en su versión Alpha 4.
 
 <iframe width="352" height="198" src="https://www.youtube.com/embed/R8FuEXmL34s?rel=0" frameborder="0" allowfullscreen></iframe>
 
--   Lakka: Los chicos de esta distribución basada en _OpenELEC_ para ejecutar _RetroArch_ ya están buscando _Beta testers_ vía _Twitter_. Por lo pronto y aunque aún no es oficial, [aquí](https://sources.lakka.tv/nightly/RPi2.arm/) tenéis las builds diarias para la _Raspberry Pi 2_ (pero yo no os lo he dicho).
+-   Lakka: Los chicos de esta distribución basada en _OpenELEC_ para ejecutar _RetroArch_ ya están buscando _Beta testers_ vía _Twitter_. Por lo pronto y aunque aún no es oficial, aquí tenéis las builds diarias para la _Raspberry Pi 2_ (pero yo no os lo he dicho).
 
 Pronto disponibles:
 
--   [Retro Pie](https://blog.petrockblock.com/retropie/): Seguro que las actualizaciones vendrán, aunque los emuladores en general [no están preparados](https://github.com/petrockblog/RetroPie-Setup/issues/628) para utilizar varios cores, así que no esperemos ver un rendimiento mucho mejor.
+-   Retro Pie: Seguro que las actualizaciones vendrán, aunque los emuladores en general no están preparados para utilizar varios cores, así que no esperemos ver un rendimiento mucho mejor.
 
--   Android: ¿Qué sucede con el sistema operativo de _Google_? Es raro que no esté YA lista una versión adaptada cuando otras placas la tienen desde hace tiempo. Según cuentan en [linux.com](https://www.linux.com/news/embedded-mobile/mobile-linux/807087-faster-raspberry-pi-2-says-yes-to-ubuntu-and-windows-but-wheres-android) ninguna versión de este sistema operativo ha sido montado con este tipo de _SoC_ y puede que tarden en darle soporte. ¿Favoritismos hacia _Microsoft_?. Huelo a conspiración...
+-   Android: ¿Qué sucede con el sistema operativo de _Google_? Es raro que no esté YA lista una versión adaptada cuando otras placas la tienen desde hace tiempo. Según cuentan en linux.com ninguna versión de este sistema operativo ha sido montado con este tipo de _SoC_ y puede que tarden en darle soporte. ¿Favoritismos hacia _Microsoft_?. Huelo a conspiración...
 
 -   Otras: Para las demás distribuciones que solemos utilizar como _Arch Linux, Pidora o Risc OS_ también tendremos que esperar unos días o incluso semanas, pero llegarán.
 

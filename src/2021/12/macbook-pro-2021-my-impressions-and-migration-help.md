@@ -107,7 +107,7 @@ Special mention to *Android Studio*. It compiles and shows me the project in the
 
 *VSCode* has a sync option and that's what I use without any problems, so my environment has been set up almost from minute one. The number of times I must have lost my settings before this option!.
 
-I don't use *Docker on macOS* because in its beginnings it was a good *RAM* eater, although I've already read that things have changed a lot. I used it years ago and have not tried it again. For the new chip, the following link may help you: [Docker Desktop for Apple silicon](https://docs.docker.com/desktop/mac/apple-silicon/).
+I don't use *Docker on macOS* because in its beginnings it was a good *RAM* eater, although I've already read that things have changed a lot. I used it years ago and have not tried it again. For the new chip, the following link may help you: Docker Desktop for Apple silicon.
 
 The last thing I install is *XCode*. You will have to add the accounts and recreate the credentials. I choose to do it from *XCode*, which makes things much easier for you.
 

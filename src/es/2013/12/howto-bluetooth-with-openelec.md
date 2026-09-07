@@ -27,7 +27,7 @@ Quiero enseñaros como configurar uno de estos dispositivos (en este caso un _Ap
 
 ---
 
-Antes de que acabara el año tenía pensado hacer un tutorial. Como el tema que nos aborda hoy no había conseguido nunca que funcionara, he querido ver si con esta nueva versión es mas fácil que [antes](https://wiki.openelec.tv/index.php?title=Bluez-tools_how-to). Y lo es sin duda alguna.
+Antes de que acabara el año tenía pensado hacer un tutorial. Como el tema que nos aborda hoy no había conseguido nunca que funcionara, he querido ver si con esta nueva versión es mas fácil que antes. Y lo es sin duda alguna.
 
 Lo primero que debemos hacer es comprarnos un módulo _Bluetooth_ si no lo tenemos ya. Podéis adquirir el _Bluetooth USB Conceptronic_ con el que se ha hecho las pruebas en la tienda de [raspipc.es](https://raspipc.es) a través de [este](https://goo.gl/F6khBE) enlace por si no queréis arriesgaros. En mi caso voy a utilizar uno de la marca _Trust_:
 

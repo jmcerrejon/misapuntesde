@@ -33,7 +33,7 @@ Here we go!
 
 -   **Moebius back to life** | [sourceforge.net > moebiuslinux](https://sourceforge.net/projects/moebiuslinux/)
 
--   **14.04.2 LTS (v1.4) para ODROID-C1** | [mirror.golddroid.com](https://mirror.golddroid.com)
+-   **14.04.2 LTS (v1.4) para ODROID-C1** | mirror.golddroid.com
 
 ![Plex Media Server](/images/2015/03/banana-pi-plex-media-server.png)
 

@@ -31,10 +31,10 @@ Something as simple to understand, and people are still afraid. I've got some ar
 
 I leave several links to not miss anything of this version control system.
 
-¿What's Git?: [fuenteabierta](https://fuenteabierta.teubi.co/2013/01/de-romances-y-asiaticas-que-es-git-y-un.html)
+¿What's Git?: fuenteabierta
 
-Mini-tutorial about Git: [ubuntu-españa.org](https://ubuntu-españa.org/content/mini-manual-de-git)
+Mini-tutorial about Git: ubuntu-españa.org
 
-Git Server with Gitolite: [paraisolinux.com](https://paraisolinux.com/como-servidor-git-con-gitolite/)
+Git Server with Gitolite: paraisolinux.com
 
-Learn Git on 15 minutes (english): [try.github.com](https://try.github.com/levels/1/challenges/1)
+Learn Git on 15 minutes (english): try.github.com

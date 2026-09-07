@@ -59,6 +59,6 @@ Ejemplo ficticio: _wget -b -P /home/pepe/ -r ftp://pepeftp:rpi43v3r\!@misapuntes
 
 -   _wget_ ya te crea el directorio destino con el mismo nombre del website, en el ejemplo se copiaría en _/home/pepe/misapuntesde.com_. Si quieres que esto no pase, añade el parámetro **-nd**.
 
-Enlace: [russbrooks.com > LFTP Cheatsheet](https://russbrooks.com/2010/11/19/lftp-cheetsheet)
+Enlace: russbrooks.com > LFTP Cheatsheet
 
 Enlace: [stackoverflow.com > Using wget to download select directories from ftp server](https://stackoverflow.com/questions/20751286/using-wget-to-download-select-directories-from-ftp-server)

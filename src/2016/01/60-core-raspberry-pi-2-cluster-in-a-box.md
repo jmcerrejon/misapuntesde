@@ -19,7 +19,7 @@ og_image: /images/2016/01/cluster_in_a_Box.jpg
 
 ![cluster_in_a_Box](/images/2016/01/cluster_in_a_Box.jpg)
 
-Through a _Slack_ channel commented to me about this project did not know and that I was surprised by their appearance. A user has pluged in no more and no less than 15 **Raspberry Pi** in this monstrous box with which you can invoke [Arioch](https://en.wikipedia.org/wiki/Deities_in_the_Elric_series).
+Through a _Slack_ channel commented to me about this project did not know and that I was surprised by their appearance. A user has pluged in no more and no less than 15 **Raspberry Pi** in this monstrous box with which you can invoke Arioch.
 
 ---
 

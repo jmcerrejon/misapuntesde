@@ -29,7 +29,7 @@ Gran noticia para los seguidores de RetroPie. Habemus nueva versión con las sig
 
 -   Actualización de Emulation Station, pix86, y RetroArch a la última versión
 
-Descarga: [SD Card image (1.3 GB)](https://blog.petrockblock.com/?wpdmdl=17) | [Script](https://blog.petrockblock.com/2012/07/22/retropie-setup-an-initialization-script-for-retroarch-on-the-raspberry-pi/)
+Descarga: [SD Card image (1.3 GB)](https://blog.petrockblock.com/?wpdmdl=17) | Script
 
 ¡EXTRA!:
 

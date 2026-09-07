@@ -21,4 +21,4 @@ og_image: /images/money.jpg
 
 Tan sólo una hora después, mi web ya vale dinero!: Ahora mismo exactamente **_8,95$_** xD
 
-Enlace: [https://thedomainstat.com](https://thedomainstat.com/www/misapuntesde.com)
+Enlace: https://thedomainstat.com

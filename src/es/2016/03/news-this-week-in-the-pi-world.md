@@ -27,7 +27,7 @@ og_image: /images/2016/03/64bitRpi3.png
 
 <iframe width="400" height="225" src="https://www.youtube.com/embed/CZFVWDN5Gcc?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
--   **Raspberry Pi: Alternativa a BitTorrent sync llamada Syncthing:** La tecnología _Bittorrent_ no sirve solo para descargar pelis y series. Puede servirnos para crear copias de seguridad y añadiendo nodos consigues más velocidad. Esta guía también es válida para la _ODROID_ o cualquier placa con Linux. Por cierto, el blog tiene bastante contenido interesante. | [hackviking.com > Raspberry Pi: BitTorrent sync alternative Syncthing](https://www.hackviking.com/single-board-computers/raspberry-pi/raspberry-pi-bittorrent-sync-alternative-syncthing/)
+-   **Raspberry Pi: Alternativa a BitTorrent sync llamada Syncthing:** La tecnología _Bittorrent_ no sirve solo para descargar pelis y series. Puede servirnos para crear copias de seguridad y añadiendo nodos consigues más velocidad. Esta guía también es válida para la _ODROID_ o cualquier placa con Linux. Por cierto, el blog tiene bastante contenido interesante. | hackviking.com > Raspberry Pi: BitTorrent sync alternative Syncthing
 
 ![SSH TRON](https://raw.githubusercontent.com/zachlatta/sshtron/master/static/img/gameplay.gif)
 

@@ -26,7 +26,7 @@ Wow!. It has already been a week and meanwhile, little or much has been moving t
 
 ![components](/images/2018/05/components.png)
 
-* **50 of the most important Raspberry Pi Sensors and Components** | [tutorials-raspberrypi.com](https://tutorials-raspberrypi.com/raspberry-pi-sensors-overview-50-important-components/)
+* **50 of the most important Raspberry Pi Sensors and Components** | tutorials-raspberrypi.com
 
 * **Public Trello Panes with info about the Raspberry Pi** | [google.es > Trello with Raspberry](https://www.google.es/search?ei=hfoIW_2qH4fvUq78veAJ&q=inurl%3Ahttps%3A%2F%2Ftrello.com+AND+intext%3Araspberry&oq=inurl%3Ahttps%3A%2F%2Ftrello.com+AND+intext%3Araspberry&gs_l=psy-ab.3...11640.13914.0.14092.14.14.0.0.0.0.124.1134.11j3.14.0....0...1c.1.64.psy-ab..0.0.0....0.5QHLNFwlFgM)
 
@@ -36,7 +36,7 @@ Wow!. It has already been a week and meanwhile, little or much has been moving t
 
 ![LibreELEC](/images/2017/05/libreelec.png)
 
-* **LibreElec Reviewed On Raspberry Pi 3** | [babahumor.com](https://www.babahumor.com/libreelec-review-raspberry-pi-3/)
+* **LibreElec Reviewed On Raspberry Pi 3** | babahumor.com
 
 * **Raspberry Pi Keeps Cool** | [hackaday.com](https://hackaday.com/2018/05/22/raspberry-pi-keeps-cool/)
 

@@ -19,7 +19,7 @@ og_image: /images/2015/04/jdownloader.png
 
 ![jDownloader](/images/2015/04/jdownloader.png)
 
-No suelo usar la _Raspi_ para mis descargas diarias, pero he descubierto que muchos de vosotros sí que lo hace: Unos a través de _torrent_, otros aún por medio de _Emule_, y pocos lo usan para hosters como _Freakshare_ o [uploaded](https://ul.to/ref/8900882). Hoy instalaremos _jDownloader_ en la _Raspberry Pi_.
+No suelo usar la _Raspi_ para mis descargas diarias, pero he descubierto que muchos de vosotros sí que lo hace: Unos a través de _torrent_, otros aún por medio de _Emule_, y pocos lo usan para hosters como _Freakshare_ o uploaded. Hoy instalaremos _jDownloader_ en la _Raspberry Pi_.
 
 ---
 
@@ -29,4 +29,4 @@ Os dejo con la siguiente guía en castellano publicada por _Draco_ en su blog _i
 
 Enlace: [informaticamateur.blogspot.com.es](https://informaticamateur.blogspot.com.es/2015/04/instalar-jdownloader-en-raspberry.html)
 
-<p><a href="https://ul.to/ref/8900882"><img src="https://uploaded.net/img/public/234x60.jpg" alt="uploaded" /></a></p>
+<p><img src="https://uploaded.net/img/public/234x60.jpg" alt="uploaded" /></p>

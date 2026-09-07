@@ -51,7 +51,7 @@ The different benchmarks that are being made to these processors, they largely p
 
 In conclusion, I think the _PI3_ has generated enough _hype_ and for a better performance (not as much as proclaim as I read), not worth the change if you own an older model. _HardKernel_ should lower the price of shipping costs somehow. I think it's the only way to reach a wider audience and maintain a community as strong as has its direct competitor.
 
-Buy: [hardkernel.com > Distribuitors](https://www.hardkernel.com/main/distributor.php)
+Buy: hardkernel.com > Distribuitors
 
 Link: [odroid.com > dokuwiki](https://odroid.com/dokuwiki/doku.php?id=en:odroid-c2)
 

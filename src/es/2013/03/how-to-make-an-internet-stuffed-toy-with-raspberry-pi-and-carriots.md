@@ -29,4 +29,4 @@ El motor de Carriots permite postear tweets, cambiar la voz, descargar videos de
 
 ![carriots](/images/carrios_toy.jpg)
 
-Enlace: [Instrucciones](https://www.carriots.com/community/domokun_iot_example_internet_stuffed_toy)
+Enlace: Instrucciones

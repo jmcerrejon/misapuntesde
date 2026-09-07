@@ -27,4 +27,4 @@ Lanzamos nuestra actividad en Sevilla con el **CURSO-PROYECTO de Robótica Open 
 
 **¡¡¡Reserva antes del 31 DE JULIO y consigue un excepcional descuento!!!**
 
-Enlace: [roboticaeuropa.org](https://roboticaeuropa.org/curso-1/robots-ros-raspberry-pi)
+Enlace: roboticaeuropa.org

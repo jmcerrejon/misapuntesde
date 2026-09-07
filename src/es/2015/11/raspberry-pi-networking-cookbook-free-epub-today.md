@@ -37,4 +37,4 @@ Por si no lo sabéis, [Packt](https://www.packtpub.com) es una editorial con lib
 
 Este libro es para cualquiera que quiera aprender como puede utilizar la *Raspberry Pi* y todo su potencial sin tener que sumergirse de inmediato en la programación. Está lleno de guías con instrucciones y descripciones detalladas en un lenguaje apropiado para entusiastas de la informática y expertos por igual.
 
-Descarga: [packtpub.com > Raspberry Pi Networking Cookbook](https://www.packtpub.com/packt/offers/free-learning)
+Descarga: packtpub.com > Raspberry Pi Networking Cookbook

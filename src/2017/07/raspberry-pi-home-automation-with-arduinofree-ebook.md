@@ -41,4 +41,4 @@ This essential reference will guide you through a series of exciting projects th
 
 Hurry up and claim your free eBook for a limited time!
 
-Link: [packtpub.com > free-learning](https://www.packtpub.com/packt/offers/free-learning)
+Link: packtpub.com > free-learning

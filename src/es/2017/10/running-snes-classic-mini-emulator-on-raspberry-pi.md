@@ -47,7 +47,7 @@ fbset -vyres 720
 xrefresh
 ```
 
-Enlace: [board.byuu.org](https://board.byuu.org/viewtopic.php?f=16&t=1823)
+Enlace: board.byuu.org
 
 Enlace: [github.com > A detailed guide to installing games on the SNES Classic by DNA64.](https://github.com/DNA64/SuperHakchi/)
 

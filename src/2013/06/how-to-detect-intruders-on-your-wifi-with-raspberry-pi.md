@@ -27,4 +27,4 @@ While waiting longer, a user has had the detail to send the link to a very inter
 
 If you want to know more about this guy, his _Twitter_ is [@FresyMetal_com](https://twitter.com/FresyMetal_com).
 
-Translated link: [Fresy Metal - Como detectar intrusos en tu WIFI con Raspberry Pi](https://translate.google.com/translate?sl=es&tl=en&js=n&prev=_t&hl=es&ie=UTF-8&u=http%3A%2F%2Fwww.fresymetal.com%2Fcomo-detectar-intrusos-en-tu-wifi-con-raspberry-pi%2F)
+Translated link: Fresy Metal - Como detectar intrusos en tu WIFI con Raspberry Pi

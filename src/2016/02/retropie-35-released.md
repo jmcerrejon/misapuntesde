@@ -41,6 +41,6 @@ We have available a new version of RetroPie, the retro operating system for game
 
 -   Various other bug fixes.
 
-Download: blog.petrockblock.com > [Pi1](https://blog.petrockblock.com/retropie/retropie-downloads/retropie-image-for-raspberry-pi-1/) | [Pi2](https://blog.petrockblock.com/retropie/retropie-downloads/retropie-sd-card-image-for-raspberry-pi-2-2/)
+Download: blog.petrockblock.com > Pi1 | Pi2
 
 Link: [RetroPie > First Installation](https://github.com/retropie/RetroPie-Setup/wiki/First-Installation)

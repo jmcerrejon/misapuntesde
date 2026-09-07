@@ -75,13 +75,13 @@ Enlace: [raspberrypi.org > New product launch! Introducing Raspberry Pi Model B+
 
 Enlace: [pi.gadgetoid.com](https://pi.gadgetoid.com/pinout)
 
-Enlace: [blog.pistuffing.co.uk > Raspberry Pi B+ launched](https://blog.pistuffing.co.uk/?p=3625)
+Enlace: blog.pistuffing.co.uk > Raspberry Pi B+ launched
 
 Enlace: [raspberrypi-spy.co.uk > New Raspberry Pi Model B+ Revealed](https://www.raspberrypi-spy.co.uk/2014/07/new-raspberry-pi-model-b-revealed/)
 
 Enlace: [makezine.com > First look at the new Raspberry Pi B+](https://makezine.com/2014/07/14/first-look-at-the-new-raspberry-pi-b/)
 
-Enlace: [webupd8.org](https://www.webupd8.org/2014/07/raspberry-pi-model-b-launched-with-4.html)
+Enlace: webupd8.org
 
 Enlace: [geekgurldiaries.blogspot.co.uk > First Look at the New Raspberry Pi Model B+](https://geekgurldiaries.blogspot.co.uk/2014/07/first-look-at-new-raspberry-pi-model-b.html)
 
@@ -97,9 +97,9 @@ Youtube: [ASK AN ENGINEER - LIVE electronics video show! 8PM ET Wednesday night!
 
 Enlace: [raspberrypi-spy.co.uk > Raspberry Pi Model B+ And Addon Board Compatibility](https://www.raspberrypi-spy.co.uk/2014/07/raspberry-pi-model-b-and-addon-board-compatibility/) | [Raspberry Pi B+ GPIO Header Details And Pinout](https://www.raspberrypi-spy.co.uk/2014/07/raspberry-pi-b-gpio-header-details-and-pinout/)
 
-Enlace: [linuxvoice.com > RPi Model B+](https://www.linuxvoice.com/raspberry-pi-model-b/)
+Enlace: linuxvoice.com > RPi Model B+
 
-Enlace: [electronicproducts.com > New version of Raspberry Pi board is ready ](https://www.electronicproducts.com/Board_Level_Products/Single_Board_Computer/New_version_of_Raspberry_Pi_board_is_ready.aspx)
+Enlace: electronicproducts.com > New version of Raspberry Pi board is ready 
 
 Enlace: [amongtech.com > Raspberry introduces the new Raspberry Pi Model B+](https://www.amongtech.com/raspberry-introduces-the-new-raspberry-pi-model-b/)
 
@@ -107,4 +107,4 @@ Enlace: [bbc.com > Redesign for barebones Raspberry Pi computer](https://www.bbc
 
 Enlace: [B+ ADD-ON BOARDS AND HATs](https://github.com/raspberrypi/hats)
 
-Enlace: [meccanismocomplesso.org](https://www.meccanismocomplesso.org/en/raspberry-pi-model-bplus/)
+Enlace: meccanismocomplesso.org

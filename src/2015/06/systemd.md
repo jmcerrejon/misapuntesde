@@ -105,6 +105,6 @@ Link: [forums.debian.net](https://forums.debian.net/viewtopic.php?f=20&t=120157)
 
 Link: [wikipedia.org > systemd](https://en.wikipedia.org/wiki/Systemd)
 
-Link: [freedesktop.org > systemd](https://www.freedesktop.org/wiki/Software/systemd/)
+Link: freedesktop.org > systemd
 
 Link: [wiki.debian.org > Debate initsystem upstart](https://wiki.debian.org/Debate/initsystem/upstart)

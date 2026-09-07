@@ -29,6 +29,6 @@ Tendremos una nueva oportunidad de asistir a la **Raspberry JAM** que se celebra
 
 -   **Siete webs y canales de YouTube para aprender Scratch desde cero a nivel experto:** Pues eso, si quieres enseñar a tu hijo Scratch, aquí tienes unos buenos recursos para hacerlo. Un par de ellos están en español. | [genbeta.com](https://www.genbeta.com/herramientas/siete-webs-y-canales-de-youtube-para-aprender-scratch-desde-0-a-nivel-experto)
 
--   **Raspberry Jam Barcelona 2015:** Mi gran amigo [Ferran](https://twitter.com/FerriTheMaker) organiza de nuevo otra _Raspberry Jam_ (¡Dos el mismo año!) a la que yo no podré asistir, pero vosotros seguro que no os la perdeis. Entrada gratuita pero aforo limitado. Los talleres son bastante interesantes y para todos los niveles. ¡Daos prisa! | [eventbrite.es > Raspberry Jam Barcelona 2015](https://www.eventbrite.es/e/entradas-raspberry-jam-barcelona-2015-19173424228)
+-   **Raspberry Jam Barcelona 2015:** Mi gran amigo [Ferran](https://twitter.com/FerriTheMaker) organiza de nuevo otra _Raspberry Jam_ (¡Dos el mismo año!) a la que yo no podré asistir, pero vosotros seguro que no os la perdeis. Entrada gratuita pero aforo limitado. Los talleres son bastante interesantes y para todos los niveles. ¡Daos prisa! | eventbrite.es > Raspberry Jam Barcelona 2015
 
 ¡Feliz Halloween!

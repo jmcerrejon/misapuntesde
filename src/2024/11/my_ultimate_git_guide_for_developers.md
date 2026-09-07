@@ -430,7 +430,7 @@ git reset --hard 23j45b3b45hb345b
 
 ## Interesting Links
 
--   [Git Guide](https://rogerdudler.github.io/git-guide/index.en.html)
+-   Git Guide
 -   [Learn Git Branching](https://learngitbranching.js.org)
 -   [Git for Beginners: The Definitive Practical Guide](https://qastack.mx/programming/315911/git-for-beginners-the-definitive-practical-guide)
 -   [git-scm.com](https://git-scm.com/doc)

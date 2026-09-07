@@ -68,6 +68,6 @@ p,n # página anterior (p) y siguiente (n)
 Tienes más posibilidades, como crear listas locales de tus vídeos favoritos y varias cosas más, pero con estos ejemplos tienes más que suficiente para ver y descargar sin tener que aguantar publicidad ni distracciones.
 
 Enlace:
-[github.com > mps-youtube](https://github.com/np1/mps-youtube)
+github.com > mps-youtube
 
 Enlace: [xmodulo.com > How to access popular search engines from the command line on Linux](https://xmodulo.com/access-popular-search-engines-command-line-linux.html)

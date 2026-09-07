@@ -43,6 +43,6 @@ Features summary. For a larger view go to the website:
 
 -   Red: NFS, Samba, UPnP/DLNA, HTTP/FTP/SSH server, Utorrent (client and gui over http)
 
-Download: [geexbox-3.1.raspberrypi.tar.bz2 (128 MB)](https://www.geexbox.org/wp-content/plugins/download-monitor/download.php?id=geexbox-3.1.raspberrypi.tar.bz2)
+Download: geexbox-3.1.raspberrypi.tar.bz2 (128 MB)
 
 Link: [geexbox.org](https://www.geexbox.org/2013/11/01/geexbox-3-1/)

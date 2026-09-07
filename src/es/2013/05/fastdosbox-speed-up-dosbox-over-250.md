@@ -38,7 +38,7 @@ Características:
 
 Para hacerlo funcionar una vez instalado, entra en el directorio del juego y teclea **_dosbox ejecutable_** donde ejecutable es el nombre del ejecutable, que suele ser un _.EXE_, _.COM_ o _.BAT_
 
-La tenéis disponible por 2.49€ en la [PiStore](https://store.raspberrypi.com/projects/fastdosbox), la cual recomiendo, o puedes bajar la versión compilada por mí (y gratuíta) gracias a los pasos que os mencioné en [otro post](https://misapuntesde.com/es/2013/05/we-compile-labbaye-des-morts-for-raspberry-pi-deb-included.html) desde este [enlace](/res/fastdosbox_1.5-1_armhf.deb).
+La tenéis disponible por 2.49€ en la PiStore, la cual recomiendo, o puedes bajar la versión compilada por mí (y gratuíta) gracias a los pasos que os mencioné en [otro post](https://misapuntesde.com/es/2013/05/we-compile-labbaye-des-morts-for-raspberry-pi-deb-included.html) desde este [enlace](/res/fastdosbox_1.5-1_armhf.deb).
 
 ¡EXTRA!:
 

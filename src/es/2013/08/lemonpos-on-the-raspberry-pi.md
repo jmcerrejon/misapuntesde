@@ -35,7 +35,7 @@ Es por eso que es una gran idea tener un hardware como el de la _Raspberry Pi_, 
 
 Os animo a que difundáis esta guía de instalación y uso, ya que tal vez no os haga falta a vosotros, pero sí a alguien cercano.
 
-Enlace: [dbc-customs.com > Installing LemonPOS on the Raspberry Pi](https://dbc-customs.com/?p=77)
+Enlace: dbc-customs.com > Installing LemonPOS on the Raspberry Pi
 
 Enlace: [sourceforge.net > LemonPOS Guía de usuario](https://sourceforge.net/apps/mediawiki/lemonpos/index.php?title=Users_Guide)
 

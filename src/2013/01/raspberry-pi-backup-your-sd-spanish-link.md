@@ -18,4 +18,4 @@ tag:
 
 Steps to backup your SD.
 
-Enlace: [https://fuenteabierta.teubi.co](https://fuenteabierta.teubi.co/2013/01/haciendo-un-respaldo-de-la-memoria-sd.html)
+Enlace: https://fuenteabierta.teubi.co

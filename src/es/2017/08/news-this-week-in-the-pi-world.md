@@ -35,13 +35,13 @@ Una de esas semanas duras en las que no he tenido tiempo hasta ahora de pararme 
 
 -   **Your Serverless Raspberry Pi cluster with Docker:** Si antes comentaba la manera de crearte un Headless server con la _ODROID-HC1_, ahora os traigo como crear un cluster de _RPis con Docker_. | [blog.alexellis.io](https://blog.alexellis.io/your-serverless-raspberry-pi-cluster/)
 
--   **Set up a Raspberry Pi Zero headless:** Consejos gratis para usar ~~nuestra~~ tu RPi Zero. | [aggl.com](https://www.gaggl.com/2017/08/set-up-a-raspberry-pi-zero-headless/)
+-   **Set up a Raspberry Pi Zero headless:** Consejos gratis para usar ~~nuestra~~ tu RPi Zero. | aggl.com
 
 -   **Launching the Speech Commands Dataset:** Google quiere que hables con tu placa, no que le escribas comandos. Probablemente sea algo que hemos visto siempre en las pelis de ciencia ficción pero que dentro de 20 años hagamos de forma normal (incluso tal vez los teclados sean algo retro) | [research.googleblog.com](https://research.googleblog.com/2017/08/launching-speech-commands-dataset.html)
 
 ![hotspot](/images/2017/08/hotspot.png)
 
--   **Create a Wi-Fi hotspot in less than 10 minutes with the Raspberry Pi!:** Justamente la semana pasada intentaba usar _hostapd_ con una _PocketCHIP_ para mis vacaciones. Mejor explicado, imposible. | [learn.cf](https://www.learn.cf/2017/08/create-wi-fi-hotspot-in-less-than-10.html)
+-   **Create a Wi-Fi hotspot in less than 10 minutes with the Raspberry Pi!:** Justamente la semana pasada intentaba usar _hostapd_ con una _PocketCHIP_ para mis vacaciones. Mejor explicado, imposible. | learn.cf
 
 ![solar](/images/2017/08/solar.png)
 

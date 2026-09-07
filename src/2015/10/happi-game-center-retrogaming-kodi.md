@@ -45,6 +45,6 @@ Based on _Emulation Station_, It has a lot of interesting features:
 
 -   Drivers supported "out of the box": USB XBOX 360, XBOX 360 Wireless USB ADAPT + NES, N64 + USB ADAPT, PS2, PS3, PS4, Superna (Ibuffalo & Retrolink), X-ARCADE + USB, WII Classic + USB and GPIO...
 
-Link: [happi-game-center.com](https://happi-game-center.com/)
+Link: happi-game-center.com
 
-Forum: [happi-game-center.com > forum](https://www.happi-game-center.com/_forum/)
+Forum: happi-game-center.com > forum

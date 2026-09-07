@@ -53,4 +53,4 @@ As Operating System, It runs _Debian Stretch, Ubuntu 18.04 and Android 7.1_. I m
 
 It is expected to go on sale in the second quarter of this year. I'll keep you informed.
 
-Link: [Hardkernel > The Next ODROID!](https://com.odroid.com/sigong/blog/blog_list.php?bid=193)
+Link: Hardkernel > The Next ODROID!

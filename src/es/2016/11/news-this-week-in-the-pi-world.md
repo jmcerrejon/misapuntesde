@@ -27,7 +27,7 @@ No dejo de pensar en todo lo que está pasando en el Mundo Pi y que me estoy per
 
 -   **Así es RetroArch, un único emulador multiplataforma de videojuegos clásicos para dominarlos a todos:** Completa guía de RetroArch para hacer las delicias de todo usuario retro y en español. Con pasos concisos y sencillos para tener tu máquina de emulación perfecta. Lo que siempre me ha gustado de RetroArch es su velocidad. | [genbeta.com](https://www.genbeta.com/a-fondo/asi-es-retroarch-un-unico-emulador-multiplataforma-de-videojuegos-clasicos-para-dominarlos-a-todos)
 
--   **Pi-Light – Raspberry Pi Powered Smart Light:** Una tira de leds, un Arduino más una Pi harán que te entretengas todo un fín de semana. El resultado ya te lo puedes imaginar. | [jamespoole.me](https://jamespoole.me/2016/10/11/pilight-raspberry-pi-powered-smart-light/)
+-   **Pi-Light – Raspberry Pi Powered Smart Light:** Una tira de leds, un Arduino más una Pi harán que te entretengas todo un fín de semana. El resultado ya te lo puedes imaginar. | jamespoole.me
 
 ![rpi2bRev](/images/2016/11/rpi2bRev.jpg)
 

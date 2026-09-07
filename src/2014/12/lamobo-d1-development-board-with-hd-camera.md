@@ -41,6 +41,6 @@ Bring an operating system that you can access through a browser on another compu
 
 I leave a couple of links for further information.
 
-Link: [tinyonestore.com > The Banana Pi D1 -Lamobo D1 is the smallest open-source development board around, with a built-in HD mini camera. Create your own mini-cam now!](https://tinyonestore.com/blogs/blog/18188839-the-banana-pi-d1-lamobo-d1-is-the-smallest-open-source-development-board-around-with-a-built-in-hd-mini-camera-create-your-own-mini-cam-now)
+Link: tinyonestore.com > The Banana Pi D1 -Lamobo D1 is the smallest open-source development board around, with a built-in HD mini camera. Create your own mini-cam now!
 
-Link: [Manual PDF](https://tinyonetutorials.com/pdf/BPI-D1%20User%20Manual%20V2.0-EN-1.pdf)
+Link: Manual PDF

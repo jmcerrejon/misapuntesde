@@ -27,4 +27,4 @@ Me he encontrado un manual muy sencillo para que cualquiera pueda utilizarlo usa
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/UAwiVERLmDo" frameborder="0" allowfullscreen></iframe>
 
-Enlace: [cowfishstudios.com](https://www.cowfishstudios.com/blog/obd-pi-raspberry-pi-displaying-car-diagnostics-obd-ii-data-on-an-aftermarket-head-unit)
+Enlace: cowfishstudios.com

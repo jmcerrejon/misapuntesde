@@ -67,7 +67,7 @@ Link: [pcmag.com > Faster Raspberry Pi 3 Model B+ Launches](https://www.pcmag.co
 
 Link: [makeuseof.com > DIY The Raspberry Pi FAQ and Answers You’ve Been Waiting For](https://www.makeuseof.com/tag/raspberry-pi-faq/)
 
-Link: [venturebeat.com > The Raspberry Pi 3 Model B+ microcomputer promises more speed](https://venturebeat.com/2018/03/14/the-new-raspberry-pi-3-model-b-microcomputer-promises-more-speed/)
+Link: venturebeat.com > The Raspberry Pi 3 Model B+ microcomputer promises more speed
 
 Link: [neowin.net > Raspberry Pi 3 Model B+ is faster, comes with 5Ghz WiFi, Bluetooth 4.2, PoE, and more](https://www.neowin.net/news/raspberry-pi-3-model-b-is-faster-comes-with-5ghz-wifi-bluetooth-42-poe-and-more)
 

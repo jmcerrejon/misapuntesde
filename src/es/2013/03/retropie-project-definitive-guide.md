@@ -27,7 +27,7 @@ Me he decidido a hacer un tutorial un poco más extenso de lo habitual. Hoy vamo
 
 ---
 
-Vamos a descargarnos el archivo [img](https://blog.petrockblock.com/download/retropie-project-image/) de 1.3 GB y copiarlo a nuestra SD de las maneras que ya sabemos. Cualquier método es [válido](https://raspberryparatorpes.net/empezando/programas-para-instalar-el-sistema-operativo-de-raspberry/).
+Vamos a descargarnos el archivo img de 1.3 GB y copiarlo a nuestra SD de las maneras que ya sabemos. Cualquier método es [válido](https://raspberryparatorpes.net/empezando/programas-para-instalar-el-sistema-operativo-de-raspberry/).
 
 Lo primero que obtendremos una vez hallamos arrancado la RasPi, será un aviso si hay conectado algún joystick o pad. Es de agradecer esta pantalla de configuración, ya que a veces es bastante complejo para muchos de nosotros el configurar un joystick en la _Terminal_, aunque como luego veremos, tendremos que ejecutar un comando más para que los distintos emuladores tengan soporte para tal.
 
@@ -178,7 +178,7 @@ Esto arranca el emulador. La rom debe ser nombrada _”kick.rom”_ TODA en min�
 
 Una ventana aparecerá. Elige: _”select image disk”_ y busca el juego a cargar. Para comenzar el juego selecciona la opción _Run._
 
-**_NOTA:_** Gracias al usuario llamado [FreddyT](https://blog.petrockblock.com/2013/02/10/retropie-project-image-download/#comment-807493306) por compartir el comentario con nosotros.
+**_NOTA:_** Gracias al usuario llamado FreddyT por compartir el comentario con nosotros.
 
 ### Conclusión
 

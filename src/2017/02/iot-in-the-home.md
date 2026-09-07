@@ -27,7 +27,7 @@ The _Amazon Echo Assistant_ is perhaps the all-encompassing device on this list,
 
 ![Nucleus_feature](/images/2017/02/Nucleus_feature.png)
 
-_The Nucleus_ is a [home intercom system](https://nucleuslife.com/) that facilitates interaction between family. The _"home intercom system"_ has a military ring to it, but truly it is just a hardware gadget that shares a video feed between rooms in a single house or between remote devices accessing the Nucleus. It's a fantastic _IoT_ device for families, because by downloading the app a new parent can see a video feed into their child's room while they sleep, for example.
+_The Nucleus_ is a home intercom system that facilitates interaction between family. The _"home intercom system"_ has a military ring to it, but truly it is just a hardware gadget that shares a video feed between rooms in a single house or between remote devices accessing the Nucleus. It's a fantastic _IoT_ device for families, because by downloading the app a new parent can see a video feed into their child's room while they sleep, for example.
 
 _Phillips Hue Lighting_ allows you to adjust the color and brightness of your lighting right from your smartphone device. One of the more interesting and futuristic features is the ability to sync lighting to music. The lights will change based on the beat and other signals to provide a lively ambiance.
 

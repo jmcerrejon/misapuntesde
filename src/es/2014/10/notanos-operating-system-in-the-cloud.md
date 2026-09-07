@@ -19,7 +19,7 @@ og_image: /images/2014/10/notanos.png
 
 ![NotanOS](/images/2014/10/notanos.png)
 
-NotanOS es un sistema operativo en estado _Alpha_ que me ha llamado la atención y me recuerda a [EyeOS](https://www.eyeos.com).
+NotanOS es un sistema operativo en estado _Alpha_ que me ha llamado la atención y me recuerda a EyeOS.
 
 Imagina instalar en tu RasPi una aplicación basada en _Node.JS_ y tener disponible en cualquier navegador web todo un front-end gráfico y controlar un sistema operativo.
 

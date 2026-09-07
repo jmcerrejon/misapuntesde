@@ -21,4 +21,4 @@ og_image: /images/2015/12/rpi_robotic.png
 
 Nos siguen llegando sorpresas en forma de *Ebook* de la mano de *Packtpub*. Esta vez se trata de un libro llamado *Raspberry Pi Robotic Projects* escrito por *Richard Grimmett* que toca temas como hacer hablar a la RPi y comprender frases, usar la webcam para otorgar de visión a tus proyectos o desarrollar robots autónomos sin esfuerzo.
 
-Descarga: [Packtpub.com](https://www.packtpub.com/packt/offers/free-learning)
+Descarga: Packtpub.com

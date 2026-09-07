@@ -41,4 +41,4 @@ Curiously, the author of the article with an _raspberry Pi_ without overlock has
 
 I remind you that you can know more technical details with the **nbench** tool, which is available for installation via [PiKISS](https://github.com/jmcerrejon/PiKISS/blob/master/scripts/info/bmark.sh).
 
-Link: [awesomeweirdness.com > Calculation of Pi](https://www.awesomeweirdness.com/projects-diy/calculation-pi/)
+Link: awesomeweirdness.com > Calculation of Pi

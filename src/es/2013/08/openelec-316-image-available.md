@@ -35,4 +35,4 @@ Salió hace unos días pero ha tardado en tener disponible su imagen. Antes del 
 
 -   Soporte del protocolo OBEX (bluetooth) para transferencia de ficheros.
 
-Descarga: [OpenELEC-RPi.arm-3.1.6.img.zip](https://resources.pichimney.com/OpenELEC/test_images/OpenELEC-RPi.arm-3.1.6.img.zip)
+Descarga: OpenELEC-RPi.arm-3.1.6.img.zip

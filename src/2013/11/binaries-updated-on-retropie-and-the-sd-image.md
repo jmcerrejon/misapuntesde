@@ -25,8 +25,8 @@ Highlights the introduction of _Mame4All-Pi_, new functionality to generate log 
 
 Download: [SD image ver. 1.9 (1.6 GB)](https://blog.petrockblock.com/?wpdmdl=17)
 
-Link: [RetroPie-Setup: An initialization script for RetroArch on the Raspberry Pi](https://blog.petrockblock.com/2012/07/22/retropie-setup-an-initialization-script-for-retroarch-on-the-raspberry-pi/)
+Link: RetroPie-Setup: An initialization script for RetroArch on the Raspberry Pi
 
-Link: [RetroPie Project SD card Image](https://blog.petrockblock.com/download/retropie-project-image/)
+Link: RetroPie Project SD card Image
 
 Link: [misapuntesde.com > RetroPie Proyect: Definitive Guide!](https://misapuntesde.com/2013/03/retropie-project-definitive-guide.html)

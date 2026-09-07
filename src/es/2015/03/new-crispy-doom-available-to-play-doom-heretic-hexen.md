@@ -21,7 +21,7 @@ og_image: /images/2015/03/doom_heretic_hexen.png
 
 ![doom_heretic_hexen](/images/2015/03/doom_heretic_hexen.png)
 
-¡Feliz día de [PI](https://es.wikipedia.org/wiki/D%C3%ADa_de_π)!
+¡Feliz día de PI!
 
 Llevo toda la semana mejorando mi proyecto [PiKISS](https://github.com/jmcerrejon/PiKISS), y me he dado cuenta de que la versión que instalaba de _Crispy Doom_ se ha quedado algo obsoleta. Hace escasos días, ha salido una nueva versión y me he dispuesto a compilarla para actualizar mi script, pero eso no es todo...
 

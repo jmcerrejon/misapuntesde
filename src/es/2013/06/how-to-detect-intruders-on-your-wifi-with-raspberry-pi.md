@@ -27,4 +27,4 @@ Mientras se alarga la espera, un usuario ha tenido el detalle de enviarnos el en
 
 ¡Si queréis saber más acerca de este Navarro, su _Twitter_ es [@FresyMetal_com](https://twitter.com/FresyMetal_com).
 
-Enlace: [Fresy Metal - Como detectar intrusos en tu WIFI con Raspberry Pi](https://www.fresymetal.com/como-detectar-intrusos-en-tu-wifi-con-raspberry-pi/)
+Enlace: Fresy Metal - Como detectar intrusos en tu WIFI con Raspberry Pi

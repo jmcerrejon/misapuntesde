@@ -23,10 +23,10 @@ _Wired UK_ hace un repaso de lo que ha supuesto la _Raspberry Pi_ y como ha conq
 
 ---
 
-Enlace: [raspberrypi.org](https://www.raspberrypi.org/archives/4103)
+Enlace: raspberrypi.org
 
 Magazine: [Wired Magazine](https://www.wired.co.uk/magazine)
 
 Suscripción: [Wired UK](https://www.circules.com/subscribe/wired-uk/123055)
 
-Descarga: [Wired Julio 2013](https://bitshare.com/files/wthhqmxz/wired-2013-07-jul.xxx.pdf.html)
+Descarga: Wired Julio 2013

@@ -27,4 +27,4 @@ User sends us the link where he get run this application.
 
 Obrigado _Ruan_!
 
-Enlace: [randrade.tk](https://www.randrade.tk/index.php/2013/01/how-to-run-geogebra-4-0-on-your-raspberry-pi/)
+Enlace: randrade.tk

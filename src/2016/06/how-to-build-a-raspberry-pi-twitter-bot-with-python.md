@@ -23,4 +23,4 @@ With this simple tutorial, a little time and the *Raspberry Pi* (any board, inde
 
 **PS:** Today is a special day: My daughter is 6 years. Laura, if one day you read this, from here I wish you an amazing day with your friends and family. We love you and we are very proud of you.
 
-Link: [devcereal.com](https://devcereal.com/how-to-build-raspberry-pi-twitter-bot-python/)
+Link: devcereal.com

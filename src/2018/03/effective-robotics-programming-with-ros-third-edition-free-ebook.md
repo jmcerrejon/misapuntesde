@@ -42,5 +42,5 @@ It starts with the installation and basic concepts, then continues with more com
 
 * Add 3D perception capabilities to the robot using the latest version of PCL
 
-Download: [packtpub.com](https://www.packtpub.com/packt/offers/free-learning)
+Download: packtpub.com
 

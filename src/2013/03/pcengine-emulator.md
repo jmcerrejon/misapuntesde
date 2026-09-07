@@ -25,4 +25,4 @@ All the information on the second link.
 
 Link: [forum](https://www.raspberrypi.org/phpBB3/viewtopic.php?f=78&t=35906)
 
-Link: [PCEngine/TurboGrafx-16 Emulator Mednafen Module](https://docs.google.com/file/d/0B51Q7dpulGC8MXJVMjhjLUdtWEU/edit?pli=1)
+Link: PCEngine/TurboGrafx-16 Emulator Mednafen Module

@@ -20,6 +20,6 @@ _Raspbian Server Edition_ es una versión de la _Raspbian_ original, recortada y
 
 ---
 
-En total han sido desinstalados 242 paquetes (listado de paquetes disponibles [aqui](https://sirlagz.net/wp-content/uploads/2012/12/pkgs.txt)) del _Raspbian_ original (imagen del 16-12-2012). Si te interesa puedes ejecutar el [script](https://sirlagz.net/wp-content/plugins/download-monitor/download.php?id=10) que elimina los paquetes que un servidor no necesita.
+En total han sido desinstalados 242 paquetes (listado de paquetes disponibles [aqui](https://sirlagz.net/wp-content/uploads/2012/12/pkgs.txt)) del _Raspbian_ original (imagen del 16-12-2012). Si te interesa puedes ejecutar el script que elimina los paquetes que un servidor no necesita.
 
 Enlace: [sirlagz.net](https://sirlagz.net/2012/12/31/raspbian-server-edition-version-2-2/)

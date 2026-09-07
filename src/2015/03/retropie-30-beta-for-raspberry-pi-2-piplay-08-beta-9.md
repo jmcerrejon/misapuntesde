@@ -53,6 +53,6 @@ Next week we will have new version of [RecalboxOS](https://recalbox.com), a syst
 
 Would you like I make a more thorough review of any of these systems?. What is your favorite?.
 
-Download: [blog.petrockblock.com > retropie-v3.0beta-rpi2 (659 MB)](https://blog.petrockblock.com/retropie/retropie-downloads/download-info/retropie-project-sd-card-image-for-raspberry-pi-2-version-3-0-beta/)
+Download: blog.petrockblock.com > retropie-v3.0beta-rpi2 (659 MB)
 
 Download: [sourceforge.net > piplay-0.8-beta9 (3.5 GB)](https://sourceforge.net/projects/pimame/files/?source=navbar)

@@ -35,4 +35,4 @@ Available a few days ago but has been slow to upload their image. Before the jum
 
 -   OBEX protocol support (Bluetooth) for file transfer.
 
-Download: [OpenELEC-RPi.arm-3.1.6.img.zip](https://resources.pichimney.com/OpenELEC/test_images/OpenELEC-RPi.arm-3.1.6.img.zip)
+Download: OpenELEC-RPi.arm-3.1.6.img.zip

@@ -27,8 +27,8 @@ Vamos deprisita con el panorama de esta semana que hoy tengo charla en la [BetaB
 
 -   **Convertir tu Raspberry Pi en un servicio de música por streaming privado:** Usando el servicio de Subsonic Premium nos montamos un sistema para tener acceso a toda nuestra música desde cualquier parte. | [https://lifehacker.com](https://lifehacker.com/how-to-turn-a-raspberry-pi-into-a-private-streaming-mus-1583221462)
 
--   **Explora tu Raspberry Pi con estas guías online:** Han recopilado en la web oficial una serie de guías muy interesantes: _Scratch, Python, GPIO, Minecraft y muchos otros_. Tienes donde escoger. | [raspberrypi.org](https://www.raspberrypi.org/explore-your-raspberry-pi-with-our-usage-guide/)
+-   **Explora tu Raspberry Pi con estas guías online:** Han recopilado en la web oficial una serie de guías muy interesantes: _Scratch, Python, GPIO, Minecraft y muchos otros_. Tienes donde escoger. | raspberrypi.org
 
--   **Nueva imagen de RetroPie HOY mismo:** _petrockblog_ está subiendo una nueva imagen actualizada de su fantástico sistema operativo para emular cualquier videoconsola o arcade. Tal vez ya esté subida...¡Corre a por ella! | [blog.petrockblock.com](https://blog.petrockblock.com/download/retropie-project-image/)
+-   **Nueva imagen de RetroPie HOY mismo:** _petrockblog_ está subiendo una nueva imagen actualizada de su fantástico sistema operativo para emular cualquier videoconsola o arcade. Tal vez ya esté subida...¡Corre a por ella! | blog.petrockblock.com
 
 ¡Nos leemos!

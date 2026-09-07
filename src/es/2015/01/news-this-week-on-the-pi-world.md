@@ -44,11 +44,11 @@ bash GHOST-test.sh
 
 ### ### Extraído de cyberciti.biz
 
-Si lo es, sigue los siguientes artículos para parchearlo. [diariolinux.com > parcheando-ghost](https://diariolinux.com/2015/01/28/parcheando-ghost/) | [cyberciti.biz > Glibc: GHOST Vulnerability Test To See If a Linux Sever Is Secure](https://www.cyberciti.biz/faq/cve-2015-0235-ghost-glibc-buffer-overflow-linux-test-program/)
+Si lo es, sigue los siguientes artículos para parchearlo. diariolinux.com > parcheando-ghost | [cyberciti.biz > Glibc: GHOST Vulnerability Test To See If a Linux Sever Is Secure](https://www.cyberciti.biz/faq/cve-2015-0235-ghost-glibc-buffer-overflow-linux-test-program/)
 
 ![Asterisk on Banana Pi](/images/2015/01/FreePBX_admin_screen.jpg)
 
--   **Asterix para la Banana Pi:** La comunidad de Banana Pi intenta sobrevivir como puede tras el anuncio de la ODROID-C1. Si la compramos y no sabemos qué hacer con ella, podemos convertirla en una centralita telefónica con la imagen que acaba de salir del proyecto Asterisk. | [dostmuhammad.com > Asterix for Banana Pi](https://dostmuhammad.com/blog/asterix-for-banana-pi-freepbx-img-file-for-banana-pi-included/)
+-   **Asterix para la Banana Pi:** La comunidad de Banana Pi intenta sobrevivir como puede tras el anuncio de la ODROID-C1. Si la compramos y no sabemos qué hacer con ella, podemos convertirla en una centralita telefónica con la imagen que acaba de salir del proyecto Asterisk. | dostmuhammad.com > Asterix for Banana Pi
 
 ![TOR](/images/2014/06/torPI.png)
 

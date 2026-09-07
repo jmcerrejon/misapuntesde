@@ -32,4 +32,4 @@ cd RetroPieScene
 sudo ./RetroPie-scene_setup.sh
 ```
 
-Link: [consolaviejuna.com](https://www.consolaviejuna.com/)
+Link: consolaviejuna.com

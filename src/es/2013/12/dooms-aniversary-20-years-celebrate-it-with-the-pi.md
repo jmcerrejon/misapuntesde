@@ -31,12 +31,12 @@ Recuerdo que le compré a un amigo una _Sound Blaster Pro_ para disfrutar comple
 
 Nos sentíamos poderosos con esa escopeta de cañón recortado o con la sierra eléctrica. Lo bueno es que ha habido muchos _ports_ a lo largo de estos años, y nuestra Pi no nos podía defraudar.
 
-La mejor versión existente para ejecutar en nuestra querida _Pi_ es _Chocolate Doom_. Lo tenéis en la [Pi Store](https://store.raspberrypi.com/projects/chocodoom). Esta versión soporta _Dispmanx_ bajo _SDL 1.2_. Es decir, usa la _GPU_ gráfica de la _Raspberry Pi_.
+La mejor versión existente para ejecutar en nuestra querida _Pi_ es _Chocolate Doom_. Lo tenéis en la Pi Store. Esta versión soporta _Dispmanx_ bajo _SDL 1.2_. Es decir, usa la _GPU_ gráfica de la _Raspberry Pi_.
 
 ¡Disfruten del juego!.
 
 descarga: [doom1_0.zip (.wad shareware)](https://www.doomworld.com/idgames/?id=6)
 
-Enlace: [alt1040.com > DOOM: 20 años del juego que revolucionó la industria](https://alt1040.com/2013/12/doom-20-aniversario)
+Enlace: alt1040.com > DOOM: 20 años del juego que revolucionó la industria
 
-Enlace: [orlandoalonzo.com.mx > DOOM: 20 años de juego que lo cambió todo](https://www.orlandoalonzo.com.mx/tecnologia/doom-20-anos-de-juego-que-lo-cambio-todo/)
+Enlace: orlandoalonzo.com.mx > DOOM: 20 años de juego que lo cambió todo

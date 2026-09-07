@@ -41,8 +41,8 @@ I am glad to know that continue its development quite actively, and with some ne
 
 Link: [raylib.com](https://www.raylib.com)
 
-Link: [raylib.com > Example](https://www.raylib.com/examples.htm)
+Link: raylib.com > Example
 
-Forum: [raylib.com/forum](https://www.raylib.com/forum/index.php?p=/categories)
+Forum: raylib.com/forum
 
-Link: [Cheatsheet](https://www.raylib.com/cheatsheet.html)
+Link: Cheatsheet

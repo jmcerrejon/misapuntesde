@@ -47,15 +47,15 @@ Se trata de una placa con dimensiones más pequeñas que la RPi 2/3. Las caracte
 
 El primer inconveniente que he visto es la **necesidad de un adaptador de corriente con puerto redondo de 5V2A** que no se suministra con la placa. He comprobado las que tengo de la _ODROID_ y no valen. He leído que es el mismo conector de la _PSP_. _RaspiPC_ vende un cable que puedes adaptar al alimentador que tengas [en este enlace](https://www.raspipc.es/public/home/index.php?ver=tienda&accion=verArticulo&idProducto=1387). Debido a que tan sólo dispone de un puerto _USB_, necesitarás un _HUB_ en caso de que tengas teclado y ratón cableados o algún control pad.
 
-Lo primero que he hecho después de ver las características, ha sido buscar en la web la sección de [descargas](https://www.orangepi.org/downloadresources/) y veo que está un poco desactualizado: algunas imágenes datan del 2015.
+Lo primero que he hecho después de ver las características, ha sido buscar en la web la sección de descargas y veo que está un poco desactualizado: algunas imágenes datan del 2015.
 
-Las dos más actualizadas han sido _Ubuntu LXDE Desktop (2016-12-12) y Debian XFCE Desktop (2016-12-12)_. Me dispongo a descargarlas y... No funcionan los enlaces. Mal empezamos. Veo que la imagen de _Raspbian_ si que funciona y me dispongo a grabarla con [Etcher](https://etcher.io/) (es compatible con ficheros _.img.xz_ y no la tienes que descomprimir previamente). Para las demás imágenes, creo que lo mejor es buscarlas en el [foro](https://www.orangepi.org/orangepibbsen/forum.php).
+Las dos más actualizadas han sido _Ubuntu LXDE Desktop (2016-12-12) y Debian XFCE Desktop (2016-12-12)_. Me dispongo a descargarlas y... No funcionan los enlaces. Mal empezamos. Veo que la imagen de _Raspbian_ si que funciona y me dispongo a grabarla con [Etcher](https://etcher.io/) (es compatible con ficheros _.img.xz_ y no la tienes que descomprimir previamente). Para las demás imágenes, creo que lo mejor es buscarlas en el foro.
 
 ### [ Raspbian 0.8.0 ]
 
 ![Entorno de escritorio Raspbian en la Orange Pi One](/images/2017/01/raspbian_big.png "Entorno de escritorio Raspbian en la Orange Pi One")
 
--   Imagen: [Raspbian_For_OrangePi_PC_v0_8_0.img.xz](https://www.orangepi.org/downloadresources/orangepipc/oragepipc_e930546e866b23585721e5d2a6.html)
+-   Imagen: Raspbian_For_OrangePi_PC_v0_8_0.img.xz
 
 -   Tamaño: 857M comprimida
 
@@ -81,7 +81,7 @@ Opinión personal: Viene con lo mínimo imprescindible y depende de tí que conf
 
 -   Calificación: -
 
-El primer problema que me he encontrado es que no deja muy claro si el sistema operativo puede usarse en la _Orange One_. Las instrucciones para quemar la imagen no son sencillas para alguien sin experiencia. Tienes las instrucciones en [este post](https://www.orangepi.org/Docs/SDcardinstallation.html#Install_Android_OS_image). Lo he intentado con _Etcher_ pero no funciona. En mi caso tengo un _iMac_. No me he parado mucho para hacerlo funcionar, pero si lo consigo, actualizo el post.
+El primer problema que me he encontrado es que no deja muy claro si el sistema operativo puede usarse en la _Orange One_. Las instrucciones para quemar la imagen no son sencillas para alguien sin experiencia. Tienes las instrucciones en este post. Lo he intentado con _Etcher_ pero no funciona. En mi caso tengo un _iMac_. No me he parado mucho para hacerlo funcionar, pero si lo consigo, actualizo el post.
 
 ### [ DietPi v142 ]
 
@@ -101,7 +101,7 @@ El primer problema que me he encontrado es que no deja muy claro si el sistema o
 
 -   Calificación: 4/5
 
-Como mucho de vosotros sabréis, [DietPi](https://dietpi.com/phpbb/viewtopic.php?f=8&t=5#p5) es ideal para montar un servidor y también te deja instalar un escritorio. Te redimensiona la partición para poder hacer uso de todo el tamaño de tu tarjeta. El problema es que en este caso la _GPU_ está desactivada según una nota a la hora de descargar la imagen, por lo que no podremos hacer uso de _KODI_ ni de un entorno de escritorio. En mi caso voy a probar a instalar _MiniDLNA, Plex Media Server, Modipy (Web interface music & radio player), MPD (music player daemon) y un entorno LAMP._
+Como mucho de vosotros sabréis, DietPi es ideal para montar un servidor y también te deja instalar un escritorio. Te redimensiona la partición para poder hacer uso de todo el tamaño de tu tarjeta. El problema es que en este caso la _GPU_ está desactivada según una nota a la hora de descargar la imagen, por lo que no podremos hacer uso de _KODI_ ni de un entorno de escritorio. En mi caso voy a probar a instalar _MiniDLNA, Plex Media Server, Modipy (Web interface music & radio player), MPD (music player daemon) y un entorno LAMP._
 
 La instalación de paquetes es rápida en algunos casos. Ha tardado entre 15-20 minutos.
 
@@ -137,7 +137,7 @@ He probado juegos como el _Mario 64, Satan (Spectrum), TMNT (Game boy Advanced),
 
 ![open_elec.jpg](/images/2017/01/open_elec.jpg)
 
--   Imagen: [OpenELEC-H3.arm-7.0-devel-20161026221335-r23113-g64b34b3-opione.img.gz](https://down.nu/images/2016-10-26/)
+-   Imagen: OpenELEC-H3.arm-7.0-devel-20161026221335-r23113-g64b34b3-opione.img.gz
 
 -   Tamaño: 128.2MB comprimida
 

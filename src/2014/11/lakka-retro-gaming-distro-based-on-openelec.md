@@ -51,7 +51,7 @@ You can try stable version, but also provided daily versions for different devic
 
 ### [ Test Log]
 
--   I have tested a development version you can download [here](https://sources.lakka.tv/nightly/Lakka-RPi.arm-devel-20141105152307-r19688-g50ca5b9.img.gz).
+-   I have tested a development version you can download here.
 
 -   Overclock to _High_ but It will work fine without modidy this parameter in the _config.txt_
 
@@ -79,4 +79,4 @@ Link: [GitHub.com > lakkatvyou](https://github.com/lakkatv/Lakka)
 
 FAQ: [GitHub.com > FAQ](https://github.com/lakkatv/Lakka/wiki/FAQ)
 
-Nightly builds: [sources.lakka.tv](https://sources.lakka.tv/nightly/?C=M;O=D)
+Nightly builds: sources.lakka.tv

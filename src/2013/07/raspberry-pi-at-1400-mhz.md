@@ -21,7 +21,7 @@ og_image: /images/04_RaspberryPi.png
 
 I think the max level I've overclocked the _CPU_ has been _950 Mhz._
 
-It's easy to do without void the warranty on the configuration set in the script _raspi-config_ (called [Turbo Mode](https://www.raspberrypi.org/archives/2008)), but there is a brave man who want blow up their _Raspberry Pi_ (literally).
+It's easy to do without void the warranty on the configuration set in the script _raspi-config_ (called Turbo Mode), but there is a brave man who want blow up their _Raspberry Pi_ (literally).
 
 A forum user tells us under what conditions his machine has been overclocked to reach this processing speed. Want to see it?...
 

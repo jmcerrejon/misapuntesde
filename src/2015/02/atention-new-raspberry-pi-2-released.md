@@ -55,7 +55,7 @@ With the change of arquitecture, we can **run Android, Ubuntu or [Windows 10](ht
 
 Other models will be sold and updates like the model A+ and _Computer module_, will be available very later.
 
-Link: [raspberrypi.org > RASPBERRY PI 2 ON SALE NOW AT $35](https://www.raspberrypi.org/raspberry-pi-2-on-sale/)
+Link: raspberrypi.org > RASPBERRY PI 2 ON SALE NOW AT $35
 
 Link: [cnx-software.com > Raspberry Pi 2 / ODROID C1 Development Boards Comparison](https://www.cnx-software.com/2015/02/02/raspberry-pi-2-odroid-c1-development-boards-comparison/)
 
@@ -73,7 +73,7 @@ Shop: [rs-components.com](https://www.rs-components.com/designspark/index.html?m
 
 Link: [raspi.tv > Raspberry Pi 2 - the New Quad-core A7 Pi2](https://raspi.tv/2015/raspberry-pi-2-the-new-quad-core-a7-pi2)
 
-Link: [linuxvoice.com > RASPBERRY PI VERSION 2 PERFORMANCE](https://www.linuxvoice.com/raspberry-pi-version-2-performance/)
+Link: linuxvoice.com > RASPBERRY PI VERSION 2 PERFORMANCE
 
 Link: [bit-tech.net > Raspberry Pi 2 launches with quad-core ARMv7 chip](https://www.bit-tech.net/news/hardware/2015/02/02/raspberry-pi-2/1)
 
@@ -89,9 +89,9 @@ Link: [bbc.com > Raspberry Pi 2 unveiled with faster processor and more memory](
 
 Link: [cnet.com > Raspberry Pi 2 Model B is a quad-core upgrade, can run Windows 10](https://www.cnet.com/news/raspberry-pi-2-model-b-is-a-quad-core-upgrade-on-sale-today/)
 
-Link: [thepihut.com > RASPBERRY PI 2 VS MODEL B+](https://thepihut.com/blogs/raspberry-pi-roundup/16970168-raspberrypi2vsmodelb)
+Link: thepihut.com > RASPBERRY PI 2 VS MODEL B+
 
-Link: [raspberry.piaustralia.com.au](https://raspberry.piaustralia.com.au/products/raspberry-pi-2-model-b)
+Link: raspberry.piaustralia.com.au
 
 Youtube: [TheRaspberryPiGuy > NEW Raspberry Pi 2 - Quad-Core 900MHz, 1GB RAM](https://www.youtube.com/watch?v=Xo8RT8Wpv6w)
 

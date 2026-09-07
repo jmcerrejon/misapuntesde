@@ -25,7 +25,7 @@ Ya estamos un _Viernes_ mas cerca de conocer mi proyecto secreto (¿Se nota que 
 
 Vamos a ir conociendo las novedades presentadas esta semana:
 
--   **JabirOS para Raspberry Pi:** Sistema operativo basado en _FreeBSD_ que se pasa a nuestra querida RasPi. La imagen ocupa _1 GB_ y no contiene el fichero de arranque _uBoot_ que te tendrás que procurar tú mismo. | [jabirproject.org](https://jabirproject.org/embedded/jabiros-for-raspberry-pi)
+-   **JabirOS para Raspberry Pi:** Sistema operativo basado en _FreeBSD_ que se pasa a nuestra querida RasPi. La imagen ocupa _1 GB_ y no contiene el fichero de arranque _uBoot_ que te tendrás que procurar tú mismo. | jabirproject.org
 
 -   **AudiculaPi, distribución para usar nuestra Raspi como jukebox:** Si necesitas usar la RasPi para escuchar música, creo que esta distribución de tan sólo **128 MB** será perfecta para gestionar toda tu música a través de un entorno web. Soporta _LIRC_ y _Bluetooth._ | [AudiculaPi - the little jukebox for your Raspberry Pi](https://sourceforge.net/projects/audiculapi/files/?source=navbar)
 

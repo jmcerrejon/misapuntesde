@@ -93,7 +93,7 @@ Reviewing the package list, these are some packages that have caught my attentio
 <img width="324" src="/images/2014/02/picore_desktop_02_min.jpg">
 </a>
 
-Although these are the first steps to understand this operating system, it has many possibilities. You can read the pdf manual [here](https://tinycorelinux.net/~curaga/corebook.pdf). There are many missing packages in the repository and you don't have the possibility to watch videos yet. Hopefully that will come soon.
+Although these are the first steps to understand this operating system, it has many possibilities. You can read the pdf manual here. There are many missing packages in the repository and you don't have the possibility to watch videos yet. Hopefully that will come soon.
 
 To fight daily I prefer _Raspbian_ sincerely, but for a specific project like home automation control, a small web server, security camera control or connection through the _GPIO_ port certainly it has much potential.
 

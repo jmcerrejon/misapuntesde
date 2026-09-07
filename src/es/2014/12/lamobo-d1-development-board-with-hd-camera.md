@@ -41,6 +41,6 @@ Lleva un sistema operativo al que puedes acceder mediante un navegador en otro e
 
 Os dejo un par de enlaces para ampliar la información.
 
-Enlace: [tinyonestore.com > The Banana Pi D1 -Lamobo D1 is the smallest open-source development board around, with a built-in HD mini camera. Create your own mini-cam now!](https://tinyonestore.com/blogs/blog/18188839-the-banana-pi-d1-lamobo-d1-is-the-smallest-open-source-development-board-around-with-a-built-in-hd-mini-camera-create-your-own-mini-cam-now)
+Enlace: tinyonestore.com > The Banana Pi D1 -Lamobo D1 is the smallest open-source development board around, with a built-in HD mini camera. Create your own mini-cam now!
 
-Enlace: [Manual PDF](https://tinyonetutorials.com/pdf/BPI-D1%20User%20Manual%20V2.0-EN-1.pdf)
+Enlace: Manual PDF

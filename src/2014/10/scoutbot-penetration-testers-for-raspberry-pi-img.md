@@ -57,6 +57,6 @@ Here are some of the features:
 
 Basically, you pre-configure the scan and then just plug the Raspberry Pi into the target network. This tool comes as a preloaded IMG which is ready to use.
 
-Download .img: [sourceforge.net > scoutbot](https://sourceforge.net/projects/scoutbot/)
+Download .img: sourceforge.net > scoutbot
 
-Link: [lansec.net > scoutbot](https://lansec.net/project/scoutbot/)
+Link: lansec.net > scoutbot

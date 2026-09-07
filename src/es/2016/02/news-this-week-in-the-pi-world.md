@@ -33,7 +33,7 @@ Esta semana parece que ha estado dedicada al mundo de los videojuegos. Me ha ent
 
 -   **Juegos de Windows con Exagear Desktop en RPi:** If you have a licence, now you can play this games: _Caesar III, Pharaoh, Championship Manager, Imperialism I , Civilization II_ or the amazing **Heroes of Might and Magic III** | [raspberrypi.org > forum](https://www.raspberrypi.org/forums/viewtopic.php?f=78&t=137336)
 
--   **Más juegos para nuestra Raspberry Pi:** Se trata de un sello de videojuegos que recuerdo con nostálgia, ya que algunos de ellos venían preinstalado en el primer PC de mi mujer allá por el año 2000. Al parecer publicarán para nuestras PIs de forma incremental los 100 juegos que tienen en su catálogo. | [webfootgames.com](https://www.webfootgames.com/pi/)
+-   **Más juegos para nuestra Raspberry Pi:** Se trata de un sello de videojuegos que recuerdo con nostálgia, ya que algunos de ellos venían preinstalado en el primer PC de mi mujer allá por el año 2000. Al parecer publicarán para nuestras PIs de forma incremental los 100 juegos que tienen en su catálogo. | webfootgames.com
 
 -   **Recursos para programadores:** Me ha gustado esta recopilación que hace _Rob Jones_ donde toca varios entornos y placas para todos los gustos: _GPIO, Python, Scratch, Sonic Pi..._ | [robjonescowley.wordpress.com](https://robjonescowley.wordpress.com/resources/)
 

@@ -25,7 +25,7 @@ _Sonoff_ también se puede utilizar con un firmware de código abierto llamado _
 
 Enlace: [domoticsduino.blogspot.com.es](https://domoticsduino.blogspot.com.es/2017/07/home-automation-system-discovering.html)
 
-Enlace: [itead.cc](https://www.itead.cc/wiki/Sonoff)
+Enlace: itead.cc
 
 Enlace: [sonoff.itead.cc](https://sonoff.itead.cc/en/products/sonoff/sonoff-basic)
 

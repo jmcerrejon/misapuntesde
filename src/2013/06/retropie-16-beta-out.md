@@ -35,9 +35,9 @@ Version 1.6
 
 -   Enhanced script for switching between resolutions.
 
-Download: [Retropie 1.6 Beta](https://blog.petrockblock.com/download/retropie-project-sd-card-image-v1-6-beta/)
+Download: Retropie 1.6 Beta
 
-Forum: [RetroPie](https://blog.petrockblock.com/forums/forum/retropie-project-forum/emulators/)
+Forum: RetroPie
 
 EXTRA!:
 

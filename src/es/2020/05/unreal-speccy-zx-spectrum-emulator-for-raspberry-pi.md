@@ -30,7 +30,7 @@ No me he olvidado de [ZEsarUX](https://github.com/chernandezba/zesarux), quiero 
 
 Si quieres otras alternativas a este emulador, revisé algunos emuladores para este ordenador de 8 bits hace años en el post [Review: ZX Spectrum on Raspberry Pi](https://misapuntesde.com/es/2017/04/review-zx-spectrum-on-raspberry-pi.html).
 
-Hay cambios menores para Linux y RPi. De hecho, no hay cambios desde la 0.0.83, pero la última versión que he usado fue la 0.0.64. Si quieres saber los cambios, visita aquí el [changelog](https://bitbucket.org/djdron/unrealspeccyp/wiki/changelog).
+Hay cambios menores para Linux y RPi. De hecho, no hay cambios desde la 0.0.83, pero la última versión que he usado fue la 0.0.64. Si quieres saber los cambios, visita aquí el changelog.
 
 Teclas usadas en el emulador:
 

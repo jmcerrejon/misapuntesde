@@ -31,7 +31,7 @@ og_image: /images/2018/05/cooler.png
 
 ![components](/images/2018/05/components.png)
 
--   **50 of the most important Raspberry Pi Sensors and Components:** Ale, ahí tienes para que te aburras. Si querías saber qué puedes hacer verdaderamente con una Raspberry Pi, aquí tienes un listado con componentes de todo tipo bastante bien ordenado. | [tutorials-raspberrypi.com](https://tutorials-raspberrypi.com/raspberry-pi-sensors-overview-50-important-components/)
+-   **50 of the most important Raspberry Pi Sensors and Components:** Ale, ahí tienes para que te aburras. Si querías saber qué puedes hacer verdaderamente con una Raspberry Pi, aquí tienes un listado con componentes de todo tipo bastante bien ordenado. | tutorials-raspberrypi.com
 
 -   **Paneles Trello con info sobre Raspberry Pi:** Esto es sólo una búsqueda personalizada en _Google_ para conseguir los paneles de _Trello sobre Raspberry Pi_ públicos que hay pululando por la red. _Trello_ es un gestor de tareas que permite el trabajo colaborativo mediante tableros que yo particularmente uso en mis proyectos. | [google.es > Trello with Raspberry](https://www.google.es/search?ei=hfoIW_2qH4fvUq78veAJ&q=inurl%3Ahttps%3A%2F%2Ftrello.com+AND+intext%3Araspberry&oq=inurl%3Ahttps%3A%2F%2Ftrello.com+AND+intext%3Araspberry&gs_l=psy-ab.3...11640.13914.0.14092.14.14.0.0.0.0.124.1134.11j3.14.0....0...1c.1.64.psy-ab..0.0.0....0.5QHLNFwlFgM)
 
@@ -41,7 +41,7 @@ og_image: /images/2018/05/cooler.png
 
 ![LibreELEC](/images/2017/05/libreelec.png)
 
--   **LibreElec Reviewed On Raspberry Pi 3:** Para mí, el mejor _Media Player_ con diferencia. Es un artículo cortito, pero ahí lo dejo. | [babahumor.com](https://www.babahumor.com/libreelec-review-raspberry-pi-3/)
+-   **LibreElec Reviewed On Raspberry Pi 3:** Para mí, el mejor _Media Player_ con diferencia. Es un artículo cortito, pero ahí lo dejo. | babahumor.com
 
 -   **Raspberry Pi Keeps Cool:** El siguiente test arroja varias respuestas a la duda de si mantener un sistema de refrigeración ayuda más o menos a soportar nuestras horas delante de la Pi sin achicharrarla, y más aún ahora que viene el verano. | [hackaday.com](https://hackaday.com/2018/05/22/raspberry-pi-keeps-cool/)
 

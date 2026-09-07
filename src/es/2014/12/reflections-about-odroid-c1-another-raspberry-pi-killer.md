@@ -59,7 +59,7 @@ Sus características más destacadas son:
 
 ### [ Primera impresión ]
 
-No es justo compararla con la _Raspberry Pi_. Esto parece un empeño generalizado por acabar con el reinado de la Pi. La equipararía más a la [Cubietruck](https://www.cubietruck.com) con respecto a rendimiento y prestaciones. _Banana Pi_ tiene cosas buenas y cada día van saliendo nuevas distros, pero falla en el soporte a la _GPU_ y aunque ya se puede probar sus capacidades para reproducir a _1080p_ sin problemas, no es algo que consigas _out of the box_.
+No es justo compararla con la _Raspberry Pi_. Esto parece un empeño generalizado por acabar con el reinado de la Pi. La equipararía más a la Cubietruck con respecto a rendimiento y prestaciones. _Banana Pi_ tiene cosas buenas y cada día van saliendo nuevas distros, pero falla en el soporte a la _GPU_ y aunque ya se puede probar sus capacidades para reproducir a _1080p_ sin problemas, no es algo que consigas _out of the box_.
 
 También es verdad que empiezas a hacer el pedido y al final te encuentras entre gastos de envío y accesorios, que tienes que pagar alrededor de unos **54€** ($67), aunque no está tan mal el precio para todo lo que obtienes.
 
@@ -89,7 +89,7 @@ Mi recomendación es que si tienes una _Raspberry_ y lo que te gusta es **"cacha
 
 Si lo que quieres es un _Ubuntu o Android_ para _XBMC_ que simplemente funcione, con aplicaciones de todo tipo, juegos o navegar por internet conectado desde la TV de tu salón, ponte una venda en los ojos y **compra el ODROID-C1** estas navidades (Yo YA lo he hecho).
 
-Enlace: [hardkernel.com > ODROID-C1](https://www.hardkernel.com/main/products/prdt_info.php?g_code=G141578608433)
+Enlace: hardkernel.com > ODROID-C1
 
 Enlace: [Varios vídeos en youtube.com](https://www.youtube.com/results?search_query=ODROID-C1&search_sort=video_date_uploaded)
 

@@ -21,4 +21,4 @@ og_image: /images/2014/07/eben_01.png
 
 **UPDATED:** If you want to know what's cooked in the webinar, check the next link: [recantha.co.uk](https://www.recantha.co.uk/blog/?p=10576&utm_source=rss&utm_medium=rss&utm_campaign=highlights-from-the-element-14-raspberry-pi-webinar).
 
-Just a quick note to announce that this afternoon **4:00 PM CEST (Europe/Berlin)** we have a webinar with **Eben Upton**, the inventor of _Raspberry Pi_. You have all the details in the next [link](https://www.element14.com/community/events/4117?ICID=webinar_featured).
+Just a quick note to announce that this afternoon **4:00 PM CEST (Europe/Berlin)** we have a webinar with **Eben Upton**, the inventor of _Raspberry Pi_. You have all the details in the next link.

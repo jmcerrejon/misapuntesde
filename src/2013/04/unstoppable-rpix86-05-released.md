@@ -37,7 +37,7 @@ A few days ago version 0.4 released, and would not comment if I get many positiv
 
 -   Fixed bugs in several JPO and JPE game-specific opcode handlers.
 
-Download: [PiStore](https://store.raspberrypi.com/projects/rpix86) | [rpix86 blog](https://rpix86.patrickaalto.com/rdown.html)
+Download: PiStore | [rpix86 blog](https://rpix86.patrickaalto.com/rdown.html)
 
 Link: [forum](https://www.raspberrypi.org/phpBB3/viewtopic.php?f=78&t=32934)
 

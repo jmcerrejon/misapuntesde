@@ -25,7 +25,7 @@ Today I discovered this auditing tools based on [WiFi Pineapple](https://wifipin
 
 ---
 
-Thanks to the spanish blog [securitybydefault.com](https://www.securitybydefault.com), which perfectly explain their use and installation, we'll get an environment like in the following screenshot to audit:
+Thanks to the spanish blog securitybydefault.com, which perfectly explain their use and installation, we'll get an environment like in the following screenshot to audit:
 
 ![frutiwifi.jpg](/images/2013/11/frutiwifi.jpg)
 

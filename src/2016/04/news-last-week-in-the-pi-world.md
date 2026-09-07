@@ -27,9 +27,9 @@ I do not want it to become a habit move the section from Friday to Monday. It ha
 
 ![vortron](/images/2016/04/vortongame.png)
 
--   **Vortron for Raspberry Pi:** Binary [here](https://app.box.com/s/a7ja91zvf83i3xvrotnpoqlz9o3e9702) thanks to [Malague&nacute;os originales y libres](https://malagaoriginal.blogspot.com.es/2016/03/resucitando-vorton-el-remake-de-highway.html).
+-   **Vortron for Raspberry Pi:** Binary here thanks to [Malague&nacute;os originales y libres](https://malagaoriginal.blogspot.com.es/2016/03/resucitando-vorton-el-remake-de-highway.html).
 
--   **Sabayon Linux on Raspberry Pi (preview)** | [sabayon.org](https://www.sabayon.org/latest)
+-   **Sabayon Linux on Raspberry Pi (preview)** | sabayon.org
 
 ![MagPi44](/images/2016/04/MagPi44.png)
 
@@ -39,6 +39,6 @@ I do not want it to become a habit move the section from Friday to Monday. It ha
 
 <iframe width="400" height="225" src="https://www.youtube.com/embed/ONaGV-oAJD4?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
--   **Frames with Raspberry Pi** | [instructables.com > A frame for Openframe](https://www.instructables.com/id/A-Frame-for-Openframe/?ALLSTEPS) - [garagetech.tips > Pi Zero on a digital frame](https://garagetech.tips/pizero-on-digital-frame/)
+-   **Frames with Raspberry Pi** | [instructables.com > A frame for Openframe](https://www.instructables.com/id/A-Frame-for-Openframe/?ALLSTEPS) - garagetech.tips > Pi Zero on a digital frame
 
 Command of the week thanks to [@nixcraft](https://twitter.com/nixcraft/):

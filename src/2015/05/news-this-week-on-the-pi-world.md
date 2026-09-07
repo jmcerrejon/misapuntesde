@@ -33,6 +33,6 @@ How is it possible that after 3 years, still we meet projects to continue innova
 
 -   **rpix86 alive!** | [rpix86.patrickaalto.com](https://rpix86.patrickaalto.com/rblog.html)
 
--   **Object recognition in the palm of your hand with a ODROID** | [github.com > Teradeep may 2015 top neural network for large-scale object recognition](https://github.com/teradeep/demo-apps)
+-   **Object recognition in the palm of your hand with a ODROID** | github.com > Teradeep may 2015 top neural network for large-scale object recognition
 
 Happy Weekend!

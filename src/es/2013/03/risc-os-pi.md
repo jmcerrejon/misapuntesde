@@ -23,4 +23,4 @@ Tengo ganas de echarle un vistazo a este gran sistema operativo. Tal vez prepare
 
 Mientras, os dejo con éste que me ha parecido muy bueno, y es actual.
 
-Enlace: [element14 - Discovering RISC OS Pi](https://www.element14.com/community/blogs/mirandasoft/2013/03/24/raspberry-pi-discovering-risc-os-pi)
+Enlace: element14 - Discovering RISC OS Pi

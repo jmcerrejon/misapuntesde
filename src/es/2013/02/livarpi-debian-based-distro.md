@@ -39,4 +39,4 @@ _livarPi_ te permite construir tu propio sistema _Debian_ en _Raspberry Pi_. Se 
 -   informaciones del sistema: "ii" función
 -   extractor: función "extract"
 
-Enlace: [livarPi](https://arpinux.org/livarp/livarPi.html)
+Enlace: livarPi

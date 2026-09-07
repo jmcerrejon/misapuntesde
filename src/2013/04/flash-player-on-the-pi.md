@@ -20,4 +20,4 @@ Now I remember why I bought a _Mac_. These days I've been busy setting up _Ubunt
 
 But anyway, my fault. Not much value I have found, so I leave you with a few steps to be able to run _Adobe Flash Player on the Raspberry Pi_, which is that I like it.
 
-Link: [mrpiworld.wordpress.com](https://mrpiworld.wordpress.com/2013/04/13/adobe-flash-player-works-on-pi/)
+Link: mrpiworld.wordpress.com

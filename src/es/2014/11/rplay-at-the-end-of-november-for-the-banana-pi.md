@@ -35,6 +35,6 @@ El precio de este software no está aún confirmado, pero rondará los **5-10 d�
 
 El software se ejecutará en cualquier versión de _Android 4.3+_.
 
-Se pondrá a la venta en la mísma página de [bananapi.com](https://bananapi.com) y probablemente me compre una licencia, así que os informaré en cuanto esté disponible y haga las primeras pruebas.
+Se pondrá a la venta en la mísma página de bananapi.com y probablemente me compre una licencia, así que os informaré en cuanto esté disponible y haga las primeras pruebas.
 
-Mas info: [vmlite.com](https://www.vmlite.com/index.php?option=com_kunena&Itemid=158&func=view&catid=23&id=17973&limit=6&limitstart=6)
+Mas info: vmlite.com

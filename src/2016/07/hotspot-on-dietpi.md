@@ -44,7 +44,7 @@ Reboot and hopefully now it must run.
 
 ### [ Errors & solutions ]
 
-If for some reason you don't see your SSID wireless network near, perhaps the preinstalled driver settings do not work or can not run your adapter as AP. We must ensure that our _WiFi_ adapter allows _AP mode_. You can take a look at this table [linuxwireless.org](https://linuxwireless.org/en/users/Drivers/). To find the chipset using your adapter type the following command in the terminal:
+If for some reason you don't see your SSID wireless network near, perhaps the preinstalled driver settings do not work or can not run your adapter as AP. We must ensure that our _WiFi_ adapter allows _AP mode_. You can take a look at this table linuxwireless.org. To find the chipset using your adapter type the following command in the terminal:
 
 ```bash
 iw list | grep 'AP' # Check if your Wireless adapter allow AP (Access Point)
@@ -69,4 +69,4 @@ reboot
 
 If you want to do the same steps in the official distro or want more information, I invite you to the next post where you can follow the steps in a more detailed way in _Raspbian_.
 
-Link: [roboticaeuropa.org > SIMPLE WIRELESS REPEATER WITH RASPBIAN JESSIE](https://roboticaeuropa.org/meetup/simple-wireless-repeater-raspbian-jessie)
+Link: roboticaeuropa.org > SIMPLE WIRELESS REPEATER WITH RASPBIAN JESSIE

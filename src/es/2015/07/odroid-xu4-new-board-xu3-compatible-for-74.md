@@ -49,6 +49,6 @@ En el precio viene incorporado ventilador y alimentador. Si váis a la página d
 
 Aún así, creo que es una placa muy completa y apenas tiene rival en el marco de precio donde se mueve.
 
-Enlace: [hardkernel.com](https://www.hardkernel.com/main/products/prdt_info.php?g_code=G143452239825&tab_idx=1)
+Enlace: hardkernel.com
 
 Enlace: [cnx-software.com](https://www.cnx-software.com/2015/07/14/odroid-xu4-board-is-a-smaller-and-cheaper-version-of-odroid-xu3/)

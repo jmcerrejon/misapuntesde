@@ -33,4 +33,4 @@ In any case, I leave you with some links to meet this Open hardware creation tha
 
 Link: [kickstarter.com > Meet OTTO - The Hackable GIF Camera](https://www.kickstarter.com/projects/1598272670/meet-otto-the-hackable-gif-camera/description)
 
-Link: [nextthing.co > OTTO](https://nextthing.co/otto.html)
+Link: nextthing.co > OTTO

@@ -23,4 +23,4 @@ De vez en cuando la editorial *Packt Pub* nos sorprende con libros para nuestra 
 
 Lo podéis descargar por tiempo limitado en el siguiente enlace.
 
-Enlace: [packtpub.com](https://www.packtpub.com/packt/offers/free-learning)
+Enlace: packtpub.com

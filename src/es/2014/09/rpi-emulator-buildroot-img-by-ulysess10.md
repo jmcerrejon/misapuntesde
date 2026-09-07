@@ -29,6 +29,6 @@ He cargado dos juegos homebrew que son **totalmente legales** para _SNES y Game 
 
 ¡Disfrutadlo!
 
-Descarga: [uploaded > rpi-buildroot_v0.3.img.tar.gz (81,4 MB)](https://ul.to/amwaelky)
+Descarga: uploaded > rpi-buildroot_v0.3.img.tar.gz (81,4 MB)
 
 Enlace: [GitHub > rpi-emulator-buildroot](https://github.com/rmaz/rpi-emulator-buildroot)

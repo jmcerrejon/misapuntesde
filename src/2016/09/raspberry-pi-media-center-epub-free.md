@@ -38,4 +38,4 @@ With this practical guide, you'll discover how you can transform your Raspberry 
 
 * Utilize PVR for viewing live TV and recording
 
-Link: [packtpub.com](https://www.packtpub.com/packt/offers/free-learning)
+Link: packtpub.com

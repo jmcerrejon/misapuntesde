@@ -33,4 +33,4 @@ _Govinda Fichtner_ has created an operating system based on **Raspbian for Raspb
 
 Link: [blog.hypriot.com](https://blog.hypriot.com/heavily-armed-after-major-upgrade-raspberry-pi-with-docker-1-dot-5-0)
 
-DD image (~347MB): [Docker-Pi](https://assets.hypriot.com/hypriot-rpi-20150301-140537.img.zip)
+DD image (~347MB): Docker-Pi

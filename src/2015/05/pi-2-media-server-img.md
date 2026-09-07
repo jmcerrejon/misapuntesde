@@ -43,7 +43,7 @@ Technical specifications:
 
 -   Plex Media Server for streaming video
 
-One of the apps that I want to "play" and automatically download my favorite TV shows via _torrent_ is [SickRage](https://github.com/SiCKRAGETV/SickRage) or [CouchPotato](https://couchpota.to/). Recently I was asked by email and I have never used my RPI for these purposes, since I use to download [uploaded.net](https://ul.to/ref/8900882), for me the King undisputed in this type of service.
+One of the apps that I want to "play" and automatically download my favorite TV shows via _torrent_ is [SickRage](https://github.com/SiCKRAGETV/SickRage) or [CouchPotato](https://couchpota.to/). Recently I was asked by email and I have never used my RPI for these purposes, since I use to download uploaded.net, for me the King undisputed in this type of service.
 
 Are you interested in a tutorial about automatic downloads of your favorite TV Shows?
 

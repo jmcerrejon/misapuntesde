@@ -27,9 +27,9 @@ Would you like to see online games played by experts via streaming?. Channels de
 
 [twitch.tv](https://twitch.tv/) is a video platform leader with over **38 million visitors per month**. From there you can see and chat with users who are serving via streaming their games. No specific programming. In the main page only are users who have more viewers. You can create an account and follow channels. On _Windows_ you can serve your games via streaming with _OBS (free) or xsplit (licensed)_, but our goal is to watch the games at the highest resolution (even 1080p).
 
-[LiveStreamer](https://livestreamer.tanuki.se) is a command line interface _(CLI)_ systems connecting various streaming like _Dailymotion, Youtube Live_ among others, with your multimedia player.
+LiveStreamer is a command line interface _(CLI)_ systems connecting various streaming like _Dailymotion, Youtube Live_ among others, with your multimedia player.
 
-[Twitchscript](https://raw.github.com/schmodd/twitchscript) is a Python script for _Linux/Windows_ which lets you see _Twitch.tv streams_ using _LiveStreamer_ under the command line. It comes by default for use _VLC_, but in our case we will use to _omxplayer_.
+Twitchscript is a Python script for _Linux/Windows_ which lets you see _Twitch.tv streams_ using _LiveStreamer_ under the command line. It comes by default for use _VLC_, but in our case we will use to _omxplayer_.
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/izPpzS_S3GY" frameborder="0" allowfullscreen></iframe>
 

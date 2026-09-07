@@ -27,7 +27,7 @@ I decided to make a tutorial a little longer than usual. Today we will test this
 
 ---
 
-Download the [img](https://blog.petrockblock.com/download/retropie-project-image/) file (1.3 Gb) and copy it to your SD-card. Either method is [valid](https://elinux.org/RPi_Easy_SD_Card_Setup).
+Download the img file (1.3 Gb) and copy it to your SD-card. Either method is [valid](https://elinux.org/RPi_Easy_SD_Card_Setup).
 
 The first thing we get once we started the SD-card, it's a notification if we have connected a joystick or pad. It is appreciated this setup screen, because sometimes is quite complex for many of us to configure the joystick in the _Terminal_. Anyway we need to execute a command to have joystick support in all different emulators anyway.
 
@@ -178,7 +178,7 @@ This starts the emulator. NB kick.rom has to be called: "kick.rom", this is case
 
 A box will appear. Choose: "select image disk" and find the game to load in the appearing browser window. To start the game choose Run.
 
-**_NOTE:_** Thanks to user called [FreddyT](https://blog.petrockblock.com/2013/02/10/retropie-project-image-download/#comment-807493306) for share the comment with us.
+**_NOTE:_** Thanks to user called FreddyT for share the comment with us.
 
 ### Conclusion
 

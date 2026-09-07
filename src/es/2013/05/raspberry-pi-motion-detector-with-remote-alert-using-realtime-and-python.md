@@ -21,6 +21,6 @@ og_image: /images/motiond.jpg
 
 La tecnología _Motion_ ya lleva años entre nosotros. Nos permite ejecutar ciertas acciones al detectar una variación en una imagen o vídeo.
 
-El tutorial que he encontrado me ha parecido interesante, y quién sabe, tal vez haga algún tutorial propio al respecto. En este que comentamos de _Sergio Costa_ usa [Motion](https://www.lavrsen.dk/foswiki/bin/view/Motion/WebHome) como motor de captura, y [Realtime](https://www.xrtml.org/) para el sistema de mensajes en el servidor.
+El tutorial que he encontrado me ha parecido interesante, y quién sabe, tal vez haga algún tutorial propio al respecto. En este que comentamos de _Sergio Costa_ usa Motion como motor de captura, y [Realtime](https://www.xrtml.org/) para el sistema de mensajes en el servidor.
 
-Enlace: [sergiocosta.me](https://sergiocosta.me/post/49453141093/raspberrypi-motion-detector-realtime-python)
+Enlace: sergiocosta.me

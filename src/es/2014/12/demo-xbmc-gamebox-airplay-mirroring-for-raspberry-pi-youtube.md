@@ -45,6 +45,6 @@ La conclusión a la que llego es que si usas mucho la tecnología _Airplay_ tien
 
 ¿Y si lo quiero ejecutar desde _Raspbian_?. También puedes. Sigue las instrucciones del siguiente post en el foro.
 
-Foro: [xindawn.com](https://www.xindawn.com/bbs/viewtopic.php?f=5&t=9&sid=33bae6a81e421af25696f3a69f3029cb)
+Foro: xindawn.com
 
-Descarga: [xindawn.com > Versión 1.0.1 (30-10-2014)](https://www.xindawn.com/download.php)
+Descarga: xindawn.com > Versión 1.0.1 (30-10-2014)

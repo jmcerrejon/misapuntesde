@@ -21,4 +21,4 @@ og_image: /images/money.jpg
 
 Just one hour from the begining, and my blog has a value. Exactly **_8,95$_** LOL
 
-Link: [https://thedomainstat.com](https://thedomainstat.com/www/misapuntesde.com)
+Link: https://thedomainstat.com

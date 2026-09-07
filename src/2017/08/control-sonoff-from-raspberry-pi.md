@@ -27,7 +27,7 @@ A few Sonoff links:
 
 Link: [domoticsduino.blogspot.com.es](https://domoticsduino.blogspot.com.es/2017/07/home-automation-system-discovering.html)
 
-Link: [itead.cc](https://www.itead.cc/wiki/Sonoff)
+Link: itead.cc
 
 Link: [sonoff.itead.cc](https://sonoff.itead.cc/en/products/sonoff/sonoff-basic)
 

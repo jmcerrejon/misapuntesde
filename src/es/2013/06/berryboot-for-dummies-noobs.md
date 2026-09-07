@@ -28,8 +28,8 @@ Si te aburres y quieres instalar otro (eliminando el anterior, es lo que le dife
 
 El método está creado para que sea más fácil la instalación de los distintos SO, sobretodo para los niños.
 
-Noticia: [raspberrypi.org](https://www.raspberrypi.org/archives/4100)
+Noticia: raspberrypi.org
 
 Enlace: [Guía de inicio - pdf](https://www.raspberrypi.org/wp-content/uploads/2012/04/quick-start-guide-v2.pdf)
 
-Descarga: [NOOBS](https://downloads.raspberrypi.org/recovery)
+Descarga: NOOBS

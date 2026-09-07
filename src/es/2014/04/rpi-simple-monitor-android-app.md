@@ -27,8 +27,8 @@ La aplicación muestra información de la _CPU_, la memoria _RAM_ o la temperatu
 
 Necesitarás instalar un programa servidor en la _Raspberry_.
 
-Os animo a todos a probarla y seguro que su desarrollador agradecerá el feedback a través de su cuenta de _Twitter_ [@laux_es](https://twitter.com/laux_es) o en el Google Play.
+Os animo a todos a probarla y seguro que su desarrollador agradecerá el feedback a través de su cuenta de _Twitter_ @laux_es o en el Google Play.
 
-Descarga: [Google Play - Raspberry Simple Monitor Early](https://play.google.com/store/apps/details?id=com.rpimonitor.app)
+Descarga: Google Play - Raspberry Simple Monitor Early
 
 Más info: [GitHub - RPi-Simple-Monitor](https://github.com/Angelmmiguel/RPi-Simple-Monitor)

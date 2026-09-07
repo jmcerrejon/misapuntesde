@@ -69,7 +69,7 @@ dwc_otg.speed=1
 
 Happy Friday!
 
-Help: [wiki.audacityteam.org](https://wiki.audacityteam.org/index.php?title=USB_mic_on_Linux)
+Help: wiki.audacityteam.org
 
 Link: [wiki.linuxaudio.org > Raspberry Pi and realtime, low-latency audio](https://wiki.linuxaudio.org/wiki/raspberrypi)
 

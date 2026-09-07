@@ -35,4 +35,4 @@ Eltechs se ha puesto en contacto conmigo para informaros de que ha salido una nu
 
 Si ya eres cliente de _Eltech_, la actualización será gratuíta. Recordemos que también es compatible con otras placas como la _ODROID_.
 
-Enlace: [eltechs.com](https://eltechs.com/run-x86-apps-on-raspberry-pi-odroid-and-other-arm-devices-with-exagear-desktop-v1-2/)
+Enlace: eltechs.com

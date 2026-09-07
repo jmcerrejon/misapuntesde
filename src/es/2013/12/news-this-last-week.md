@@ -35,10 +35,10 @@ Bueno, os recopilo los enlaces que considero destacados. si alguien ha encontrad
 
 -   [Usando Android como un ratón o teclado inalámbrico](https://www.rpiblog.com/2013/11/using-android-as-wireless-mouse-keyboard.html) - Si tenemos una tablet o teléfono con _Android_, podremos instalar esta aplicación para controlar nuestra RasPi con ellas.
 
--   [xmaspi](https://xmaspi.com/?page_id=21) - Proyecto interesante para controlar remotamente un árbol de navidad a través del navegador. Tenéis todos los pasos necesarios en el post.
+-   xmaspi - Proyecto interesante para controlar remotamente un árbol de navidad a través del navegador. Tenéis todos los pasos necesarios en el post.
 
--   [Tutorial 8 – Creando una copia de seguridad del Raspberry Pi (Parte 1)](https://www.frambuesapi.co/2013/12/08/tutorial-8-creando-una-copia-de-seguridad-del-raspberry-pi/) - Estos chicos de _Colombia_ están haciendo un buen trabajo en su blog. Su [twitter](https://twitter.com/raspberrypi_co) también está bastante activo. Esta vez usan la aplicación _HDD Raw Copy_ para hacer un backup de la tarjeta.
+-   Tutorial 8 – Creando una copia de seguridad del Raspberry Pi (Parte 1) - Estos chicos de _Colombia_ están haciendo un buen trabajo en su blog. Su [twitter](https://twitter.com/raspberrypi_co) también está bastante activo. Esta vez usan la aplicación _HDD Raw Copy_ para hacer un backup de la tarjeta.
 
 -   [Configurar una Raspberry Pi como punto de acceso](https://learn.adafruit.com/setting-up-a-raspberry-pi-as-a-wifi-access-point?view=all) - Creo que tengo recopilado varios de estos tutoriales, pero viene muy bien siempre tener alguno a mano.
 
--   [Rasppi-Dropbox](https://open.umich.edu/wiki/Rasppi-Dropbox) - No estáis mal encaminados. Un tutorial para acceder a _Dropbox_ usando [Drop2PI](https://github.com/GuoJing/Drop2PI).
+-   Rasppi-Dropbox - No estáis mal encaminados. Un tutorial para acceder a _Dropbox_ usando [Drop2PI](https://github.com/GuoJing/Drop2PI).

@@ -21,4 +21,4 @@ og_image: /images/2016/06/ros.png
 
 A great course in _Seville (Spain)_ to learn the amazing world of Robotic science with _ROS_.
 
-Link (spanish): [roboticaeuropa.org](https://roboticaeuropa.org/curso-1/robots-ros-raspberry-pi)
+Link (spanish): roboticaeuropa.org

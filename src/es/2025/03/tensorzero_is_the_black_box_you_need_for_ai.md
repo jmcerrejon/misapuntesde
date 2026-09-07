@@ -60,7 +60,7 @@ model = "openai::gpt-4o-mini"
 
 ¡Ah! Necesitas configurar/exportar una variable de entorno para `OPENAI_API_KEY` con tu clave API.
 
-Ahora descarga el siguiente archivo [docker-compose.yaml](https://raw.githubusercontent.com/tensorzero/tensorzero/refs/heads/main/examples/quickstart/docker-compose.yml) y ejecútalo:
+Ahora descarga el siguiente archivo docker-compose.yaml y ejecútalo:
 
 ```sh
 docker-compose up

@@ -23,4 +23,4 @@ The site _Fresy Metal_ presents to us another tutorial. This time to make a lase
 
 As always, on its website.
 
-Link: [fresymetal.com](https://www.fresymetal.com/como-hacer-una-alarma-laser-con-raspberry/)
+Link: fresymetal.com

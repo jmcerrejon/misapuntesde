@@ -59,7 +59,7 @@ Its features are:
 
 ### [ First impression ]
 
-Not fair to compare it with the _Raspberry Pi_. It's seems a widespread effort to end the reign of the _PI_. I equate more to the [Cubietruck](https://www.cubietruck.com) with respect to performance and features. _Banana Pi_ has good things and every day come out new distros and awesome projects from the community, but fails to support the _GPU_ and although you can already test their abilities to play a _1080p_ video smoothly, it is not something you get _out of the box_.
+Not fair to compare it with the _Raspberry Pi_. It's seems a widespread effort to end the reign of the _PI_. I equate more to the Cubietruck with respect to performance and features. _Banana Pi_ has good things and every day come out new distros and awesome projects from the community, but fails to support the _GPU_ and although you can already test their abilities to play a _1080p_ video smoothly, it is not something you get _out of the box_.
 
 It is also true that you start ordering and finally, among shipping and accessories, you have to pay around **54 Euros** ($67), but is not bad price for what you get.
 
@@ -89,7 +89,7 @@ My recommendation is that if you have a _Raspberry Pi_ and what you like is **"t
 
 If you want _Ubuntu or Android with XBMC_ that just works with all kinds of applications, games or surf the web connected from the TV in your living room, put a blindfold and **buy the ODROID-C1** this Christmas (I ALREADY have one).
 
-Link: [hardkernel.com > ODROID-C1](https://www.hardkernel.com/main/products/prdt_info.php?g_code=G141578608433)
+Link: hardkernel.com > ODROID-C1
 
 Link: [Some YouTube videos](https://www.youtube.com/results?search_query=ODROID-C1&search_sort=video_date_uploaded)
 

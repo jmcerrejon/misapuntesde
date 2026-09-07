@@ -22,7 +22,7 @@ og_image: /images/2017/05/team_viewer.png
 *TeamViewer Host para Raspberry Pi es un servicio de sistema que permite el acceso no supervisado a dispositivos Raspberry Pi para que pueda llevarse a cabo su mantenimiento, control y administración con nuestra solución líder de la industria TeamViewer, conocida por millones de usuarios de todo el mundo.*
 
 - - -
-Antes teníamos que echar mano de una aplicación como [Exagear Desktop](https://eltechs.com/run-teamviewer-on-raspberry-pi/) para poder conectar a nuestra Pi con TeamViewer, pero ya no hace falta, ya que tiene una aplicación nativa para dicha misión. Si quieres instalarlo, nada más sencillo que ejecutar las siguientes instrucciones:
+Antes teníamos que echar mano de una aplicación como Exagear Desktop para poder conectar a nuestra Pi con TeamViewer, pero ya no hace falta, ya que tiene una aplicación nativa para dicha misión. Si quieres instalarlo, nada más sencillo que ejecutar las siguientes instrucciones:
 
 ```bash
 sudo apt install -y 

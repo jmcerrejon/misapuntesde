@@ -19,4 +19,4 @@ og_image: /images/sd_corrupt.jpg
 
 ![sd corrupt](/images/sd_corrupt.jpg)
 
-Link: [ideaheap.com > Stopping SD Card Corruption on Raspberry Pi’s Raspbian](https://www.ideaheap.com/2013/07/stopping-sd-card-corruption-on-a-raspberry-pi/)
+Link: ideaheap.com > Stopping SD Card Corruption on Raspberry Pi’s Raspbian

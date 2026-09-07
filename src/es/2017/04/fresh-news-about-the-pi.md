@@ -27,9 +27,9 @@ Un poco tarde, pero traigo un post cargadito de información relevante para tu c
 
 <iframe width="400" height="225" src="https://www.youtube.com/embed/xiQX0YXYuqU?rel=0" frameborder="0" allowfullscreen></iframe>
 
--   **OpenELEC 8.0.1 released:** No, es en serio, la gente ya pensaba que este proyecto estaba abandonado, pero da soporte a varios equipos como para dejar su desarrollo, aunque sea mas lento el desarrollo que la de su némesis _LibreELEC_. | [openelec.tv](https://openelec.tv/news/22-releases/184-stable-openelec-8-0-released)
+-   **OpenELEC 8.0.1 released:** No, es en serio, la gente ya pensaba que este proyecto estaba abandonado, pero da soporte a varios equipos como para dejar su desarrollo, aunque sea mas lento el desarrollo que la de su némesis _LibreELEC_. | openelec.tv
 
--   **Raspberry Pi Course:** Cursos para aprender algo. Eso sí, en perfecto inglés como siempre. | [suntimebox.com](https://www.suntimebox.com/raspberry-pi-tutorial-course/)
+-   **Raspberry Pi Course:** Cursos para aprender algo. Eso sí, en perfecto inglés como siempre. | suntimebox.com
 
 ![ODROID](https://u75174878@misapuntesde.com/images/2017/04/odroid_mag.jpg)
 

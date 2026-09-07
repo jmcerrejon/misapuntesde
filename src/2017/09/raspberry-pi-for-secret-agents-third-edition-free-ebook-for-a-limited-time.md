@@ -23,4 +23,4 @@ From time to time *Packt Pub publisher* surprises us with books for our *Raspber
 
 You can download it for a limited time at the following link.
 
-Link: [packtpub.com](https://www.packtpub.com/packt/offers/free-learning)
+Link: packtpub.com

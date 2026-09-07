@@ -53,4 +53,4 @@ Como sistema operativo, corre _Debian Stretch, Ubuntu 18.04 y Android 7.1_. Echo
 
 Se espera que salga a la venta en el segundo cuatrimestre de este año. Os seguiré informando.
 
-Enlace: [Hardkernel > The Next ODROID!](https://com.odroid.com/sigong/blog/blog_list.php?bid=193)
+Enlace: Hardkernel > The Next ODROID!

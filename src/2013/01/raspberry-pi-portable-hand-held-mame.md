@@ -20,4 +20,4 @@ tag:
 
 A user called _Jason Birch_ has created a prototype for a portable _MAME_ console. This project is really simple, but anyone can adapt to your needs, and the total cost is less than 63$. All details in the next link.
 
-Link: [newsdownload.co.uk](https://www.newsdownload.co.uk/pages/RPiMameHandHeld.html)
+Link: newsdownload.co.uk

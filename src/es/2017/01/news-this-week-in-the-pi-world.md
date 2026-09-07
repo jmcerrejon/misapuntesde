@@ -43,7 +43,7 @@ Como ya sabréis, **la fundación** nos ha sorprendido esta semana con la actual
 
 ![mycroft](/images/2017/01/mycroft.png)
 
--   **Mycroft Available as Raspberry Pi Image:** Aquí tenemos otra _IA_ para dejar con la boca abierta a nuestros invitados. Se está haciendo eco en varios medios y parece que promete. Seguiremos de cerca su evolución. Imagen disponible para la RPi. | [mycroft.ai](https://mycroft.ai/mycroft-now-available-raspberry-pi-image/)
+-   **Mycroft Available as Raspberry Pi Image:** Aquí tenemos otra _IA_ para dejar con la boca abierta a nuestros invitados. Se está haciendo eco en varios medios y parece que promete. Seguiremos de cerca su evolución. Imagen disponible para la RPi. | mycroft.ai
 
 ![zerophone](/images/2017/01/zerophone.png)
 

@@ -25,7 +25,7 @@ og_image: /images/2015/01/raylib_logo.png
 
 Si has programado alguna vez o conoces las librerías _SDL, Allegro_, o cualquier tipo de _framework_, te habrás dado cuenta el tiempo que ahorras en implementar por tí mismo ciertas llamadas al sistema o al lenguaje que quieres usar.
 
-[raylib](https://www.raylib.com/) es una pequeña librería open source bajo la licencia [zlib/libpng](https://www.raylib.com/license.htm) en C muy interesante con ejemplos sencillos para que puedas crear juegos o aplicaciones multimedia multiplataforma. Además, tiene soporte para _Android, HTML5_ y por supuesto, **Raspberry Pi**.
+[raylib](https://www.raylib.com/) es una pequeña librería open source bajo la licencia zlib/libpng en C muy interesante con ejemplos sencillos para que puedas crear juegos o aplicaciones multimedia multiplataforma. Además, tiene soporte para _Android, HTML5_ y por supuesto, **Raspberry Pi**.
 
 ---
 
@@ -45,7 +45,7 @@ Algunas de sus características son:
 
 La **versión actual es la 1.2.2** y tienes un installer para _Windows_ o puedes compilarlo fácilmente con las instrucciones que puedes seguir desde _Github_.
 
-Demos: [raylib_demo](https://www.raylib.com/raylib_demo.html)
+Demos: raylib_demo
 
 Foro: [raspberrypi.org](https://www.raspberrypi.org/forums/viewtopic.php?f=78&t=88182&sid=e875b1a6682d7bcc74b7cf723771228b)
 

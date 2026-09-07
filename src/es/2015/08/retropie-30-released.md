@@ -41,6 +41,6 @@ Se me olvidó comentarlo ayer, pero tras el salto os cuento las novedades que no
 
 -   Muchas otras mejoras y arreglos desde la release 2.6.
 
-Enlace: [blog.petrockblock.com](https://blog.petrockblock.com/2015/08/11/retropie-3-0-is-released/)
+Enlace: blog.petrockblock.com
 
-Descargas: [blog.petrockblock.com > Downloads (723.5 MB)](https://blog.petrockblock.com/retropie/retropie-downloads/)
+Descargas: blog.petrockblock.com > Downloads (723.5 MB)

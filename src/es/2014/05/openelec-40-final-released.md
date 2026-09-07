@@ -39,4 +39,4 @@ Desde este blog siempre he apoyado esta distribución frente a otras con el mism
 
 Lo interesante es que el equipo detrás de _XBMC_ ha cuidado mucho que esta versión estuviera adaptada a placas como la RasPi, por lo que considero que esta actualización es **OBLIGATORIA** para todos.
 
-Descarga imagen de disco: [openelec.tv > OpenELEC-RPI.arm-4.0.0.img.gz](https://openelec.tv/get-openelec/finish/10-raspberry-pi-builds/315-diskimage-openelec-stable-raspberry-pi-arm)
+Descarga imagen de disco: openelec.tv > OpenELEC-RPI.arm-4.0.0.img.gz

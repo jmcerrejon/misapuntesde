@@ -41,7 +41,7 @@ As you know, **the foundation** surprised us this week with the update of the _C
 
 ![mycroft](/images/2017/01/mycroft.png)
 
--   **Mycroft Available as Raspberry Pi Image** | [mycroft.ai](https://mycroft.ai/mycroft-now-available-raspberry-pi-image/)
+-   **Mycroft Available as Raspberry Pi Image** | mycroft.ai
 
 ![zerophone](/images/2017/01/zerophone.png)
 

@@ -29,6 +29,6 @@ I loaded two homebrew games for _SNES and Game Boy Advance_ that are completely 
 
 Enjoy!
 
-Direct Download: [uploaded > rpi-buildroot_v0.3.img.tar.gz (81,4 MB)](https://ul.to/amwaelky)
+Direct Download: uploaded > rpi-buildroot_v0.3.img.tar.gz (81,4 MB)
 
 Link: [GitHub > rpi-emulator-buildroot](https://github.com/rmaz/rpi-emulator-buildroot)

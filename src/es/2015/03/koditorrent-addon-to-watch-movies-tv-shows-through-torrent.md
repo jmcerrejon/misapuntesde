@@ -38,6 +38,6 @@ Los menús se cargan rápido en una *Raspberry Pi 2* sin overclock. Yo lo he pro
 
 **NOTA:** Aunque ponga source code en el enlace de descarga en *Git Hub*, este es el fichero que debemos cargar a través del menú *Sistema > Addons*.
 
-Descarga Add-on: [github.com > jmarth/plugin.video.kmediatorrent - releases](https://github.com/jmarth/plugin.video.kmediatorrent/releases)
+Descarga Add-on: github.com > jmarth/plugin.video.kmediatorrent - releases
 
-Enlace: [seo-michael.co.uk > Tutorial How to Install and Configure KMediaTorrent XBMC Kodi](https://seo-michael.co.uk/how-to-install-kmediatorrent-for-xbmc-kodi/)
+Enlace: seo-michael.co.uk > Tutorial How to Install and Configure KMediaTorrent XBMC Kodi

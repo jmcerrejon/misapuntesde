@@ -27,4 +27,4 @@ Ayer vi este post y quería compartirlo con vosotros. Se trata de una pequeña g
 
 En la web de _PortalLinux_ tenéis todos los detalles.
 
-Enlace: [PortalLinux.es > Libro de Trucos de GNU/Linux](https://portallinux.es/libro-trucos-gnu-linux/)
+Enlace: PortalLinux.es > Libro de Trucos de GNU/Linux

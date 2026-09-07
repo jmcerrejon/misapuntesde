@@ -36,7 +36,7 @@ Hoy me ha dado por actualizar un poco el blog con esas noticias que están pasan
 
 ![twisteros.png](/images/2020/06/twisteros.png)
 
-* **Twister OS: Version 1.2 Update:** Se ha solucionado un problema en el que la aplicación "Contactos" no aparecía en el menú de aplicaciones, se ha sustituido la pantalla de inicio de sesión para el tema *Nighthawk* por una nueva que se puede escalar a diferentes resoluciones de pantalla, se ha actualizado la pantalla de inicio de sesión para el tema *iRaspbian*, se ha sustituido el lanzador de aplicaciones *Slingscold por LightPad*, que soluciona un problema de lanzamiento de aplicaciones basadas en terminales y se ha actualizado el *README*. | [raspbian-x.com](https://raspbian-x.com/)
+* **Twister OS: Version 1.2 Update:** Se ha solucionado un problema en el que la aplicación "Contactos" no aparecía en el menú de aplicaciones, se ha sustituido la pantalla de inicio de sesión para el tema *Nighthawk* por una nueva que se puede escalar a diferentes resoluciones de pantalla, se ha actualizado la pantalla de inicio de sesión para el tema *iRaspbian*, se ha sustituido el lanzador de aplicaciones *Slingscold por LightPad*, que soluciona un problema de lanzamiento de aplicaciones basadas en terminales y se ha actualizado el *README*. | raspbian-x.com
 
 ![mkvtoolnix.png](/images/2020/06/mkvtoolnix.png)
 

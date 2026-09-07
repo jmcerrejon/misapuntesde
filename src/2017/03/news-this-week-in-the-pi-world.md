@@ -35,7 +35,7 @@ Next week I have prepared a new giveaway and a review. Meanwhile, to keep the wa
 
 ![Exagear](/images/2017/03/exagear_cap_09_min.jpg)
 
--   **ExaGear 2.0 has just been released!:** This is a clue about the review and giveaway ready for the next week in this blog. Eltechs' guys make a great work with this new release with full 3d support on Desktop. Check their blog here. | [Exagear](https://www.simplerses.com/redir?red=https%3A%2F%2Feltechs.com%2Fnew-era-of-gaming-on-raspberry-pi%2F%3Futm_source%3Demail_parnters_on_releasedate%26utm_medium%3Dnew_era_of_gaming_on_raspberry_pi&mod=eyJ1Ijo4MTEsImMiOjI0MzUsInQiOjI2NDMsImoiOjY1NjYsImUiOlsidWx5c2Vzc0BnbWFpbC5jb20iXSwidiI6ImNsaWNrcyIsImgiOjE0OTA4OTMyMDB9)
+-   **ExaGear 2.0 has just been released!:** This is a clue about the review and giveaway ready for the next week in this blog. Eltechs' guys make a great work with this new release with full 3d support on Desktop. Check their blog here. | Exagear
 
 Tweet of the week thanks to [@lakkatv](https://twitter.com/lakkatv/):
 

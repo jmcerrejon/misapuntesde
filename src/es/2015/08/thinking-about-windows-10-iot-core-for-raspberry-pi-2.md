@@ -33,8 +33,8 @@ En este post iré recopilando artículos que me han llamado la atención para us
 
 Enlace: [developer.telerik.com > A Guided Tour of Windows 10 IoT Core](https://developer.telerik.com/featured/a-guided-tour-of-windows-10-iot-core/)
 
-Enlace: [ms-iot.github.io > Learn how to set up the Raspberry Pi 2 and connect it to your computer](https://ms-iot.github.io/content/en-US/win10/SetupRPI.htm)
+Enlace: ms-iot.github.io > Learn how to set up the Raspberry Pi 2 and connect it to your computer
 
-Enlaces: [dev.windows.com > IoT](https://dev.windows.com/es-es/iot) | [microsoft.hackster.io](https://microsoft.hackster.io/en-US)
+Enlaces: [dev.windows.com > IoT](https://dev.windows.com/es-es/iot) | microsoft.hackster.io
 
 enlace: [hackaday.com > raspberry-pi-and-windows-10-iot-core-a-huge-letdown](https://hackaday.com/2015/08/13/raspberry-pi-and-windows-10-iot-core-a-huge-letdown/)

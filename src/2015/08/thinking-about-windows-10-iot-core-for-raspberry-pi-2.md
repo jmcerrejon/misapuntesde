@@ -33,8 +33,8 @@ In this post I will collect interesting articles to use _Windows Core_. I recomm
 
 Link: [developer.telerik.com > A Guided Tour of Windows 10 IoT Core](https://developer.telerik.com/featured/a-guided-tour-of-windows-10-iot-core/)
 
-Link: [ms-iot.github.io > Learn how to set up the Raspberry Pi 2 and connect it to your computer](https://ms-iot.github.io/content/en-US/win10/SetupRPI.htm)
+Link: ms-iot.github.io > Learn how to set up the Raspberry Pi 2 and connect it to your computer
 
-Links: [dev.windows.com > IoT](https://dev.windows.com/en-us/iot) | [microsoft.hackster.io](https://microsoft.hackster.io/en-US)
+Links: [dev.windows.com > IoT](https://dev.windows.com/en-us/iot) | microsoft.hackster.io
 
 Link: [hackaday.com > raspberry-pi-and-windows-10-iot-core-a-huge-letdown](https://hackaday.com/2015/08/13/raspberry-pi-and-windows-10-iot-core-a-huge-letdown/)

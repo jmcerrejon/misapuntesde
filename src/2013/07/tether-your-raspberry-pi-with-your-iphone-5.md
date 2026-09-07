@@ -33,4 +33,4 @@ To get it from console, you must be follow a few steps more.
 
 By the way, I recommend you to take a look at other articles he have on his blog.
 
-Link: [daveconroy.com - How to Tether Your Raspberry Pi with your iPhone 5](https://www.daveconroy.com/how-to-tether-your-raspberry-pi-with-your-iphone-5/)
+Link: daveconroy.com - How to Tether Your Raspberry Pi with your iPhone 5

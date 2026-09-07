@@ -39,13 +39,13 @@ Siento no poder entretenerme a recortar y subir las imágenes, pero os dejo con 
 
 -   **Audio Injector Ultra 2 (Kickstarter):** Es una tarjeta de sonido de alta calidad con entrada y salida (_S/PDIF_) y micrófonos duales. Tiene buena pinta si estás pensando en un proyecto que necesite algo de esto. | [kickstarter.com](https://www.kickstarter.com/projects/1250664710/audio-injector-ultra-2-sound-card/?ref=eelec)
 
--   **FE-PI POE V1.3:** _Power over Ethernet_ nos va a permitir alimentar la Pi tan sólo con el cable de red. Un cable menos. Su precio: $16.95. | [fe-pi.com](https://fe-pi.com/products/fe-pi-poe-v1)
+-   **FE-PI POE V1.3:** _Power over Ethernet_ nos va a permitir alimentar la Pi tan sólo con el cable de red. Un cable menos. Su precio: $16.95. | fe-pi.com
 
 -   **96-core ARM supercomputer using the NanoPi-Fire3:** Cluster donde se mide cuánta carga puede soportar equipos con varias placas conectadas entre sí | [climbers.net](https://climbers.net/sbc/nanopi-fire3-arm-supercomputer/)
 
 -   **Displaying weather forecast on a Raspberry Pi Inky screen:** Estas pantallas en miniaturas super útiles donde puedes poner cualquier tipo de información lo están petando. Como no, lo mejor es saber como está el tiempo en tu zona. | [raspicolas.wordpress.com](https://raspicolas.wordpress.com/2018/06/03/displaying-weather-forecast-on-a-raspberry-pi-inky-screen/)
 
--   **Framed Raspberry Pi Keeps Tabs on Spotify:** Adoro los _Magic Mirrors_. No entiendo por qué no es algo que todo el mundo tenga ya en sus casas o que lo oferten de forma masiva en las grandes superficies de consumo. En caso es particularmente interesante porque juega con la _API de Spotify_. | [jonashcroft.co.uk](https://jonashcroft.co.uk/2018/06/07/now-playing-screen-spotify-raspberry-pi-es6/)
+-   **Framed Raspberry Pi Keeps Tabs on Spotify:** Adoro los _Magic Mirrors_. No entiendo por qué no es algo que todo el mundo tenga ya en sus casas o que lo oferten de forma masiva en las grandes superficies de consumo. En caso es particularmente interesante porque juega con la _API de Spotify_. | jonashcroft.co.uk
 
 -   **Finding illegal content with just 10 Watts of power:** _Christian Haschek_ creó una plataforma de almacenamiento de imágenes y comprobó que los usuarios subían contenido inapropiado. Su astucia ingenió un sistema con 3 RPis para detectar este tipo de contenido y nos lo cuenta en su blog. | [blog.haschek.at](https://blog.haschek.at/post/f0a4e)
 

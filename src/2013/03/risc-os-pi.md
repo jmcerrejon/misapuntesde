@@ -23,4 +23,4 @@ I have wanted to have a look at this great operating system. Perhaps preparing a
 
 Meanwhile, I leave you with this one that I found very useful.
 
-Link: [element14 - Discovering RISC OS Pi](https://www.element14.com/community/blogs/mirandasoft/2013/03/24/raspberry-pi-discovering-risc-os-pi)
+Link: element14 - Discovering RISC OS Pi

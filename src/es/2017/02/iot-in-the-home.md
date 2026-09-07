@@ -27,7 +27,7 @@ El _Amazon Echo Assistant_ es quizás el dispositivo que abarca todo en esta lis
 
 ![Nucleus_feature](/images/2017/02/Nucleus_feature.png)
 
-_The Nucleus_ es un [sistema de intercomunicación en casa](https://nucleuslife.com/) que facilita la interacción entre la familia. El "sistema de intercomunicación" tiene un anillo militar, pero realmente es sólo un gadget de hardware que comparte una alimentación de vídeo entre habitaciones de una sola casa o entre dispositivos remotos que acceden a _Nucleus_. Es un fantástico dispositivo _IoT_ para las familias, porque al descargar la aplicación, un padre puede ver un video de la habitación de sus hijos mientras duermen, por ejemplo.
+_The Nucleus_ es un sistema de intercomunicación en casa que facilita la interacción entre la familia. El "sistema de intercomunicación" tiene un anillo militar, pero realmente es sólo un gadget de hardware que comparte una alimentación de vídeo entre habitaciones de una sola casa o entre dispositivos remotos que acceden a _Nucleus_. Es un fantástico dispositivo _IoT_ para las familias, porque al descargar la aplicación, un padre puede ver un video de la habitación de sus hijos mientras duermen, por ejemplo.
 
 _Phillips Hue Lighting_ te permite ajustar el color y el brillo desde tu smartphone. Una de las características más interesantes y futuristas es la capacidad de sincronizar la iluminación con la música. Las luces cambiarán según el ritmo y otras señales para proporcionar un ambiente animado.
 

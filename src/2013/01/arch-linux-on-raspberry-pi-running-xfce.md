@@ -23,4 +23,4 @@ When you install _Arch Linux_ instead of _Raspbian_, many users find they do not
 
 In this guide, teach you to install _XFCE_ successfully, a desk light (pretty much as _LXDE_) and stable.
 
-Link: [blog.adityapatawari.com](https://blog.adityapatawari.com/2013/01/arch-linux-on-raspberry-pi.html)
+Link: blog.adityapatawari.com

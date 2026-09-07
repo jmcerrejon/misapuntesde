@@ -31,6 +31,6 @@ Recordamos que si tienes la versión 0.7+, con sólo ejecutar **./update.sh** ac
 
 ¡EXTRA!:
 
-<a href="https://www.fauxgame.com/streemerz-v02.zip">![streemerz](/images/2013/08/streemerz-boite.jpg "¡Descarga y juega Streemerz!")</a>
+![streemerz](/images/2013/08/streemerz-boite.jpg "¡Descarga y juega Streemerz!")
 
 Descarga: [PiMAME 0.7.8](https://sourceforge.net/projects/pimame/files/pimame-0.7.8.img.zip/download)

@@ -25,7 +25,7 @@ Hoy he descubierto estas herramientas de auditoría basadas en [WiFi Pineapple](
 
 ---
 
-Gracias al blog de [securitybydefault.com](https://www.securitybydefault.com), donde explican perfectamente su uso y instalación, tendremos un entorno como el de la siguiente captura:
+Gracias al blog de securitybydefault.com, donde explican perfectamente su uso y instalación, tendremos un entorno como el de la siguiente captura:
 
 ![frutiwifi.jpg](/images/2013/11/frutiwifi.jpg)
 
@@ -44,6 +44,6 @@ Para usarlo, entra en **http://localhost/FruityWifi** con _admin/admin_.
 
 Os recomiendo leer el artículo que pongo a continuación. Merece la pena.
 
-Enlace: [securitybydefault.com > FRUITY-WIFI, COMO LA WIFIPINEAPPLE PERO SIN LA MARK IV](https://www.securitybydefault.com/2013/11/fruity-wifi-como-la-wifipineapple-pero.html)
+Enlace: securitybydefault.com > FRUITY-WIFI, COMO LA WIFIPINEAPPLE PERO SIN LA MARK IV
 
 Enlace: [Github](https://github.com/xtr4nge/FruityWifi/)

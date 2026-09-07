@@ -43,15 +43,15 @@ I leave you with a list of links if you want to practice and who knows, perhaps 
 
 <iframe width="420" height="315" src="//www.youtube.com/embed/ghaf1Hmt97Y" frameborder="0" allowfullscreen></iframe>
 
-Link: [Pi Store > Schism Tracker](https://store.raspberrypi.com/projects/schismtracker)
+Link: Pi Store > Schism Tracker
 
-Link: [schism-intro+en.pdf](https://dexperix.net/articles/track-music/schism-intro+en.pdf)
+Link: schism-intro+en.pdf
 
-Link: [The Mag Pi > Creating music using the Raspberry Pi (Schism Tracker)](https://www.themagpi.com/series/schism-tracker/)
+Link: The Mag Pi > Creating music using the Raspberry Pi (Schism Tracker)
 
 Link: [chipmusic.org > Samples](https://chipmusic.org/forums/topic/136/tracker-food-samples)
 
-**Great blog:** [scenemusic.net](https://www.scenemusic.net/demovibes/)
+**Great blog:** scenemusic.net
 
 Link: [TechniquesOfChipping.txt](https://www.milkytracker.org/docs/Vhiiula-TechniquesOfChipping.txt)
 
