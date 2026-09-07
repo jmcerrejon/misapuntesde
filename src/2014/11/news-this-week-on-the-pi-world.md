@@ -29,6 +29,6 @@ Here is the best section of the week. News compilation about what occurred this 
 
 -   **47 projects with the RPI to inspire your next build:** If you have the RPI in a drawer and do not use it, _Makezine_ gives you some tips to use in amazing projects. | [makezine.com](https://makezine.com/2013/04/14/47-raspberry-pi-projects-to-inspire-your-next-build/)
 
--   **XBMC-GameBox for raspberrry Pi:** The best for last. It seems that [rPLAY](/post.php?id=252) has gain a competitor. A _XBMC distro_ with _Airplay/AirPlay Mirroring_ support on TV. The times you have asked me about something like that. Download it because it's free and stop reading. | [XBMC-GameBox > Download](https://www.xindawn.com/download.php)
+-   **XBMC-GameBox for raspberrry Pi:** The best for last. It seems that [rPLAY](https://misapuntesde.com/2013/08/rplay-mirroring-with-apple-devices-and-raspberry-pi.html) has gain a competitor. A _XBMC distro_ with _Airplay/AirPlay Mirroring_ support on TV. The times you have asked me about something like that. Download it because it's free and stop reading. | [XBMC-GameBox > Download](https://www.xindawn.com/download.php)
 
 Happy weekend!

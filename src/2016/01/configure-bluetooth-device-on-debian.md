@@ -19,7 +19,7 @@ og_image: /images/bluetooth.jpg
 
 ![BT](/images/bluetooth.jpg)
 
-Last week I've been sick, but today I woke up more recovered. [C.H.I.P.](/post.php?id=559) units are arriving, and last week received mine with which I hope to make it as good as reviewed by [jvlob](https://twitter.com/jvlob) [here](https://simplelab.org/web/c-h-i-p-el-primer-ordenador-del-mundo-que-cuesta-solo-9/) (spanish post).
+Last week I've been sick, but today I woke up more recovered. [C.H.I.P.](https://misapuntesde.com/2015/05/chip-the-9-computer-kickstarter.html) units are arriving, and last week received mine with which I hope to make it as good as reviewed by [jvlob](https://twitter.com/jvlob) [here](https://simplelab.org/web/c-h-i-p-el-primer-ordenador-del-mundo-que-cuesta-solo-9/) (spanish post).
 
 Some people mail me about config _bluetooth_ devices on _Linux_. I leave here a few simple steps to those who do not give the way to do it.
 

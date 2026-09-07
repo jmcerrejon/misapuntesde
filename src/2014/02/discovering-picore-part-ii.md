@@ -19,7 +19,7 @@ og_image: /images/2014/02/picore_desktop_02_min.jpg
 
 ![picore](/images/2014/02/picore_desktop_02_min.jpg)
 
-We continue with interesting aspects of this distribution called _Picore_ that we review in the [previous post](/post.php?id=361).
+We continue with interesting aspects of this distribution called _Picore_ that we review in the [previous post](https://misapuntesde.com/2014/02/picore-52-for-raspberry-pi.html).
 
 I warn you that it's a distribution that aims to maintain a "fresh" state on every reboot. Basically, the application you are going to use is downloaded and run in _RAM memory_ and dissapear at the next reboot. That's the philosophy, but we can install applications maintain it always available. Let's see a bit how the system works and if it's really worth.
 

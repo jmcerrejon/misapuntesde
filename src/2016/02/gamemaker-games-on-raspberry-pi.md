@@ -21,7 +21,7 @@ og_image: /images/2016/02/maldita_castilla.png
 
 **The day has come!**
 
-As I told you [here](/post.php?id=653), I took months following in _Twitter_ one of the developers of the engine _GameMaker_ called _Mike Dailly_ ([@mdf200](https://twitter.com/mdf200)) waiting to take out some method to play thousands of games that have been developed with this game engine into the _Raspberry Pi_. Today they post for download **three games to play them on Raspberry Pi**.
+As I told you, I took months following in _Twitter_ one of the developers of the engine _GameMaker_ called _Mike Dailly_ ([@mdf200](https://twitter.com/mdf200)) waiting to take out some method to play thousands of games that have been developed with this game engine into the _Raspberry Pi_. Today they post for download **three games to play them on Raspberry Pi**.
 
 ---
 

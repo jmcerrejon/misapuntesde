@@ -19,7 +19,7 @@ og_image: /images/2014/11/kali.png
 
 ![Kali](/images/2014/11/kali.png)
 
-While I prepare a review [according to requests](/post.php?id=478) about *FruityWifi*, we find a version upgrade from the distro to audit networks most famous: *Kali Linux*...
+While I prepare a review according to requests about *FruityWifi*, we find a version upgrade from the distro to audit networks most famous: *Kali Linux*...
 
 - - -
 Available for most development boards, in the special case of *Raspberry Pi* have decided to give support to the screen *PiTFT*.

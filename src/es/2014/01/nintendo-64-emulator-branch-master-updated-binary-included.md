@@ -28,7 +28,7 @@ Ayer mismo se actualizó el emulador para _Raspberry Pi_ de _N64 Mupen64Plus-RPI
 Ahora se está trabajando en una wiki para ajustar el fichero de configuración según el juego. Por cierto, si alguien tiene alguna lista y quiere compartirla, os dejo el enlace del foro debajo…
 
 Si te insteresa compilarlo, tenéis los pasos en el post que publiqué [
-aquí](/post.php?id=285).
+aquí](https://misapuntesde.com/es/2013/10/mupen64plus-n64-emulator-for-the-pi.html).
 
 Si alguien quiere los binarios, ~~dadme un poco de tiempo~~ los tienes en el enlace de abajo...
 

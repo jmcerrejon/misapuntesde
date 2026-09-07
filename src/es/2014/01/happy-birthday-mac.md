@@ -32,4 +32,4 @@ Con el tiempo, hemos de reconocer que *Apple* ha tenido mucho que ver con el ava
 
 Os dejo el enlace para instalar el emulador, que ya vimos en su día en este blog.
 
-Enlace: [misapuntesde.com > Aprende a emular un Macintosh desde Raspberry Pi con vMac](/post.php?id=249)
+Enlace: [misapuntesde.com > Aprende a emular un Macintosh desde Raspberry Pi con vMac](https://misapuntesde.com/es/2013/08/learn-to-emulate-a-macintosh-from-raspberry-pi-with-vmac.html)

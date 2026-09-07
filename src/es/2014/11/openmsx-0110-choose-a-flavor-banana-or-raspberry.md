@@ -29,7 +29,7 @@ Este fin de semana he estado intercambiando correos con miembros del staff del e
 
 Creo que los chicos de este emulador se han superado con esta versión. Si quieres ver la lista de cambios pásate por este anuncio en [msx.org](https://www.msx.org/es/news/emulation/es/publicado-openmsx-0110).
 
-Sé que estás deseando probarlo, así que si tienes una _Raspberry Pi_, he actualizado el [post](/post.php?id=382) donde podrás conseguirlo.
+Sé que estás deseando probarlo, así que si tienes una _Raspberry Pi_, he actualizado el [post](https://misapuntesde.com/es/2014/03/openmsx-0110-for-raspberry-pi.html) donde podrás conseguirlo.
 
 Para los usuarios de la _Banana Pi_, he usado _Bananian_ como distro para compilarlo y las instrucciones para hacerlo funcionar son las mismas que en el post que he mencionado para usuarios de la _Raspberry Pi_. El enlace de la descarga del emulador lo encontrarás al final de este post. Recordad instalar las dependencias: _apt-get install libglew1.7 libtheora0 libao4_.
 

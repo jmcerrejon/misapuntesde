@@ -21,7 +21,7 @@ og_image: /images/2016/02/maldita_castilla.png
 
 **¡EL DÍA HA LLEGADO!**
 
-Como ya os comenté [aquí](/post.php?id=653), llevo meses siguiendo en _Twitter_ a uno de los desarrolladores del engine _GameMaker_ llamado _Mike Dailly_ ([@mdf200](https://twitter.com/mdf200)) esperando que sacara alguna forma de jugar a los miles de juegos que han sido desarrollados con este creador de videojuegos en la _Raspberry Pi_. Pues bien, han puesto para **descargar gratis tres juegos para poder jugarlos en la Raspberry Pi**, y no son tres juegos cualesquiera...
+Como ya os comenté, llevo meses siguiendo en _Twitter_ a uno de los desarrolladores del engine _GameMaker_ llamado _Mike Dailly_ ([@mdf200](https://twitter.com/mdf200)) esperando que sacara alguna forma de jugar a los miles de juegos que han sido desarrollados con este creador de videojuegos en la _Raspberry Pi_. Pues bien, han puesto para **descargar gratis tres juegos para poder jugarlos en la Raspberry Pi**, y no son tres juegos cualesquiera...
 
 ---
 

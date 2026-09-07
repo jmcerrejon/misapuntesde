@@ -31,4 +31,4 @@ Lo más interesante de esta versión es que tiene un video como boot splash y la
 
 Enlace: [sourceforge.net > pimame-0.7.10.img.zip](https://sourceforge.net/projects/pimame/files/pimame-0.7.10.img.zip/download)
 
-Enlace: [misapuntesde.com > PiMAME: Resolución de problemas](/post.php?id=212)
+Enlace: [misapuntesde.com > PiMAME: Resolución de problemas](https://misapuntesde.com/es/2013/07/pimame-little-faq.html)

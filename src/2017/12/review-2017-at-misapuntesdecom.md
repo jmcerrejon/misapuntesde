@@ -26,63 +26,63 @@ Well, I wanted to spend this last Friday of the year with you and I have decided
 - - -
 ![piZero](/images/2017/01/piZeroPiOne.jpg)
 
-* [Review Orange Pi One](/post.php?id=763)
+* [Review Orange Pi One](https://misapuntesde.com/2017/01/review-orange-pi-one.html)
 
 ![Pixel-VNC](/images/2017/03/pixel-raspbian-vnc.jpg)
 
-* [Connect to Raspbian through VNC from macOS (no additional soft required)](/post.php?id=762)
+* [Connect to Raspbian through VNC from macOS (no additional soft required)](https://misapuntesde.com/2017/01/news-this-week-in-the-pi-world.html)
 
 ![DVB-T](/images/2017/03/DVBT.jpg)
 
-* [Digital DVB-T on Raspbian and Debian flavours](/post.php?id=777)
+* [Digital DVB-T on Raspbian and Debian flavours](https://misapuntesde.com/2017/03/digital-dvb-t-on-raspbian-and-debian-flavours.html)
 
 ![Exagear_Unreal](/images/2017/03/exagear_cap_09_min.jpg)
 
-* [Review of Exagear Desktop for Raspberry Pi ver. 2.0 + Giveaway!](/post.php?id=782)
+* [Review of Exagear Desktop for Raspberry Pi ver. 2.0 + Giveaway!](https://misapuntesde.com/2017/04/review-of-exagear-desktop-for-raspberry-pi-ver-20-giveaway.html)
 
 ![Spectrum](/images/spectrum_01.jpg)
 
-* [Review: ZX Spectrum on Raspberry Pi](/post.php?id=788)
+* [Review: ZX Spectrum on Raspberry Pi](https://misapuntesde.com/2017/04/review-zx-spectrum-on-raspberry-pi.html)
 
 ![team_viewer](/images/2017/05/team_viewer.png)
 
-* [TeamViewer Host for Raspberry Pi](/post.php?id=792)
+* [TeamViewer Host for Raspberry Pi](https://misapuntesde.com/2017/05/teamviewer-host-for-raspberry-pi.html)
 
 ![ssh](/images/2017/07/ssh.png)
 
-* [Enable SSH before first boot on Raspbian](/post.php?id=810)
+* [Enable SSH before first boot on Raspbian](https://misapuntesde.com/2017/07/enable-ssh-before-first-boot-on-raspbian.html)
 
 ![Lastest_mirrors](/images/2017/07/lastest_mirrors.png)
 
-* [Configure closest mirror with netselect-apt in Debian](/post.php?id=814)
+* [Configure closest mirror with netselect-apt in Debian](https://misapuntesde.com/2017/07/configure-closest-mirror-with-netselect-apt-in-debian.html)
 
 ![bash](/images/2017/07/bash.png)
 
-* [Keeping a process running after SSH has been closed](/post.php?id=816)
+* [Keeping a process running after SSH has been closed](https://misapuntesde.com/2017/07/keeping-a-process-running-after-ssh-has-been-closed.html)
 
 ![wifi](/images/wifi_exposed.png)
 
-* [Static IP with network manager](/post.php?id=824)
+* [Static IP with network manager](https://misapuntesde.com/2017/08/static-ip-with-network-manager.html)
 
 ![surveillance](/images/2017/08/surveilance.jpg)
 
-* [RPi Cam Web Interface](/post.php?id=826)
+* [RPi Cam Web Interface](https://misapuntesde.com/2017/08/rpi-cam-web-interface.html)
 
 ![rpi-spoof-mac-address](/images/2017/09/rpi-spoof-mac-address.png)
 
-* [Change the MAC address on Raspberry Pi](/post.php?id=831)
+* [Change the MAC address on Raspberry Pi](https://misapuntesde.com/2017/09/change-the-mac-address-on-raspberry-pi.html)
 
 ![cmd](/images/2017/09/cmd.jpg)
 
-* [Tip: Automate Text Input in Commands](/post.php?id=835)
+* [Tip: Automate Text Input in Commands](https://misapuntesde.com/2017/09/tip-automate-text-input-in-commands.html)
 
 ![snes_classic](/images/2017/10/snes_classic.png)
 
-* [Running SNES Classic Mini Emulator on Raspberry Pi](/post.php?id=840)
+* [Running SNES Classic Mini Emulator on Raspberry Pi](https://misapuntesde.com/2017/10/running-snes-classic-mini-emulator-on-raspberry-pi.html)
 
 ![aLand](/images/msx_AtleticLand.jpg)
 
-* [OpenMSX 0.14 Raspbian Stretch (.deb)](/post.php?id=843)
+* [OpenMSX 0.14 Raspbian Stretch (.deb)](https://misapuntesde.com/2017/10/new-openmsx-014-for-raspbian-stretch-deb.html)
 
 That's all friends. I will come back next year with new ideas and hopefully with more content of my own.
 

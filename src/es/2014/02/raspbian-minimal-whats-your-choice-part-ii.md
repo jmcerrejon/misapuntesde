@@ -23,7 +23,7 @@ Continuamos explorando nuevas distros, nuevos sabores, hasta alcanzar lugares do
 
 ---
 
-Recuerda que ya escribí la primera parte que puedes leer en [este artículo](/post.php?id=349). Ahora es el turno de dos nuevos sistemas operativos muy interesantes: _pipaOS_ and _PiBang Linux_.
+Recuerda que ya escribí la primera parte que puedes leer en [este artículo](https://misapuntesde.com/es/2014/01/raspbian-minimal-whats-your-choice-part-i.html). Ahora es el turno de dos nuevos sistemas operativos muy interesantes: _pipaOS_ and _PiBang Linux_.
 
 ###  pipaOS es una distribución _Debian_ basada en _Raspian_ para la _Raspberry Pi_.
 
@@ -73,7 +73,7 @@ Recuerda que ya escribí la primera parte que puedes leer en [este artículo](/p
 
 -   Viene con dnsmask para obtener un servidor DHCP ligero
 
-**Notas:** Ya escribí un artículo de pipaOS que puedes leer [aquí](/post.php?id=289). Sin entorno de escritorio. _raspistill_ y _raspivid_ listo para usar. Falta _raspi-config_. Es muy rápida. SSH activado por defecto. **RECOMENDADO**.
+**Notas:** Ya escribí un artículo de pipaOS que puedes leer [aquí](https://misapuntesde.com/es/2013/10/starting-with-a-debian-os.html). Sin entorno de escritorio. _raspistill_ y _raspivid_ listo para usar. Falta _raspi-config_. Es muy rápida. SSH activado por defecto. **RECOMENDADO**.
 
 ### PiBang Linux. Openbox Linux distro for the Raspberry Pi
 

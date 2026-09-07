@@ -21,7 +21,7 @@ og_image: /images/minibian.jpg
 
 ![netinstall](/images/minibian.jpg)
 
-Antes de irme de vacaciones unos días, he querido dejaros un tutorial muy bueno sobre la distribución minimalista Raspbian Net Install del que [ya hemos hablado](/post.php?id=422) en varias ocasiones...
+Antes de irme de vacaciones unos días, he querido dejaros un tutorial muy bueno sobre la distribución minimalista Raspbian Net Install del que [ya hemos hablado](https://misapuntesde.com/es/2014/06/raspbian-net-installpikiss-perfect-os-combination.html) en varias ocasiones...
 
 ---
 

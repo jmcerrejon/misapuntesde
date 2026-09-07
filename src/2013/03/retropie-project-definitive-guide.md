@@ -186,7 +186,7 @@ The best of this project is that the joystick or pad support is a good idea. It 
 
 The project have many features to publish several articles. The options we have in the _retroarch.cfg_ configuration file opens a range of possibilities thanks to _libretro_ library in which the system is based. I found a _Wolfenstein 3D_ directory and others.
 
-I miss the _Scrapers_ as PiMAME prepared by _Shea Silverman_ already [commented recently](/post.php?id=88). I think is understandable and can be configured, because all of these distros are using the [EmulationStation](https://github.com/Aloshi/EmulationStation) if I no mistaken.
+I miss the _Scrapers_ as PiMAME prepared by _Shea Silverman_ already [commented recently](https://misapuntesde.com/2013/03/chameleonpi-03-pimame-06-beta-out.html). I think is understandable and can be configured, because all of these distros are using the [EmulationStation](https://github.com/Aloshi/EmulationStation) if I no mistaken.
 
 Also remember that if you have a controller connected by the _GPIO_ connector, you can make use of it and play with your native _Nintendo, PSX, PSX2, SuperNes, N64 or GameCube_ controller.
 

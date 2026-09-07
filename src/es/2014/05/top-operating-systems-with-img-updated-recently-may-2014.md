@@ -23,7 +23,7 @@ Nueva recopilación de Sistemas Operativos que se han actualizado recientemente 
 
 ---
 
-Esta es una review del artículo ya publicado [aquí](/post.php?id=332) y que tuvo muchas visitas en su día. Además, me parece interesante conocer aquellas distros que no se actualizan incluso más que aquellas que lo hacen cada poco tiempo.
+Esta es una review del artículo ya publicado [aquí](https://misapuntesde.com/es/2013/12/top-operating-systems-recently-updated-december-2013.html) y que tuvo muchas visitas en su día. Además, me parece interesante conocer aquellas distros que no se actualizan incluso más que aquellas que lo hacen cada poco tiempo.
 
 Como siempre, los candidatos los puedes encontrar en la sección _Sistemas Operativos_ del [Google Docs](https://goo.gl/Iwhbq) en _Mis Apuntes_.
 

@@ -42,7 +42,7 @@ Me apetece dar un paseo sereno y calmado de domingo, o sentarme a ver noticias d
 
 ![Hot](/images/04_RaspberryPi.png)
 
-* **Raspberry Pi 4 Can Now Overclock to 2.147 GHz:** ¡Qué recuerdos cuando [overclockeaba mi Pi a 1400 Mhz](/post.php?id=219)!. El procesador de la Pi4 funciona a 1.5 GHz, pero puedes llegar a tenerlo a 2 GHz con un cambio en el *config.txt*, aunque como no, se recomienda tenerla bien fresquita | [tomshardware.com](https://www.tomshardware.com/news/raspberry-pi-higher-overclock,40559.html)
+* **Raspberry Pi 4 Can Now Overclock to 2.147 GHz:** ¡Qué recuerdos cuando [overclockeaba mi Pi a 1400 Mhz](https://misapuntesde.com/es/2013/07/raspberry-pi-at-1400-mhz.html)!. El procesador de la Pi4 funciona a 1.5 GHz, pero puedes llegar a tenerlo a 2 GHz con un cambio en el *config.txt*, aunque como no, se recomienda tenerla bien fresquita | [tomshardware.com](https://www.tomshardware.com/news/raspberry-pi-higher-overclock,40559.html)
 
 ![DietPi](/images/2018/02/dietpi.png)
 

@@ -25,7 +25,7 @@ og_image: /images/2015/01/OpenELEC_RetroArch.jpg
 
 ---
 
-[Hace tiempo](/post.php?id=369) vimos un primer intento y sólo era cuestión de tiempo que alguien mejorara el sistema para poder usar emuladores en esta distro. Siempre la he defendido por su estabilidad y velocidad frente a sus adversarios. Ahora nos traen la posibilidad de terminar de ver una peli y jugar al [Hellfire](https://www.youtube.com/watch?v=d-9g9TMARs0) de la _Genesis Megadrive_ (mi juego favorito).
+[Hace tiempo](https://misapuntesde.com/es/2014/02/openelec-running-mario-bros-3-youtube.html) vimos un primer intento y sólo era cuestión de tiempo que alguien mejorara el sistema para poder usar emuladores en esta distro. Siempre la he defendido por su estabilidad y velocidad frente a sus adversarios. Ahora nos traen la posibilidad de terminar de ver una peli y jugar al [Hellfire](https://www.youtube.com/watch?v=d-9g9TMARs0) de la _Genesis Megadrive_ (mi juego favorito).
 
 Plataformas soportadas:
 

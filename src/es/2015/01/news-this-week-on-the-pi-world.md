@@ -31,7 +31,7 @@ Esta semana hablamos de fantasmas, odiosas comparaciones y VoIP.
 
 ---
 
-Por cierto, gracias a todos de nuevo por la gran acogida que sigue teniendo el tutorial sobre Retro [Arch en OpenELEC](/post.php?id=502) y los comentarios que dejáis en él. Las dudas, las voy resolviendo poco a poco.
+Por cierto, gracias a todos de nuevo por la gran acogida que sigue teniendo el tutorial sobre Retro [Arch en OpenELEC](https://misapuntesde.com/es/2015/01/howto-play-emulators-on-openelec-for-the-raspberry-pi.html) y los comentarios que dejáis en él. Las dudas, las voy resolviendo poco a poco.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u4bfAj3upWs?rel=0" frameborder="0" allowfullscreen></iframe>
 
@@ -52,7 +52,7 @@ Si lo es, sigue los siguientes artículos para parchearlo. [diariolinux.com > pa
 
 ![TOR](/images/2014/06/torPI.png)
 
--   **Raspberry Pi como router VPN/TOR:** Ya vimos en su día como navegar de forma anónima en [éste](/post.php?id=420) artículo. Hoy he visto este tutorial más actualizado. | [makezine.com > Browse Anonymously with a DIY Raspberry Pi VPN/TOR Router](https://makezine.com/projects/browse-anonymously-with-a-diy-raspberry-pi-vpntor-router/)
+-   **Raspberry Pi como router VPN/TOR:** Ya vimos en su día como navegar de forma anónima en [éste](https://misapuntesde.com/es/2014/06/tor-or-how-to-hide-your-tracks-on-the-internet.html) artículo. Hoy he visto este tutorial más actualizado. | [makezine.com > Browse Anonymously with a DIY Raspberry Pi VPN/TOR Router](https://makezine.com/projects/browse-anonymously-with-a-diy-raspberry-pi-vpntor-router/)
 
 -   **Odroid C1 Vs Raspberry Pi B+:** Muy buena comparativa en español de este estupendo blog en vídeo, que podéis ver encabezando este post. Así sabremos cuál de las dos placas nos interesa más dependiendo de nuestras necesidades. | [aquihayapuntes.com](https://www.aquihayapuntes.com)
 

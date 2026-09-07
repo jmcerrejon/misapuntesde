@@ -56,7 +56,7 @@ I leave you the links in case you want to try the binaries of some of them. As a
 
 ![labbaye_cover](/images/2013/05/labbaye_cover.jpg)
 
-L'Abbaye des Morts is a retro puzzle platformer by Locomalito I love. More info [here](/post.php?id=162). You need to install some dependencies:
+L'Abbaye des Morts is a retro puzzle platformer by Locomalito I love. More info [here](https://misapuntesde.com/2013/05/we-compile-labbaye-des-morts-for-raspberry-pi-deb-included.html). You need to install some dependencies:
 
 ```bash
 sudo apt install -y libsdl2-image-2.0-0 libsdl2-mixer-2.0-0

@@ -47,6 +47,6 @@ Para futuras actualizaciones, espero incorporar canales internacionales si me ha
 
 Yo he hecho las pruebas con un _iPhone 4/iPad Mini_ gracias a la aplicación [AcePlayer](https://itunes.apple.com/es/app/aceplayer-powerful-media-player/id463242636?mt=8), y en un televisor Samsung 40" con resultados muy satisfactorios. Valdrá cualquier aplicación que reproduzca contenido _DLNA/UPnP._
 
-_TVPlayer_ ya se encuentra en [PiKISS](/post.php?id=409) y Rygel lo estará mañana.
+_TVPlayer_ ya se encuentra en [PiKISS](https://misapuntesde.com/es/2014/05/pikiss-for-raspberry-pi-a-bunch-of-scripts-with-menu-to-make-your-life-easier.html) y Rygel lo estará mañana.
 
 ¡Feliz Miércoles!

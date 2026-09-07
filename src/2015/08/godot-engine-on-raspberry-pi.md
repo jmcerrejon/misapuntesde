@@ -19,7 +19,7 @@ og_image: /images/2015/08/Godot_logo.jpg
 
 ![Godot_logo.jpg](/images/2015/08/Godot_logo.jpg)
 
-One of the passions (frustrated) I have since childhood, is the creation of video games. You can read an article [here](/post.php?id=519) I wrote a while.
+One of the passions (frustrated) I have since childhood, is the creation of video games. You can read an article [here](https://misapuntesde.com/2015/02/time-for-a-break.html) I wrote a while.
 
 I have tested several engines looking for maximum portability to all platforms. _SDL_ has always been the best choice, but I have little more than a year watching the progress of a game engine called **Godot Engine** that has nothing to envy to _Unity_ or _Game Maker_, and it works. The best, the user _x1212_ is porting the engine to the _Raspberry Pi_ with surprising results (See the video below)...
 

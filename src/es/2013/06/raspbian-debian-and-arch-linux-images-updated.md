@@ -23,7 +23,7 @@ Pues así, como el que no quiere la cosa, sacan hace escasas horas una nueva ima
 
 ---
 
-Por lo que se lee en los comentarios, podría contener el nuevo protocolo para el escritorio _Wayland_ que [comentamos](/post.php?id=167) hace poco.
+Por lo que se lee en los comentarios, podría contener el nuevo protocolo para el escritorio _Wayland_ que [comentamos](https://misapuntesde.com/es/2013/05/wayland-to-speed-up-the-desktop.html) hace poco.
 
 **_Actualización:_**
 

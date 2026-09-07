@@ -19,7 +19,7 @@ og_image: /images/pikiss_black.png
 
 ![PiKISS](/images/pikiss_black.png)
 
-Hoy quería pasaros un listado de comandos automatizados que están reunidos en este proyecto llamado [PiKISS](/post.php?id=409), y los scripts que tengo previstos incluir próximamente...
+Hoy quería pasaros un listado de comandos automatizados que están reunidos en este proyecto llamado [PiKISS](https://misapuntesde.com/es/2014/05/pikiss-for-raspberry-pi-a-bunch-of-scripts-with-menu-to-make-your-life-easier.html), y los scripts que tengo previstos incluir próximamente...
 
 **NOTA:** La lista actualizada de lo que ya está incorporado sin descripción la tienes [aquí](https://raw.githubusercontent.com/jmcerrejon/PiKISS/master/CHANGELOG)
 

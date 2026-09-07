@@ -31,7 +31,7 @@ og_image: /images/2018/09/dukenukem.png
 
 ![DietPi](/images/2018/09/dietpi.png)
 
--   **DietPi v. 6.13:** Actualizada esta distro que uso a diario como _NAS_ con muchas novedades que podéis leer [aquí](https://github.com/Fourdee/DietPi/pull/2011#issue-208266750). Por cierto, si tienes cuenta premium en algún hoster como _Uploaded_, mi tutorial para usar [plowdown](/post.php?id=239) sigue funcionando. Si lo intentas instalar en _DietPi_, necesitarás los paquetes _git-core_ y _build-essential_. | [dietpi.com](https://dietpi.com/)
+-   **DietPi v. 6.13:** Actualizada esta distro que uso a diario como _NAS_ con muchas novedades que podéis leer [aquí](https://github.com/Fourdee/DietPi/pull/2011#issue-208266750). Por cierto, si tienes cuenta premium en algún hoster como _Uploaded_, mi tutorial para usar [plowdown](https://misapuntesde.com/es/2013/08/download-from-file-sharing-sites-uploaded-mega-freakshare-on-your-raspberry-pi.html) sigue funcionando. Si lo intentas instalar en _DietPi_, necesitarás los paquetes _git-core_ y _build-essential_. | [dietpi.com](https://dietpi.com/)
 
 ![Lakka](/images/2014/11/lakka.png)
 

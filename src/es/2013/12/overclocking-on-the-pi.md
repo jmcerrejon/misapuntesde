@@ -19,7 +19,7 @@ og_image: /images/2013/08/overclock.jpg
 
 ![rpi overclock](/images/2013/08/overclock.jpg)
 
-Ya hemos hablado de [este](/post.php?id=219) tema en [más](/post.php?id=225) de una ocasión. En la [Wikipedia](https://es.wikipedia.org/wiki/Overclock) lo explican como _alcanzar una mayor velocidad de reloj para un componente electrónico (por encima de las especificaciones del fabricante). La idea es conseguir un rendimiento más alto gratuitamente, o superar las cuotas actuales de rendimiento, aunque esto pueda suponer una pérdida de estabilidad o acortar la vida útil del componente._
+Ya hemos hablado de [este](https://misapuntesde.com/es/2013/07/raspberry-pi-at-1400-mhz.html) tema en [más](https://misapuntesde.com/es/2013/08/did-you-think-that-14-ghz-was-enough-4-ghz.html) de una ocasión. En la [Wikipedia](https://es.wikipedia.org/wiki/Overclock) lo explican como _alcanzar una mayor velocidad de reloj para un componente electrónico (por encima de las especificaciones del fabricante). La idea es conseguir un rendimiento más alto gratuitamente, o superar las cuotas actuales de rendimiento, aunque esto pueda suponer una pérdida de estabilidad o acortar la vida útil del componente._
 
 ---
 

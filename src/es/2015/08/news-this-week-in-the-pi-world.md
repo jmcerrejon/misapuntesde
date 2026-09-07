@@ -31,7 +31,7 @@ Lo mejor de esta semana ha sido la incorporación a la fundación de la placa us
 
 -   **Openrepeater:** Sistema operativo para RPi2 entre otros si eres radioaficionado | [openrepeater](https://openrepeater.com/)
 
--   **piCore-7.0alpha1:** Nueva versión que ahora soporta _RPi CM (Compute Module)_. Aparte de actualización de paquetes, trae de forma nativa _Micro Python_. Es la versión _SSH_, pero puedes usar el entorno de escritorio instalando el paquete _TC.tcz_. Ya hablamos de PiCore en [este post](/post.php?id=361) - [Parte 2](/post.php?id=362) | [forum.tinycorelinux.net](https://forum.tinycorelinux.net/index.php/topic,18721.0.html)
+-   **piCore-7.0alpha1:** Nueva versión que ahora soporta _RPi CM (Compute Module)_. Aparte de actualización de paquetes, trae de forma nativa _Micro Python_. Es la versión _SSH_, pero puedes usar el entorno de escritorio instalando el paquete _TC.tcz_. Ya hablamos de PiCore en [este post](https://misapuntesde.com/es/2014/02/picore-52-for-raspberry-pi.html) - [Parte 2](https://misapuntesde.com/es/2014/02/discovering-picore-part-ii.html) | [forum.tinycorelinux.net](https://forum.tinycorelinux.net/index.php/topic,18721.0.html)
 
 ![Rpi2.jpg](/images/2015/08/Rpi2.jpg)
 

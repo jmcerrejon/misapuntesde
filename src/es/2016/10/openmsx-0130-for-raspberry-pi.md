@@ -39,4 +39,4 @@ Descarga .deb: [openmsx_0.13.0_armhf.deb](/res/openmsx_0.13.0_armhf.deb)
 
 Descarga (BIOS): [ROM images](https://fms.komkon.org/fMSX/#Downloads)
 
-Relacionado: [misapuntesde.com > OpenMSX 0.11.0 for Raspberry Pi!](/post.php?id=382)
+Relacionado: [misapuntesde.com > OpenMSX 0.11.0 for Raspberry Pi!](https://misapuntesde.com/es/2014/03/openmsx-0110-for-raspberry-pi.html)

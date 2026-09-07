@@ -25,7 +25,7 @@ SliTaz se distribuye para la Raspberry Pi como una serie de ficheros cuyo tamañ
 
 Otra de las distribuciones que se pasa a dispositivos _ARM_.
 
-Es un sistema operativo que trabaja en memoria como es el caso de _PiCore_ que ya vimos en artículos recientes [aquí](/post.php?id=361) y [aquí](/post.php?id=362) y que usa un sistema de ficheros initramfs/initrd. Lo increíble es que se cargará todo el sistema en tan sólo **20MB de la RAM disponible**.
+Es un sistema operativo que trabaja en memoria como es el caso de _PiCore_ que ya vimos en artículos recientes [aquí](https://misapuntesde.com/es/2014/02/picore-52-for-raspberry-pi.html) y [aquí](https://misapuntesde.com/es/2014/02/discovering-picore-part-ii.html) y que usa un sistema de ficheros initramfs/initrd. Lo increíble es que se cargará todo el sistema en tan sólo **20MB de la RAM disponible**.
 
 Aún tiene una lista de [paquetes soportados](https://arm.slitaz.org/tools.cgi?pkgs) bastante escasa, pero su funcionalidad para ejercer de servidor aprovechando el potencial de la _Raspberry Pi_ es indudable. Incluso puede ser generada con una herramienta propia y obtener un nuevo sabor de frambuesa :P
 

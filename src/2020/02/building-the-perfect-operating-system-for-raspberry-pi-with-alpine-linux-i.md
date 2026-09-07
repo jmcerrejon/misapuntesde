@@ -49,7 +49,7 @@ The goal is the following: I burn my _alpinOS_ distro, put the SD in the Pi, run
 
 ### [ Alternatives running in RAM ]
 
-This is not the first time we have encountered an operating system that runs on the _RAM_. I have commented more than once on the distribution [piCore](/post.php?id=362) or on desktop computers we have some very recognized as [CoreOS](https://coreos.com) or [Tiny Core Linux](https://tinycorelinux.net). You can visit [Wikipedia](https://en.wikipedia.org/wiki/List_of_Linux_distributions_that_run_from_RAM) to get some more references.
+This is not the first time we have encountered an operating system that runs on the _RAM_. I have commented more than once on the distribution [piCore](https://misapuntesde.com/2014/02/discovering-picore-part-ii.html) or on desktop computers we have some very recognized as [CoreOS](https://coreos.com) or [Tiny Core Linux](https://tinycorelinux.net). You can visit [Wikipedia](https://en.wikipedia.org/wiki/List_of_Linux_distributions_that_run_from_RAM) to get some more references.
 
 Next week we will start rolling up our sleeves to get down to business and start developing my (our) ideal operating system. For now I leave you with the repo of a first Alpha version that I have prepared.
 

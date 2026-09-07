@@ -27,7 +27,7 @@ Finalizamos el mes de _Marzo_ con nuevos y apasionantes temas a tratar que, aunq
 
 -   **7 juegos que te pueden ayudar a ser mejor programador:** No está directamente relacionado, pero me ha parecido una iniciativa interesante recopilar eso que llaman hoy día la [gamificación](https://es.wikipedia.org/wiki/Ludificación) para aprender un lenguaje de programación jugando. Detalles en [genbetadev.com](https://www.genbetadev.com/trabajar-como-desarrollador/aprende-jugando-siete-juegos-que-te-pueden-ayudar-a-ser-mejor-programador)
 
--   **Linux Commands Cheat Sheet:** Algunos de vosotros recordaréis el [CuboPuntes](/post.php?id=125). Me encantan las chuletas donde se recopilan comandos y siempre es bueno tenerlas a mano. En [Linoxide.com](https://linoxide.com/linux-command/linux-commands-cheat-sheet/) hay una que os será muy útil con comandos de _Linux_.
+-   **Linux Commands Cheat Sheet:** Algunos de vosotros recordaréis el [CuboPuntes](https://misapuntesde.com/es/2013/04/misapuntesde-present-notesbox.html). Me encantan las chuletas donde se recopilan comandos y siempre es bueno tenerlas a mano. En [Linoxide.com](https://linoxide.com/linux-command/linux-commands-cheat-sheet/) hay una que os será muy útil con comandos de _Linux_.
 
 Para finalizar, siento haber retrasado tanto el concurso. Ya sabéis el cambio que he tenido en el ámbito laboral y ahora estoy atando cabos y buscando trabajo.
 

@@ -38,7 +38,7 @@ Claro que no. Aún hay mucho por hacer y aprender. Ampliar un poco más las otra
 El blog fue la continuación de ese [Google Docs](https://goo.gl/Iwhbq) que muchos seguís diariamente y que como he comentado en alguna que otra ocasión, es el fichero que **más documentación y enlaces recoge de la Raspberry Pi en el mundo.**
 
 No sabéis lo sacrificado que es tener un blog y actualizarlo casi a diario.
-Es un reto la búsqueda de artículos, proyectos o ayudas que no sean portada, pero lleno de alegrías con algún que otro tutorial que ha hecho famoso al blog como el [CuboPuntes](/post.php?id=125) o la guía [RetroPie](/post.php?id=109), que sigue recibiendo visitas. Luego la traducción al inglés, que me ha ayudado a perfeccionar mi conocimiento de este idioma (nadie se ha quejado aún) y algo que no me esperaba: camaradas. Gente con tu misma afición que comentamos entusiasmados todo lo que se puede hacer con este cacharro tan pequeño y que después de dos años desde su lanzamiento sigue sorprendiéndonos.
+Es un reto la búsqueda de artículos, proyectos o ayudas que no sean portada, pero lleno de alegrías con algún que otro tutorial que ha hecho famoso al blog como el [CuboPuntes](https://misapuntesde.com/es/2013/04/misapuntesde-present-notesbox.html) o la guía [RetroPie](https://misapuntesde.com/es/2013/03/retropie-project-definitive-guide.html), que sigue recibiendo visitas. Luego la traducción al inglés, que me ha ayudado a perfeccionar mi conocimiento de este idioma (nadie se ha quejado aún) y algo que no me esperaba: camaradas. Gente con tu misma afición que comentamos entusiasmados todo lo que se puede hacer con este cacharro tan pequeño y que después de dos años desde su lanzamiento sigue sorprendiéndonos.
 
 ### [ Agradecimientos ]
 

@@ -19,7 +19,7 @@ og_image: /images/2015/02/vgames_01.png
 
 ![video games characters](/images/2015/02/vgames_01.png)
 
-Ante todo, dar las gracias por las palabras en los comentarios del [post anterior](/post.php?id=518). Han encontrado algo que hay que operar el Lunes que viene, así que volveré a estar offline una semana más, aunque intentaré publicar mi resumen de noticias como cada Viernes o algún que otro artículo que tengo escritos y que no he publicado.
+Ante todo, dar las gracias por las palabras en los comentarios del post anterior. Han encontrado algo que hay que operar el Lunes que viene, así que volveré a estar offline una semana más, aunque intentaré publicar mi resumen de noticias como cada Viernes o algún que otro artículo que tengo escritos y que no he publicado.
 
 Hoy publico uno de esos artículos, que iré completando con el tiempo, así que guardadlo en vuestros favoritos para el futuro...
 

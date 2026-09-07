@@ -49,7 +49,7 @@ The modal popup is a project called [picomodal](https://github.com/Nycto/PicoMod
 
 ### [PHP]
 
-Collect the information, filter it to prevent SQL injections among others and I use for the first time a distributed object caching for the results obtained from the database, which I hope to gradually incorporate in other petitions. It's called [phpfastcache](https://www.phpfastcache.com/) and it has been already commented [here](/post.php?id=160).
+Collect the information, filter it to prevent SQL injections among others and I use for the first time a distributed object caching for the results obtained from the database, which I hope to gradually incorporate in other petitions. It's called [phpfastcache](https://www.phpfastcache.com/) and it has been already commented [here](https://misapuntesde.com/2013/05/php-cache-with-apc-and-fastcache.html).
 
 ### [Conclusion]
 

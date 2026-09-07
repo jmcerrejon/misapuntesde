@@ -19,7 +19,7 @@ og_image: /images/sysinfo.jpg
 
 ![rpix86](/images/sysinfo.jpg)
 
-Como ya os he [comentado](/post.php?id=59) en alguna ocasión, tendremos muy pronto un nuevo emulador de equipos x86, para todos aquellos que deseen ejecutar cualquier juego o aplicación _abandonware_.
+Como ya os he [comentado](https://misapuntesde.com/es/2013/01/extra-possible-new-x86-emulator.html) en alguna ocasión, tendremos muy pronto un nuevo emulador de equipos x86, para todos aquellos que deseen ejecutar cualquier juego o aplicación _abandonware_.
 
 ---
 

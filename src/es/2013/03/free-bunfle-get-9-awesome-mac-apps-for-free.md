@@ -19,7 +19,7 @@ og_image: /images/macupdate.jpg
 
 ![macupdate](/images/macupdate.jpg)
 
-Ante todo quiero daros las gracias por la gran acogida que tuvo la guía sobre *RetroPie* que publiqué [hace unos días](/post.php?id=109). Las visitas han subido como la espuma y ahora tengo una media diaria de 400 visitas. Para un blog dedicado casi en su totalidad a algo tan específico como la *Raspberry Pi* tiene mérito. Lo que no entiendo es como es posible que el *Google Docs* siga teniendo tanta popularidad y cada vez que entro veo una media de 10 usuarios conectados :P
+Ante todo quiero daros las gracias por la gran acogida que tuvo la guía sobre *RetroPie* que publiqué [hace unos días](https://misapuntesde.com/es/2013/03/retropie-project-definitive-guide.html). Las visitas han subido como la espuma y ahora tengo una media diaria de 400 visitas. Para un blog dedicado casi en su totalidad a algo tan específico como la *Raspberry Pi* tiene mérito. Lo que no entiendo es como es posible que el *Google Docs* siga teniendo tanta popularidad y cada vez que entro veo una media de 10 usuarios conectados :P
 
 Bueno, a lo que iba.
 

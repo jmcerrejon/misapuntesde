@@ -19,7 +19,7 @@ og_image: /images/PiMAME.jpg
 
 ![pimame](/images/PiMAME.jpg)
 
-We ended the workweek with [Hurrican](/post.php?id=242) and now this Monday started with an updating of _PiMAME_. Few changes but we see them anyway...
+We ended the workweek with [Hurrican](https://misapuntesde.com/2013/08/play-hurrican-on-the-pi.html) and now this Monday started with an updating of _PiMAME_. Few changes but we see them anyway...
 
 ---
 

@@ -19,7 +19,7 @@ og_image: /images/2014/07/uae4all2.jpg
 
 ![uae4all2 menu](/images/2014/07/uae4all2.jpg)
 
-As I said [recently](/post.php?id=421), soon we are going to have a new _Amiga_ emulator on scene.
+As I said [recently](https://misapuntesde.com/2014/06/new-amiga-emulator-port-on-the-way-uae4all2.html), soon we are going to have a new _Amiga_ emulator on scene.
 
 A user already has ventured to compile the new emulator and we have available binaries at last. Shall we try?
 
@@ -63,7 +63,7 @@ In Game:
 
 -   "Home / end / pg up / PgDown" for fire buttons, etc..
 
-Of course, you have ready the script in the [PiKISS](/post.php?id=409) project, including kickstart files _(ROMs)_ and a game called...
+Of course, you have ready the script in the [PiKISS](https://misapuntesde.com/2014/05/pikiss-for-raspberry-pi-a-bunch-of-scripts-with-menu-to-make-your-life-easier.html) project, including kickstart files _(ROMs)_ and a game called...
 
 ![Turrican](/images/2014/07/turrican.png)
 

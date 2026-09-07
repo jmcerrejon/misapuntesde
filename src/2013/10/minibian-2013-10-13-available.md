@@ -19,7 +19,7 @@ og_image: /images/raspflash.jpg
 
 ![Minibian](/images/raspflash.jpg)
 
-New updated version of the earlier appeared three months ago that we [did echo](/post.php?id=216). A few changes to note except the update to _kernel 3.6.11+ #538_ and updates pertienentes of her older sister. As features to consider, I would highlight:
+New updated version of the earlier appeared three months ago that we [did echo](https://misapuntesde.com/2013/07/new-raspbian-image-and-minimal-distro-minibian.html). A few changes to note except the update to _kernel 3.6.11+ #538_ and updates pertienentes of her older sister. As features to consider, I would highlight:
 
 ---
 

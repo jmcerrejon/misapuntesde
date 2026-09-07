@@ -19,7 +19,7 @@ og_image: /images/DSx86Animated2.gif
 
 ![LW2land](/images/DSx86Animated2.gif)
 
-Hace unos [días](/post.php?id=59) os comenté la posibilidad de un nuevo port para _Raspberry Pi_. Se trataba del _DSx86_, que permite emular viejas glorias del _MS-DOS_ en la _Nintendo DS_. _Patrick_ tenía intenciones de realizar un port en un futuro.
+Hace unos [días](https://misapuntesde.com/es/2013/01/extra-possible-new-x86-emulator.html) os comenté la posibilidad de un nuevo port para _Raspberry Pi_. Se trataba del _DSx86_, que permite emular viejas glorias del _MS-DOS_ en la _Nintendo DS_. _Patrick_ tenía intenciones de realizar un port en un futuro.
 
 Pues bien. Su creador ha tenido la amabilidad de volver a contactar conmigo para darme la siguiente noticia:
 

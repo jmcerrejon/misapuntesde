@@ -23,13 +23,13 @@ Están proliferando los sistemas de vigilancia por todos lados. No iba a ser men
 
 ---
 
-Ya recopilamos algunos [enlaces](/post.php?id=290) sobre el tema de vídeo vigilancia, que está relacionado, así que lo vamos a ampliar para tenerlos también en este post.
+Ya recopilamos algunos [enlaces](https://misapuntesde.com/es/2013/10/cameras-on-the-pi-special-links-recopilation.html) sobre el tema de vídeo vigilancia, que está relacionado, así que lo vamos a ampliar para tenerlos también en este post.
 
 El sistema **motion** para el que no lo sepa, nos permite activar una función cuando la cámara recibe una respuesta óptica. Es decir, que detecta cualquier tipo de movimiento y ejecuta una acción, por ejemplo una captura o la grabación de un vídeo.
 
 Iré ampliando el post conforme vaya encontrando nuevos enlaces, así que no lo perdáis de vista.
 
-Enlace: [misapuntesde.com > Detector de movimiento con Raspberry Pi usando Realtime y Python](/post.php?id=147)
+Enlace: [misapuntesde.com > Detector de movimiento con Raspberry Pi usando Realtime y Python](https://misapuntesde.com/es/2013/05/raspberry-pi-motion-detector-with-remote-alert-using-realtime-and-python.html)
 
 Enlace: [internetdelascosas.cl > Configurando Motion con la Cámara de Raspberry Pi](https://www.internetdelascosas.cl/2013/10/13/configurando-motion-con-la-camara-de-raspberry-pi/)
 

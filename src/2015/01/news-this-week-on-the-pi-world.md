@@ -31,7 +31,7 @@ This week we talk about ghosts, comparisons and VoIP.
 
 ---
 
-By the way, I want to thank you again for the great reception that still has the tutorial about [Retro Arch in OpenELEC](/post.php?id=502) and comments. Doubts in the post, I will try to resolve gradually.
+By the way, I want to thank you again for the great reception that still has the tutorial about [Retro Arch in OpenELEC](https://misapuntesde.com/2015/01/howto-play-emulators-on-openelec-for-the-raspberry-pi.html) and comments. Doubts in the post, I will try to resolve gradually.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JCCKwHFhR9A" frameborder="0" allowfullscreen></iframe>
 

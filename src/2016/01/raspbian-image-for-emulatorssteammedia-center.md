@@ -31,4 +31,4 @@ The creator of this fantastic custom distro tell me if he could advertise its im
 
 You can download it [here](https://mega.nz/#!URYFhLDY!qd2Vt93KZI0IjIe2sN_-LaXbg9cutR9dZCQESDgPu8E) (MEGA)
 
-To extend this info, please visit [the original post](/post.php?id=654&lang=es) (Spanish).
+To extend this info, please visit [the original post](https://misapuntesde.com/2016/01/raspbian-image-for-emulatorssteammedia-center.html&lang=es) (Spanish).

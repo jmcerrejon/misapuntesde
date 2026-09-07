@@ -25,7 +25,7 @@ First of all, thank you for the visits yesterday. About 800 visitors in a day is
 
 Maintain a blog seems easy but search daily interesting news, images, test, translate,... is hard work without reward.
 
-Also thank you to [raspipc.es](https://raspipc.es/) for supporting the site with your banner. Honestly if you live in Spain and do not want to do your life complicates looking keypads, cases or wires, the best is a pack available on their website. In a day or less you'll have it in your home, not to mention the impeccable service and warranty which [commented earlier](/post.php?id=172).
+Also thank you to [raspipc.es](https://raspipc.es/) for supporting the site with your banner. Honestly if you live in Spain and do not want to do your life complicates looking keypads, cases or wires, the best is a pack available on their website. In a day or less you'll have it in your home, not to mention the impeccable service and warranty which [commented earlier](https://misapuntesde.com/2013/05/warranty-service-raspipces.html).
 
 The supreme gratitude goes to my dear wife and those who comment, retwitt and spread news through this blog.
 

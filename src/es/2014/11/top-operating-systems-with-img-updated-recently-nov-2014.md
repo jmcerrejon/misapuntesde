@@ -19,7 +19,7 @@ og_image: /images/sd%20pile.png
 
 ![OS](/images/sd%20pile.png)
 
-Parece que fue ayer y ya han pasado seis meses desde [este](/post.php?id=400) recopilatorio de sistemas operativos. Creo que es momento de repasar las distros que han actualizado sus imágenes o han pasado al olvido...
+Parece que fue ayer y ya han pasado seis meses desde [este](https://misapuntesde.com/es/2014/05/top-operating-systems-with-img-updated-recently-may-2014.html) recopilatorio de sistemas operativos. Creo que es momento de repasar las distros que han actualizado sus imágenes o han pasado al olvido...
 
 ---
 

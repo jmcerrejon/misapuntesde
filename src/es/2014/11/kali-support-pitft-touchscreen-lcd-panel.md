@@ -19,7 +19,7 @@ og_image: /images/2014/11/kali.png
 
 ![Kali](/images/2014/11/kali.png)
 
-Mientras preparo una review [según peticiones](/post.php?id=478) sobre _FruityWifi_, nos encontramos con una actualización de la versión para auditar redes más famosa del momento: _Kali Linux_...
+Mientras preparo una review según peticiones sobre _FruityWifi_, nos encontramos con una actualización de la versión para auditar redes más famosa del momento: _Kali Linux_...
 
 ---
 

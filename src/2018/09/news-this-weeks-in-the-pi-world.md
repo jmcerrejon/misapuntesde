@@ -29,7 +29,7 @@ What a job it's taking to me to write on the blog!. And thanks God I don't have 
 
 ![DietPi](/images/2018/09/dietpi.png)
 
--   **DietPi v. 6.13:** Updated this distro that I use daily with my _NAS_ with many new features that you can read [here](https://github.com/Fourdee/DietPi/pull/2011#issue-208266750). By the way, if you have a premium account on a hoster like _Uploaded_, my tutorial to use [plowdown](/post.php?id=239) still works. If you try to install it, you will need _git-core_ and _build-essential_ packages. | [dietpi.com](https://dietpi.com/)
+-   **DietPi v. 6.13:** Updated this distro that I use daily with my _NAS_ with many new features that you can read [here](https://github.com/Fourdee/DietPi/pull/2011#issue-208266750). By the way, if you have a premium account on a hoster like _Uploaded_, my tutorial to use [plowdown](https://misapuntesde.com/2013/08/download-from-file-sharing-sites-uploaded-mega-freakshare-on-your-raspberry-pi.html) still works. If you try to install it, you will need _git-core_ and _build-essential_ packages. | [dietpi.com](https://dietpi.com/)
 
 ![Lakka](/images/2014/11/lakka.png)
 

@@ -30,7 +30,7 @@ og_image: /images/2015/03/Kmediatorrent.png
 Por casualidad me he encontrado con este *add-on* que funciona perfectamente en la *Raspberry Pi* y que te va a permitir sin complicaciones acceder a un amplio catálogo con **calidad 720, 1080 e incluso 3D**...
 
 - - -
-Ya había tocado en el blog alguna de [estas alternativas](/post.php?id=474), pero no me daba el resultado esperado. Ahora es cuestión de instalarlo en tu *XBMC* favorito y acceder a él a través de *Video > Addons*.
+Ya había tocado en el blog alguna de [estas alternativas](https://misapuntesde.com/es/2014/10/popcorntime-on-a-raspberrypi-with-pitv.html), pero no me daba el resultado esperado. Ahora es cuestión de instalarlo en tu *XBMC* favorito y acceder a él a través de *Video > Addons*.
 
 Casi todo el material está en inglés, pero al menos tenemos los subtítulos en español (yo lo prefiero).
 

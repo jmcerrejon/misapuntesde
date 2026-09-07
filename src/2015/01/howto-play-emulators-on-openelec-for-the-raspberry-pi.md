@@ -25,7 +25,7 @@ og_image: /images/2015/01/OpenELEC_RetroArch.jpg
 
 ---
 
-[Time ago](/post.php?id=369) we saw a first attempt and was only a matter of time before someone would improve the system to use emulators on this distro. I have always advocated for its stability and speed against their adversaries. Now bring us the opportunity to finish watching a movie and playing [Hellfire](https://www.youtube.com/watch?v=d-9g9TMARs0) from the _Genesis Megadrive_ (my favorite game).
+[Time ago](https://misapuntesde.com/2014/02/openelec-running-mario-bros-3-youtube.html) we saw a first attempt and was only a matter of time before someone would improve the system to use emulators on this distro. I have always advocated for its stability and speed against their adversaries. Now bring us the opportunity to finish watching a movie and playing [Hellfire](https://www.youtube.com/watch?v=d-9g9TMARs0) from the _Genesis Megadrive_ (my favorite game).
 
 Supported platforms:
 

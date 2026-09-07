@@ -18,7 +18,7 @@ tag:
 
 <iframe width="420" height="315" src="//www.youtube.com/embed/VPu_IMj9ZBI" frameborder="0" allowfullscreen></iframe>
 
-Seamos sinceros, _LXDE_ es un escritorio ligero pero no tener aceleración por hardware hace que abrir cualquier aplicación sea una odisea y tarde más de lo que queramos. Hace ya casi un año que conocemos el desarrollo de [Wayland](/post.php?id=167) pero todo está en un estado _Alpha_ que no sabemos cuándo sacarán algo para aprovecharlo en nuestras Raspis.
+Seamos sinceros, _LXDE_ es un escritorio ligero pero no tener aceleración por hardware hace que abrir cualquier aplicación sea una odisea y tarde más de lo que queramos. Hace ya casi un año que conocemos el desarrollo de [Wayland](https://misapuntesde.com/es/2013/05/wayland-to-speed-up-the-desktop.html) pero todo está en un estado _Alpha_ que no sabemos cuándo sacarán algo para aprovecharlo en nuestras Raspis.
 
 ---
 

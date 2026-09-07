@@ -25,7 +25,7 @@ Ante todo, daros las gracias por las visitas del día de ayer. Cerca de 800 visi
 
 Mantener un blog parece una tontería pero buscar noticias interesantes, dar formato, buscar imágenes, testear, traducir,... es un trabajo arduo y sin más recompensa que la personal, lo cual para mi es bastante.
 
-También le doy las gracias a [raspipc.es](https://raspipc.es/) por dar soporte a la web con su banner. Sinceramente si vivís en España y no queréis complicaros la vida buscando teclados, carcasas o cables, lo mejor es un pack de los que tienen disponibles. En un día o menos lo tendrás en tu casa sin olvidar el impecable servicio de garantía del cual ya [hablamos anteriormente](/post.php?id=172).
+También le doy las gracias a [raspipc.es](https://raspipc.es/) por dar soporte a la web con su banner. Sinceramente si vivís en España y no queréis complicaros la vida buscando teclados, carcasas o cables, lo mejor es un pack de los que tienen disponibles. En un día o menos lo tendrás en tu casa sin olvidar el impecable servicio de garantía del cual ya [hablamos anteriormente](https://misapuntesde.com/es/2013/05/warranty-service-raspipces.html).
 
 El agradecimiento supremo va para mi querida esposa y a los que comentan, retwittean y difunden noticias a través del blog.
 

@@ -19,7 +19,7 @@ og_image: /images/2014/05/indieos_appstore.jpg
 
 ![INDIEGO-OS](/images/2014/05/indieos_appstore.jpg)
 
-Otro proyecto _crowdfunding_ que se deja ver basado en la premisa de utilizar el sistema operativo **AEROS** del que ya [hemos hablado](/post.php?id=202) como plataforma de lanzamiento de una App Store propia al estilo de _SteamOS_. Veamos que nos ofrece...
+Otro proyecto _crowdfunding_ que se deja ver basado en la premisa de utilizar el sistema operativo **AEROS** del que ya [hemos hablado](https://misapuntesde.com/es/2013/07/aeros-for-raspberry-pi.html) como plataforma de lanzamiento de una App Store propia al estilo de _SteamOS_. Veamos que nos ofrece...
 
 ---
 

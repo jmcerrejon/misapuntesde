@@ -47,6 +47,6 @@ For future updates, I hope to incorporate international channels if I get anothe
 
 I've done tests with an _iPhone 4/iPad Mini_ with the [AcePlayer](https://itunes.apple.com/es/app/aceplayer-powerful-media-player/id463242636?mt=8) App, and a 40" Samsung TV with very satisfactory results. You can use any application with _DLNA/UPnP support._
 
-_TVPlayer_ is already in [PiKISS](/post.php?id=409) and Rygel will be tomorrow.
+_TVPlayer_ is already in [PiKISS](https://misapuntesde.com/2014/05/pikiss-for-raspberry-pi-a-bunch-of-scripts-with-menu-to-make-your-life-easier.html) and Rygel will be tomorrow.
 
 Happy Wednesday!

@@ -19,7 +19,7 @@ og_image: /images/sd%20pile.png
 
 ![SD](/images/sd%20pile.png)
 
-Esta semana estoy algo distraído con asuntos personales y las fiestas, pero recordad que **mañana finaliza el concurso para ganar un libro sobre Raspberry Pi**. Tenéis los detalles [aquí](/post.php?id=381).
+Esta semana estoy algo distraído con asuntos personales y las fiestas, pero recordad que **mañana finaliza el concurso para ganar un libro sobre Raspberry Pi**. Tenéis los detalles [aquí](https://misapuntesde.com/es/2014/03/news-this-week-on-the-pi-world-and-contest-inside.html).
 
 Hoy os traigo un enlace para aquellos que teneis pensado montar un servidor en vuestra Raspberry Pi, desde el punto de vista del hardware y optimización del sistema operativo.
 

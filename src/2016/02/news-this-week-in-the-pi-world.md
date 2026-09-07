@@ -35,7 +35,7 @@ This week seems to have been dedicated to the world of video games. I was excite
 
 ![TinyCore](/images/2014/02/picore_desktop_02_min.jpg)
 
--   **PiCore 7.0 released** I posted about it [here](/post.php?id=361) and [here](/post.php?id=362). It's an operating system that runs directly on _RAM_, consumes very few resources (really) and last month released version 7.0. | [forum.tinycorelinux.net](https://forum.tinycorelinux.net/index.php/topic,19469.0.html)
+-   **PiCore 7.0 released** I posted about it [here](https://misapuntesde.com/2014/02/picore-52-for-raspberry-pi.html) and [here](https://misapuntesde.com/2014/02/discovering-picore-part-ii.html). It's an operating system that runs directly on _RAM_, consumes very few resources (really) and last month released version 7.0. | [forum.tinycorelinux.net](https://forum.tinycorelinux.net/index.php/topic,19469.0.html)
 
 -   **Raspberry Pi Star Trek LCARS interface using PyGame:** I'm a _Star Trek_ fan but not those that have been studied each chapter. I have not even seen many complete series except _The Next Generation_. One of the things that the people try to replicate over and over again, is the control panel or interface of the starship _Enterprise_. Here we have it so you can use it and it would be very original as home automation control panel, Don't you think? | [github.com > rpi_lcars](https://github.com/tobykurien/rpi_lcars)
 

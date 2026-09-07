@@ -19,7 +19,7 @@ og_image: /images/2015/01/OpenELEC_RetroArch.jpg
 
 ![OpenELEC-RetroArch](/images/2015/01/OpenELEC_RetroArch.jpg)
 
-The world of emulation and *Raspberry Pi* are linked from the beginning. One of the most visited post in this blog is the [HowTo play emulators on OpenELEC](/post.php?id=502), which will try to update the cores soon.
+The world of emulation and *Raspberry Pi* are linked from the beginning. One of the most visited post in this blog is the [HowTo play emulators on OpenELEC](https://misapuntesde.com/2015/01/howto-play-emulators-on-openelec-for-the-raspberry-pi.html), which will try to update the cores soon.
 
 Meanwhile, I bring an alternative: An image already prepared to do everything easier, and one more thing...
 

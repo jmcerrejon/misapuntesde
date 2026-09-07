@@ -23,7 +23,7 @@ He estado visitando muchos enlaces sobre nuestra querida Pi como podéis observa
 
 ---
 
-Revisando los comentarios que me dejáis acerca de **PiKISS** [aquí](/post.php?id=411) y [aquí](/post.php?id=409), tomo nota de alguno de ellos para incluir nuevos scripts mientras aumento la familia con un par más.
+Revisando los comentarios que me dejáis acerca de **PiKISS** [aquí](https://misapuntesde.com/es/2014/06/pikiss-dont-type-a-command-in-the-shell-any-more-part-ii.html) y [aquí](https://misapuntesde.com/es/2014/05/pikiss-for-raspberry-pi-a-bunch-of-scripts-with-menu-to-make-your-life-easier.html), tomo nota de alguno de ellos para incluir nuevos scripts mientras aumento la familia con un par más.
 
 Ahora podéis disfrutar de _Return to Castle Wolfenstein_ versión demo y del emulador de _Amiga UAE4Armiga4Pi_ que tiene muy buena pinta.
 

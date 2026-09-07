@@ -28,7 +28,7 @@ Yesterday the Mupen64Plus-RPI Emulator for the Pi was updated. It seemed incredi
 Now his author is working on a wiki to adjust the configuration file according to the game. By the way, if anyone has any list and wants to share, I leave the forum link below...
 
 If you are interested to compile it, you have the steps in the post that I published [
-here](/post.php?id=285).
+here](https://misapuntesde.com/2013/10/mupen64plus-n64-emulator-for-the-pi.html).
 
 If you want the binaries, ~~take a coffee and come back~~ you can download it in the link below...
 

@@ -41,7 +41,7 @@ Entramos en el directorio y ejecutamos **./m64p_build.sh**
 
 Ya con el binario compilado, buscamos una ROM, la metemos en la RasPi y la ejecutamos: **./mupen64plus mario.n64**. Si no tienes ninguna disponible, puede probar una demo que ya viene: **./mupen64plus m64p_test_rom.v64**
 
-Si le interesa los binarios a alguien, puedes acceder a una alpha pulsando [aqui](/post.php?id=297)
+Si le interesa los binarios a alguien, puedes acceder a una alpha pulsando [aqui](https://misapuntesde.com/es/2013/10/nintendo-64-alpha-emulator.html)
 
 Aunque el sonido es entrecortado a 32000 Hz y la velocidad suele oscilar entre 25-50 fps, no deja de impresionar.
 

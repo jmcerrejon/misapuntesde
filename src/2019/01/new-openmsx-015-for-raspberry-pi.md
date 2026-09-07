@@ -47,7 +47,7 @@ The _.deb_ file is available at the end of the article for _Raspbian_. To instal
 sudo dpkg -i openmsx_0.15.0_armhf.deb
 ```
 
-If you want to extend the information a little more and that the emulator has a better performance, you can follow the article I published long time ago about the previous version of the emulator [here](/post.php?id=843).
+If you want to extend the information a little more and that the emulator has a better performance, you can follow the article I published long time ago about the previous version of the emulator [here](https://misapuntesde.com/2017/10/new-openmsx-014-for-raspbian-stretch-deb.html).
 
 ### [ Extra ]
 

@@ -91,7 +91,7 @@ echo "new_host_name" > /etc/hostname # Where new_host_name is the new name of yo
 
 -   Also check the file _/etc/hosts_ to change the old name for the new.
 
--   Would not it be interesting to have a read-only operating system to avoid corrupting the SD and cutting power shutdown?. You can use another distro that comes in the forums or follow the manual that I made and you can read [here](/post.php?id=561).
+-   Would not it be interesting to have a read-only operating system to avoid corrupting the SD and cutting power shutdown?. You can use another distro that comes in the forums or follow the manual that I made and you can read [here](https://misapuntesde.com/2015/05/read-only-operating-system.html).
 
 -   Check out also the advanced settings.
 

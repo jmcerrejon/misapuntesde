@@ -25,7 +25,7 @@ _Eben Upton_ recently spoke at the _LinuxCon_ and confirmed that _Wayland_ is th
 
 ---
 
-Some time ago we saw an article about Wayland [here](/post.php?id=167) on the blog. It's been four months and experts say progress has been very positive, so that we assume that _Wayland_ to move smoothly our desktop.
+Some time ago we saw an article about Wayland [here](https://misapuntesde.com/2013/05/wayland-to-speed-up-the-desktop.html) on the blog. It's been four months and experts say progress has been very positive, so that we assume that _Wayland_ to move smoothly our desktop.
 
 I leave several links for further information.
 

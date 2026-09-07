@@ -18,7 +18,7 @@ tag:
 
 <iframe width="420" height="315" src="//www.youtube.com/embed/VPu_IMj9ZBI" frameborder="0" allowfullscreen></iframe>
 
-Be honest, _LXDE_ is a lightweight desktop but not have hardware acceleration makes opening any application an odyssey and take longer than we wish. Nearly a year ago we know the development of [Wayland](/post.php?id=167) but everything is in a _Alpha_ state and we don't know when come to us.
+Be honest, _LXDE_ is a lightweight desktop but not have hardware acceleration makes opening any application an odyssey and take longer than we wish. Nearly a year ago we know the development of [Wayland](https://misapuntesde.com/2013/05/wayland-to-speed-up-the-desktop.html) but everything is in a _Alpha_ state and we don't know when come to us.
 
 ---
 

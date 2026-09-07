@@ -52,4 +52,4 @@ Link: [expect (man)](https://linux.die.net/man/1/expect)
 
 Link: [thegeekstuff.com > 6 Expect Script Examples to Expect the Unexpected (With Hello World)](https://www.thegeekstuff.com/2010/10/expect-examples)
 
-<a href="/post.php?id=832"><img src="/images/2017/09/RPi_20SEPT_min.png" /></a>
+<a href="https://misapuntesde.com/2017/09/webinar-raspberry-pi-for-devops.html"><img src="/images/2017/09/RPi_20SEPT_min.png" /></a>

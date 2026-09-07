@@ -37,12 +37,12 @@ Como véis, los pasos son sencillos:
 
 Me he dado cuenta que solo funciona con el entorno gráfico, así que tendréis que teclear previamente en la _Raspberry Pi_: **startx**
 
-Para los perezosos, he creado para [PiKISS](/post.php?id=409) un script que te lo instala, te permite elegir el servidor y ejecutarlo en el arranque.
+Para los perezosos, he creado para [PiKISS](https://misapuntesde.com/es/2014/05/pikiss-for-raspberry-pi-a-bunch-of-scripts-with-menu-to-make-your-life-easier.html) un script que te lo instala, te permite elegir el servidor y ejecutarlo en el arranque.
 
 **NOTA:** El autor cobra ahora por el programa aunque sigue siendo libre, pero las nighty builds son gratuitas para todas las plataformas. Te dejo el enlace a continuación, aunque yo en _Ubuntu y Raspberry Pi_ las he instalado desde el repositorio:
 
 Descarga: [synergy-project.org](https://synergy-project.org/nightly/)
 
-Enlace: [misapuntesde.com > Synergy: Un teclado y ratón para gobernarlos a todos](/post.php?id=322)
+Enlace: [misapuntesde.com > Synergy: Un teclado y ratón para gobernarlos a todos](https://misapuntesde.com/es/2013/11/synergy-one-keyboard-and-mouse-to-rule-them-all.html)
 
 Enlace: [GitHub > PiKISS > synergy.sh](https://raw.githubusercontent.com/jmcerrejon/PiKISS/master/scripts/others/synergy.sh)

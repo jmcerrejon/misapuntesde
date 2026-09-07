@@ -21,7 +21,7 @@ og_image: /images/2015/04/dietpi.png
 
 ![DietPi](/images/2015/04/dietpi.png)
 
-I talked about [DietPi](/post.php?id=445) before, A minimal distribution that now support _ODROID-C1_ boards. It have some apps to custom their own OS.
+I talked about [DietPi](https://misapuntesde.com/2014/08/dietpi-light-distro-for-the-summer.html) before, A minimal distribution that now support _ODROID-C1_ boards. It have some apps to custom their own OS.
 
 It's an idea I always had in my mind: Build a minimal OS. The user can choose what kind of software want to make the function of Media Center, Web/FTP server or emulators with RetroPie...
 

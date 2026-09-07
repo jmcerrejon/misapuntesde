@@ -25,7 +25,7 @@ Aquí es donde entra _Touch screen POS_, gobernado por una _Raspberry Pi_ para a
 
 ---
 
-Ya [vimos](/post.php?id=233) en su día la distribución _LemonPOS_ el año pasado, un software que permitía montar un _TPV_ con una _Raspberry Pi_ y fueron algunos los usuarios interesados en este sistema.
+Ya [vimos](https://misapuntesde.com/es/2013/08/lemonpos-on-the-raspberry-pi.html) en su día la distribución _LemonPOS_ el año pasado, un software que permitía montar un _TPV_ con una _Raspberry Pi_ y fueron algunos los usuarios interesados en este sistema.
 
 Según fuentes cercanas de una empresa que se dedica a vender este tipo de productos aquí en España, me han pasado una relación de precios para que veáis el costo de montar un TPV:
 

@@ -93,7 +93,7 @@ echo "new_host_name" > /etc/hostname # Donde new_host_name es el nombre de tu nu
 
 Revisa también el fichero _/etc/hosts_ para cambiar el nombre antiguo por el nuevo.
 
--   ¿No sería interesante tener un sistema operativo de sólo lectura para evitar corromper la SD y poder apagar el equipo cortando la corriente?. Puedes usar la otra distro que viene en los foros o seguir el manual que hice sobre el tema y que puedes leer [aquí](/post.php?id=561).
+-   ¿No sería interesante tener un sistema operativo de sólo lectura para evitar corromper la SD y poder apagar el equipo cortando la corriente?. Puedes usar la otra distro que viene en los foros o seguir el manual que hice sobre el tema y que puedes leer [aquí](https://misapuntesde.com/es/2015/05/read-only-operating-system.html).
 
 -   Echa un vistazo también a los ajustes avanzados.
 

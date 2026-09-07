@@ -19,7 +19,7 @@ og_image: /images/odroid-c1-plus.jpg
 
 ![Odroid-C1p](/images/odroid-c1-plus.jpg)
 
-Con tres de semanas de retraso [según mis predicciones](/post.php?id=594), acaba de **salir al mercado la ODROID-C1+**. Veamos algunas características que trae de serie esta revisión:
+Con tres de semanas de retraso [según mis predicciones](https://misapuntesde.com/es/2015/07/odroid-c1-next-week.html), acaba de **salir al mercado la ODROID-C1+**. Veamos algunas características que trae de serie esta revisión:
 
 ---
 

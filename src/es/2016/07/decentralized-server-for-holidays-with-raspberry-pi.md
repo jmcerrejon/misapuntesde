@@ -93,7 +93,7 @@ Cuando elijas la opción de salir, se queda la pantalla en negro. Debes volver a
 
 ![MiniDLNA](/images/2014/06/minidlna.png)
 
-Con _Samba_ no vamos a poder reproducir contenido multimedia de gran tamaño. Para poder ver de forma remota los video tutoriales/pelis/series que tengo almacenados, necesito soporte _DLNA_. **MiniDLNA**, aparte de que ya lo he utilizado y [comentado](/post.php?id=423) en alguna otra ocasión, es justo lo que necesito.
+Con _Samba_ no vamos a poder reproducir contenido multimedia de gran tamaño. Para poder ver de forma remota los video tutoriales/pelis/series que tengo almacenados, necesito soporte _DLNA_. **MiniDLNA**, aparte de que ya lo he utilizado y [comentado](https://misapuntesde.com/es/2014/06/updating-your-minidlna-to-version-113-binaries-inside.html) en alguna otra ocasión, es justo lo que necesito.
 
 Debemos copiar el contenido que queramos reproducir dentro de las carpetas que nos ha creado en _/mnt/dietpi_userdata_ (_Videos, Pictures y Music_). Esto lo puedes modificar en el fichero _/etc/minidlna.conf_. Si el contenido que ves en tus dispositivos no está actualizado, necesitas refrescar la base de datos del servidor. Basta con ejecutar lo siguiente:
 
@@ -167,7 +167,7 @@ Para editar las bases de datos, _phpmyadmin_ es la mejor solución. Si vas a usa
 
 ### [ Hotspot en DietPi ]
 
-Mis aventuras y desventuras las habéis podido leer en el artículo que publiqué esta semana [aquí](/post.php?id=726).
+Mis aventuras y desventuras las habéis podido leer en el artículo que publiqué esta semana [aquí](https://misapuntesde.com/es/2016/07/hotspot-on-dietpi.html).
 
 ### [ EXTRA: Mame4all ]
 

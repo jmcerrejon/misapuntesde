@@ -23,7 +23,7 @@ Hoy **20 de Octubre** ha sido realizado, utilizando la plataforma [random.org](h
 
 ---
 
-El concurso se celebraba por sobrepasar las **100.000 visitas** del blog [aquí](/post.php?id=284).
+El concurso se celebraba por sobrepasar las **100.000 visitas** del blog [aquí](https://misapuntesde.com/es/2013/10/we-surpassed-100000-visits.html).
 
 El ganador ha sido:
 

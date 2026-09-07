@@ -30,7 +30,7 @@ This same Monday, July 31, will begin distributing this board developed by the c
 
 ![hosters](/images/download1.png)
 
-* **Post updated: Download from file sharing sites (uploaded, MEGA, freakshare) on your Raspberry Pi** | [misapuntesde.com](/post.php?id=239)
+* **Post updated: Download from file sharing sites (uploaded, MEGA, freakshare) on your Raspberry Pi** | [misapuntesde.com](https://misapuntesde.com/2013/08/download-from-file-sharing-sites-uploaded-mega-freakshare-on-your-raspberry-pi.html)
 
 ![gate](/images/2017/07/gate.png)
 

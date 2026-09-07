@@ -19,7 +19,7 @@ og_image: /images/2014/03/svi-728.jpg
 
 ![svi-728](/images/2014/03/svi-728.jpg)
 
-**Actualizado 05/Oct/16: ¡¡Nuevo binario 0.13.0 [aquí](/post.php?id=748)!!**
+**Actualizado 05/Oct/16: ¡¡Nuevo binario 0.13.0 [aquí](https://misapuntesde.com/es/2016/10/openmsx-0130-for-raspberry-pi.html)!!**
 
 En este post encontraréis la última versión del emulador _OpenMSX_ que he compilado para vosotros y si os animáis, cómo compilarlo vosotros mísmos...
 
@@ -79,7 +79,7 @@ Para ejecutar una rom, basta con: **openmsx fichero.rom**
 
 Para desinstalarlo: _sudo dpkg -r openmsx_
 
-Usa como base la bios _C-Bios_ que es libre de royalties, pero puedes usar una bios dumpeada de un _MSX_ original como ya comenté en su día en este [post](/post.php?id=64).
+Usa como base la bios _C-Bios_ que es libre de royalties, pero puedes usar una bios dumpeada de un _MSX_ original como ya comenté en su día en este [post](https://misapuntesde.com/es/2013/01/openmsx-compiled-for-the-raspberry-pi.html).
 
 **NOTA:** Si quieres emular un MSX REAL, pon la ROM del sistema en: _/opt/openMSX/share/systemroms o ~/.openMSX/share/systemroms_
 

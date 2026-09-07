@@ -31,4 +31,4 @@ EXTRA!:
 
 Link: [sourceforge.net > pimame-0.7.10.img.zip](https://sourceforge.net/projects/pimame/files/pimame-0.7.10.img.zip/download)
 
-Link: [misapuntesde.com > PiMAME: Resolución de problemas](/post.php?id=212)
+Link: [misapuntesde.com > PiMAME: Resolución de problemas](https://misapuntesde.com/2013/07/pimame-little-faq.html)

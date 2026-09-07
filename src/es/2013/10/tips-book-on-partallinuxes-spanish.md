@@ -23,7 +23,7 @@ og_image: /images/2013/10/libro_trucos.jpg
 
 Esta semana voy a estar un poco atareado.
 
-Ayer vi este post y quería compartirlo con vosotros. Se trata de una pequeña guía al estilo del [CuboPuntes](/post.php?id=125) que sirve de manual de referencia para algunos comandos para _Debian_ bastante útiles.
+Ayer vi este post y quería compartirlo con vosotros. Se trata de una pequeña guía al estilo del [CuboPuntes](https://misapuntesde.com/es/2013/04/misapuntesde-present-notesbox.html) que sirve de manual de referencia para algunos comandos para _Debian_ bastante útiles.
 
 En la web de _PortalLinux_ tenéis todos los detalles.
 

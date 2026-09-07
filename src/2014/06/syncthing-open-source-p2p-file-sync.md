@@ -19,7 +19,7 @@ og_image: /images/2014/06/Syncthing.jpg
 
 ![Syncthing](/images/2014/06/Syncthing.jpg)
 
-We all know [bittorrent Sync](https://www.bittorrent.com/intl/es/sync) and [I talked about](/post.php?id=247) this method to have the files on hand.
+We all know [bittorrent Sync](https://www.bittorrent.com/intl/es/sync) and [I talked about](https://misapuntesde.com/2013/08/replace-dropbox-with-bittorrent-sync.html) this method to have the files on hand.
 
 _Syncthing_ becomes the solution to these open source systems such as centralized storage like _Dropbox_...
 

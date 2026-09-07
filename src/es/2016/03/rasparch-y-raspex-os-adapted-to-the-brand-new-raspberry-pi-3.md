@@ -19,7 +19,7 @@ og_image: /images/2016/03/rasparch-logo.png
 
 ![RaspArch](/images/2016/03/rasparch-logo.png)
 
-Creo que salvo en [una ocasión](/post.php?id=547), nunca he comentado los sistemas operativos que se está encargando de compilar _Exton_. Entre ellos se encuentran para la _Raspberry Pi 2/3_ las basadas en _Debian+Ubuntu(RaspEx)_ y _ArchLinux(RaspArch)_.
+Creo nunca he comentado los sistemas operativos que se está encargando de compilar _Exton_. Entre ellos se encuentran para la _Raspberry Pi 2/3_ las basadas en _Debian+Ubuntu(RaspEx)_ y _ArchLinux(RaspArch)_.
 
 ---
 

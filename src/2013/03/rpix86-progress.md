@@ -19,7 +19,7 @@ og_image: /images/sysinfo.jpg
 
 ![rpix86](/images/sysinfo.jpg)
 
-Like I [said](/post.php?id=59) in some moment, we'll have soon a new x86 emulator, for those who wish to run any oldies game or application.
+Like I [said](https://misapuntesde.com/2013/01/extra-possible-new-x86-emulator.html) in some moment, we'll have soon a new x86 emulator, for those who wish to run any oldies game or application.
 
 ---
 

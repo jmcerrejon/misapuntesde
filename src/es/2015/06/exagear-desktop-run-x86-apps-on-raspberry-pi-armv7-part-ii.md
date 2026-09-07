@@ -25,7 +25,7 @@ og_image: /images/2015/06/ExaGear_Desktop_tr.png
 
 Hemos aprendido un poco el funcionamiento de este software, su instalación y cómo ejecutarlo. Hoy ejecutaremos su máquina virtual y algunos programas.
 
-Recuerda que junto con [eltechs.com](https://eltechs.com/?utm_source=misapuntesde&utm_medium=post_part1&utm_campaign=ED_May2015_release), sorteamos **10 licencias de [Exagear-desktop v.1.1.](https://eltechs.com/product/exagear-desktop/?utm_source=misapuntesde&utm_medium=post_part1&utm_campaign=ED_May2015_release)** (más info en la [primera parte del artículo](/post.php?id=573)).
+Recuerda que junto con [eltechs.com](https://eltechs.com/?utm_source=misapuntesde&utm_medium=post_part1&utm_campaign=ED_May2015_release), sorteamos **10 licencias de [Exagear-desktop v.1.1.](https://eltechs.com/product/exagear-desktop/?utm_source=misapuntesde&utm_medium=post_part1&utm_campaign=ED_May2015_release)** (más info en la [primera parte del artículo](https://misapuntesde.com/es/2015/06/exagear-desktop-run-x86-apps-on-raspberry-pi-armv7-part-igiveaway.html)).
 
 ---
 

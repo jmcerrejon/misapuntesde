@@ -27,7 +27,7 @@ Still here, with more or less regularity in my post. Often depend on the accumul
 
 Is there anything that has changed in recent months? On the international scene, a lot of PCBs who continue trying to get a better Pi, some very interesting. But the strong community behind our _Raspberry Pi_, proudly shows us that it is still the right choice for our projects, emulators, media centers or to get an online server.
 
-Looking back when I reached the first [100K visits](/post.php?id=284), I commented that wanted to expand the other sections, and I think I will do the opposite: Now I will focus exclusively on talk about **Raspberry Pi**. The reason is simple: It's what interests me today and I think also the people who know my blog. The blog has achieved many visits from places outside Spain. I have more care when writing articles in English and at least for now no one has complained.
+Looking back when I reached the first [100K visits](https://misapuntesde.com/2013/10/we-surpassed-100000-visits.html), I commented that wanted to expand the other sections, and I think I will do the opposite: Now I will focus exclusively on talk about **Raspberry Pi**. The reason is simple: It's what interests me today and I think also the people who know my blog. The blog has achieved many visits from places outside Spain. I have more care when writing articles in English and at least for now no one has complained.
 
 I'm not going to entertain a lot: I want to thank to the [Google Docs](https://goo.gl/Iwhbq) fans, to people writing me emails, comments or retwitt/share my posts. For me it is a real pride that you are my reader, really. Also people who call or write me if I want to work on a project and earn some money. This is always great and now I have three of them.
 

@@ -42,6 +42,6 @@ ctrl+x y fin
 
 Greetings!
 
-Link: [MisApuntesde... Ambilight Guide](/post.php?id=183)
+Link: [MisApuntesde... Ambilight Guide](https://misapuntesde.com/2013/06/ambilight-with-raspberry-pi-the-guide-spanish-pdf.html)
 
 Link: [raspbmc](https://www.raspbmc.com)

@@ -19,7 +19,7 @@ og_image: /images/2016/03/rasparch-logo.png
 
 ![RaspArch](/images/2016/03/rasparch-logo.png)
 
-I think except [once here](/post.php?id=547), I have never commented operating systems that is building _Exton_ for* Raspberry Pi 2/3*. They are _Debian-based Ubuntu + (RaspEx)_ and _ArchLinux (RaspArch)_.
+I have never commented operating systems that is building _Exton_ for* Raspberry Pi 2/3*. They are _Debian-based Ubuntu + (RaspEx)_ and _ArchLinux (RaspArch)_.
 
 ---
 

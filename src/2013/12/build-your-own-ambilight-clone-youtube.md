@@ -39,6 +39,6 @@ If you still want more help, I've compiled links I already posted in this blog.
 
 Happy Sunday!
 
-Link: [misapuntesde.com > DIY Ambilight system and not die trying (translated link)](/post.php?id=163)
+Link: [misapuntesde.com > DIY Ambilight system and not die trying (translated link)](https://misapuntesde.com/2013/05/diy-ambilight-system-and-not-die-trying-translated-link.html)
 
-Links: [misapuntesde.com > Ambilight with Raspberry Pi. The Guide (Spanish pdf)](/post.php?id=183) | [misapuntesde.com > Ambilight for Raspbmc updated](/post.php?id=227)
+Links: [misapuntesde.com > Ambilight with Raspberry Pi. The Guide (Spanish pdf)](https://misapuntesde.com/2013/06/ambilight-with-raspberry-pi-the-guide-spanish-pdf.html) | [misapuntesde.com > Ambilight for Raspbmc updated](https://misapuntesde.com/2013/08/ambilight-for-raspbmc-updated.html)

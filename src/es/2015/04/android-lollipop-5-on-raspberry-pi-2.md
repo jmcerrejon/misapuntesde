@@ -19,7 +19,7 @@ og_image: /images/2015/04/lollipop.png
 
 ![Lollipop](/images/2015/04/lollipop.png)
 
-Muchos nos preguntábamos al leer [ésta noticia](/post.php?id=547), si era verdad que podíamos ejecutar _Android 5_ en nuestra Raspberry Pi 2. Un usuario se ha atrevido a compilarlo y nos enseña cómo quemarlo nosotros mísmos en una SD...
+Muchos nos preguntábamos si era verdad que podíamos ejecutar _Android 5_ en nuestra Raspberry Pi 2. Un usuario se ha atrevido a compilarlo y nos enseña cómo quemarlo nosotros mísmos en una SD...
 
 ---
 

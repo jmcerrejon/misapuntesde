@@ -19,7 +19,7 @@ og_image: /images/N64.jpg
 
 ![Nintendo 64](/images/N64.jpg)
 
-We point [here](/post.php?id=285) that progress about Nintendo 64\* went pretty well except for the sound.
+We point [here](https://misapuntesde.com/2013/10/mupen64plus-n64-emulator-for-the-pi.html) that progress about Nintendo 64\* went pretty well except for the sound.
 
 Now we have available a Alpha that has been compiled by _Shea Silverman_, author of _PiMAME_
 

@@ -38,7 +38,7 @@ Si aún quereis más ayuda, os recopilo a continuación los enlaces que hemos pu
 
 ¡Feliz Domingo!
 
-Enlace: [misapuntesde.com > Montar Sistema Ambilight y no Morir en el Intento](/post.php?id=163)
+Enlace: [misapuntesde.com > Montar Sistema Ambilight y no Morir en el Intento](https://misapuntesde.com/es/2013/05/diy-ambilight-system-and-not-die-trying-translated-link.html)
 
-Enlaces: [misapuntesde.com > Guía Ambilight con Raspberry Pi](/post.php?id=183) | [misapuntesde.com > Actualización Ambilight para Raspbmc](/post.php?id=227)
+Enlaces: [misapuntesde.com > Guía Ambilight con Raspberry Pi](https://misapuntesde.com/es/2013/06/ambilight-with-raspberry-pi-the-guide-spanish-pdf.html) | [misapuntesde.com > Actualización Ambilight para Raspbmc](https://misapuntesde.com/es/2013/08/ambilight-for-raspbmc-updated.html)
  

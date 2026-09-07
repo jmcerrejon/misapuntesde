@@ -29,4 +29,4 @@ Link: [RetroPie-Setup: An initialization script for RetroArch on the Raspberry P
 
 Link: [RetroPie Project SD card Image](https://blog.petrockblock.com/download/retropie-project-image/)
 
-Link: [misapuntesde.com > RetroPie Proyect: Definitive Guide!](/post.php?id=109)
+Link: [misapuntesde.com > RetroPie Proyect: Definitive Guide!](https://misapuntesde.com/2013/03/retropie-project-definitive-guide.html)

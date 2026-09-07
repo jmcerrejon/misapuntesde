@@ -29,6 +29,6 @@ El otro es una actualización del Ebook _Super Scratch Programming Adventure!_, 
 
 ¡Feliz Viernes!
 
-Enlace: [misapuntesde.com > Synergy: Un teclado y ratón para gobernarlos a todos](/post.php?id=322)
+Enlace: [misapuntesde.com > Synergy: Un teclado y ratón para gobernarlos a todos](https://misapuntesde.com/es/2013/11/synergy-one-keyboard-and-mouse-to-rule-them-all.html)
 
-Enlace: [misapuntesde.com > Super Scratch Programming Adventure! (Covers Version 2): Learn to Program by Making Cool Games, 2nd Edition (Ebook)](/post.php?id=218)
+Enlace: [misapuntesde.com > Super Scratch Programming Adventure! (Covers Version 2): Learn to Program by Making Cool Games, 2nd Edition (Ebook)](https://misapuntesde.com/es/2013/07/super-scratch-programming-adventure-covers-version-2-learn-to-program-by-making-cool-games-2nd-edition-ebook.html)

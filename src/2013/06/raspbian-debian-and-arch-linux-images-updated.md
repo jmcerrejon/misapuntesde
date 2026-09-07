@@ -23,7 +23,7 @@ A few hours ago the _Raspberry Pi Foundation_ has published a new _Raspbian, Deb
 
 ---
 
-As read in the comments, could contain the new _Wayland_ protocol that we [talked](/post.php?id=167) recently.
+As read in the comments, could contain the new _Wayland_ protocol that we [talked](https://misapuntesde.com/2013/05/wayland-to-speed-up-the-desktop.html) recently.
 
 Raspbian updates:
 

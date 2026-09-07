@@ -57,7 +57,7 @@ Os dejo los enlaces por si queréis probar los binarios de alguno de ellos. Como
 
 ![labbaye_cover](/images/2013/05/labbaye_cover.jpg)
 
-L'Abbaye des Morts es un juego de plataformas retro del gran Locomalito que adoro. Más info [aquí](/post.php?id=162). Necesitas instalar algunas dependencias:
+L'Abbaye des Morts es un juego de plataformas retro del gran Locomalito que adoro. Más info [aquí](https://misapuntesde.com/es/2013/05/we-compile-labbaye-des-morts-for-raspberry-pi-deb-included.html). Necesitas instalar algunas dependencias:
 
 ```bash
 sudo apt install -y libsdl2-image-2.0-0 libsdl2-mixer-2.0-0

@@ -19,7 +19,7 @@ og_image: /images/2014/12/gamebox-logo.png
 
 ![GameBox](/images/2014/12/gamebox-logo.png)
 
-In December last year, the company _Xindawn_ caught the attention of all of us by creating a system offering **Airplay mirroring for Raspberry Pi**, and really worked very well. I put my impressions in a [post](/post.php?id=490) and It was offline for a long time.
+In December last year, the company _Xindawn_ caught the attention of all of us by creating a system offering **Airplay mirroring for Raspberry Pi**, and really worked very well. I put my impressions in a [post](https://misapuntesde.com/2014/12/demo-xbmc-gamebox-airplay-mirroring-for-raspberry-pi-youtube.html) and It was offline for a long time.
 
 It seems to be online again so you can download the software for _Raspbian_ version. Maybe its the time to make a copy before they disappear again...
 

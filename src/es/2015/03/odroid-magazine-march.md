@@ -21,7 +21,7 @@ og_image: /images/2015/03/odroid_magazine_march.jpg
 
 Esta semana ha salido la edición mensual de esta estupenda revista para los _Odroiders_ inquietos.
 
-La sorpresa me la he llevado cuando empiezo a leer el primer artículo y... **¡Resulta que pertenece a este blog!**. Es el artículo sobre _Android ver. 4.4._ que [publiqué](/post.php?id=511) en Enero de este mismo año.
+La sorpresa me la he llevado cuando empiezo a leer el primer artículo y... **¡Resulta que pertenece a este blog!**. Es el artículo sobre _Android ver. 4.4._ que [publiqué](https://misapuntesde.com/es/2015/01/review-youtube-android-v-11-442-on-odroid-c1.html) en Enero de este mismo año.
 
 Doy las gracias al equipo que hace posible esta revista, y a vosotros por supuesto.
 

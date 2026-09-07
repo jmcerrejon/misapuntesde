@@ -47,7 +47,7 @@ Tienes disponible el fichero _.deb_ para _Raspbian_ o derivados _Debian_ al fina
 sudo dpkg -i openmsx_0.15.0_armhf.deb
 ```
 
-Si queréis ampliar un poco mas la información y que el emulador tenga un mejor rendimiento, podéis seguir el artículo que publiqué en su día sobre la anterior versión del emulador [aquí](/post.php?id=843).
+Si queréis ampliar un poco mas la información y que el emulador tenga un mejor rendimiento, podéis seguir el artículo que publiqué en su día sobre la anterior versión del emulador [aquí](https://misapuntesde.com/es/2017/10/new-openmsx-014-for-raspbian-stretch-deb.html).
 
 ### [ Extra ]
 

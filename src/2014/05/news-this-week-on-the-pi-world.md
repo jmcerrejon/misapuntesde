@@ -19,7 +19,7 @@ og_image: /images/RetroPie_06.jpg
 
 ![RetroPie](/images/RetroPie_06.jpg)
 
-First of all thank you for the reception given to start this new project called [PiKISS](/post.php?id=409) and the support obtained. You are very great!.
+First of all thank you for the reception given to start this new project called [PiKISS](https://misapuntesde.com/2014/05/pikiss-for-raspberry-pi-a-bunch-of-scripts-with-menu-to-make-your-life-easier.html) and the support obtained. You are very great!.
 
 _Streaming music service, RetroPie_ and news from _raspberrypi.org_ coming after the jump...
 

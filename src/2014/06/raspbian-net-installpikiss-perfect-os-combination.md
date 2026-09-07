@@ -38,4 +38,4 @@ I advise change. Your impressions in the comments.
 
 Link: [Raspbian UA NetInstall](https://github.com/debian-pi/raspbian-ua-netinst)
 
-Link: [Mis Apuntes de > How to build your own OS with Raspbian Net Install](/post.php?id=364)
+Link: [Mis Apuntes de > How to build your own OS with Raspbian Net Install](https://misapuntesde.com/2014/02/how-to-build-your-own-os-with-raspbian-net-install.html)

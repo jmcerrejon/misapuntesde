@@ -37,12 +37,12 @@ As you can see, the steps are simple:
 
 I've noticed it only works with the desktop environment, so you have to type in the console: **startx**
 
-For the lazy, I created for [PiKISS](/post.php?id=409) a script that install, enable you to choose the server and run it on startup.
+For the lazy, I created for [PiKISS](https://misapuntesde.com/2014/05/pikiss-for-raspberry-pi-a-bunch-of-scripts-with-menu-to-make-your-life-easier.html) a script that install, enable you to choose the server and run it on startup.
 
 **NOTE:** The author now charge for the program but is still free. The nighty builds are available for all platforms. I'll leave the link below, although I installed it on _Ubuntu and Raspberry Pi_ from the repository:
 
 Download: [synergy-project.org](https://synergy-project.org/nightly/)
 
-Link: [misapuntesde.com > Synergy: One keyboard and mouse to rule them all](/post.php?id=322)
+Link: [misapuntesde.com > Synergy: One keyboard and mouse to rule them all](https://misapuntesde.com/2013/11/synergy-one-keyboard-and-mouse-to-rule-them-all.html)
 
 Link: [GitHub > PiKISS > synergy.sh](https://raw.githubusercontent.com/jmcerrejon/PiKISS/master/scripts/others/synergy.sh)

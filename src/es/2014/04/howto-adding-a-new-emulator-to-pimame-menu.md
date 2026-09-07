@@ -28,7 +28,7 @@ og_image: /images/pimame_case.jpg
 
 ###  [ Prerequisitos ]
 
-Vamos a ver qué necesitamos antes de nada. Lo primero va a ser instalar el nuevo emulador. En mi caso me voy a decantar por *OpenMSX* que hace poco [compilé](/post.php?id=382) para vosotros, pero podéis instalar el que queráis. Anotaremos la ruta del ejecutable. Para *OpenMSX* es **/opt/openMSX/bin**
+Vamos a ver qué necesitamos antes de nada. Lo primero va a ser instalar el nuevo emulador. En mi caso me voy a decantar por *OpenMSX* que hace poco [compilé](https://misapuntesde.com/es/2014/03/openmsx-0110-for-raspberry-pi.html) para vosotros, pero podéis instalar el que queráis. Anotaremos la ruta del ejecutable. Para *OpenMSX* es **/opt/openMSX/bin**
 
 En la carpeta **/pimame/roms** crearemos un nuevo directorio con el nombre de tu emulador. En nuestro caso: **mkdir msx**. Ahora meteremos allí alguna *ROM* para probar.
 

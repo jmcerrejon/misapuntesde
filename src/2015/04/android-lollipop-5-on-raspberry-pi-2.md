@@ -19,7 +19,7 @@ og_image: /images/2015/04/lollipop.png
 
 ![Lollipop](/images/2015/04/lollipop.png)
 
-Many wondered when reading [this post](/post.php?id=547), if it was true that we could run _Android 5_ on our beloved Pi2. A user has dared to compile and teaches us how to get it...
+Many wondered when reading later posts, if it was true that we could run _Android 5_ on our beloved Pi2. A user has dared to compile and teaches us how to get it...
 
 ---
 

@@ -79,7 +79,7 @@ Debido a que *Alpine* se ejecuta en memoria, todos los cambios se pierden en cad
 
 ![backup_es](/images/backup_es.png)
 
-Ha llegado el momento en el que tenemos un sistema operativo y para nuestras locas ideas, vamos a querer tener una copia del mismo, así que podéis usar aplicaciones de terceros, *dd* o seguir el tutorial que os dejé hace tiempo sobre el comando *fsarchiver* en el artículo [Backup de una partición con fsarchive (Linux)](/post.php?id=253).
+Ha llegado el momento en el que tenemos un sistema operativo y para nuestras locas ideas, vamos a querer tener una copia del mismo, así que podéis usar aplicaciones de terceros, *dd* o seguir el tutorial que os dejé hace tiempo sobre el comando *fsarchiver* en el artículo [Backup de una partición con fsarchive (Linux)](https://misapuntesde.com/es/2013/08/partition-backup-with-fsarchive-linux.html).
 
 Por hoy ya hemos hecho muchos avances. Nos vemos la semana que viene donde actualizaremos la distribución y comenzaremos a añadir los primeros paquetes.
 

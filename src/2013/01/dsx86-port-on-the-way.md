@@ -19,7 +19,7 @@ og_image: /images/DSx86Animated2.gif
 
 ![LW2land](/images/DSx86Animated2.gif)
 
-A few [days](/post.php?id=59) ago I mentioned the possibility of a new port for _Raspberry Pi_. It's purpose is to allow you to run old _DOS_ games on your _Nintendo DS_ game console. _Patrick_ told us that he might start working on it some time in the future.
+A few [days](https://misapuntesde.com/2013/01/extra-possible-new-x86-emulator.html) ago I mentioned the possibility of a new port for _Raspberry Pi_. It's purpose is to allow you to run old _DOS_ games on your _Nintendo DS_ game console. _Patrick_ told us that he might start working on it some time in the future.
 
 Well. Its creator was kind enough to get back in touch with me to give me the following news:
 

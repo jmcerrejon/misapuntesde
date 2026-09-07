@@ -19,7 +19,7 @@ og_image: /images/2014/06/Syncthing.jpg
 
 ![Syncthing](/images/2014/06/Syncthing.jpg)
 
-Todos conocemos [Bittorrent Sync](https://www.bittorrent.com/intl/es/sync) y [hemos hablado](/post.php?id=247) ya este sistema para tener los ficheros siempre a mano.
+Todos conocemos [Bittorrent Sync](https://www.bittorrent.com/intl/es/sync) y [hemos hablado](https://misapuntesde.com/es/2013/08/replace-dropbox-with-bittorrent-sync.html) ya este sistema para tener los ficheros siempre a mano.
 
 _Syncthing_ viene a ser la solución open source a estos sistemas de almacenamiento centralizados como pueden ser _Dropbox_...
 

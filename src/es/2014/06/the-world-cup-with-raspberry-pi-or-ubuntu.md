@@ -23,7 +23,7 @@ og_image: /images/2014/06/brasil2k14.png
 
 **ÚLTIMA ACTUALIZACIÓN DEL SCRIPT:** 18/Jun/2014 7:37 GMT +1
 
-**NOTA:** Ahora puedes disfrutar de más canales con el nuevo script que he preparado. Pásate por este nuevo post: [PiKISS: Dos nuevos scripts se suman a la familia](/post.php?id=418)
+**NOTA:** Ahora puedes disfrutar de más canales con el nuevo script que he preparado. Pásate por este nuevo post: [PiKISS: Dos nuevos scripts se suman a la familia](https://misapuntesde.com/es/2014/06/pikiss-two-new-scripts-join-to-the-family.html)
 
 No me gusta el fútbol, pero con la excusa de ver el partido nos reuniremos los amigos para <del>comer/emborracharnos</del> verlo.
 

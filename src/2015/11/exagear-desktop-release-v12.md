@@ -21,7 +21,7 @@ og_image: /images/2015/06/ExaGear_Desktop_tr.png
 
 ![Exagear](/images/2015/06/ExaGear_Desktop_tr.png)
 
-Eltechs has contacted me to inform you that has come a new version of this program that I commented [here](/post.php?id=573). This is a program for virtualizing x86 Linux applications on ARM processors. New features after the jump.
+Eltechs has contacted me to inform you that has come a new version of this program that I commented [here](https://misapuntesde.com/2015/06/exagear-desktop-run-x86-apps-on-raspberry-pi-armv7-part-igiveaway.html). This is a program for virtualizing x86 Linux applications on ARM processors. New features after the jump.
 
 ---
 

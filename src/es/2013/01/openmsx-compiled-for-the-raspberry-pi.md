@@ -40,7 +40,7 @@ EXTENSION=.rom .ROM .mx2 .MX2 .mx1 .MX1
 COMMAND=openmsx -cart %ROM%
 ```
 
-Emulador OpenMSX: [Mediafire](https://www.mediafire.com/?ka48s8kx6ffmn97). Puedes conseguir la nueva versión 0.10 [aquí](/post.php?id=382).
+Emulador OpenMSX: [Mediafire](https://www.mediafire.com/?ka48s8kx6ffmn97). Puedes conseguir la nueva versión 0.10 [aquí](https://misapuntesde.com/es/2014/03/openmsx-0110-for-raspberry-pi.html).
 
 BIOS: [fms.komkon.org](https://fms.komkon.org/fMSX/)
 

@@ -19,7 +19,7 @@ og_image: /images/PiMAME.jpg
 
 ![pimame](/images/PiMAME.jpg)
 
-Terminábamos la semana laboral con [Hurrican](/post.php?id=242) y comenzamos ahora este Lunes con la actualización de _PiMAME_. Pocas novedades pero vamos a verlas igualmente...
+Terminábamos la semana laboral con [Hurrican](https://misapuntesde.com/es/2013/08/play-hurrican-on-the-pi.html) y comenzamos ahora este Lunes con la actualización de _PiMAME_. Pocas novedades pero vamos a verlas igualmente...
 
 ---
 

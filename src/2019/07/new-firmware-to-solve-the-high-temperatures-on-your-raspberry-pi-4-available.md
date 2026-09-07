@@ -32,7 +32,7 @@ $ sudo ./vl805 -w vl805_fw_0137a8.bin
 $ sudo reboot
 ```
 
-By the way, if you want to check the temperature of your Pi, I left you how to do it in [this](/post.php?id=81) post back in 2013.
+By the way, if you want to check the temperature of your Pi, I left you how to do it in [this](https://misapuntesde.com/2013/02/show-your-raspi-temperature.html) post back in 2013.
 
 Download: [drive.google.com > vl805_update_0137a8.zip](https://drive.google.com/file/d/1PXwrnhAXKB1hb5J6_EfPy5zLQkqnbGba/view?usp=sharing)
 

@@ -21,7 +21,7 @@ og_image: /images/2015/04/dietpi.png
 
 ![DietPi](/images/2015/04/dietpi.png)
 
-Ya hablé en [éste post](/post.php?id=445) sobre _DietPi_, una distribución minimalista (ahora también disponible para _ODROID-C1_) que cuenta en sus haberes con un menú para convertir tu placa en todo un equipo con prestaciones personalizadas.
+Ya hablé en [éste post](https://misapuntesde.com/es/2014/08/dietpi-light-distro-for-the-summer.html) sobre _DietPi_, una distribución minimalista (ahora también disponible para _ODROID-C1_) que cuenta en sus haberes con un menú para convertir tu placa en todo un equipo con prestaciones personalizadas.
 
 Esta distribución es una idea que siempre he tenido en mente: Crear un sistema operativo minimalísta y añadirle dependiendo de las necesidades del usuario, los paquetes necesarios para convertirlo en todo un _Media Center_, o un _servidor Web/FTP_, o un centro de entretenimiento con emuladores,...
 

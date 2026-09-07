@@ -29,7 +29,7 @@ This weekend I have been exchanging emails with the staff of _openMSX emulator_ 
 
 If you want to see the changelog go to this announcement on [msx.org](https://www.msx.org/news/en/openmsx-0110-released).
 
-I know you're dying to try it, so if you have a _Raspberry Pi_, I updated the [post](/post.php?id=382) where you can get it.
+I know you're dying to try it, so if you have a _Raspberry Pi_, I updated the [post](https://misapuntesde.com/2014/03/openmsx-0110-for-raspberry-pi.html) where you can get it.
 
 For _Banana Pi_ users, I used _Bananian_ as distro to compile and the link with instructions to make it work are the same as in the post I mentioned for _Raspberry Pi_ users. You can find the download link at the end of this post. Remember to install the dependencies: _apt-get install libglew1.7 libtheora0 libao4_.
 

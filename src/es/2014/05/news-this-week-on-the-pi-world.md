@@ -19,7 +19,7 @@ og_image: /images/RetroPie_06.jpg
 
 ![RetroPie](/images/RetroPie_06.jpg)
 
-Ante todo daros las gracias por la acogida que ha tenido este nuevo proyecto que empiezo llamado [PiKISS](/post.php?id=409) y el apoyo obtenido. ¡Sois muy grandes!.
+Ante todo daros las gracias por la acogida que ha tenido este nuevo proyecto que empiezo llamado [PiKISS](https://misapuntesde.com/es/2014/05/pikiss-for-raspberry-pi-a-bunch-of-scripts-with-menu-to-make-your-life-easier.html) y el apoyo obtenido. ¡Sois muy grandes!.
 
 Vamos deprisita con el panorama de esta semana que hoy tengo charla en la [BetaBeers](https://betabeers.com/event/vi-betabeers-huelva-1892/) ;)
 

@@ -19,4 +19,4 @@ og_image: /images/2017/03/instant_messaging.png
 
 ![instant_messaging](/images/2017/03/instant_messaging.png)
 
-This is a spanish sponsored post. You can ignore it or read [here](/post.php?id=774&lang=es) in spanish. Thanks!.
+This is a spanish sponsored post. You can ignore it or read [here](https://misapuntesde.com/2017/03/best-instant-messaging-apps-for-android-march-2017.html&lang=es) in spanish. Thanks!.

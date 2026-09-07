@@ -25,7 +25,7 @@ _Nacho Sánchez_ de la web [fresymetal.com](https://www.fresymetal.com) nos vuel
 
 ---
 
-Ya nos deleitó con un extraordinario tutorial sobre [detección de intrusión en nuestra red con la Raspberry Pi](/post.php?id=182) y ahora nos indica los pasos para conseguir poner un sensor en la puerta de casa para cuando entre alguien pueda enviarte un aviso o bien ejecutar alguna acción.
+Ya nos deleitó con un extraordinario tutorial sobre [detección de intrusión en nuestra red con la Raspberry Pi](https://misapuntesde.com/es/2013/06/how-to-detect-intruders-on-your-wifi-with-raspberry-pi.html) y ahora nos indica los pasos para conseguir poner un sensor en la puerta de casa para cuando entre alguien pueda enviarte un aviso o bien ejecutar alguna acción.
 
 ¡Gracias por compartir el artículo, Nacho!
 

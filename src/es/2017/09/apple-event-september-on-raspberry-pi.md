@@ -34,4 +34,4 @@ echo "I hope you enjoyed the show :)"
 
 ¡Suerte!
 
-<a href="/post.php?id=832"><img src="/images/2017/09/RPi_20SEPT_min.png" /></a>
+<a href="https://misapuntesde.com/es/2017/09/webinar-raspberry-pi-for-devops.html"><img src="/images/2017/09/RPi_20SEPT_min.png" /></a>

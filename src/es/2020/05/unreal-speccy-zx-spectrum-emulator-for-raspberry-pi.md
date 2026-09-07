@@ -28,7 +28,7 @@ Para tu información, *el emulador Speccy ZX-Spectrum soporta Z80 128K (Pentagon
 
 No me he olvidado de [ZEsarUX](https://github.com/chernandezba/zesarux), quiero echarle un vistazo más profundo a este emulador pronto. Esperad, impacientes.
 
-Si quieres otras alternativas a este emulador, revisé algunos emuladores para este ordenador de 8 bits hace años en el post [Review: ZX Spectrum on Raspberry Pi](/post.php?id=788).
+Si quieres otras alternativas a este emulador, revisé algunos emuladores para este ordenador de 8 bits hace años en el post [Review: ZX Spectrum on Raspberry Pi](https://misapuntesde.com/es/2017/04/review-zx-spectrum-on-raspberry-pi.html).
 
 Hay cambios menores para Linux y RPi. De hecho, no hay cambios desde la 0.0.83, pero la última versión que he usado fue la 0.0.64. Si quieres saber los cambios, visita aquí el [changelog](https://bitbucket.org/djdron/unrealspeccyp/wiki/changelog).
 

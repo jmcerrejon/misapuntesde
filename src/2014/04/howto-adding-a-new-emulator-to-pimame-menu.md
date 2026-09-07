@@ -28,7 +28,7 @@ Do you need a new emulator into the supported systems menu?. I will teach you ho
 
 ###  [ Prerequisites ]
 
-Let's see we need before anything else. First we are going to install the new emulator. In my case I'm going to choose *OpenMSX* who I [compiled](/post.php?id=382) for you recently, but you can install what you want. Write down the path to the executable. For *OpenMSX* is **/opt/openMSX/bin**
+Let's see we need before anything else. First we are going to install the new emulator. In my case I'm going to choose *OpenMSX* who I [compiled](https://misapuntesde.com/2014/03/openmsx-0110-for-raspberry-pi.html) for you recently, but you can install what you want. Write down the path to the executable. For *OpenMSX* is **/opt/openMSX/bin**
 
 In the **/pimame/roms** directory create a new one with the name of your emulator. In our case: **mkdir msx**. Now you need to put some games inside. 
 

@@ -49,7 +49,7 @@ El objetivo es el siguiente: quemo mi distro _alpinOS_, meto la SD en la Pi, eje
 
 ###  [ Alternativas que se ejecutan en la RAM ]
 
-No es la primera vez que nos encontramos un sistema operativo que se ejecuta en la _RAM_. He comentado mas de una vez la distribución [piCore](/post.php?id=362) o en equipos de escritorio tenemos algunos muy reconocidos como [CoreOS](https://coreos.com) o [Tiny Core Linux](https://tinycorelinux.net). En la [Wikipedia](https://en.wikipedia.org/wiki/List_of_Linux_distributions_that_run_from_RAM) tienes algunos mas.
+No es la primera vez que nos encontramos un sistema operativo que se ejecuta en la _RAM_. He comentado mas de una vez la distribución [piCore](https://misapuntesde.com/es/2014/02/discovering-picore-part-ii.html) o en equipos de escritorio tenemos algunos muy reconocidos como [CoreOS](https://coreos.com) o [Tiny Core Linux](https://tinycorelinux.net). En la [Wikipedia](https://en.wikipedia.org/wiki/List_of_Linux_distributions_that_run_from_RAM) tienes algunos mas.
 
 Y hasta aquí he llegado hoy. La semana que viene empezaremos a remangarnos para entrar en faena y empezar a desarrollar mi (nuestro) sistema operativo ideal. Por ahora os dejo con el repo de una primera versión _Alpha_ que he preparado.
 

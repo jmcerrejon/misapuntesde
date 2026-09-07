@@ -39,7 +39,7 @@ Esta semana parece que ha estado dedicada al mundo de los videojuegos. Me ha ent
 
 ![TinyCore](/images/2014/02/picore_desktop_02_min.jpg)
 
--   **PiCore 7.0** Ya he hablado de Picore anteriormente [aquí](/post.php?id=361) y [aquí](/post.php?id=362). Es un sistema operativo que se ejecuta directamente en la _RAM_, consume muy pocos recursos (de verdad) y el mes pasado lanzó la versión 7.0. | [forum.tinycorelinux.net](https://forum.tinycorelinux.net/index.php/topic,19469.0.html)
+-   **PiCore 7.0** Ya he hablado de Picore anteriormente [aquí](https://misapuntesde.com/es/2014/02/picore-52-for-raspberry-pi.html) y [aquí](https://misapuntesde.com/es/2014/02/discovering-picore-part-ii.html). Es un sistema operativo que se ejecuta directamente en la _RAM_, consume muy pocos recursos (de verdad) y el mes pasado lanzó la versión 7.0. | [forum.tinycorelinux.net](https://forum.tinycorelinux.net/index.php/topic,19469.0.html)
 
 -   **Raspberry Pi Star Trek LCARS interface usando PyGame:** Soy fan de _Star Trek_ aunque no de esos que se ha estudiado cada capítulo. Ni siquiera he visto muchas de las series completas salvo _Next Generation_. Una de las cosas que intentan replicarse hasta la saciedad, es el panel de control o interface de la nave estelar _Enterprise_. Pues aquí la tenemos para que puedas usarla y además quedaría muy original como panel de control domótico, ¿No os parece? | [github.com > rpi_lcars](https://github.com/tobykurien/rpi_lcars)
 

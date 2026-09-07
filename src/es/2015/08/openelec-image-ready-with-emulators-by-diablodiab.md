@@ -19,7 +19,7 @@ og_image: /images/2015/01/OpenELEC_RetroArch.jpg
 
 ![OpenELEC-RetroArch](/images/2015/01/OpenELEC_RetroArch.jpg)
 
-El mundo de la emulación y la *Raspberry Pi* van ligados desde sus comienzos. Uno de los post más visitados en este blog es la [Guía para emuladores en OpenELEC](/post.php?id=502), del que intentaré actualizar los cores pronto.
+El mundo de la emulación y la *Raspberry Pi* van ligados desde sus comienzos. Uno de los post más visitados en este blog es la [Guía para emuladores en OpenELEC](https://misapuntesde.com/es/2015/01/howto-play-emulators-on-openelec-for-the-raspberry-pi.html), del que intentaré actualizar los cores pronto.
 
 Mientras, os traigo una alternativa con una imagen ya preparada para hacerlo todo más fácil, y algún que otro extra más...
 

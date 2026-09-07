@@ -23,7 +23,7 @@ I do not usually use the _Pi_ for my daily downloads, but I discovered that many
 
 ---
 
-_jDownloader_, for those who do not know, is a cross-platform download manager developed with _Java_, which supports downloading through different hosters or direct download servers. As I said previously [here](/post.php?id=239), usually use [plowshare](https://github.com/mcrapet/plowshare) (recently migrated from _Google Code_ to _GitHub_) and sometimes the program is now mentioned, one of the best known.
+_jDownloader_, for those who do not know, is a cross-platform download manager developed with _Java_, which supports downloading through different hosters or direct download servers. As I said previously [here](https://misapuntesde.com/2013/08/download-from-file-sharing-sites-uploaded-mega-freakshare-on-your-raspberry-pi.html), usually use [plowshare](https://github.com/mcrapet/plowshare) (recently migrated from _Google Code_ to _GitHub_) and sometimes the program is now mentioned, one of the best known.
 
 Raad the next guide published by _Draco_ in his blog _informaticamateur.blogspot.com.es_.
 

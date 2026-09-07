@@ -41,7 +41,7 @@ Enter into the directory and run: **./m64p_build.sh**
 
 With the compiled binary, we search a ROM and put it in the Pi and run: **./mupen64plus /home/pi/mario.n64**. If you haven't got any available, you can try a demo with: **./mupen64plus m64p_test_rom.v64**
 
-If you are interested in binaries, You can access an alpha released [here](/post.php?id=297)
+If you are interested in binaries, You can access an alpha released [here](https://misapuntesde.com/2013/10/nintendo-64-alpha-emulator.html)
 
 Forum: [Raspberrypi.org - Mupen64Plus - N64 Emulator for the Pi](https://www.raspberrypi.org/phpBB3/viewtopic.php?f=78&t=6761)
 

@@ -19,7 +19,7 @@ og_image: /images/sd%20pile.png
 
 ![SD](/images/sd%20pile.png)
 
-This week I am a little distracted with personal business, but remember that the **contest ending tomorrow** and you can win a book about **Raspberry Pi**. You have the details [here](/post.php?id=381).
+This week I am a little distracted with personal business, but remember that the **contest ending tomorrow** and you can win a book about **Raspberry Pi**. You have the details [here](https://misapuntesde.com/2014/03/news-this-week-on-the-pi-world-and-contest-inside.html).
 
 Today I bring you a link for those who plan to just set up a server on your Raspberry Pi, from the point of view of the SD card and file system optimization.
 

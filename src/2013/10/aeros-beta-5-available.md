@@ -22,7 +22,7 @@ AEROS is a hybrid distribution of [AROS](https://www.aros.org) and Linux (in the
 
 ---
 
-I posted [recently](/post.php?id=202) about this operating system. The bad news was that only allows registered users to download (I think it requires registered user make a small donation).
+I posted [recently](https://misapuntesde.com/2013/07/aeros-for-raspberry-pi.html) about this operating system. The bad news was that only allows registered users to download (I think it requires registered user make a small donation).
 
 The good is that it has been released beta 4 to the public, and now we can install applications through the application **lx** included, something we could not to do before.
 

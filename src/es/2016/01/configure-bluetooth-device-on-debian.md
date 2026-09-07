@@ -19,7 +19,7 @@ og_image: /images/bluetooth.jpg
 
 ![BT](/images/bluetooth.jpg)
 
-La semana pasada estuve enfermo, pero hoy me he levantado más recuperado. Las unidades [C.H.I.P.](/post.php?id=559) van llegando, y la semana pasada recibí la mía con la que espero haceros una review tan buena como [ésta](https://simplelab.org/web/c-h-i-p-el-primer-ordenador-del-mundo-que-cuesta-solo-9/) de mi compañero [@jvlob](https://twitter.com/jvlob).
+La semana pasada estuve enfermo, pero hoy me he levantado más recuperado. Las unidades [C.H.I.P.](https://misapuntesde.com/es/2015/05/chip-the-9-computer-kickstarter.html) van llegando, y la semana pasada recibí la mía con la que espero haceros una review tan buena como [ésta](https://simplelab.org/web/c-h-i-p-el-primer-ordenador-del-mundo-que-cuesta-solo-9/) de mi compañero [@jvlob](https://twitter.com/jvlob).
 
 Mientras, me han comentado por correo varias veces sobre emparejar dispositivos _bluetooth_ con _Linux_. Os dejo unos pasos sencillos a continuación para aquellos que no dan con la manera de hacerlo. Atentos:
 

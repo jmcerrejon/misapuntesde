@@ -19,7 +19,7 @@ og_image: /images/2015/04/archphile_logo.png
 
 ![ArchPhile](/images/2015/04/archphile_logo.png)
 
-We have unofficial _Raspberry Pi_ distros to try one every day for a month. This week we saw [DietPi](/post.php?id=545) and now I'll show you another OS called **Archphile**, based on _Arch Linux_ with some very interesting features that competes directly with solutions like _Volumio_.
+We have unofficial _Raspberry Pi_ distros to try one every day for a month. This week we saw [DietPi](https://misapuntesde.com/2015/04/dietpi-for-raspberry-pi-odroid-c1.html) and now I'll show you another OS called **Archphile**, based on _Arch Linux_ with some very interesting features that competes directly with solutions like _Volumio_.
 
 ---
 

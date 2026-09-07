@@ -19,7 +19,7 @@ og_image: /images/2014/05/indieos_appstore.jpg
 
 ![INDIEGO-OS](/images/2014/05/indieos_appstore.jpg)
 
-Another _crowdfunding_ project that we can see and based on the premise of using **AEROS** operating system [already talked](/post.php?id=202) as platform launching an _SteamOS_ alternative like store. Let's see what offers to us...
+Another _crowdfunding_ project that we can see and based on the premise of using **AEROS** operating system [already talked](https://misapuntesde.com/2013/07/aeros-for-raspberry-pi.html) as platform launching an _SteamOS_ alternative like store. Let's see what offers to us...
 
 ---
 

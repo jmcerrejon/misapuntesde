@@ -23,7 +23,7 @@ og_image: /images/2017/03/exagear_cap_09_min.jpg
 
 Con [Eltechs ExaGear Desktop](https://eltechs.com/product/exagear-desktop/?utm_source=misapuntesde&utm_medium=Review_Exagear_RPi_ver2) puedes ejecutar aplicaciones _Intel x86_ en tu _ARM-based Mini PC_. Es una máquina virtual que implementa un contenedor _x86 en ARM_, lo que permite interpretar aplicaciones _Intel x86_ en _ARM_.
 
-[Eltechs](https://eltechs.com/product/exagear-desktop/?utm_source=misapuntesde&utm_medium=Review_Exagear_RPi_ver2) me ha enviado su versión más reciente del software (sin presiones). Ya escribí varios artículos sobre este software en el pasado y puedes visitarlos [aquí (I)](/post.php?id=573) y [aquí (II)](/post.php?id=575). Es el momento de compartir mis impresiones sobre este software que promete **mejoras en la aceleración 3D** y contarte las bases para **participar en un sorteo de 5 licencias** al final del post. ¡Allá vamos!.
+[Eltechs](https://eltechs.com/product/exagear-desktop/?utm_source=misapuntesde&utm_medium=Review_Exagear_RPi_ver2) me ha enviado su versión más reciente del software (sin presiones). Ya escribí varios artículos sobre este software en el pasado y puedes visitarlos [aquí (I)](https://misapuntesde.com/es/2015/06/exagear-desktop-run-x86-apps-on-raspberry-pi-armv7-part-igiveaway.html) y [aquí (II)](https://misapuntesde.com/es/2015/06/exagear-desktop-run-x86-apps-on-raspberry-pi-armv7-part-ii.html). Es el momento de compartir mis impresiones sobre este software que promete **mejoras en la aceleración 3D** y contarte las bases para **participar en un sorteo de 5 licencias** al final del post. ¡Allá vamos!.
 
 ---
 
@@ -79,7 +79,7 @@ sh winetricks vcrun2008 d3dx9
 
 ![Instalando algunas dependencias](/images/2017/03/exagear_cap_04.jpg "Instalando algunas dependencias")
 
-**Consejo:** Tal vez tenga espacio limitado en un tarjeta SD para instalar juegos. **Puedo ayudarte con eso**. Intenta eliminar paquetes innecesarios con [este script](https://github.com/jmcerrejon/PiKISS/blob/master/scripts/tweaks/removepkg.sh) gracias a [PiKISS](/post.php?id=409) o sigue el siguiente post sobre [montar directorios remotos usando el protocolo SSH](/post.php?id=438).
+**Consejo:** Tal vez tenga espacio limitado en un tarjeta SD para instalar juegos. **Puedo ayudarte con eso**. Intenta eliminar paquetes innecesarios con [este script](https://github.com/jmcerrejon/PiKISS/blob/master/scripts/tweaks/removepkg.sh) gracias a [PiKISS](https://misapuntesde.com/es/2014/05/pikiss-for-raspberry-pi-a-bunch-of-scripts-with-menu-to-make-your-life-easier.html) o sigue el siguiente post sobre [montar directorios remotos usando el protocolo SSH](https://misapuntesde.com/es/2014/08/sshfs-mount-remote-directories-via-ssh-protocol.html).
 
 Si tienes problemas con el sonido, intenta desactivarlo con el siguiente comando: _sh winetricks sound=disable_.
 

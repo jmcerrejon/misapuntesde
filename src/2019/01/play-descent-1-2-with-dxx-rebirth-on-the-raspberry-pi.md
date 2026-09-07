@@ -19,7 +19,7 @@ og_image: /images/2015/03/descent.png
 
 ![Descent](/images/2015/03/descent.png)
 
-I've added *Descent* to [PiKISS](https://github.com/jmcerrejon/PiKISS/blob/master/scripts/games/descent.sh) long time ago (commented [here](/post.php?id=534)), but I didn't have the oportunity to write about it. Now I've recompiled the latest version 0.60 Beta 2 available for your *Raspberry Pi*.
+I've added *Descent* to [PiKISS](https://github.com/jmcerrejon/PiKISS/blob/master/scripts/games/descent.sh) long time ago (commented [here](https://misapuntesde.com/2015/03/install-descent-1-2-on-the-raspberry-pi.html)), but I didn't have the oportunity to write about it. Now I've recompiled the latest version 0.60 Beta 2 available for your *Raspberry Pi*.
 
 *Descent is a 3D first person shooter that takes place in the distant future...*
 

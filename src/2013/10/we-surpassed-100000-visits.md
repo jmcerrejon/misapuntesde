@@ -38,7 +38,7 @@ Of course not. There is still much to do and learn. Expand a little more the oth
 The blog was the continuation of [Google Docs](https://goo.gl/Iwhbq), updated daily and as I said on another occasion, is the file with **more documentation and links collected about Raspberry Pi in the World.**
 
 It's pretty sacrificed get a blog and update it almost daily.
-It's a challenge finding articles, projects or new that are not cover in the main channels, but I'm happy with some tutorial that has become famous this blog, like the [CuboPuntes](/post.php?id=125) or the [RetroPie guide](/post.php?id=109), which continues to receive visitors. The English translation help me to improve my knowledge of the language (no one has complained yet) and something you did not expect: comrades. People with your same passion we discussed all that excited to do with this plate so small and that after two years since its launch continues to surprise us.
+It's a challenge finding articles, projects or new that are not cover in the main channels, but I'm happy with some tutorial that has become famous this blog, like the [CuboPuntes](https://misapuntesde.com/2013/04/misapuntesde-present-notesbox.html) or the [RetroPie guide](https://misapuntesde.com/2013/03/retropie-project-definitive-guide.html), which continues to receive visitors. The English translation help me to improve my knowledge of the language (no one has complained yet) and something you did not expect: comrades. People with your same passion we discussed all that excited to do with this plate so small and that after two years since its launch continues to surprise us.
 
 ### [ Thanks ]
 

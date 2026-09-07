@@ -114,4 +114,4 @@ apt-get update && apt-get install raspi-config -y
 raspi-config
 ```
 
-Accede a la **segunda parte** del artículo [aquí](/post.php?id=363).
+Accede a la **segunda parte** del artículo [aquí](https://misapuntesde.com/es/2014/02/raspbian-minimal-whats-your-choice-part-ii.html).

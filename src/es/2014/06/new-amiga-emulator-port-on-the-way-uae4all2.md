@@ -19,7 +19,7 @@ og_image: /images/2013/03/retrop_rickd_min.jpg
 
 ![Rick](/images/2013/03/retrop_rickd_min.jpg)
 
-Actualmente tenemos 2 emuladores de _Amiga_ para la _Raspberry Pi_: _UAE4All y UAE4Armiga4Pi_ del que [ya he hablado](/post.php?id=413). Ambos están basados en _uae4all1_, el cual no tiene soporte para ficheros que hacen la función de disco duro.
+Actualmente tenemos 2 emuladores de _Amiga_ para la _Raspberry Pi_: _UAE4All y UAE4Armiga4Pi_ del que ya he hablado. Ambos están basados en _uae4all1_, el cual no tiene soporte para ficheros que hacen la función de disco duro.
 
 _uae4all2_ viene con varias e interesantes mejoras, incluyendo soporte para ficheros _HDF, AGA_...
 

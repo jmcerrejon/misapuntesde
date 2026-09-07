@@ -29,7 +29,7 @@ How about a **CONTEST** to win a **book about Raspberry Pi?**. Let's go!
 
 -   **7 games that can help you become a better programmer:** Not directly related, but I found an post that collect what is called today the [Gamification](https://en.wikipedia.org/wiki/Gamification) to learn a programming languaje with games. Detail in the next translated link from [genbetadev.com](https://translate.google.com/translate?sl=es&tl=en&js=n&prev=_t&hl=es&ie=UTF-8&u=http%3A%2F%2Fwww.genbetadev.com%2Ftrabajar-como-desarrollador%2Faprende-jugando-siete-juegos-que-te-pueden-ayudar-a-ser-mejor-programador)
 
--   **Linux Commands Cheat Sheet:** Do you remember the [NOTESbox](/post.php?id=125)?. I love cheat sheets and I found this week particularly interesting this from [Linoxide.com](https://linoxide.com/linux-command/linux-commands-cheat-sheet/).
+-   **Linux Commands Cheat Sheet:** Do you remember the [NOTESbox](https://misapuntesde.com/2013/04/misapuntesde-present-notesbox.html)?. I love cheat sheets and I found this week particularly interesting this from [Linoxide.com](https://linoxide.com/linux-command/linux-commands-cheat-sheet/).
 
 Finally, I'm sorry to have delayed the contest. You know the change that I've had at work and now I'm looking for a job.
 

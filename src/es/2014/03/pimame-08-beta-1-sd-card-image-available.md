@@ -19,7 +19,7 @@ og_image: /images/mame.jpg
 
 ![pimame](/images/mame.jpg)
 
-A comienzos de Febrero [comentaba](/post.php?id=360) que teníamos disponible el script de una preview de esta distribución basada es Raspbian para jugar a emuladores sin ningún esfuerzo. Hoy ya tenemos disponible la imagen para que todo funcione _out of the box_…
+A comienzos de Febrero [comentaba](https://misapuntesde.com/es/2014/02/pimame-08-preview-release.html) que teníamos disponible el script de una preview de esta distribución basada es Raspbian para jugar a emuladores sin ningún esfuerzo. Hoy ya tenemos disponible la imagen para que todo funcione _out of the box_…
 
 ---
 

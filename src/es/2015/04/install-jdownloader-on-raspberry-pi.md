@@ -23,7 +23,7 @@ No suelo usar la _Raspi_ para mis descargas diarias, pero he descubierto que muc
 
 ---
 
-_jDownloader_, para el que no lo conozca, es un gestor de descargas multiplataforma programado en _Java_, que soporta la descarga a través de diferentes hosters o servidores de descarga directa. Yo, como he comentado [ya por aquí](/post.php?id=239), suelo usar [plowshare](https://github.com/mcrapet/plowshare) (recientemente han migrado de _Google Code_ a _GitHub_) y a veces el programa que hoy mencionamos, que es uno de los más conocidos.
+_jDownloader_, para el que no lo conozca, es un gestor de descargas multiplataforma programado en _Java_, que soporta la descarga a través de diferentes hosters o servidores de descarga directa. Yo, como he comentado [ya por aquí](https://misapuntesde.com/es/2013/08/download-from-file-sharing-sites-uploaded-mega-freakshare-on-your-raspberry-pi.html), suelo usar [plowshare](https://github.com/mcrapet/plowshare) (recientemente han migrado de _Google Code_ a _GitHub_) y a veces el programa que hoy mencionamos, que es uno de los más conocidos.
 
 Os dejo con la siguiente guía en castellano publicada por _Draco_ en su blog _informaticamateur.blogspot.com.es_ por si queréis ponerlo en práctica y aún no os habéis cargado el _Java_ de vuestra distro (si, odio _Java_).
 

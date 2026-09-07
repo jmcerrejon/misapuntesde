@@ -19,7 +19,7 @@ og_image: /images/2014/07/obd.png
 
 ![OBD](/images/2014/07/obd.png)
 
-Hace [un año](/post.php?id=207) os comentaba de este protocolo llamado _OBD_ que permite testear tu coche conectándole un adaptador hasta tu _Raspberry Pi_...
+Hace [un año](https://misapuntesde.com/es/2013/07/raspberry-pi-reading-car-diagnostics-obd-ii-data.html) os comentaba de este protocolo llamado _OBD_ que permite testear tu coche conectándole un adaptador hasta tu _Raspberry Pi_...
 
 ---
 

@@ -19,7 +19,7 @@ og_image: /images/2014/02/picore_desktop_02_min.jpg
 
 ![picore](/images/2014/02/picore_desktop_02_min.jpg)
 
-Seguimos repasando algunos aspectos de esta interesante distribución llamada _piCore_ y que vimos por encima en el [artículo anterior](/post.php?id=361).
+Seguimos repasando algunos aspectos de esta interesante distribución llamada _piCore_ y que vimos por encima en el [artículo anterior](https://misapuntesde.com/es/2014/02/picore-52-for-raspberry-pi.html).
 
 Para empezar, decir que se trata de una distribución que pretende mantener un estado "fresco" en cada reinicio. Es decir, la aplicación que vayas a utilizar se descarga y ejecuta en la memoria _RAM_ sin que vuelva a estar disponible en el siguiente reinicio. Esa es la filosofía, aunque nosotros podemos instalar aplicaciones para que siempre estén disponibles. Vamos a ver un poco como funciona este sistema y si realmente merece la pena.
 

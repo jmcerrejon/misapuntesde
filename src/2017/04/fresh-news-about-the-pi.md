@@ -21,7 +21,7 @@ og_image: /images/2017/04/mandoPi.png
 
 ![mandoPi](/images/2017/04/mandoPi.png)
 
-A bit late, but I bring a post load of information relevant to your brain. I also remind you that the deadline for [getting an Exagear Desktop software license](/post.php?id=782) **is not over**. You have until tomorrow to participate ... Here we go!
+A bit late, but I bring a post load of information relevant to your brain. I also remind you that the deadline for [getting an Exagear Desktop software license](https://misapuntesde.com/2017/04/review-of-exagear-desktop-for-raspberry-pi-ver-20-giveaway.html) **is not over**. You have until tomorrow to participate ... Here we go!
 
 ---
 

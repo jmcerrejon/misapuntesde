@@ -19,7 +19,7 @@ og_image: /images/N64.jpg
 
 ![Nintendo 64](/images/N64.jpg)
 
-Ya [comentamos](/post.php?id=285) que los progresos del emulador de _Nintendo 64_ iban bastante bien a excepción del sonido.
+Ya [comentamos](https://misapuntesde.com/es/2013/10/mupen64plus-n64-emulator-for-the-pi.html) que los progresos del emulador de _Nintendo 64_ iban bastante bien a excepción del sonido.
 
 Ahora tenemos disponible una Alpha que se ha encargado de compilar _Shea Silverman_, autor de _PiMAME_
 

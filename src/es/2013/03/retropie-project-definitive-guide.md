@@ -21,7 +21,7 @@ og_image: /images/2013/03/retrop_01_min.jpg
 
 Tenía mucha ilusión en compartir con vosotros este post :D
 
-Me he decidido a hacer un tutorial un poco más extenso de lo habitual. Hoy vamos a probar como va esta distribución basada en _Raspbian_ y que hace accesible el mundo de los emuladores a cualquiera con una _Raspberry Pi_ y que ya he mencionado [anteriormente](/post.php?id=103). ¡Empecemos!
+Me he decidido a hacer un tutorial un poco más extenso de lo habitual. Hoy vamos a probar como va esta distribución basada en _Raspbian_ y que hace accesible el mundo de los emuladores a cualquiera con una _Raspberry Pi_ y que ya he mencionado [anteriormente](https://misapuntesde.com/es/2013/03/retropie-project-sd-card-image.html). ¡Empecemos!
 
 **_NOTA:_** Esta review está basada en la imagen del día _07/03/2013_, pero también es válida para el script que puedes encontrar en los repositorios de [GiHub](https://github.com/petrockblog/RetroPie-Setup).
 
@@ -186,7 +186,7 @@ La distribución está muy bien y todo funciona _out of the box_, salvo la confi
 
 El proyecto daría para publicar varios artículos, ya que las opciones que nos encontramos en el fichero de configuración _retroarch.cfg_ nos abre todo un abanico de posibilidades gracias a la librería _libretro_ en las que se basa el sistema. También he encontrado otros juegos como _Wolfenstein 3D_ y otros sistemas escondidos.
 
-Echo en falta los _scrapers_ o capturas de los videojuegos como en la imagen del _PiMAME_ preparada por _Shea Silverman_ que también [hemos comentado](/post.php?id=88), pero es comprensible y creo que se puede configurar para eso, ya que en todos se utiliza el front-end [EmulationStation](https://github.com/Aloshi/EmulationStation) si no me equivoco.
+Echo en falta los _scrapers_ o capturas de los videojuegos como en la imagen del _PiMAME_ preparada por _Shea Silverman_ que también [hemos comentado](https://misapuntesde.com/es/2013/03/chameleonpi-03-pimame-06-beta-out.html), pero es comprensible y creo que se puede configurar para eso, ya que en todos se utiliza el front-end [EmulationStation](https://github.com/Aloshi/EmulationStation) si no me equivoco.
 
 Recuerdo también que si tienes un mando conectado por el conector _GPIO_, puedes hacer uso de él
 y en la [wiki](https://github.com/petrockblog/RetroPie-Setup/wiki/Module-for-GPIO-interface-for-retro-game-controllers) tienes información al respecto, así podrás jugar con los mandos nativos de tu _Nintendo, PSX, PSX2, SuperNes, N64 o GameCube._

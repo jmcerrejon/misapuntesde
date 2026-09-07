@@ -21,7 +21,7 @@ og_image: /images/2017/04/mandoPi.png
 
 ![mandoPi](/images/2017/04/mandoPi.png)
 
-Un poco tarde, pero traigo un post cargadito de información relevante para tu cerebro. También os recuerdo que **aún no se ha acabado** el plazo para [conseguir una licencia del software Exagear Desktop](/post.php?id=782). No hay muchos participantes, así que animaros. Tenéis hasta mañana para participar... ¡Allá vamos!
+Un poco tarde, pero traigo un post cargadito de información relevante para tu cerebro. También os recuerdo que **aún no se ha acabado** el plazo para [conseguir una licencia del software Exagear Desktop](https://misapuntesde.com/es/2017/04/review-of-exagear-desktop-for-raspberry-pi-ver-20-giveaway.html). No hay muchos participantes, así que animaros. Tenéis hasta mañana para participar... ¡Allá vamos!
 
 ---
 

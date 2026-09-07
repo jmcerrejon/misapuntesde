@@ -21,7 +21,7 @@ og_image: /images/2015/01/raylib_logo.png
 
 ![Raylib](/images/2015/01/raylib_logo.png)
 
-I [commented](/post.php?id=507) this _open-source library_ created by a teacher to his students. It will help you easily create video games in C.
+I [commented](https://misapuntesde.com/2015/01/raylib-simple-and-easy-to-use-library-to-make-videogames.html) this _open-source library_ created by a teacher to his students. It will help you easily create video games in C.
 
 I am glad to know that continue its development quite actively, and with some new features on the new version 1.3:
 

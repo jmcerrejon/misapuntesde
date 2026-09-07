@@ -25,7 +25,7 @@ _Eben Upton_ ha hablado recientemente en la _LinuxCon_ y ha confirmado que _Wayl
 
 ---
 
-En su día ya vimos un artículo dedicado a Wayland [aquí](/post.php?id=167) en el blog. Ya han pasado cuatro meses y el avance según los expertos ha sido muy positivo, tanto que dan por hecho que tendremos _Wayland_ para mover con soltura nuestro escritorio.
+En su día ya vimos un artículo dedicado a Wayland [aquí](https://misapuntesde.com/es/2013/05/wayland-to-speed-up-the-desktop.html) en el blog. Ya han pasado cuatro meses y el avance según los expertos ha sido muy positivo, tanto que dan por hecho que tendremos _Wayland_ para mover con soltura nuestro escritorio.
 
 Os dejo varios enlaces para ampliar información.
 

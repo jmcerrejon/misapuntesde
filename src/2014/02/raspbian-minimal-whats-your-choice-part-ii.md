@@ -24,7 +24,7 @@ We continue exploring new distros, new flavors, to boldly go where no operating 
 
 ---
 
-Remember I start to write about some minimal Raspbian based distribution on [this article](/post.php?id=349). Now it's the turn of two new OS very interestings: _pipaOS_ and _PiBang Linux_.
+Remember I start to write about some minimal Raspbian based distribution on [this article](https://misapuntesde.com/2014/01/raspbian-minimal-whats-your-choice-part-i.html). Now it's the turn of two new OS very interestings: _pipaOS_ and _PiBang Linux_.
 
 ### pipaOS. A Debian Raspian based distribution for the Raspberry Pi board computer.
 
@@ -75,7 +75,7 @@ Remember I start to write about some minimal Raspbian based distribution on [thi
 
 -   Comes with dnsmask so you can turn it into a lightweight DHCP server
 
-**Notes:** I wrote an article about pipaOS that you can read [here](/post.php?id=289). No desktop environment installed. _raspistill_ and _raspivid_ ready to use. _raspi-config_ is missing. Very fast distro. SSH enabled by default. **RECOMMENDED**.
+**Notes:** I wrote an article about pipaOS that you can read [here](https://misapuntesde.com/2013/10/starting-with-a-debian-os.html). No desktop environment installed. _raspistill_ and _raspivid_ ready to use. _raspi-config_ is missing. Very fast distro. SSH enabled by default. **RECOMMENDED**.
 
 ### PiBang Linux. Openbox Linux distro for the Raspberry Pi
 

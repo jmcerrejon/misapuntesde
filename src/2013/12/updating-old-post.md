@@ -27,6 +27,6 @@ The other one is an update about _Super Scratch Programming Adventure!_ Ebook, I
 
 Happy Friday!
 
-Link: [misapuntesde.com > Synergy: One keyboard and mouse to rule them all](/post.php?id=322)
+Link: [misapuntesde.com > Synergy: One keyboard and mouse to rule them all](https://misapuntesde.com/2013/11/synergy-one-keyboard-and-mouse-to-rule-them-all.html)
 
-Link: [misapuntesde.com > Super Scratch Programming Adventure! (Covers Version 2): Learn to Program by Making Cool Games, 2nd Edition (Ebook)](/post.php?id=218)
+Link: [misapuntesde.com > Super Scratch Programming Adventure! (Covers Version 2): Learn to Program by Making Cool Games, 2nd Edition (Ebook)](https://misapuntesde.com/2013/07/super-scratch-programming-adventure-covers-version-2-learn-to-program-by-making-cool-games-2nd-edition-ebook.html)

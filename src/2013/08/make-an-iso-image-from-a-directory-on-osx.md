@@ -16,6 +16,6 @@ tag:
 
 # Make an iso image from a directory on OSX
 
-This is a spanish translation from the next post below. You can read the post in spanish [here](/post.php?id=248&lang=es).
+This is a spanish translation from the next post below. You can read the post in spanish [here](https://misapuntesde.com/2013/08/make-an-iso-image-from-a-directory-on-osx.html&lang=es).
 
 Link: [pcsplace.com > how-to-create-bootable-iso-image-on-mac-os-x](https://pcsplace.com/apple/how-to-create-bootable-iso-image-on-mac-os-x/)

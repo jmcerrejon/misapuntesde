@@ -21,7 +21,7 @@ og_image: /images/2015/01/raylib_logo.png
 
 ![Raylib](/images/2015/01/raylib_logo.png)
 
-Ya [comenté](/post.php?id=507) esta librería _open-source_ creada por un profesor para sus alumnos y que os ayudará a crear videojuegos de manera sencilla en C.
+Ya [comenté](https://misapuntesde.com/es/2015/01/raylib-simple-and-easy-to-use-library-to-make-videogames.html) esta librería _open-source_ creada por un profesor para sus alumnos y que os ayudará a crear videojuegos de manera sencilla en C.
 
 Me alegra saber que sigue su desarrollo de manera bastante activa, con algunas novedades y características a comentar en su nueva versión 1.3:
 

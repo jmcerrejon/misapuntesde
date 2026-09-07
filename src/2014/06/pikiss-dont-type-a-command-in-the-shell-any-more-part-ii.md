@@ -19,7 +19,7 @@ og_image: /images/pikiss_black.png
 
 ![PiKISS](/images/pikiss_black.png)
 
-Today I want to show you the scripts list from my [PiKISS](/post.php?id=409) project that I gathered, and the scripts that I have provided to be included soon...
+Today I want to show you the scripts list from my [PiKISS](https://misapuntesde.com/2014/05/pikiss-for-raspberry-pi-a-bunch-of-scripts-with-menu-to-make-your-life-easier.html) project that I gathered, and the scripts that I have provided to be included soon...
 
 **NOTE:** Change log [here](https://raw.githubusercontent.com/jmcerrejon/PiKISS/master/CHANGELOG)
 

@@ -25,7 +25,7 @@ _Nacho Sanchez_ from [fresymetal.com](https://www.fresymetal.com) send us to mai
 
 ---
 
-He surprise us before with an extraordinary tutorial about [intrusion detection on our network with the Raspberry Pi](/post.php?id=182) and now shows us the steps to put a sensor in the home door and when entering someone can send a message or perform some action.
+He surprise us before with an extraordinary tutorial about [intrusion detection on our network with the Raspberry Pi](https://misapuntesde.com/2013/06/how-to-detect-intruders-on-your-wifi-with-raspberry-pi.html) and now shows us the steps to put a sensor in the home door and when entering someone can send a message or perform some action.
 
 Thanks for sharing the article, Nacho!
 

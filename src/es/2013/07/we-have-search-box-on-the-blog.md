@@ -49,7 +49,7 @@ La ventana modal es un proyecto llamado [picomodal](https://github.com/Nycto/Pic
 
 ### [PHP]
 
-Poco que contar: Recoger la información, filtrarla para evitar injecciones SQL entre otras y he usado por primera vez un sistema distribuído de cacheado de objetos para los resultados obtenidos de la base de datos, que espero ir incorporando paulatinamente en las demás consultas que hago en el blog. Se llama [phpfastcache](https://www.phpfastcache.com/) y ya lo comentamos [anteriormente](/post.php?id=160).
+Poco que contar: Recoger la información, filtrarla para evitar injecciones SQL entre otras y he usado por primera vez un sistema distribuído de cacheado de objetos para los resultados obtenidos de la base de datos, que espero ir incorporando paulatinamente en las demás consultas que hago en el blog. Se llama [phpfastcache](https://www.phpfastcache.com/) y ya lo comentamos [anteriormente](https://misapuntesde.com/es/2013/05/php-cache-with-apc-and-fastcache.html).
 
 ### [Conclusión]
 

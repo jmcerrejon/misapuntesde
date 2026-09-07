@@ -23,7 +23,7 @@ I have been visiting many links on our beloved Pi as you can see in the [Google 
 
 ---
 
-Reviewing the comments leave me about **PiKISS** [here](/post.php?id=411) and [here](/post.php?id=409), take note of any of them to include new scripts while increasing the family with a couple more.
+Reviewing the comments leave me about **PiKISS** [here](https://misapuntesde.com/2014/06/pikiss-dont-type-a-command-in-the-shell-any-more-part-ii.html) and [here](https://misapuntesde.com/2014/05/pikiss-for-raspberry-pi-a-bunch-of-scripts-with-menu-to-make-your-life-easier.html), take note of any of them to include new scripts while increasing the family with a couple more.
 
 Now you can enjoy _Return to Castle Wolfenstein demo version_ and the _Amiga_ emulator _UAE4Armiga4Pi_ that looks good.
 

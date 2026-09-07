@@ -19,7 +19,7 @@ og_image: /images/2013/03/retrop_rickd_min.jpg
 
 ![Rick](/images/2013/03/retrop_rickd_min.jpg)
 
-Currently we have 2 _Amiga_ emulators for the _Pi_: _UAE4All and UAE4Armiga4Pi_ than [I've spoken](/post.php?id=413). Both are based on _uae4all1_, which has no support for HD files.
+Currently we have 2 _Amiga_ emulators for the _Pi_: _UAE4All and UAE4Armiga4Pi_ that I've spoken about. Both are based on _uae4all1_, which has no support for HD files.
 
 _uae4all2_ comes with several interesting improvements, including support for _HDF files, AGA_...
 

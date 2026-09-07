@@ -19,7 +19,7 @@ og_image: /images/2015/03/descent.png
 
 ![Descent](/images/2015/03/descent.png)
 
-Fue a principios de año cuando compilé de nuevo debido a problemas de incompatibilidad este juego en sus dos partes. Puedes ver el artículo en [este enlace](/post.php?id=897). Ahora vuelvo a compilar el código fuente **para que puedas jugarlo en la Raspberry Pi 4**.
+Fue a principios de año cuando compilé de nuevo debido a problemas de incompatibilidad este juego en sus dos partes. Puedes ver el artículo en [este enlace](https://misapuntesde.com/es/2019/01/play-descent-1-2-with-dxx-rebirth-on-the-raspberry-pi.html). Ahora vuelvo a compilar el código fuente **para que puedas jugarlo en la Raspberry Pi 4**.
 
 He compilado el repo actualizado a día de hoy. Se trata pues de la versión *v0.61.0 0.60.0-beta2-544-g427f45fdd703*.
 

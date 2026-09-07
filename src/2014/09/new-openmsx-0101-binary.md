@@ -21,4 +21,4 @@ og_image: /images/2014/03/svi-728.jpg
 
 Just a quick note to say I updated the post about *OpenMSX* with a new binary and fixes and added new links.
 
-Link: [Mis Apuntes de > Openmsx 0.10.1](/post.php?id=382)
+Link: [Mis Apuntes de > Openmsx 0.10.1](https://misapuntesde.com/2014/03/openmsx-0110-for-raspberry-pi.html)

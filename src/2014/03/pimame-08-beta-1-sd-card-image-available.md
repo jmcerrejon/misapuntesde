@@ -19,7 +19,7 @@ og_image: /images/mame.jpg
 
 ![pimame](/images/mame.jpg)
 
-In early February I [write](/post.php?id=360) about the script about PiMAME and we had available a preview of this distribution Raspbian based, to play emulators without any effort. Today we have the image available to make things work _out of the box_...
+In early February I [write](https://misapuntesde.com/2014/02/pimame-08-preview-release.html) about the script about PiMAME and we had available a preview of this distribution Raspbian based, to play emulators without any effort. Today we have the image available to make things work _out of the box_...
 
 ---
 

@@ -37,7 +37,7 @@ og_image: /images/2018/05/cooler.png
 
 ![Haiku](/images/2017/05/apps-prefs.png)
 
--   **Rune - Haiku Images on ARM:** Ya os hablé de Haiku [hace tiempo](/post.php?id=797) y su desarrollo sigue con lentitud pero avanzando paso a paso. Ahora los chicos que desarrollan este sistema operativo nos lo ponen más fácil copiándose del sistema de instalación de _Fedora_. No obstante, aún es temprano para probar eficientemente _Haiku_ en la _RasPi_. | [haiku-os.org](https://www.haiku-os.org/blog/kallisti5/2018-05-19_rune_-_haiku_images_on_arm/)
+-   **Rune - Haiku Images on ARM:** Ya os hablé de Haiku [hace tiempo](https://misapuntesde.com/es/2017/05/current-state-of-haiku-on-raspberry-pi.html) y su desarrollo sigue con lentitud pero avanzando paso a paso. Ahora los chicos que desarrollan este sistema operativo nos lo ponen más fácil copiándose del sistema de instalación de _Fedora_. No obstante, aún es temprano para probar eficientemente _Haiku_ en la _RasPi_. | [haiku-os.org](https://www.haiku-os.org/blog/kallisti5/2018-05-19_rune_-_haiku_images_on_arm/)
 
 ![LibreELEC](/images/2017/05/libreelec.png)
 

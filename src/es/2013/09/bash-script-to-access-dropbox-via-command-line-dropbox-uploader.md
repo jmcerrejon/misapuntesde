@@ -19,7 +19,7 @@ og_image: /images/dropbox.jpg
 
 ![dropbox](/images/dropbox.jpg)
 
-Ya [hemos hablado](/post.php?id=61) de clientes en la línea de comandos para usar _Dropbox_, el servicio de almacenamiento en la nube más utilizado actualmente.
+Ya [hemos hablado](https://misapuntesde.com/es/2013/01/raspybox-a-minimalistic-dropbox-client-for-raspberrypi-written-in-python.html) de clientes en la línea de comandos para usar _Dropbox_, el servicio de almacenamiento en la nube más utilizado actualmente.
 
 _Dropbox Uploaded_ es otro script en bash que nos va a permitir hacer las operaciones más comunes: subir/descargar ficheros, eliminarlos, operar con directorios,...
 

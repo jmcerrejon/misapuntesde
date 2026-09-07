@@ -19,7 +19,7 @@ og_image: /images/sd%20pile.png
 
 ![OS](/images/sd%20pile.png)
 
-It seems like yesterday and it's been six months since [this](/post.php?id=400) compilation of operating systems. I think it's time to review the distros that have updated their images or have been forgotten...
+It seems like yesterday and it's been six months since [this](https://misapuntesde.com/2014/05/top-operating-systems-with-img-updated-recently-may-2014.html) compilation of operating systems. I think it's time to review the distros that have updated their images or have been forgotten...
 
 ---
 

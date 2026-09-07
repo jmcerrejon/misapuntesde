@@ -31,7 +31,7 @@ Primero quería dar las gracias como siempre a ese público que, ocasionalmente 
 
 ![odroid-c1-checker.jpg](/images/2016/07/odroid-c1-checker.jpg)
 
--   **DietPi version 1.23:** Interesantes mejoras en esta distro que se ha convertido en mi favorita para servidor. Soporte para _Banana Pi Pro (Lemaker)_, soporte de pantallas LCD y muchas sorpresas más que estoy deseando probar. Por cierto, en la próxima versión ya estará corregida la versión de hostapd obsoleta que comenté [aquí](/post.php?id=726) | [dietpi.com](https://dietpi.com/phpbb/viewtopic.php?f=10&t=542#p2351)
+-   **DietPi version 1.23:** Interesantes mejoras en esta distro que se ha convertido en mi favorita para servidor. Soporte para _Banana Pi Pro (Lemaker)_, soporte de pantallas LCD y muchas sorpresas más que estoy deseando probar. Por cierto, en la próxima versión ya estará corregida la versión de hostapd obsoleta que comenté [aquí](https://misapuntesde.com/es/2016/07/hotspot-on-dietpi.html) | [dietpi.com](https://dietpi.com/phpbb/viewtopic.php?f=10&t=542#p2351)
 
 -   **Electronic Starter Kit for Raspberry Pi:** Un kit bastante económico para empezar a trastear este verano con la Pi. | [amazon.co.uk](https://www.amazon.co.uk/Electronic-Starter-Kit-Raspberry-Pi/dp/B00IT6AYJO/)
 

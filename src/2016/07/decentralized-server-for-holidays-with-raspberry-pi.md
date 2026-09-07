@@ -93,7 +93,7 @@ When you choose Exit from Kodi, the screen stays black. You must return to the f
 
 ![MiniDLNA](/images/2014/06/minidlna.png)
 
-With _Samba_ we'll not be able to play multimedia content with large size. To remotely view my tutorials/movies/tv shows I need _DLNA_ support. _MiniDLNA_ is the right choice and I have already used [before](/post.php?id=423), so it's just what I need.
+With _Samba_ we'll not be able to play multimedia content with large size. To remotely view my tutorials/movies/tv shows I need _DLNA_ support. _MiniDLNA_ is the right choice and I have already used [before](https://misapuntesde.com/2014/06/updating-your-minidlna-to-version-113-binaries-inside.html), so it's just what I need.
 
 We must copy the content we want to play in the folder that _DietPi_ created in _/mnt/dietpi_userdata_ (_Videos, Pictures and Music_). You can modify it in the file _/etc/minidlna.conf_. If the content you see on your device is outdated, you need to refresh the database server. Simply run the following:
 
@@ -132,7 +132,7 @@ To edit databases, I use _phpmyadmin_.
 
 ### [ Hotspot en DietPi ]
 
-You can read my adventures with this [here](/post.php?id=726).
+You can read my adventures with this [here](https://misapuntesde.com/2016/07/hotspot-on-dietpi.html).
 
 ### [ Last Words ]
 

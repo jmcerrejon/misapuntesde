@@ -19,7 +19,7 @@ og_image: /images/2015/08/Godot_logo.jpg
 
 ![Godot_logo.jpg](/images/2015/08/Godot_logo.jpg)
 
-Una de las pasiones (frustradas) que tengo desde pequeño, es la creación de videojuegos. Podéis leer un artículo [aquí](/post.php?id=519) que escribí hace tiempo.
+Una de las pasiones (frustradas) que tengo desde pequeño, es la creación de videojuegos. Podéis leer un artículo [aquí](https://misapuntesde.com/es/2015/02/time-for-a-break.html) que escribí hace tiempo.
 
 He pasado por varios engines buscando la portabilidad máxima a todas las plataformas. _SDL_ siempre ha sido la mejor opción, pero llevo poco más de un año mirando los avances de un motor de videojuegos llamado **Godot Engine** que poco tiene que envidiarle a _Unity_ o a _Game Maker_, y funciona bastante bien en equipos modestos. Lo mejor, el usuario _x1212_ **lo está portando a la Raspberry Pi** con resultados sorprendentes (Mira el vídeo a continuación)...
 

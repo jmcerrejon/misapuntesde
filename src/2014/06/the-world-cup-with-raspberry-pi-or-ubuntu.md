@@ -23,7 +23,7 @@ og_image: /images/2014/06/brasil2k14.png
 
 **SCRIPT UPDATED:** 18/Jun/2014 7:37 GMT +1
 
-**NOTE:** Now you can enjoy more channels with the new script that I have prepared. Click on this new post: [PiKISS: Two new scripts join to the family](/post.php?id=418)
+**NOTE:** Now you can enjoy more channels with the new script that I have prepared. Click on this new post: [PiKISS: Two new scripts join to the family](https://misapuntesde.com/2014/06/pikiss-two-new-scripts-join-to-the-family.html)
 
 I do not like football, but with the excuse to watch the match we meet friends for lunch/drunk.
 

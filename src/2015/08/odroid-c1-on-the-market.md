@@ -19,7 +19,7 @@ og_image: /images/odroid-c1-plus.jpg
 
 ![Odroid-C1p](/images/odroid-c1-plus.jpg)
 
-With three weeks delay [according to my predictions](/post.php?id=594), has just **hit the market the ODROID-C1+**. Here are some features that comes with this review:
+With three weeks delay [according to my predictions](https://misapuntesde.com/2015/07/odroid-c1-next-week.html), has just **hit the market the ODROID-C1+**. Here are some features that comes with this review:
 
 ---
 

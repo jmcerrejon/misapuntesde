@@ -30,4 +30,4 @@ Over time, we must recognize that *Apple* has had much to do with the advancemen
 
 I leave the link to install the emulator, which I published in his day on this blog. 
 
-Link:  [misapuntesde.com > Learn to emulate a Macintosh from Raspberry Pi with vMac](/post.php?id=249)
+Link:  [misapuntesde.com > Learn to emulate a Macintosh from Raspberry Pi with vMac](https://misapuntesde.com/2013/08/learn-to-emulate-a-macintosh-from-raspberry-pi-with-vmac.html)

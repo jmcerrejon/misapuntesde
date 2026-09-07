@@ -19,7 +19,7 @@ og_image: /images/dropbox.jpg
 
 ![dropbox](/images/dropbox.jpg)
 
-[we spoke](/post.php?id=61) already about how to use from the command line Dropbox clients.
+[we spoke](https://misapuntesde.com/2013/01/raspybox-a-minimalistic-dropbox-client-for-raspberrypi-written-in-python.html) already about how to use from the command line Dropbox clients.
 
 _Uploaded Dropbox_ is another bash script that will allow us to do the most common operations: upload/download files, delete them, operate with directories,...
 

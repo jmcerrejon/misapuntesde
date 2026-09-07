@@ -19,7 +19,7 @@ og_image: /images/2013/08/overclock.jpg
 
 ![rpi overclock](/images/2013/08/overclock.jpg)
 
-We have already talked about [this](/post.php?id=219) [twice](/post.php?id=225) on this blog. The [Wikipedia](https://en.wikipedia.org/wiki/Overclock) explain as _the process of making a computer or component operate faster than the clock frequency specified by the manufacturer by modifying system parameters._
+We have already talked about [this](https://misapuntesde.com/2013/07/raspberry-pi-at-1400-mhz.html) [twice](https://misapuntesde.com/2013/08/did-you-think-that-14-ghz-was-enough-4-ghz.html) on this blog. The [Wikipedia](https://en.wikipedia.org/wiki/Overclock) explain as _the process of making a computer or component operate faster than the clock frequency specified by the manufacturer by modifying system parameters._
 
 ---
 

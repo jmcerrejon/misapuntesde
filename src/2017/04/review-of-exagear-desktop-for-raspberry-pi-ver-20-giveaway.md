@@ -23,7 +23,7 @@ og_image: /images/2017/03/exagear_cap_09_min.jpg
 
 With [Eltechs ExaGear Desktop](https://eltechs.com/product/exagear-desktop/?utm_source=misapuntesde&utm_medium=Review_Exagear_RPi_ver2) you can run _Intel x86_ application on your _ARM-based Mini PC_ simultaneously with common native applications. It's a virtual machine that implements virtual _x86 Linux container on ARM_ and allows you to run _Intel x86_ applications directly on _ARM_.
 
-[Eltechs](https://eltechs.com/product/exagear-desktop/?utm_source=misapuntesde&utm_medium=Review_Exagear_RPi_ver2) sent me their most recent version to test (no pressure). I wrote a review in the past and you can visit their [part I](/post.php?id=573) & [II](/post.php?id=575). It's time to tell you my impressions about this new release 2.0 with **improvements in the 3D acceleration** and participate in a **raffle to win one of the 5 licenses**. Here we go!.
+[Eltechs](https://eltechs.com/product/exagear-desktop/?utm_source=misapuntesde&utm_medium=Review_Exagear_RPi_ver2) sent me their most recent version to test (no pressure). I wrote a review in the past and you can visit their [part I](https://misapuntesde.com/2015/06/exagear-desktop-run-x86-apps-on-raspberry-pi-armv7-part-igiveaway.html) & [II](https://misapuntesde.com/2015/06/exagear-desktop-run-x86-apps-on-raspberry-pi-armv7-part-ii.html). It's time to tell you my impressions about this new release 2.0 with **improvements in the 3D acceleration** and participate in a **raffle to win one of the 5 licenses**. Here we go!.
 
 ---
 
@@ -80,7 +80,7 @@ sh winetricks vcrun2008 d3dx9
 
 ![Installing some dependencies](/images/2017/03/exagear_cap_04.jpg "Installing some dependencies")
 
-**TIP:** Maybe you have a very limited SD card to install apps. **I can help you**. You can try to remove some unused apps with [this script](https://github.com/jmcerrejon/PiKISS/blob/master/scripts/tweaks/removepkg.sh) from [PiKISS](/post.php?id=409) or follow the next post about [mount remote directories via SSH protocol](/post.php?id=438).
+**TIP:** Maybe you have a very limited SD card to install apps. **I can help you**. You can try to remove some unused apps with [this script](https://github.com/jmcerrejon/PiKISS/blob/master/scripts/tweaks/removepkg.sh) from [PiKISS](https://misapuntesde.com/2014/05/pikiss-for-raspberry-pi-a-bunch-of-scripts-with-menu-to-make-your-life-easier.html) or follow the next post about [mount remote directories via SSH protocol](https://misapuntesde.com/2014/08/sshfs-mount-remote-directories-via-ssh-protocol.html).
 
 If you have some problems with sound, try to disable it with the command: _sh winetricks sound=disable_.
 

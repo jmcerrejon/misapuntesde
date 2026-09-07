@@ -21,7 +21,7 @@ og_image: /images/pikiss_400px_nobg.png
 
 ![PiKISS](/images/pikiss_400px_nobg.png)
 
-Para el que no lo conozca, [PiKISS](/post.php?id=409) son una serie de scripts que estoy desarrollando para la comunidad. Te permite instalar software desde un menú que no se encuentra en los repositorios o que el sistema lo compile por tí, configurar de forma fácil la ip estática o tu *WIFI* o montar un servidor web en cuestión de minutos sin apenas esfuerzo. Ya no tendrás que escribir ni un comando más para las tareas más tediosas.
+Para el que no lo conozca, [PiKISS](https://misapuntesde.com/es/2014/05/pikiss-for-raspberry-pi-a-bunch-of-scripts-with-menu-to-make-your-life-easier.html) son una serie de scripts que estoy desarrollando para la comunidad. Te permite instalar software desde un menú que no se encuentra en los repositorios o que el sistema lo compile por tí, configurar de forma fácil la ip estática o tu *WIFI* o montar un servidor web en cuestión de minutos sin apenas esfuerzo. Ya no tendrás que escribir ni un comando más para las tareas más tediosas.
 
 Quería comentar que próximamente añadiré **soporte para la ODROID-C1** y más concretamente para *Ubuntu*. Ya he empezado refactorizando el código principal del menú, por lo que si lo tienes instalado, te aconsejo que ejecutes **git pull** para actualizarlo.
 

@@ -79,7 +79,7 @@ Because Alpine runs in memory, all changes are lost with every restart, but we c
 
 ![backup_en](/images/backup_en.png)
 
-The time has come when we have an operating system and for our crazy ideas, we're going to want to have a copy of it, so you can use third party applications, *dd* or follow the tutorial I left you some time ago about the *fsarchiver* command in the article [Backup a partition with fsarchive (Linux)](/post.php?id=253).
+The time has come when we have an operating system and for our crazy ideas, we're going to want to have a copy of it, so you can use third party applications, *dd* or follow the tutorial I left you some time ago about the *fsarchiver* command in the article [Backup a partition with fsarchive (Linux)](https://misapuntesde.com/2013/08/partition-backup-with-fsarchive-linux.html).
 
 We've already made a lot of progress for today. See you next week where we'll update the distribution and start adding the first packages.
 

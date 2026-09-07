@@ -19,7 +19,7 @@ og_image: /images/2015/04/archphile_logo.png
 
 ![ArchPhile](/images/2015/04/archphile_logo.png)
 
-Distribuciones para _Raspberry Pi_ no oficiales tenemos para probar una cada día durante un mes, seguro. Esta semana hemos visto [DietPi](/post.php?id=545) y ahora os voy a enseñar otra llamada **Archphile**, basada en _Archlinux ARM/MPD_ con algunas características muy interesantes y que compite directamente con soluciones como _Volumio_.
+Distribuciones para _Raspberry Pi_ no oficiales tenemos para probar una cada día durante un mes, seguro. Esta semana hemos visto [DietPi](https://misapuntesde.com/es/2015/04/dietpi-for-raspberry-pi-odroid-c1.html) y ahora os voy a enseñar otra llamada **Archphile**, basada en _Archlinux ARM/MPD_ con algunas características muy interesantes y que compite directamente con soluciones como _Volumio_.
 
 ---
 
